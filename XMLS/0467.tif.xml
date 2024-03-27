@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0467.tif">
+		<TextRegion id="eSc_region_956_99_1244_99_1244_174_956_174" custom="structure {type:text;}">
+			<Coords points="956,99 1244,99 1244,174 956,174"/>
+			<TextLine id="eSc_line_956_99_1244_99_1244_174_956_174" custom="structure {type:default;}">
+				<Coords points="956,99 1244,99 1244,174 956,174"/>
+				<Baseline points="956,174 1244,174"/>
+				<TextEquiv>
+					<Unicode>י גורי,. חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_402_272_1039_272_1039_413_402_413" custom="structure {type:text;}">
+			<Coords points="402,272 1039,272 1039,413 402,413"/>
+			<TextLine id="eSc_line_402_272_1039_272_1039_413_402_413" custom="structure {type:default;}">
+				<Coords points="402,272 1039,272 1039,413 402,413"/>
+				<Baseline points="402,413 1039,413"/>
+				<TextEquiv>
+					<Unicode>הבורית ‏ .- סכסוך מבוקו(מדור: מה אומוים ?7 חתום:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_673_607_1187_607_1187_688_673_688" custom="structure {type:text;}">
+			<Coords points="673,607 1187,607 1187,688 673,688"/>
+			<TextLine id="eSc_line_673_607_1187_607_1187_688_673_688" custom="structure {type:default;}">
+				<Coords points="673,607 1187,607 1187,688 673,688"/>
+				<Baseline points="673,688 1187,688"/>
+				<TextEquiv>
+					<Unicode>דבר, 3.11.72, עמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

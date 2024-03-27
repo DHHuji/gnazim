@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0659.tif">
+		<TextRegion id="eSc_region_251_0_1278_0_1278_771_251_771" custom="structure {type:text;}">
+			<Coords points="251,0 1278,0 1278,771 251,771"/>
+			<TextLine id="eSc_line_251_0_1278_0_1278_771_251_771" custom="structure {type:default;}">
+				<Coords points="251,0 1278,0 1278,771 251,771"/>
+				<Baseline points="251,771 1278,771"/>
+				<TextEquiv>
+					<Unicode>גורי.הייסד רבר.טו גורי.הייסדרבר.טוסיוןהימודיםהטמר.ו9,2 ז.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1613.tif">
+		<TextRegion id="eSc_region_742_18_1129_18_1129_91_742_91" custom="structure {type:text;}">
+			<Coords points="742,18 1129,18 1129,91 742,91"/>
+			<TextLine id="eSc_line_742_18_1129_18_1129_91_742_91" custom="structure {type:default;}">
+				<Coords points="742,18 1129,18 1129,91 742,91"/>
+				<Baseline points="742,91 1129,91"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים;חגור. גורי,חיים;חגור.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_308_200_920_200_920_315_308_315" custom="structure {type:text;}">
+			<Coords points="308,200 920,200 920,315 308,315"/>
+			<TextLine id="eSc_line_308_200_920_200_920_315_308_315" custom="structure {type:default;}">
+				<Coords points="308,200 920,200 920,315 308,315"/>
+				<Baseline points="308,315 920,315"/>
+				<TextEquiv>
+					<Unicode>ל ארבעהעל שלוסה ועל א ך הלקיןגם על הבע</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

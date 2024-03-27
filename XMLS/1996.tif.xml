@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1996.tif">
+		<TextRegion id="eSc_region_764_57_995_57_995_121_764_121" custom="structure {type:text;}">
+			<Coords points="764,57 995,57 995,121 764,121"/>
+			<TextLine id="eSc_line_764_57_995_57_995_121_764_121" custom="structure {type:default;}">
+				<Coords points="764,57 995,57 995,121 764,121"/>
+				<Baseline points="764,121 995,121"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_84_484_967_484_967_584_84_584" custom="structure {type:text;}">
+			<Coords points="84,484 967,484 967,584 84,584"/>
+			<TextLine id="eSc_line_84_484_967_484_967_584_84_584" custom="structure {type:default;}">
+				<Coords points="84,484 967,484 967,584 84,584"/>
+				<Baseline points="84,584 967,584"/>
+				<TextEquiv>
+					<Unicode>דגר . .ר].... ; ח' סבת תט&quot;ם,(28.11.79), 2057</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_174_193_810_193_810_249_174_249" custom="structure {type:text;}">
+			<Coords points="174,193 810,193 810,249 174,249"/>
+			<TextLine id="eSc_line_174_193_810_193_810_249_174_249" custom="structure {type:default;}">
+				<Coords points="174,193 810,193 810,249 174,249"/>
+				<Baseline points="174,249 810,249"/>
+				<TextEquiv>
+					<Unicode>רטימות סוף השנכוק; הסוף והראשית</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0526.tif">
+		<TextRegion id="eSc_region_822_640_1268_640_1268_696_822_696" custom="structure {type:text;}">
+			<Coords points="822,640 1268,640 1268,696 822,696"/>
+			<TextLine id="eSc_line_822_640_1268_640_1268_696_822_696" custom="structure {type:default;}">
+				<Coords points="822,640 1268,640 1268,696 822,696"/>
+				<Baseline points="822,696 1268,696"/>
+				<TextEquiv>
+					<Unicode>לכרהב,9-9ו.6.7ה,2כ. לכרהב,9-9ו.6.7ה,2כ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_570_457_832_457_832_511_570_511" custom="structure {type:text;}">
+			<Coords points="570,457 832,457 832,511 570,511"/>
+			<TextLine id="eSc_line_570_457_832_457_832_511_570_511" custom="structure {type:default;}">
+				<Coords points="570,457 832,457 832,511 570,511"/>
+				<Baseline points="570,511 832,511"/>
+				<TextEquiv>
+					<Unicode>[דת ום:חגורן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

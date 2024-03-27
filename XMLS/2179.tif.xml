@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2179.tif">
+		<TextRegion id="eSc_region_953_89_1182_89_1182_154_953_154" custom="structure {type:text;}">
+			<Coords points="953,89 1182,89 1182,154 953,154"/>
+			<TextLine id="eSc_line_953_89_1182_89_1182_154_953_154" custom="structure {type:default;}">
+				<Coords points="953,89 1182,89 1182,154 953,154"/>
+				<Baseline points="953,154 1182,154"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ---+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_639_333_999_333_999_486_639_486" custom="structure {type:text;}">
+			<Coords points="639,333 999,333 999,486 639,486"/>
+			<TextLine id="eSc_line_639_333_999_333_999_486_639_486" custom="structure {type:default;}">
+				<Coords points="639,333 999,333 999,486 639,486"/>
+				<Baseline points="639,486 999,486"/>
+				<TextEquiv>
+					<Unicode>לערוריה בקלושמרל( חתום הגי /- --.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_216_626_711_626_711_817_216_817" custom="structure {type:text;}">
+			<Coords points="216,626 711,626 711,817 216,817"/>
+			<TextLine id="eSc_line_216_626_711_626_711_817_216_817" custom="structure {type:default;}">
+				<Coords points="216,626 711,626 711,817 216,817"/>
+				<Baseline points="216,817 711,817"/>
+				<TextEquiv>
+					<Unicode>למרחב, 9.9.1956!, עמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

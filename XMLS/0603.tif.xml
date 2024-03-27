@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0603.tif">
+		<TextRegion id="eSc_region_880_116_1234_116_1234_205_880_205" custom="structure {type:text;}">
+			<Coords points="880,116 1234,116 1234,205 880,205"/>
+			<TextLine id="eSc_line_880_116_1234_116_1234_205_880_205" custom="structure {type:default;}">
+				<Coords points="880,116 1234,116 1234,205 880,205"/>
+				<Baseline points="880,205 1234,205"/>
+				<TextEquiv>
+					<Unicode>גורי, חיט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_284_189_792_189_792_375_284_375" custom="structure {type:text;}">
+			<Coords points="284,189 792,189 792,375 284,375"/>
+			<TextLine id="eSc_line_284_189_792_189_792_375_284_375" custom="structure {type:default;}">
+				<Coords points="284,189 792,189 792,375 284,375"/>
+				<Baseline points="284,375 792,375"/>
+				<TextEquiv>
+					<Unicode>רסיט ממתח(ור נשרוןך &quot;עד קן הנשר&quot; ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_234_628_676_628_676_825_234_825" custom="structure {type:text;}">
+			<Coords points="234,628 676,628 676,825 234,825"/>
+			<TextLine id="eSc_line_234_628_676_628_676_825_234_825" custom="structure {type:default;}">
+				<Coords points="234,628 676,628 676,825 234,825"/>
+				<Baseline points="234,825 676,825"/>
+				<TextEquiv>
+					<Unicode>טסיר השל&quot;ו, עמ'</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

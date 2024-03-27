@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0865.tif">
+		<TextRegion id="eSc_region_859_60_1156_60_1156_139_859_139" custom="structure {type:text;}">
+			<Coords points="859,60 1156,60 1156,139 859,139"/>
+			<TextLine id="eSc_line_859_60_1156_60_1156_139_859_139" custom="structure {type:default;}">
+				<Coords points="859,60 1156,60 1156,139 859,139"/>
+				<Baseline points="859,139 1156,139"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_246_281_943_281_943_456_246_456" custom="structure {type:text;}">
+			<Coords points="246,281 943,281 943,456 246,456"/>
+			<TextLine id="eSc_line_246_281_943_281_943_456_246_456" custom="structure {type:default;}">
+				<Coords points="246,281 943,281 943,456 246,456"/>
+				<Baseline points="246,456 943,456"/>
+				<TextEquiv>
+					<Unicode>ספות סרסו סל סג'אלי(מפה אופרים 1) | חתום גי \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_143_610_890_610_890_689_143_689" custom="structure {type:text;}">
+			<Coords points="143,610 890,610 890,689 143,689"/>
+			<TextLine id="eSc_line_143_610_890_610_890_689_143_689" custom="structure {type:default;}">
+				<Coords points="143,610 890,610 890,689 143,689"/>
+				<Baseline points="143,689 890,689"/>
+				<TextEquiv>
+					<Unicode>,
+לפרחב,מסא, 31.8.1960, עפ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

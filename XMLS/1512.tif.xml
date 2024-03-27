@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1512.tif">
+		<TextRegion id="eSc_region_667_37_1276_37_1276_165_667_165" custom="structure {type:text;}">
+			<Coords points="667,37 1276,37 1276,165 667,165"/>
+			<TextLine id="eSc_line_667_37_1276_37_1276_165_667_165" custom="structure {type:default;}">
+				<Coords points="667,37 1276,37 1276,165 667,165"/>
+				<Baseline points="667,165 1276,165"/>
+				<TextEquiv>
+					<Unicode>&gt;[ תי &gt;[ תי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_1034_722_1241_722_1241_854_1034_854" custom="structure {type:text;}">
+			<Coords points="1034,722 1241,722 1241,854 1034,854"/>
+			<TextLine id="eSc_line_1034_722_1241_722_1241_854_1034_854" custom="structure {type:default;}">
+				<Coords points="1034,722 1241,722 1241,854 1034,854"/>
+				<Baseline points="1034,854 1241,854"/>
+				<TextEquiv>
+					<Unicode>| רת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

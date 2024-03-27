@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1172.tif">
+		<TextRegion id="eSc_region_933_99_1232_99_1232_181_933_181" custom="structure {type:text;}">
+			<Coords points="933,99 1232,99 1232,181 933,181"/>
+			<TextLine id="eSc_line_933_99_1232_99_1232_181_933_181" custom="structure {type:default;}">
+				<Coords points="933,99 1232,99 1232,181 933,181"/>
+				<Baseline points="933,181 1232,181"/>
+				<TextEquiv>
+					<Unicode>גווי חיים 05-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_324_261_1102_261_1102_417_324_417" custom="structure {type:text;}">
+			<Coords points="324,261 1102,261 1102,417 324,417"/>
+			<TextLine id="eSc_line_324_261_1102_261_1102_417_324_417" custom="structure {type:default;}">
+				<Coords points="324,261 1102,261 1102,417 324,417"/>
+				<Baseline points="324,417 1102,417"/>
+				<TextEquiv>
+					<Unicode>מה נורא ממה ? [מטמר, מדור:רסימוה סוף השבול, חהום: חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_727_612_1201_612_1201_701_727_701" custom="structure {type:text;}">
+			<Coords points="727,612 1201,612 1201,701 727,701"/>
+			<TextLine id="eSc_line_727_612_1201_612_1201_701_727_701" custom="structure {type:default;}">
+				<Coords points="727,612 1201,612 1201,701 727,701"/>
+				<Baseline points="727,701 1201,701"/>
+				<TextEquiv>
+					<Unicode>דבר,2.6.72, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

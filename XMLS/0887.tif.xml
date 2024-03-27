@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0887.tif">
+		<TextRegion id="eSc_region_948_39_1237_39_1237_112_948_112" custom="structure {type:text;}">
+			<Coords points="948,39 1237,39 1237,112 948,112"/>
+			<TextLine id="eSc_line_948_39_1237_39_1237_112_948_112" custom="structure {type:default;}">
+				<Coords points="948,39 1237,39 1237,112 948,112"/>
+				<Baseline points="948,112 1237,112"/>
+				<TextEquiv>
+					<Unicode>יים גורי, ח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_468_447_1232_447_1232_728_468_728" custom="structure {type:text;}">
+			<Coords points="468,447 1232,447 1232,728 468,728"/>
+			<TextLine id="eSc_line_468_447_1232_447_1232_728_468_728" custom="structure {type:default;}">
+				<Coords points="468,447 1232,447 1232,728 468,728"/>
+				<Baseline points="468,728 1232,728"/>
+				<TextEquiv>
+					<Unicode>3ּיר]דבר.מקלא.כט סבה הטלמג,5ת9|,|.י1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_340_359_1055_359_1055_433_340_433" custom="structure {type:text;}">
+			<Coords points="340,359 1055,359 1055,433 340,433"/>
+			<TextLine id="eSc_line_340_359_1055_359_1055_433_340_433" custom="structure {type:default;}">
+				<Coords points="340,359 1055,359 1055,433 340,433"/>
+				<Baseline points="340,433 1055,433"/>
+				<TextEquiv>
+					<Unicode>מהוך:&quot; הייקון פינת בוגרלוב&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

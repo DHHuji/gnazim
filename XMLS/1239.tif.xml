@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1239.tif">
+		<TextRegion id="eSc_region_844_88_1123_88_1123_150_844_150" custom="structure {type:text;}">
+			<Coords points="844,88 1123,88 1123,150 844,150"/>
+			<TextLine id="eSc_line_844_88_1123_88_1123_150_844_150" custom="structure {type:default;}">
+				<Coords points="844,88 1123,88 1123,150 844,150"/>
+				<Baseline points="844,150 1123,150"/>
+				<TextEquiv>
+					<Unicode>גורי גורי, חיי גורי
+גורי, חיי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_450_247_905_247_905_433_450_433" custom="structure {type:text;}">
+			<Coords points="450,247 905,247 905,433 450,433"/>
+			<TextLine id="eSc_line_450_247_905_247_905_433_450_433" custom="structure {type:default;}">
+				<Coords points="450,247 905,247 905,433 450,433"/>
+				<Baseline points="450,433 905,433"/>
+				<TextEquiv>
+					<Unicode>טסי&quot;רר העאלמונים[בהתכנם &quot;הכוס ים77&quot;חתום גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

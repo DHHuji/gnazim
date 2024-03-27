@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1589.tif">
+		<TextRegion id="eSc_region_922_97_1244_97_1244_180_922_180" custom="structure {type:text;}">
+			<Coords points="922,97 1244,97 1244,180 922,180"/>
+			<TextLine id="eSc_line_922_97_1244_97_1244_180_922_180" custom="structure {type:default;}">
+				<Coords points="922,97 1244,97 1244,180 922,180"/>
+				<Baseline points="922,180 1244,180"/>
+				<TextEquiv>
+					<Unicode>גורי חיים -12</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_132_264_961_264_961_420_132_420" custom="structure {type:text;}">
+			<Coords points="132,264 961,264 961,420 132,420"/>
+			<TextLine id="eSc_line_132_264_961_264_961_420_132_420" custom="structure {type:default;}">
+				<Coords points="132,264 961,264 961,420 132,420"/>
+				<Baseline points="132,420 961,420"/>
+				<TextEquiv>
+					<Unicode>עוד מספר מלים עליהם ועל ירועלים[|מטמר]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_671_585_1188_585_1188_674_671_674" custom="structure {type:text;}">
+			<Coords points="671,585 1188,585 1188,674 671,674"/>
+			<TextLine id="eSc_line_671_585_1188_585_1188_674_671_674" custom="structure {type:default;}">
+				<Coords points="671,585 1188,585 1188,674 671,674"/>
+				<Baseline points="671,674 1188,674"/>
+				<TextEquiv>
+					<Unicode>למרחב, !201.5.71, עמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

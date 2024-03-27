@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1337.tif">
+		<TextRegion id="eSc_region_874_102_1180_102_1180_189_874_189" custom="structure {type:text;}">
+			<Coords points="874,102 1180,102 1180,189 874,189"/>
+			<TextLine id="eSc_line_874_102_1180_102_1180_189_874_189" custom="structure {type:default;}">
+				<Coords points="874,102 1180,102 1180,189 874,189"/>
+				<Baseline points="874,189 1180,189"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים =-חה-&lt;ה-=- = גורי, חיים
+=-חה-&lt;ה-=- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_264_300_940_300_940_483_264_483" custom="structure {type:text;}">
+			<Coords points="264,300 940,300 940,483 264,483"/>
+			<TextLine id="eSc_line_264_300_940_300_940_483_264_483" custom="structure {type:default;}">
+				<Coords points="264,300 940,300 940,483 264,483"/>
+				<Baseline points="264,483 940,483"/>
+				<TextEquiv>
+					<Unicode>מפסה בארץ (מה אומרים?)ייווחתום חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

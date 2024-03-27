@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1781.tif">
+		<TextRegion id="eSc_region_892_103_1185_103_1185_186_892_186" custom="structure {type:text;}">
+			<Coords points="892,103 1185,103 1185,186 892,186"/>
+			<TextLine id="eSc_line_892_103_1185_103_1185_186_892_186" custom="structure {type:default;}">
+				<Coords points="892,103 1185,103 1185,186 892,186"/>
+				<Baseline points="892,186 1185,186"/>
+				<TextEquiv>
+					<Unicode>יי גוריב ח (*</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_280_339_1246_339_1246_489_280_489" custom="structure {type:text;}">
+			<Coords points="280,339 1246,339 1246,489 280,489"/>
+			<TextLine id="eSc_line_280_339_1246_339_1246_489_280_489" custom="structure {type:default;}">
+				<Coords points="280,339 1246,339 1246,489 280,489"/>
+				<Baseline points="280,489 1246,489"/>
+				<TextEquiv>
+					<Unicode>פגיפוה נוספות-| רחימה, מדור: פה אומרים, התור: ה-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_408_565_1268_565_1268_652_408_652" custom="structure {type:text;}">
+			<Coords points="408,565 1268,565 1268,652 408,652"/>
+			<TextLine id="eSc_line_408_565_1268_565_1268_652_408_652" custom="structure {type:default;}">
+				<Coords points="408,565 1268,565 1268,652 408,652"/>
+				<Baseline points="408,652 1268,652"/>
+				<TextEquiv>
+					<Unicode>רבר, ל שנס תצליד (22,2,74), למ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

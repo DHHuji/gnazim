@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2081.tif">
+		<TextRegion id="eSc_region_896_50_1133_50_1133_116_896_116" custom="structure {type:text;}">
+			<Coords points="896,50 1133,50 1133,116 896,116"/>
+			<TextLine id="eSc_line_896_50_1133_50_1133_116_896_116" custom="structure {type:default;}">
+				<Coords points="896,50 1133,50 1133,116 896,116"/>
+				<Baseline points="896,116 1133,116"/>
+				<TextEquiv>
+					<Unicode>הייס גירי.ן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_182_498_1063_498_1063_569_182_569" custom="structure {type:text;}">
+			<Coords points="182,498 1063,498 1063,569 182,569"/>
+			<TextLine id="eSc_line_182_498_1063_498_1063_569_182_569" custom="structure {type:default;}">
+				<Coords points="182,498 1063,498 1063,569 182,569"/>
+				<Baseline points="182,569 1063,569"/>
+				<TextEquiv>
+					<Unicode>פעריב,ספרות,יו אדרר תשל&quot;ט,(16.3.7%), עפ&quot; 45</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_227_180_985_180_985_246_227_246" custom="structure {type:text;}">
+			<Coords points="227,180 985,180 985,246 227,246"/>
+			<TextLine id="eSc_line_227_180_985_180_985_246_227_246" custom="structure {type:default;}">
+				<Coords points="227,180 985,180 985,246 227,246"/>
+				<Baseline points="227,246 985,246"/>
+				<TextEquiv>
+					<Unicode>הסירת ותזפןן לאן נקרחאת הטירה העבריה1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

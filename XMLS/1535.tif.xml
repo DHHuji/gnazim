@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1535.tif">
+		<TextRegion id="eSc_region_914_130_1159_130_1159_210_914_210" custom="structure {type:text;}">
+			<Coords points="914,130 1159,130 1159,210 914,210"/>
+			<TextLine id="eSc_line_914_130_1159_130_1159_210_914_210" custom="structure {type:default;}">
+				<Coords points="914,130 1159,130 1159,210 914,210"/>
+				<Baseline points="914,210 1159,210"/>
+				<TextEquiv>
+					<Unicode>י יש ג ודי ח י יש
+ג ודי ח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_410_359_903_359_903_496_410_496" custom="structure {type:text;}">
+			<Coords points="410,359 903,359 903,496 410,496"/>
+			<TextLine id="eSc_line_410_359_903_359_903_496_410_496" custom="structure {type:default;}">
+				<Coords points="410,359 903,359 903,496 410,496"/>
+				<Baseline points="410,496 903,496"/>
+				<TextEquiv>
+					<Unicode>המיירוסףסלב הרביס:דגי]יו דר ויאולרונד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

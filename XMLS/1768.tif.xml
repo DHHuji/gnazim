@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1768.tif">
+		<TextRegion id="eSc_region_874_109_1111_109_1111_175_874_175" custom="structure {type:text;}">
+			<Coords points="874,109 1111,109 1111,175 874,175"/>
+			<TextLine id="eSc_line_874_109_1111_109_1111_175_874_175" custom="structure {type:default;}">
+				<Coords points="874,109 1111,109 1111,175 874,175"/>
+				<Baseline points="874,175 1111,175"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים =דה-+ = גורי, חיים
+=דה-+ =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_317_538_1201_538_1201_606_317_606" custom="structure {type:text;}">
+			<Coords points="317,538 1201,538 1201,606 317,606"/>
+			<TextLine id="eSc_line_317_538_1201_538_1201_606_317_606" custom="structure {type:default;}">
+				<Coords points="317,538 1201,538 1201,606 317,606"/>
+				<Baseline points="317,606 1201,606"/>
+				<TextEquiv>
+					<Unicode>פעריב,ספרוה, ג&quot; אדר העל&quot;ט,(2,7,79), עכ&quot; 25</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

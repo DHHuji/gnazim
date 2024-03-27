@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0270.tif">
+		<TextRegion id="eSc_region_1021_120_1254_120_1254_185_1021_185" custom="structure {type:text;}">
+			<Coords points="1021,120 1254,120 1254,185 1021,185"/>
+			<TextLine id="eSc_line_1021_120_1254_120_1254_185_1021_185" custom="structure {type:default;}">
+				<Coords points="1021,120 1254,120 1254,185 1021,185"/>
+				<Baseline points="1021,185 1254,185"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס --2-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_401_365_941_365_941_527_401_527" custom="structure {type:text;}">
+			<Coords points="401,365 941,365 941,527 401,527"/>
+			<TextLine id="eSc_line_401_365_941_365_941_527_401_527" custom="structure {type:default;}">
+				<Coords points="401,365 941,365 941,527 401,527"/>
+				<Baseline points="401,527 941,527"/>
+				<TextEquiv>
+					<Unicode>(מרור רסיסות סוף שבוע)( התהום תחגור /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_490_667_1209_667_1209_842_490_842" custom="structure {type:text;}">
+			<Coords points="490,667 1209,667 1209,842 490,842"/>
+			<TextLine id="eSc_line_490_667_1209_667_1209_842_490_842" custom="structure {type:default;}">
+				<Coords points="490,667 1209,667 1209,842 490,842"/>
+				<Baseline points="490,842 1209,842"/>
+				<TextEquiv>
+					<Unicode>רבר, י כסלו תשל&quot;ו,(14.11.75), עמ 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

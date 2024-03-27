@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0224.tif">
+		<TextRegion id="eSc_region_940_61_1200_61_1200_131_940_131" custom="structure {type:text;}">
+			<Coords points="940,61 1200,61 1200,131 940,131"/>
+			<TextLine id="eSc_line_940_61_1200_61_1200_131_940_131" custom="structure {type:default;}">
+				<Coords points="940,61 1200,61 1200,131 940,131"/>
+				<Baseline points="940,131 1200,131"/>
+				<TextEquiv>
+					<Unicode>גורי חייס &lt;&gt;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_391_309_988_309_988_443_391_443" custom="structure {type:text;}">
+			<Coords points="391,309 988,309 988,443 391,443"/>
+			<TextLine id="eSc_line_391_309_988_309_988_443_391_443" custom="structure {type:default;}">
+				<Coords points="391,309 988,309 988,443 391,443"/>
+				<Baseline points="391,443 988,443"/>
+				<TextEquiv>
+					<Unicode>ארכעה אנעים בין ארבעה כתלים(חהום: הגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_563_652_1094_652_1094_840_563_840" custom="structure {type:text;}">
+			<Coords points="563,652 1094,652 1094,840 563,840"/>
+			<TextLine id="eSc_line_563_652_1094_652_1094_840_563_840" custom="structure {type:default;}">
+				<Coords points="563,652 1094,652 1094,840 563,840"/>
+				<Baseline points="563,840 1094,840"/>
+				<TextEquiv>
+					<Unicode>למרחב, !17.3.6, ץ' ב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

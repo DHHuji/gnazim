@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1405.tif">
+		<TextRegion id="eSc_region_4_0_1219_0_1219_850_4_850" custom="structure {type:text;}">
+			<Coords points="4,0 1219,0 1219,850 4,850"/>
+			<TextLine id="eSc_line_4_0_1219_0_1219_850_4_850" custom="structure {type:default;}">
+				<Coords points="4,0 1219,0 1219,850 4,850"/>
+				<Baseline points="4,850 1219,850"/>
+				<TextEquiv>
+					<Unicode>כו / (5%, ו כו /(5%, וככ &gt;הווכו ו 6ת - כ לתה \6.ה =3 !פופ -] &quot;ל 3 * חן חווכ מאו : 7 ו\ ו /פע ר. 4 [ :&gt; ו 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

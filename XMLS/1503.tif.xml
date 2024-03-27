@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1503.tif">
+		<TextRegion id="eSc_region_914_143_1160_143_1160_223_914_223" custom="structure {type:text;}">
+			<Coords points="914,143 1160,143 1160,223 914,223"/>
+			<TextLine id="eSc_line_914_143_1160_143_1160_223_914_223" custom="structure {type:default;}">
+				<Coords points="914,143 1160,143 1160,223 914,223"/>
+				<Baseline points="914,223 1160,223"/>
+				<TextEquiv>
+					<Unicode>גורי,רייר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_762_631_1269_631_1269_711_762_711" custom="structure {type:text;}">
+			<Coords points="762,631 1269,631 1269,711 762,711"/>
+			<TextLine id="eSc_line_762_631_1269_631_1269_711_762_711" custom="structure {type:default;}">
+				<Coords points="762,631 1269,631 1269,711 762,711"/>
+				<Baseline points="762,711 1269,711"/>
+				<TextEquiv>
+					<Unicode>לנר3ב,17.7.1959, נ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_217_392_1112_392_1112_529_217_529" custom="structure {type:text;}">
+			<Coords points="217,392 1112,392 1112,529 217,529"/>
+			<TextLine id="eSc_line_217_392_1112_392_1112_529_217_529" custom="structure {type:default;}">
+				<Coords points="217,392 1112,392 1112,529 217,529"/>
+				<Baseline points="217,529 1112,529"/>
+				<TextEquiv>
+					<Unicode>כל וקנר
+
+הנקין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

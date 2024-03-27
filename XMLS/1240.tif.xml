@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1240.tif">
+		<TextRegion id="eSc_region_0_57_1169_57_1169_447_0_447" custom="structure {type:text;}">
+			<Coords points="0,57 1169,57 1169,447 0,447"/>
+			<TextLine id="eSc_line_0_57_1169_57_1169_447_0_447" custom="structure {type:default;}">
+				<Coords points="0,57 1169,57 1169,447 0,447"/>
+				<Baseline points="0,447 1169,447"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים&quot;מיסטר 4&quot; (פה אוסרים?) ( חתוס חגי\4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_295_542_1039_542_1039_900_295_900" custom="structure {type:text;}">
+			<Coords points="295,542 1039,542 1039,900 295,900"/>
+			<TextLine id="eSc_line_295_542_1039_542_1039_900_295_900" custom="structure {type:default;}">
+				<Coords points="295,542 1039,542 1039,900 295,900"/>
+				<Baseline points="295,900 1039,900"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 11.3.1956, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

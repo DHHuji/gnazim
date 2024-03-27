@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1307.tif">
+		<TextRegion id="eSc_region_871_53_1189_53_1189_158_871_158" custom="structure {type:text;}">
+			<Coords points="871,53 1189,53 1189,158 871,158"/>
+			<TextLine id="eSc_line_871_53_1189_53_1189_158_871_158" custom="structure {type:default;}">
+				<Coords points="871,53 1189,53 1189,158 871,158"/>
+				<Baseline points="871,158 1189,158"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;&gt; החד גורי חיים&lt;&gt; החד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_540_226_961_226_961_324_540_324" custom="structure {type:text;}">
+			<Coords points="540,226 961,226 961,324 540,324"/>
+			<TextLine id="eSc_line_540_226_961_226_961_324_540_324" custom="structure {type:default;}">
+				<Coords points="540,226 961,226 961,324 540,324"/>
+				<Baseline points="540,324 961,324"/>
+				<TextEquiv>
+					<Unicode>נכסל בין הכווים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

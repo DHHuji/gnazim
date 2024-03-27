@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2222.tif">
+		<TextRegion id="eSc_region_938_123_1172_123_1172_188_938_188" custom="structure {type:text;}">
+			<Coords points="938,123 1172,123 1172,188 938,188"/>
+			<TextLine id="eSc_line_938_123_1172_123_1172_188_938_188" custom="structure {type:default;}">
+				<Coords points="938,123 1172,123 1172,188 938,188"/>
+				<Baseline points="938,188 1172,188"/>
+				<TextEquiv>
+					<Unicode>גורי, חייפ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_206_233_1025_233_1025_295_206_295" custom="structure {type:text;}">
+			<Coords points="206,233 1025,233 1025,295 206,295"/>
+			<TextLine id="eSc_line_206_233_1025_233_1025_295_206_295" custom="structure {type:default;}">
+				<Coords points="206,233 1025,233 1025,295 206,295"/>
+				<Baseline points="206,295 1025,295"/>
+				<TextEquiv>
+					<Unicode>תזנורת,- ראיון,- פסוקים,- רברי ישראל סל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_444_624_1161_624_1161_689_444_689" custom="structure {type:text;}">
+			<Coords points="444,624 1161,624 1161,689 444,689"/>
+			<TextLine id="eSc_line_444_624_1161_624_1161_689_444_689" custom="structure {type:default;}">
+				<Coords points="444,624 1161,624 1161,689 444,689"/>
+				<Baseline points="444,689 1161,689"/>
+				<TextEquiv>
+					<Unicode>דבר, ד' חשרי תשל&quot;ה,(2,)16.9.77מ7 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

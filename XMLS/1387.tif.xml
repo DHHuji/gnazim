@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1387.tif">
+		<TextRegion id="eSc_region_883_92_1235_92_1235_173_883_173" custom="structure {type:text;}">
+			<Coords points="883,92 1235,92 1235,173 883,173"/>
+			<TextLine id="eSc_line_883_92_1235_92_1235_173_883_173" custom="structure {type:default;}">
+				<Coords points="883,92 1235,92 1235,173 883,173"/>
+				<Baseline points="883,173 1235,173"/>
+				<TextEquiv>
+					<Unicode>גורי, חיי --.---1----.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_193_313_1073_313_1073_489_193_489" custom="structure {type:text;}">
+			<Coords points="193,313 1073,313 1073,489 193,489"/>
+			<TextLine id="eSc_line_193_313_1073_313_1073_489_193_489" custom="structure {type:default;}">
+				<Coords points="193,313 1073,313 1073,489 193,489"/>
+				<Baseline points="193,489 1073,489"/>
+				<TextEquiv>
+					<Unicode>משהו על היטסראלים הללו... -(סרסיפות סוף הסבוץ) \חתוםס חגור (4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_168_637_943_637_943_852_168_852" custom="structure {type:text;}">
+			<Coords points="168,637 943,637 943,852 168,852"/>
+			<TextLine id="eSc_line_168_637_943_637_943_852_168_852" custom="structure {type:default;}">
+				<Coords points="168,637 943,637 943,852 168,852"/>
+				<Baseline points="168,852 943,852"/>
+				<TextEquiv>
+					<Unicode>לפרחב, פסא, 13.10.1961, פפ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

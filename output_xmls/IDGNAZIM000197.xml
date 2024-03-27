@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>escriptorium</Creator>
+    <Created>2024-02-18T21:02:47.785694+00:00</Created>
+    <LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="2074.tif" imageWidth="1228" imageHeight="851">
+    <TextRegion id="eSc_ocr_writen_on_coords_IDGNAZIM000197" custom="structure {type:text;}">
+      <Coords points="723,209 904,209 723,396 904,396"/>
+    </TextRegion>
+    <TextRegion id="eSc_ocr_main_content_coords_IDGNAZIM000197" custom="structure {type:text;}">
+      <Coords points="214,21 1256,21 214,165 1256,165"/>
+    </TextRegion>
+    <TextRegion id="eSc_ocr_additional_content_coords_IDGNAZIM000197" custom="structure {type:text;}">
+      <Coords points="461,617 1006,617 461,850 1006,850"/>
+    </TextRegion>
+  </Page>
+</PcGts>

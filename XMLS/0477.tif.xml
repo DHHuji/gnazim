@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0477.tif">
+		<TextRegion id="eSc_region_884_72_1242_72_1242_264_884_264" custom="structure {type:text;}">
+			<Coords points="884,72 1242,72 1242,264 884,264"/>
+			<TextLine id="eSc_line_884_72_1242_72_1242_264_884_264" custom="structure {type:default;}">
+				<Coords points="884,72 1242,72 1242,264 884,264"/>
+				<Baseline points="884,264 1242,264"/>
+				<TextEquiv>
+					<Unicode>גורי,היים גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_103_280_1273_280_1273_872_103_872" custom="structure {type:text;}">
+			<Coords points="103,280 1273,280 1273,872 103,872"/>
+			<TextLine id="eSc_line_103_280_1273_280_1273_872_103_872" custom="structure {type:default;}">
+				<Coords points="103,280 1273,280 1273,872 103,872"/>
+				<Baseline points="103,872 1273,872"/>
+				<TextEquiv>
+					<Unicode>נברכדה כורלאד;( כדור:כנחנים לכמכפרכק,2ל רדינת פלקאי[כאהרו. שבררו .- ב. [2:לנרחב,כטכא,&quot;19.7,10-9,כ. א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

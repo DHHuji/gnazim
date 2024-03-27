@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1176.tif">
+		<TextRegion id="eSc_region_825_112_1052_112_1052_177_825_177" custom="structure {type:text;}">
+			<Coords points="825,112 1052,112 1052,177 825,177"/>
+			<TextLine id="eSc_line_825_112_1052_112_1052_177_825_177" custom="structure {type:default;}">
+				<Coords points="825,112 1052,112 1052,177 825,177"/>
+				<Baseline points="825,177 1052,177"/>
+				<TextEquiv>
+					<Unicode>גורי, הייסם ---1---=---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_315_313_802_313_802_486_315_486" custom="structure {type:text;}">
+			<Coords points="315,313 802,313 802,486 315,486"/>
+			<TextLine id="eSc_line_315_313_802_313_802_486_315_486" custom="structure {type:default;}">
+				<Coords points="315,313 802,313 802,486 315,486"/>
+				<Baseline points="315,486 802,486"/>
+				<TextEquiv>
+					<Unicode>(מדור רסימוה סוף רסבועץ)/ מתוסם חגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_270_568_1010_568_1010_633_270_633" custom="structure {type:text;}">
+			<Coords points="270,568 1010,568 1010,633 270,633"/>
+			<TextLine id="eSc_line_270_568_1010_568_1010_633_270_633" custom="structure {type:default;}">
+				<Coords points="270,568 1010,568 1010,633 270,633"/>
+				<Baseline points="270,633 1010,633"/>
+				<TextEquiv>
+					<Unicode>דבר, יר אייר תהטסל&quot;ו,(14.5,76), עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

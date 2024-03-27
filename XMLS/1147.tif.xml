@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1147.tif">
+		<TextRegion id="eSc_region_875_76_1196_76_1196_157_875_157" custom="structure {type:text;}">
+			<Coords points="875,76 1196,76 1196,157 875,157"/>
+			<TextLine id="eSc_line_875_76_1196_76_1196_157_875_157" custom="structure {type:default;}">
+				<Coords points="875,76 1196,76 1196,157 875,157"/>
+				<Baseline points="875,157 1196,157"/>
+				<TextEquiv>
+					<Unicode>י ג ורי,. חיים יג ורי,. חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_162_239_478_239_478_331_162_331" custom="structure {type:text;}">
+			<Coords points="162,239 478,239 478,331 162,331"/>
+			<TextLine id="eSc_line_162_239_478_239_478_331_162_331" custom="structure {type:default;}">
+				<Coords points="162,239 478,239 478,331 162,331"/>
+				<Baseline points="162,331 478,331"/>
+				<TextEquiv>
+					<Unicode>חתוש: םח-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

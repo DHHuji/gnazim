@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2237.tif">
+		<TextRegion id="eSc_region_841_40_1078_40_1078_112_841_112" custom="structure {type:text;}">
+			<Coords points="841,40 1078,40 1078,112 841,112"/>
+			<TextLine id="eSc_line_841_40_1078_40_1078_112_841_112" custom="structure {type:default;}">
+				<Coords points="841,40 1078,40 1078,112 841,112"/>
+				<Baseline points="841,112 1078,112"/>
+				<TextEquiv>
+					<Unicode>. היים ג ור ,הייו . היים
+ג ור ,הייו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_313_349_799_349_799_417_313_417" custom="structure {type:text;}">
+			<Coords points="313,349 799,349 799,417 313,417"/>
+			<TextLine id="eSc_line_313_349_799_349_799_417_313_417" custom="structure {type:default;}">
+				<Coords points="313,349 799,349 799,417 313,417"/>
+				<Baseline points="313,417 799,417"/>
+				<TextEquiv>
+					<Unicode>[כד אוקטרים,דה ום:הגי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

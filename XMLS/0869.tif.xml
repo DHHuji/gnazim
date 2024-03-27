@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0869.tif">
+		<TextRegion id="eSc_region_641_15_1083_15_1083_101_641_101" custom="structure {type:text;}">
+			<Coords points="641,15 1083,15 1083,101 641,101"/>
+			<TextLine id="eSc_line_641_15_1083_15_1083_101_641_101" custom="structure {type:default;}">
+				<Coords points="641,15 1083,15 1083,101 641,101"/>
+				<Baseline points="641,101 1083,101"/>
+				<TextEquiv>
+					<Unicode>גורי,הייהיתגור) גורי,הייהיתגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_583_197_896_197_896_277_583_277" custom="structure {type:text;}">
+			<Coords points="583,197 896,197 896,277 583,277"/>
+			<TextLine id="eSc_line_583_197_896_197_896_277_583_277" custom="structure {type:default;}">
+				<Coords points="583,197 896,197 896,277 583,277"/>
+				<Baseline points="583,277 896,277"/>
+				<TextEquiv>
+					<Unicode>תורל
+יבנטל ,כתס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

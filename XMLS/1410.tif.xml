@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1410.tif">
+		<TextRegion id="eSc_region_117_0_1261_0_1261_767_117_767" custom="structure {type:text;}">
+			<Coords points="117,0 1261,0 1261,767 117,767"/>
+			<TextLine id="eSc_line_117_0_1261_0_1261_767_117_767" custom="structure {type:default;}">
+				<Coords points="117,0 1261,0 1261,767 117,767"/>
+				<Baseline points="117,767 1261,767"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים מתה לקחת גורי,חייםמתה לקחתהימורים/ מה יעסה?/ הביתה / עין דור / שחר(שירים)מעריב,ספרות,יד ניסן תשמג,28.3.!983 עם'35</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

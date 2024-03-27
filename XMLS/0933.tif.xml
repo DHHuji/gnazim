@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0933.tif">
+		<TextRegion id="eSc_region_958_104_1211_104_1211_167_958_167" custom="structure {type:text;}">
+			<Coords points="958,104 1211,104 1211,167 958,167"/>
+			<TextLine id="eSc_line_958_104_1211_104_1211_167_958_167" custom="structure {type:default;}">
+				<Coords points="958,104 1211,104 1211,167 958,167"/>
+				<Baseline points="958,167 1211,167"/>
+				<TextEquiv>
+					<Unicode>גכ&lt;ורי, חייס -1 גכ&lt;ורי, חייס
+--- 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_302_600_1201_600_1201_667_302_667" custom="structure {type:text;}">
+			<Coords points="302,600 1201,600 1201,667 302,667"/>
+			<TextLine id="eSc_line_302_600_1201_600_1201_667_302_667" custom="structure {type:default;}">
+				<Coords points="302,600 1201,600 1201,667 302,667"/>
+				<Baseline points="302,667 1201,667"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרוה, ד&quot; סיון תצל&quot;ח,(9.0.78), עמ&quot; [4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

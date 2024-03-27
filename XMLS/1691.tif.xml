@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1691.tif">
+		<TextRegion id="eSc_region_996_112_1250_112_1250_177_996_177" custom="structure {type:text;}">
+			<Coords points="996,112 1250,112 1250,177 996,177"/>
+			<TextLine id="eSc_line_996_112_1250_112_1250_177_996_177" custom="structure {type:default;}">
+				<Coords points="996,112 1250,112 1250,177 996,177"/>
+				<Baseline points="996,177 1250,177"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים -=-=-,-- גורי, חיים
+-=-=-,--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_508_355_1041_355_1041_500_508_500" custom="structure {type:text;}">
+			<Coords points="508,355 1041,355 1041,500 508,500"/>
+			<TextLine id="eSc_line_508_355_1041_355_1041_500_508_500" custom="structure {type:default;}">
+				<Coords points="508,355 1041,355 1041,500 508,500"/>
+				<Baseline points="508,500 1041,500"/>
+				<TextEquiv>
+					<Unicode>יהםיגל הריחות לםלשי -0, 2%2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

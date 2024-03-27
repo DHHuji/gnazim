@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1471.tif">
+		<TextRegion id="eSc_region_946_103_1260_103_1260_177_946_177" custom="structure {type:text;}">
+			<Coords points="946,103 1260,103 1260,177 946,177"/>
+			<TextLine id="eSc_line_946_103_1260_103_1260_177_946_177" custom="structure {type:default;}">
+				<Coords points="946,103 1260,103 1260,177 946,177"/>
+				<Baseline points="946,177 1260,177"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_137_618_1232_618_1232_757_137_757" custom="structure {type:text;}">
+			<Coords points="137,618 1232,618 1232,757 137,757"/>
+			<TextLine id="eSc_line_137_618_1232_618_1232_757_137_757" custom="structure {type:default;}">
+				<Coords points="137,618 1232,618 1232,757 137,757"/>
+				<Baseline points="137,757 1232,757"/>
+				<TextEquiv>
+					<Unicode>הרואר,שנה 51,ס'ניסן תשל&quot;ב, מרץ 72,גליון כ',0 -ןעמ' 321-300 &gt;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_411_269_1053_269_1053_415_411_415" custom="structure {type:text;}">
+			<Coords points="411,269 1053,269 1053,415 411,415"/>
+			<TextLine id="eSc_line_411_269_1053_269_1053_415_411_415" custom="structure {type:default;}">
+				<Coords points="411,269 1053,269 1053,415 411,415"/>
+				<Baseline points="411,415 1053,415"/>
+				<TextEquiv>
+					<Unicode>נעימות ביניים תל-אביביות
+
+[מתור&quot;הספר המשוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

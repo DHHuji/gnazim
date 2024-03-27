@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0476.tif">
+		<TextRegion id="eSc_region_891_72_1145_72_1145_134_891_134" custom="structure {type:text;}">
+			<Coords points="891,72 1145,72 1145,134 891,134"/>
+			<TextLine id="eSc_line_891_72_1145_72_1145_134_891_134" custom="structure {type:default;}">
+				<Coords points="891,72 1145,72 1145,134 891,134"/>
+				<Baseline points="891,134 1145,134"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_165_347_919_347_919_452_165_452" custom="structure {type:text;}">
+			<Coords points="165,347 919,347 919,452 165,452"/>
+			<TextLine id="eSc_line_165_347_919_347_919_452_165_452" custom="structure {type:default;}">
+				<Coords points="165,347 919,347 919,452 165,452"/>
+				<Baseline points="165,452 919,452"/>
+				<TextEquiv>
+					<Unicode>ברכר לפכנים ( מה אומרים&quot;, התום: חגי)-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

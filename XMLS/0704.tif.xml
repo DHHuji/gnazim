@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0704.tif">
+		<TextRegion id="eSc_region_860_106_1176_106_1176_180_860_180" custom="structure {type:text;}">
+			<Coords points="860,106 1176,106 1176,180 860,180"/>
+			<TextLine id="eSc_line_860_106_1176_106_1176_180_860_180" custom="structure {type:default;}">
+				<Coords points="860,106 1176,106 1176,180 860,180"/>
+				<Baseline points="860,180 1176,180"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_204_269_995_269_995_418_204_418" custom="structure {type:text;}">
+			<Coords points="204,269 995,269 995,418 204,418"/>
+			<TextLine id="eSc_line_204_269_995_269_995_418_204_418" custom="structure {type:default;}">
+				<Coords points="204,269 995,269 995,418 204,418"/>
+				<Baseline points="204,418 995,418"/>
+				<TextEquiv>
+					<Unicode>התקרבות מסויימת [על יחסים ביןאנסשים - שיוים וושימות]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_78_618_1146_618_1146_745_78_745" custom="structure {type:text;}">
+			<Coords points="78,618 1146,618 1146,745 78,745"/>
+			<TextLine id="eSc_line_78_618_1146_618_1146_745_78_745" custom="structure {type:default;}">
+				<Coords points="78,618 1146,618 1146,745 78,745"/>
+				<Baseline points="78,745 1146,745"/>
+				<TextEquiv>
+					<Unicode>ידיעות אהרונות,תובוה,ספוות ואמנות,2.3.72,
+
+י,
+מ
+ע 5 .</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

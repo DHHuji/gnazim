@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1435.tif">
+		<TextRegion id="eSc_region_782_2_1049_2_1049_84_782_84" custom="structure {type:text;}">
+			<Coords points="782,2 1049,2 1049,84 782,84"/>
+			<TextLine id="eSc_line_782_2_1049_2_1049_84_782_84" custom="structure {type:default;}">
+				<Coords points="782,2 1049,2 1049,84 782,84"/>
+				<Baseline points="782,84 1049,84"/>
+				<TextEquiv>
+					<Unicode>גורי.חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_41_186_866_186_866_313_41_313" custom="structure {type:text;}">
+			<Coords points="41,186 866,186 866,313 41,313"/>
+			<TextLine id="eSc_line_41_186_866_186_866_313_41_313" custom="structure {type:default;}">
+				<Coords points="41,186 866,186 866,313 41,313"/>
+				<Baseline points="41,313 866,313"/>
+				<TextEquiv>
+					<Unicode>נדרמה לי כי לוסר חומות של עיר,-שיר(עברית,ערבית\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_268_485_1081_485_1081_718_268_718" custom="structure {type:text;}">
+			<Coords points="268,485 1081,485 1081,718 268,718"/>
+			<TextLine id="eSc_line_268_485_1081_485_1081_718_268_718" custom="structure {type:default;}">
+				<Coords points="268,485 1081,485 1081,718 268,718"/>
+				<Baseline points="268,718 1081,718"/>
+				<TextEquiv>
+					<Unicode>מפגש. חוב0!ו,!! הורף988! עמ ו0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

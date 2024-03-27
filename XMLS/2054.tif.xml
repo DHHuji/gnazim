@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2054.tif">
+		<TextRegion id="eSc_region_913_78_1236_78_1236_169_913_169" custom="structure {type:text;}">
+			<Coords points="913,78 1236,78 1236,169 913,169"/>
+			<TextLine id="eSc_line_913_78_1236_78_1236_169_913_169" custom="structure {type:default;}">
+				<Coords points="913,78 1236,78 1236,169 913,169"/>
+				<Baseline points="913,169 1236,169"/>
+				<TextEquiv>
+					<Unicode>גורי היים #NAME? גורי היים--------- ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

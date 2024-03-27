@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0089.tif">
+		<TextRegion id="eSc_region_885_101_1183_101_1183_181_885_181" custom="structure {type:text;}">
+			<Coords points="885,101 1183,101 1183,181 885,181"/>
+			<TextLine id="eSc_line_885_101_1183_101_1183_181_885_181" custom="structure {type:default;}">
+				<Coords points="885,101 1183,101 1183,181 885,181"/>
+				<Baseline points="885,181 1183,181"/>
+				<TextEquiv>
+					<Unicode>י גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_3_275_943_275_943_502_3_502" custom="structure {type:text;}">
+			<Coords points="3,275 943,275 943,502 3,502"/>
+			<TextLine id="eSc_line_3_275_943_275_943_502_3_502" custom="structure {type:default;}">
+				<Coords points="3,275 943,275 943,502 3,502"/>
+				<Baseline points="3,502 943,502"/>
+				<TextEquiv>
+					<Unicode>בתאהינן אא( על אנדרה שווארץ-בארס, חתום &quot;3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_233_661_947_661_947_849_233_849" custom="structure {type:text;}">
+			<Coords points="233,661 947,661 947,849 233,849"/>
+			<TextLine id="eSc_line_233_661_947_661_947_849_233_849" custom="structure {type:default;}">
+				<Coords points="233,661 947,661 947,849 233,849"/>
+				<Baseline points="233,849 947,849"/>
+				<TextEquiv>
+					<Unicode>למרחב,מסא, 18.12.1959, עם'</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

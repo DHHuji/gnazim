@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0142.tif">
+		<TextRegion id="eSc_region_984_84_1220_84_1220_157_984_157" custom="structure {type:text;}">
+			<Coords points="984,84 1220,84 1220,157 984,157"/>
+			<TextLine id="eSc_line_984_84_1220_84_1220_157_984_157" custom="structure {type:default;}">
+				<Coords points="984,84 1220,84 1220,157 984,157"/>
+				<Baseline points="984,157 1220,157"/>
+				<TextEquiv>
+					<Unicode>. חי'ד גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_229_491_1258_491_1258_567_229_567" custom="structure {type:text;}">
+			<Coords points="229,491 1258,491 1258,567 229,567"/>
+			<TextLine id="eSc_line_229_491_1258_491_1258_567_229_567" custom="structure {type:default;}">
+				<Coords points="229,491 1258,491 1258,567 229,567"/>
+				<Baseline points="229,567 1258,567"/>
+				<TextEquiv>
+					<Unicode>הלל ברזל, תגאוה בסיפורת ההווה, ת&quot;א 79,עת7 69/ 107</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_576_221_1077_221_1077_290_576_290" custom="structure {type:text;}">
+			<Coords points="576,221 1077,221 1077,290 576,290"/>
+			<TextLine id="eSc_line_576_221_1077_221_1077_290_576_290" custom="structure {type:default;}">
+				<Coords points="576,221 1077,221 1077,290 576,290"/>
+				<Baseline points="576,290 1077,290"/>
+				<TextEquiv>
+					<Unicode>בחי האור
+- סבתי ת
+אל תלך ליפג,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

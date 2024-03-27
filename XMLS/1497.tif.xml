@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1497.tif">
+		<TextRegion id="eSc_region_941_111_1199_111_1199_178_941_178" custom="structure {type:text;}">
+			<Coords points="941,111 1199,111 1199,178 941,178"/>
+			<TextLine id="eSc_line_941_111_1199_111_1199_178_941_178" custom="structure {type:default;}">
+				<Coords points="941,111 1199,111 1199,178 941,178"/>
+				<Baseline points="941,178 1199,178"/>
+				<TextEquiv>
+					<Unicode>גורי, תייח 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_27_245_1211_245_1211_405_27_405" custom="structure {type:text;}">
+			<Coords points="27,245 1211,245 1211,405 27,405"/>
+			<TextLine id="eSc_line_27_245_1211_245_1211_405_27_405" custom="structure {type:default;}">
+				<Coords points="27,245 1211,245 1211,405 27,405"/>
+				<Baseline points="27,405 1211,405"/>
+				<TextEquiv>
+					<Unicode>פולט ישראל חלוה8 וסברו, שיחה(ל פשפרו של א,ל,אליאב,מטקתמסים: הנ&quot;ל,ם.ברינקר,א.ב.יהושע /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_137_561_1217_561_1217_630_137_630" custom="structure {type:text;}">
+			<Coords points="137,561 1217,561 1217,630 137,630"/>
+			<TextLine id="eSc_line_137_561_1217_561_1217_630_137_630" custom="structure {type:default;}">
+				<Coords points="137,561 1217,561 1217,630 137,630"/>
+				<Baseline points="137,630 1217,630"/>
+				<TextEquiv>
+					<Unicode>ץפרה,מס' 6/7, אב אלול תשל&quot;ו,(אוג -ספט* 76),עם' 7/10ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

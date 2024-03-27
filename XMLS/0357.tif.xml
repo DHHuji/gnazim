@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0357.tif">
+		<TextRegion id="eSc_region_844_77_1121_77_1121_151_844_151" custom="structure {type:text;}">
+			<Coords points="844,77 1121,77 1121,151 844,151"/>
+			<TextLine id="eSc_line_844_77_1121_77_1121_151_844_151" custom="structure {type:default;}">
+				<Coords points="844,77 1121,77 1121,151 844,151"/>
+				<Baseline points="844,151 1121,151"/>
+				<TextEquiv>
+					<Unicode>גורי, חהיים 0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_45_212_1050_212_1050_366_45_366" custom="structure {type:text;}">
+			<Coords points="45,212 1050,212 1050,366 45,366"/>
+			<TextLine id="eSc_line_45_212_1050_212_1050_366_45_366" custom="structure {type:default;}">
+				<Coords points="45,212 1050,212 1050,366 45,366"/>
+				<Baseline points="45,366 1050,366"/>
+				<TextEquiv>
+					<Unicode>בין הקשרים והזכרונות (מדור: קטרים והמש שניםלהופעת &quot;סמחת עניים&quot; לנהן אלהרמן]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_286_459_1093_459_1093_537_286_537" custom="structure {type:text;}">
+			<Coords points="286,459 1093,459 1093,537 286,537"/>
+			<TextLine id="eSc_line_286_459_1093_459_1093_537_286_537" custom="structure {type:default;}">
+				<Coords points="286,459 1093,459 1093,537 286,537"/>
+				<Baseline points="286,537 1093,537"/>
+				<TextEquiv>
+					<Unicode>הארץ, תרבוח וספרות, 1.9.1967, עפ' 10</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0626.tif">
+		<TextRegion id="eSc_region_143_0_1269_0_1269_863_143_863" custom="structure {type:text;}">
+			<Coords points="143,0 1269,0 1269,863 143,863"/>
+			<TextLine id="eSc_line_143_0_1269_0_1269_863_143_863" custom="structure {type:default;}">
+				<Coords points="143,0 1269,0 1269,863 143,863"/>
+				<Baseline points="143,863 1269,863"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים האמלס, ‏ מאותר, פרו דומו,בקסת מחילה,עמור גורי,חייםהאמלס, ‏ מאותר, פרו דומו,בקסת מחילה,עמורהאשמדור: רולסה רוסיתחתום: ח - גידבר,כ&quot;ח אדר ב תשמ&quot;א,ו5.4.198.עמ' 14</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

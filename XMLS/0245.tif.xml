@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0245.tif">
+		<TextRegion id="eSc_region_825_48_1064_48_1064_111_825_111" custom="structure {type:text;}">
+			<Coords points="825,48 1064,48 1064,111 825,111"/>
+			<TextLine id="eSc_line_825_48_1064_48_1064_111_825_111" custom="structure {type:default;}">
+				<Coords points="825,48 1064,48 1064,111 825,111"/>
+				<Baseline points="825,111 1064,111"/>
+				<TextEquiv>
+					<Unicode>גורי, היים ---+---= גורי, היים
+---+---=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_53_571_1058_571_1058_681_53_681" custom="structure {type:text;}">
+			<Coords points="53,571 1058,571 1058,681 53,681"/>
+			<TextLine id="eSc_line_53_571_1058_571_1058_681_53_681" custom="structure {type:default;}">
+				<Coords points="53,571 1058,571 1058,681 53,681"/>
+				<Baseline points="53,681 1058,681"/>
+				<TextEquiv>
+					<Unicode>עתים, גל' (29, שנה ראשוגה, ד' באייר תש&quot;ז, 24.4.47עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

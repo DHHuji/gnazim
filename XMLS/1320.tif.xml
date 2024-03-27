@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1320.tif">
+		<TextRegion id="eSc_region_870_61_1199_61_1199_141_870_141" custom="structure {type:text;}">
+			<Coords points="870,61 1199,61 1199,141 870,141"/>
+			<TextLine id="eSc_line_870_61_1199_61_1199_141_870_141" custom="structure {type:default;}">
+				<Coords points="870,61 1199,61 1199,141 870,141"/>
+				<Baseline points="870,141 1199,141"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 07-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_321_280_903_280_903_452_321_452" custom="structure {type:text;}">
+			<Coords points="321,280 903,280 903,452 321,452"/>
+			<TextLine id="eSc_line_321_280_903_280_903_452_321_452" custom="structure {type:default;}">
+				<Coords points="321,280 903,280 903,452 321,452"/>
+				<Baseline points="321,452 903,452"/>
+				<TextEquiv>
+					<Unicode>מספיקן (סה *ומרים?)74/4חתום הג /- -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_267_588_985_588_985_668_267_668" custom="structure {type:text;}">
+			<Coords points="267,588 985,588 985,668 267,668"/>
+			<TextLine id="eSc_line_267_588_985_588_985_668_267_668" custom="structure {type:default;}">
+				<Coords points="267,588 985,588 985,668 267,668"/>
+				<Baseline points="267,668 985,668"/>
+				<TextEquiv>
+					<Unicode>לפרהב, חאש 2.12.1958, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

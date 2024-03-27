@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1314.tif">
+		<TextRegion id="eSc_region_875_105_1089_105_1089_153_875_153" custom="structure {type:text;}">
+			<Coords points="875,105 1089,105 1089,153 875,153"/>
+			<TextLine id="eSc_line_875_105_1089_105_1089_153_875_153" custom="structure {type:default;}">
+				<Coords points="875,105 1089,105 1089,153 875,153"/>
+				<Baseline points="875,153 1089,153"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_188_270_339_270_339_317_188_317" custom="structure {type:text;}">
+			<Coords points="188,270 339,270 339,317 188,317"/>
+			<TextLine id="eSc_line_188_270_339_270_339_317_188_317" custom="structure {type:default;}">
+				<Coords points="188,270 339,270 339,317 188,317"/>
+				<Baseline points="188,317 339,317"/>
+				<TextEquiv>
+					<Unicode>מפאריס)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

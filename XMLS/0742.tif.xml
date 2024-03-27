@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0742.tif">
+		<TextRegion id="eSc_region_934_107_1175_107_1175_173_934_173" custom="structure {type:text;}">
+			<Coords points="934,107 1175,107 1175,173 934,173"/>
+			<TextLine id="eSc_line_934_107_1175_107_1175_173_934_173" custom="structure {type:default;}">
+				<Coords points="934,107 1175,107 1175,173 934,173"/>
+				<Baseline points="934,173 1175,173"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_507_585_1208_585_1208_651_507_651" custom="structure {type:text;}">
+			<Coords points="507,585 1208,585 1208,651 507,651"/>
+			<TextLine id="eSc_line_507_585_1208_585_1208_651_507_651" custom="structure {type:default;}">
+				<Coords points="507,585 1208,585 1208,651 507,651"/>
+				<Baseline points="507,651 1208,651"/>
+				<TextEquiv>
+					<Unicode>רבר, יס אלול השל&quot;ד,(6.9.74), עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_673_261_960_261_960_324_673_324" custom="structure {type:text;}">
+			<Coords points="673,261 960,261 960,324 673,324"/>
+			<TextLine id="eSc_line_673_261_960_261_960_324_673_324" custom="structure {type:default;}">
+				<Coords points="673,261 960,261 960,324 673,324"/>
+				<Baseline points="673,324 960,324"/>
+				<TextEquiv>
+					<Unicode>זאב'לה.- עצות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

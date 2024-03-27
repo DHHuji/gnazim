@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0965.tif">
+		<TextRegion id="eSc_region_669_334_918_334_918_391_669_391" custom="structure {type:text;}">
+			<Coords points="669,334 918,334 918,391 669,391"/>
+			<TextLine id="eSc_line_669_334_918_334_918_391_669_391" custom="structure {type:default;}">
+				<Coords points="669,334 918,334 918,391 669,391"/>
+				<Baseline points="669,391 918,391"/>
+				<TextEquiv>
+					<Unicode>&quot;כוכב הערב&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_261_317_651_317_651_411_261_411" custom="structure {type:text;}">
+			<Coords points="261,317 651,317 651,411 261,411"/>
+			<TextLine id="eSc_line_261_317_651_317_651_411_261_411" custom="structure {type:default;}">
+				<Coords points="261,317 651,317 651,411 261,411"/>
+				<Baseline points="261,411 651,411"/>
+				<TextEquiv>
+					<Unicode>( מה אוברים?, חתום:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_573_653_953_653_953_842_573_842" custom="structure {type:text;}">
+			<Coords points="573,653 953,653 953,842 573,842"/>
+			<TextLine id="eSc_line_573_653_953_653_953_842_573_842" custom="structure {type:default;}">
+				<Coords points="573,653 953,653 953,842 573,842"/>
+				<Baseline points="573,842 953,842"/>
+				<TextEquiv>
+					<Unicode>ו4.2.0ו, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

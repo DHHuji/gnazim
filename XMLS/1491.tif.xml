@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1491.tif">
+		<TextRegion id="eSc_region_286_0_1273_0_1273_773_286_773" custom="structure {type:text;}">
+			<Coords points="286,0 1273,0 1273,773 286,773"/>
+			<TextLine id="eSc_line_286_0_1273_0_1273_773_286_773" custom="structure {type:default;}">
+				<Coords points="286,0 1273,0 1273,773 286,773"/>
+				<Baseline points="286,773 1273,773"/>
+				<TextEquiv>
+					<Unicode>גורי,.תיים סוד קסבה של א&quot;י גורי,.תייםסוד קסבה של א&quot;י&quot;בעקבוה הסוטסן הצחור&quot; מאה שלמה שבאדבר, כג שבס תכמה, 14.2,!1995 עמ12ן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

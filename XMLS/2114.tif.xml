@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2114.tif">
+		<TextRegion id="eSc_region_874_58_1108_58_1108_120_874_120" custom="structure {type:text;}">
+			<Coords points="874,58 1108,58 1108,120 874,120"/>
+			<TextLine id="eSc_line_874_58_1108_58_1108_120_874_120" custom="structure {type:default;}">
+				<Coords points="874,58 1108,58 1108,120 874,120"/>
+				<Baseline points="874,120 1108,120"/>
+				<TextEquiv>
+					<Unicode>גורי חיים |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_99_289_594_289_594_386_99_386" custom="structure {type:text;}">
+			<Coords points="99,289 594,289 594,386 99,386"/>
+			<TextLine id="eSc_line_99_289_594_289_594_386_99_386" custom="structure {type:default;}">
+				<Coords points="99,289 594,289 594,386 99,386"/>
+				<Baseline points="99,386 594,386"/>
+				<TextEquiv>
+					<Unicode>/ -ן(מה אומריסם&quot;, חתום: סג \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_610_307_902_307_902_364_610_364" custom="structure {type:text;}">
+			<Coords points="610,307 902,307 902,364 610,364"/>
+			<TextLine id="eSc_line_610_307_902_307_902_364_610_364" custom="structure {type:default;}">
+				<Coords points="610,307 902,307 902,364 610,364"/>
+				<Baseline points="610,364 902,364"/>
+				<TextEquiv>
+					<Unicode>רשלום על הירח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

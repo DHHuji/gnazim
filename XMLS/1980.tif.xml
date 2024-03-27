@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1980.tif">
+		<TextRegion id="eSc_region_1049_100_1181_100_1181_172_1049_172" custom="structure {type:text;}">
+			<Coords points="1049,100 1181,100 1181,172 1049,172"/>
+			<TextLine id="eSc_line_1049_100_1181_100_1181_172_1049_172" custom="structure {type:default;}">
+				<Coords points="1049,100 1181,100 1181,172 1049,172"/>
+				<Baseline points="1049,172 1181,172"/>
+				<TextEquiv>
+					<Unicode>חגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_80_396_1155_396_1155_542_80_542" custom="structure {type:text;}">
+			<Coords points="80,396 1155,396 1155,542 80,542"/>
+			<TextLine id="eSc_line_80_396_1155_396_1155_542_80_542" custom="structure {type:default;}">
+				<Coords points="80,396 1155,396 1155,542 80,542"/>
+				<Baseline points="80,542 1155,542"/>
+				<TextEquiv>
+					<Unicode>הפופעל הצעיר, ד' סיון תרצ&quot;ב - 8.6.1912 (שבה 25,גליון 30-31, 20-19)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_55_218_1110_218_1110_368_55_368" custom="structure {type:text;}">
+			<Coords points="55,218 1110,218 1110,368 55,368"/>
+			<TextLine id="eSc_line_55_218_1110_218_1110_368_55_368" custom="structure {type:default;}">
+				<Coords points="55,218 1110,218 1110,368 55,368"/>
+				<Baseline points="55,368 1110,368"/>
+				<TextEquiv>
+					<Unicode>&quot;רפובליקה שקיד&quot; [םאת ג.ביליך ול.פגמליב בתרגום
+
+ם.אביעי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

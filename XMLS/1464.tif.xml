@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1464.tif">
+		<TextRegion id="eSc_region_73_8_1208_8_1208_409_73_409" custom="structure {type:text;}">
+			<Coords points="73,8 1208,8 1208,409 73,409"/>
+			<TextLine id="eSc_line_73_8_1208_8_1208_409_73_409" custom="structure {type:default;}">
+				<Coords points="73,8 1208,8 1208,409 73,409"/>
+				<Baseline points="73,409 1208,409"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים גורי,חייםהנסיכה- יי₪ -נה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0939.tif">
+		<TextRegion id="eSc_region_884_21_1180_21_1180_110_884_110" custom="structure {type:text;}">
+			<Coords points="884,21 1180,21 1180,110 884,110"/>
+			<TextLine id="eSc_line_884_21_1180_21_1180_110_884_110" custom="structure {type:default;}">
+				<Coords points="884,21 1180,21 1180,110 884,110"/>
+				<Baseline points="884,110 1180,110"/>
+				<TextEquiv>
+					<Unicode>גורי .הרייס גורי .הרייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

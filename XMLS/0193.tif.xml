@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0193.tif">
+		<TextRegion id="eSc_region_80_0_1258_0_1258_794_80_794" custom="structure {type:text;}">
+			<Coords points="80,0 1258,0 1258,794 80,794"/>
+			<TextLine id="eSc_line_80_0_1258_0_1258_794_80_794" custom="structure {type:default;}">
+				<Coords points="80,0 1258,0 1258,794 80,794"/>
+				<Baseline points="80,794 1258,794"/>
+				<TextEquiv>
+					<Unicode>גורי,הייס אני הולן בעיר,קכאביה,כמו מכניסטסי-אורחים,- גורי,הייסאני הולן בעיר,קכאביה,כמו מכניסטסי-אורחים,-טליר מהוך האנהולוגיה &quot;צפור האבןעל המלמר,פפרוה,ט סיון הכמג,13.5.1695 עמ 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

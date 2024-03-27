@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2260.tif">
+		<TextRegion id="eSc_region_910_122_1234_122_1234_205_910_205" custom="structure {type:text;}">
+			<Coords points="910,122 1234,122 1234,205 910,205"/>
+			<TextLine id="eSc_line_910_122_1234_122_1234_205_910_205" custom="structure {type:default;}">
+				<Coords points="910,122 1234,122 1234,205 910,205"/>
+				<Baseline points="910,205 1234,205"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 07-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_90_298_1256_298_1256_441_90_441" custom="structure {type:text;}">
+			<Coords points="90,298 1256,298 1256,441 90,441"/>
+			<TextLine id="eSc_line_90_298_1256_298_1256_441_90_441" custom="structure {type:default;}">
+				<Coords points="90,298 1256,298 1256,441 90,441"/>
+				<Baseline points="90,441 1256,441"/>
+				<TextEquiv>
+					<Unicode>תפילה לפנור ערב.- אם.- נגינת ביניים.- אל נאאתאסר (פתוך &quot;הרחק מאלגרינה)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_140_606_1202_606_1202_688_140_688" custom="structure {type:text;}">
+			<Coords points="140,606 1202,606 1202,688 140,688"/>
+			<TextLine id="eSc_line_140_606_1202_606_1202_688_140_688" custom="structure {type:default;}">
+				<Coords points="140,606 1202,606 1202,688 140,688"/>
+				<Baseline points="140,688 1202,688"/>
+				<TextEquiv>
+					<Unicode>מצץריב,ספרות,י'אב תשל&quot;ה, (18.7.75),למ' 37</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

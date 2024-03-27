@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1696.tif">
+		<TextRegion id="eSc_region_928_96_1197_96_1197_170_928_170" custom="structure {type:text;}">
+			<Coords points="928,96 1197,96 1197,170 928,170"/>
+			<TextLine id="eSc_line_928_96_1197_96_1197_170_928_170" custom="structure {type:default;}">
+				<Coords points="928,96 1197,96 1197,170 928,170"/>
+				<Baseline points="928,170 1197,170"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_209_214_1082_214_1082_301_209_301" custom="structure {type:text;}">
+			<Coords points="209,214 1082,214 1082,301 209,301"/>
+			<TextLine id="eSc_line_209_214_1082_214_1082_301_209_301" custom="structure {type:default;}">
+				<Coords points="209,214 1082,214 1082,301 209,301"/>
+				<Baseline points="209,301 1082,301"/>
+				<TextEquiv>
+					<Unicode>על הפשכחה,-על &quot;השחיתוה הקסגה&quot; (תגובוה]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_479_348_1193_348_1193_482_479_482" custom="structure {type:text;}">
+			<Coords points="479,348 1193,348 1193,482 479,482"/>
+			<TextLine id="eSc_line_479_348_1193_348_1193_482_479_482" custom="structure {type:default;}">
+				<Coords points="479,348 1193,348 1193,482 479,482"/>
+				<Baseline points="479,482 1193,482"/>
+				<TextEquiv>
+					<Unicode>- . 2
+[ 'ג, לם
+ליו 6 י'
+חטש
+5
+ג
+סש&quot;ת,.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

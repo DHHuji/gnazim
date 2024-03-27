@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1630.tif">
+		<TextRegion id="eSc_region_998_87_1231_87_1231_151_998_151" custom="structure {type:text;}">
+			<Coords points="998,87 1231,87 1231,151 998,151"/>
+			<TextLine id="eSc_line_998_87_1231_87_1231_151_998_151" custom="structure {type:default;}">
+				<Coords points="998,87 1231,87 1231,151 998,151"/>
+				<Baseline points="998,151 1231,151"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_281_511_1204_511_1204_583_281_583" custom="structure {type:text;}">
+			<Coords points="281,511 1204,511 1204,583 281,583"/>
+			<TextLine id="eSc_line_281_511_1204_511_1204_583_281_583" custom="structure {type:default;}">
+				<Coords points="281,511 1204,511 1204,583 281,583"/>
+				<Baseline points="281,583 1204,583"/>
+				<TextEquiv>
+					<Unicode>על הכסמר,ספרות, ג' אייר תסל&quot;ת,(3&quot;07,)10.5,73</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_527_220_1085_220_1085_279_527_279" custom="structure {type:text;}">
+			<Coords points="527,220 1085,220 1085,279 527,279"/>
+			<TextLine id="eSc_line_527_220_1085_220_1085_279_527_279" custom="structure {type:default;}">
+				<Coords points="527,220 1085,220 1085,279 527,279"/>
+				<Baseline points="527,279 1085,279"/>
+				<TextEquiv>
+					<Unicode>קל ברירות הלוחס ורוח היסים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

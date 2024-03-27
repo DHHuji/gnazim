@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1095.tif">
+		<TextRegion id="eSc_region_862_79_1153_79_1153_160_862_160" custom="structure {type:text;}">
+			<Coords points="862,79 1153,79 1153,160 862,160"/>
+			<TextLine id="eSc_line_862_79_1153_79_1153_160_862_160" custom="structure {type:default;}">
+				<Coords points="862,79 1153,79 1153,160 862,160"/>
+				<Baseline points="862,160 1153,160"/>
+				<TextEquiv>
+					<Unicode>גוורי חיים &gt;----+---=- = גוורי חיים
+&gt;----+---=- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_609_225_1077_225_1077_367_609_367" custom="structure {type:text;}">
+			<Coords points="609,225 1077,225 1077,367 609,367"/>
+			<TextLine id="eSc_line_609_225_1077_225_1077_367_609_367" custom="structure {type:default;}">
+				<Coords points="609,225 1077,225 1077,367 609,367"/>
+				<Baseline points="609,367 1077,367"/>
+				<TextEquiv>
+					<Unicode>לילדה חאלד ורחלה אהתום: | הגי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

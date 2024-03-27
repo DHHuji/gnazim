@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1594.tif">
+		<TextRegion id="eSc_region_942_0_1231_0_1231_78_942_78" custom="structure {type:text;}">
+			<Coords points="942,0 1231,0 1231,78 942,78"/>
+			<TextLine id="eSc_line_942_0_1231_0_1231_78_942_78" custom="structure {type:default;}">
+				<Coords points="942,0 1231,0 1231,78 942,78"/>
+				<Baseline points="942,78 1231,78"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_366_486_1228_486_1228_736_366_736" custom="structure {type:text;}">
+			<Coords points="366,486 1228,486 1228,736 366,736"/>
+			<TextLine id="eSc_line_366_486_1228_486_1228_736_366_736" custom="structure {type:default;}">
+				<Coords points="366,486 1228,486 1228,736 366,736"/>
+				<Baseline points="366,736 1228,736"/>
+				<TextEquiv>
+					<Unicode>דבר. יד ניסן תשמג,28,3,!1983 עמ'!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_618_190_1001_190_1001_374_618_374" custom="structure {type:text;}">
+			<Coords points="618,190 1001,190 1001,374 618,374"/>
+			<TextLine id="eSc_line_618_190_1001_190_1001_374_618_374" custom="structure {type:default;}">
+				<Coords points="618,190 1001,190 1001,374 618,374"/>
+				<Baseline points="618,374 1001,374"/>
+				<TextEquiv>
+					<Unicode>צוד על הזכרון
+
+חתום: ח-גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

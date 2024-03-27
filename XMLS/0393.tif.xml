@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0393.tif">
+		<TextRegion id="eSc_region_958_121_1194_121_1194_194_958_194" custom="structure {type:text;}">
+			<Coords points="958,121 1194,121 1194,194 958,194"/>
+			<TextLine id="eSc_line_958_121_1194_121_1194_194_958_194" custom="structure {type:default;}">
+				<Coords points="958,121 1194,121 1194,194 958,194"/>
+				<Baseline points="958,194 1194,194"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_220_628_1029_628_1029_701_220_701" custom="structure {type:text;}">
+			<Coords points="220,628 1029,628 1029,701 220,701"/>
+			<TextLine id="eSc_line_220_628_1029_628_1029_701_220_701" custom="structure {type:default;}">
+				<Coords points="220,628 1029,628 1029,701 220,701"/>
+				<Baseline points="220,701 1029,701"/>
+				<TextEquiv>
+					<Unicode>ץעל המסמר, דף-לפפבגה, !21.11,195, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_690_341_1049_341_1049_408_690_408" custom="structure {type:text;}">
+			<Coords points="690,341 1049,341 1049,408 690,408"/>
+			<TextLine id="eSc_line_690_341_1049_341_1049_408_690_408" custom="structure {type:default;}">
+				<Coords points="690,341 1049,341 1049,408 690,408"/>
+				<Baseline points="690,408 1049,408"/>
+				<TextEquiv>
+					<Unicode>בלדה על מלח משוט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1195.tif">
+		<TextRegion id="eSc_region_935_108_1250_108_1250_182_935_182" custom="structure {type:text;}">
+			<Coords points="935,108 1250,108 1250,182 935,182"/>
+			<TextLine id="eSc_line_935_108_1250_108_1250_182_935_182" custom="structure {type:default;}">
+				<Coords points="935,108 1250,108 1250,182 935,182"/>
+				<Baseline points="935,182 1250,182"/>
+				<TextEquiv>
+					<Unicode>גווי היים 05-יול</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_51_595_1246_595_1246_674_51_674" custom="structure {type:text;}">
+			<Coords points="51,595 1246,595 1246,674 51,674"/>
+			<TextLine id="eSc_line_51_595_1246_595_1246_674_51_674" custom="structure {type:default;}">
+				<Coords points="51,595 1246,595 1246,674 51,674"/>
+				<Baseline points="51,674 1246,674"/>
+				<TextEquiv>
+					<Unicode>2.26 !2רשקרה 2כיוובנוהלמנפוות, או לכפ5חב,למר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_657_292_1166_292_1166_437_657_437" custom="structure {type:text;}">
+			<Coords points="657,292 1166,292 1166,437 657,437"/>
+			<TextLine id="eSc_line_657_292_1166_292_1166_437_657_437" custom="structure {type:default;}">
+				<Coords points="657,292 1166,292 1166,437 657,437"/>
+				<Baseline points="657,437 1166,437"/>
+				<TextEquiv>
+					<Unicode>מותו של מעשווו
+
+(בעטלושים ליהיאל מר)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

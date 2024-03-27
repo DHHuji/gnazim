@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0737.tif">
+		<TextRegion id="eSc_region_892_21_1143_21_1143_86_892_86" custom="structure {type:text;}">
+			<Coords points="892,21 1143,21 1143,86 892,86"/>
+			<TextLine id="eSc_line_892_21_1143_21_1143_86_892_86" custom="structure {type:default;}">
+				<Coords points="892,21 1143,21 1143,86 892,86"/>
+				<Baseline points="892,86 1143,86"/>
+				<TextEquiv>
+					<Unicode>גורי,תייסם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_453_184_1136_184_1136_296_453_296" custom="structure {type:text;}">
+			<Coords points="453,184 1136,184 1136,296 453,296"/>
+			<TextLine id="eSc_line_453_184_1136_184_1136_296_453_296" custom="structure {type:default;}">
+				<Coords points="453,184 1136,184 1136,296 453,296"/>
+				<Baseline points="453,296 1136,296"/>
+				<TextEquiv>
+					<Unicode>&quot;ונוסאת היא עולם של הקווה&quot;גם על סלונסקי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_98_490_932_490_932_696_98_696" custom="structure {type:text;}">
+			<Coords points="98,490 932,490 932,696 98,696"/>
+			<TextLine id="eSc_line_98_490_932_490_932_696_98_696" custom="structure {type:default;}">
+				<Coords points="98,490 932,490 932,696 98,696"/>
+				<Baseline points="98,696 932,696"/>
+				<TextEquiv>
+					<Unicode>השבוע.יד שבס תש&quot;ן0.2,1900ע45ו-17</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

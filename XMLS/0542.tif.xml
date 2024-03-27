@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0542.tif">
+		<TextRegion id="eSc_region_983_113_1238_113_1238_178_983_178" custom="structure {type:text;}">
+			<Coords points="983,113 1238,113 1238,178 983,178"/>
+			<TextLine id="eSc_line_983_113_1238_113_1238_178_983_178" custom="structure {type:default;}">
+				<Coords points="983,113 1238,113 1238,178 983,178"/>
+				<Baseline points="983,178 1238,178"/>
+				<TextEquiv>
+					<Unicode>גורי היי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_266_294_1026_294_1026_454_266_454" custom="structure {type:text;}">
+			<Coords points="266,294 1026,294 1026,454 266,454"/>
+			<TextLine id="eSc_line_266_294_1026_294_1026_454_266_454" custom="structure {type:default;}">
+				<Coords points="266,294 1026,294 1026,454 266,454"/>
+				<Baseline points="266,454 1026,454"/>
+				<TextEquiv>
+					<Unicode>דבריס במקום עבודה אחד וסטלשה הוגי בית)טרור מה אומרים) ףס ום הג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_391_631_1147_631_1147_697_391_697" custom="structure {type:text;}">
+			<Coords points="391,631 1147,631 1147,697 391,697"/>
+			<TextLine id="eSc_line_391_631_1147_631_1147_697_391_697" custom="structure {type:default;}">
+				<Coords points="391,631 1147,631 1147,697 391,697"/>
+				<Baseline points="391,697 1147,697"/>
+				<TextEquiv>
+					<Unicode>דבר, א&quot; המוז הסל&quot;ו, (17.6.77), עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

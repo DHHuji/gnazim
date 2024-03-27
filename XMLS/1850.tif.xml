@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1850.tif">
+		<TextRegion id="eSc_region_869_7_1123_7_1123_72_869_72" custom="structure {type:text;}">
+			<Coords points="869,7 1123,7 1123,72 869,72"/>
+			<TextLine id="eSc_line_869_7_1123_7_1123_72_869_72" custom="structure {type:default;}">
+				<Coords points="869,7 1123,7 1123,72 869,72"/>
+				<Baseline points="869,72 1123,72"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסם ------1---- גורי, חייסם
+------1----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_483_232_942_232_942_429_483_429" custom="structure {type:text;}">
+			<Coords points="483,232 942,232 942,429 483,429"/>
+			<TextLine id="eSc_line_483_232_942_232_942_429_483_429" custom="structure {type:default;}">
+				<Coords points="483,232 942,232 942,429 483,429"/>
+				<Baseline points="483,429 942,429"/>
+				<TextEquiv>
+					<Unicode>פרקים מיופנו של מרגל[ חחוס חגי (7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

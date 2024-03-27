@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1047.tif">
+		<TextRegion id="eSc_region_977_114_1211_114_1211_178_977_178" custom="structure {type:text;}">
+			<Coords points="977,114 1211,114 1211,178 977,178"/>
+			<TextLine id="eSc_line_977_114_1211_114_1211_178_977_178" custom="structure {type:default;}">
+				<Coords points="977,114 1211,114 1211,178 977,178"/>
+				<Baseline points="977,178 1211,178"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים --דה-2----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_393_318_1043_318_1043_467_393_467" custom="structure {type:text;}">
+			<Coords points="393,318 1043,318 1043,467 393,467"/>
+			<TextLine id="eSc_line_393_318_1043_318_1043_467_393_467" custom="structure {type:default;}">
+				<Coords points="393,318 1043,318 1043,467 393,467"/>
+				<Baseline points="393,467 1043,467"/>
+				<TextEquiv>
+					<Unicode>לאחר[ חתום ח-גי, גם על יעקב סבתאי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_483_592_1204_592_1204_818_483_818" custom="structure {type:text;}">
+			<Coords points="483,592 1204,592 1204,818 483,818"/>
+			<TextLine id="eSc_line_483_592_1204_592_1204_818_483_818" custom="structure {type:default;}">
+				<Coords points="483,592 1204,592 1204,818 483,818"/>
+				<Baseline points="483,818 1204,818"/>
+				<TextEquiv>
+					<Unicode>דבר, יר תשרי תסם&quot;ב,(12.10.81),ע2*5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

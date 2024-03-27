@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0283.tif">
+		<TextRegion id="eSc_region_919_87_1240_87_1240_170_919_170" custom="structure {type:text;}">
+			<Coords points="919,87 1240,87 1240,170 919,170"/>
+			<TextLine id="eSc_line_919_87_1240_87_1240_170_919_170" custom="structure {type:default;}">
+				<Coords points="919,87 1240,87 1240,170 919,170"/>
+				<Baseline points="919,170 1240,170"/>
+				<TextEquiv>
+					<Unicode>גורי חיים #NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_53_586_1212_586_1212_673_53_673" custom="structure {type:text;}">
+			<Coords points="53,586 1212,586 1212,673 53,673"/>
+			<TextLine id="eSc_line_53_586_1212_586_1212_673_53_673" custom="structure {type:default;}">
+				<Coords points="53,586 1212,586 1212,673 53,673"/>
+				<Baseline points="53,673 1212,673"/>
+				<TextEquiv>
+					<Unicode>הספר בישראל, כרך 1!0, תטכ&quot;ס, חוב' גא-ב, עמי 32</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_81_255_829_255_829_348_81_348" custom="structure {type:text;}">
+			<Coords points="81,255 829,255 829,348 81,348"/>
+			<TextLine id="eSc_line_81_255_829_255_829_348_81_348" custom="structure {type:default;}">
+				<Coords points="81,255 829,255 829,348 81,348"/>
+				<Baseline points="81,348 829,348"/>
+				<TextEquiv>
+					<Unicode>[עמוד מהוך &quot;דפים ירוסלמיים&quot;!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

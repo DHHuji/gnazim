@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1828.tif">
+		<TextRegion id="eSc_region_917_67_1153_67_1153_131_917_131" custom="structure {type:text;}">
+			<Coords points="917,67 1153,67 1153,131 917,131"/>
+			<TextLine id="eSc_line_917_67_1153_67_1153_131_917_131" custom="structure {type:default;}">
+				<Coords points="917,67 1153,67 1153,131 917,131"/>
+				<Baseline points="917,131 1153,131"/>
+				<TextEquiv>
+					<Unicode>גורי, היים 0-7 גורי, היים
+0-7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_324_656_1146_656_1146_838_324_838" custom="structure {type:text;}">
+			<Coords points="324,656 1146,656 1146,838 324,838"/>
+			<TextLine id="eSc_line_324_656_1146_656_1146_838_324_838" custom="structure {type:default;}">
+				<Coords points="324,656 1146,656 1146,838 324,838"/>
+				<Baseline points="324,838 1146,838"/>
+				<TextEquiv>
+					<Unicode>בסער, בסאון החסיבה הצעירה, 6.5.48, ק' 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

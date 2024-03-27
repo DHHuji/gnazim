@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2235.tif">
+		<TextRegion id="eSc_region_0_0_1184_0_1184_474_0_474" custom="structure {type:text;}">
+			<Coords points="0,0 1184,0 1184,474 0,474"/>
+			<TextLine id="eSc_line_0_0_1184_0_1184_474_0_474" custom="structure {type:default;}">
+				<Coords points="0,0 1184,0 1184,474 0,474"/>
+				<Baseline points="0,474 1184,474"/>
+				<TextEquiv>
+					<Unicode>גורי, תייםהתל-עפל (פה אומרים?) חתום -₪ה ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_183_500_973_500_973_858_183_858" custom="structure {type:text;}">
+			<Coords points="183,500 973,500 973,858 183,858"/>
+			<TextLine id="eSc_line_183_500_973_500_973_858_183_858" custom="structure {type:default;}">
+				<Coords points="183,500 973,500 973,858 183,858"/>
+				<Baseline points="183,858 973,858"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 7.12.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

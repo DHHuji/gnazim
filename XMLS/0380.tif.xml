@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0380.tif">
+		<TextRegion id="eSc_region_1015_107_1245_107_1245_171_1015_171" custom="structure {type:text;}">
+			<Coords points="1015,107 1245,107 1245,171 1015,171"/>
+			<TextLine id="eSc_line_1015_107_1245_107_1245_171_1015_171" custom="structure {type:default;}">
+				<Coords points="1015,107 1245,107 1245,171 1015,171"/>
+				<Baseline points="1015,171 1245,171"/>
+				<TextEquiv>
+					<Unicode>, חייס גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_118_240_1101_240_1101_402_118_402" custom="structure {type:text;}">
+			<Coords points="118,240 1101,240 1101,402 118,402"/>
+			<TextLine id="eSc_line_118_240_1101_240_1101_402_118_402" custom="structure {type:default;}">
+				<Coords points="118,240 1101,240 1101,402 118,402"/>
+				<Baseline points="118,402 1101,402"/>
+				<TextEquiv>
+					<Unicode>בית הסכן.- פרסים נוספיס קל &quot;הפועל הארת-אל-סאנל&quot;חתום ח-גי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_503_583_1203_583_1203_650_503_650" custom="structure {type:text;}">
+			<Coords points="503,583 1203,583 1203,650 503,650"/>
+			<TextLine id="eSc_line_503_583_1203_583_1203_650_503_650" custom="structure {type:default;}">
+				<Coords points="503,583 1203,583 1203,650 503,650"/>
+				<Baseline points="503,650 1203,650"/>
+				<TextEquiv>
+					<Unicode>דבר, תח&quot; אב תשל&quot;ח,(11.8.78), עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

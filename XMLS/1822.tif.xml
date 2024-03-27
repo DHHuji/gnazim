@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1822.tif">
+		<TextRegion id="eSc_region_936_124_1231_124_1231_190_936_190" custom="structure {type:text;}">
+			<Coords points="936,124 1231,124 1231,190 936,190"/>
+			<TextLine id="eSc_line_936_124_1231_124_1231_190_936_190" custom="structure {type:default;}">
+				<Coords points="936,124 1231,124 1231,190 936,190"/>
+				<Baseline points="936,190 1231,190"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס -------1------- גורי, חייס
+-------1-------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_158_625_1182_625_1182_692_158_692" custom="structure {type:text;}">
+			<Coords points="158,625 1182,625 1182,692 158,692"/>
+			<TextLine id="eSc_line_158_625_1182_625_1182_692_158_692" custom="structure {type:default;}">
+				<Coords points="158,625 1182,625 1182,692 158,692"/>
+				<Baseline points="158,692 1182,692"/>
+				<TextEquiv>
+					<Unicode>ידיעות אהרוגות, םס תשרי השל&quot;ה, (25.9.74), עקם 14/13</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

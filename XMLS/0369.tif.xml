@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0369.tif">
+		<TextRegion id="eSc_region_777_677_936_677_936_731_777_731" custom="structure {type:text;}">
+			<Coords points="777,677 936,677 936,731 777,731"/>
+			<TextLine id="eSc_line_777_677_936_677_936_731_777_731" custom="structure {type:default;}">
+				<Coords points="777,677 936,677 936,731 777,731"/>
+				<Baseline points="777,731 936,731"/>
+				<TextEquiv>
+					<Unicode>למרחב, למרחב,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_323_347_537_347_537_402_323_402" custom="structure {type:text;}">
+			<Coords points="323,347 537,347 537,402 323,402"/>
+			<TextLine id="eSc_line_323_347_537_347_537_402_323_402" custom="structure {type:default;}">
+				<Coords points="323,347 537,347 537,402 323,402"/>
+				<Baseline points="323,402 537,402"/>
+				<TextEquiv>
+					<Unicode>אופרים?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

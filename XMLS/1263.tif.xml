@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1263.tif">
+		<TextRegion id="eSc_region_21_0_1242_0_1242_738_21_738" custom="structure {type:text;}">
+			<Coords points="21,0 1242,0 1242,738 21,738"/>
+			<TextLine id="eSc_line_21_0_1242_0_1242_738_21_738" custom="structure {type:default;}">
+				<Coords points="21,0 1242,0 1242,738 21,738"/>
+				<Baseline points="21,738 1242,738"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים &quot;מלהכה | אזרחים&quot; גורי.חיים&quot;מלהכה | אזרחים&quot;גם על יאיר סלססרן, נתן אלהרמן,ידיעוה התרונוה,יב חעשון הימג.209.10,1!082 עמ0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

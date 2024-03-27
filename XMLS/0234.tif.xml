@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0234.tif">
+		<TextRegion id="eSc_region_888_100_1203_100_1203_174_888_174" custom="structure {type:text;}">
+			<Coords points="888,100 1203,100 1203,174 888,174"/>
+			<TextLine id="eSc_line_888_100_1203_100_1203_174_888_174" custom="structure {type:default;}">
+				<Coords points="888,100 1203,100 1203,174 888,174"/>
+				<Baseline points="888,174 1203,174"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_256_243_972_243_972_457_256_457" custom="structure {type:text;}">
+			<Coords points="256,243 972,243 972,457 256,457"/>
+			<TextLine id="eSc_line_256_243_972_243_972_457_256_457" custom="structure {type:default;}">
+				<Coords points="256,243 972,243 972,457 256,457"/>
+				<Baseline points="256,457 972,457"/>
+				<TextEquiv>
+					<Unicode>&quot;אוץ חמדת לב&quot; [על עתידה טלמדינת יסואל] [מדור: רשימווסוף השבוע] [חתום: חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_711_613_1199_613_1199_693_711_693" custom="structure {type:text;}">
+			<Coords points="711,613 1199,613 1199,693 711,693"/>
+			<TextLine id="eSc_line_711_613_1199_613_1199_693_711_693" custom="structure {type:default;}">
+				<Coords points="711,613 1199,613 1199,693 711,693"/>
+				<Baseline points="711,693 1199,693"/>
+				<TextEquiv>
+					<Unicode>דבר, 8.12.72,עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

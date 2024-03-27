@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2048.tif">
+		<TextRegion id="eSc_region_766_82_1058_82_1058_162_766_162" custom="structure {type:text;}">
+			<Coords points="766,82 1058,82 1058,162 766,162"/>
+			<TextLine id="eSc_line_766_82_1058_82_1058_162_766_162" custom="structure {type:default;}">
+				<Coords points="766,82 1058,82 1058,162 766,162"/>
+				<Baseline points="766,162 1058,162"/>
+				<TextEquiv>
+					<Unicode>גורי, החיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_170_285_826_285_826_451_170_451" custom="structure {type:text;}">
+			<Coords points="170,285 826,285 826,451 170,451"/>
+			<TextLine id="eSc_line_170_285_826_285_826_451_170_451" custom="structure {type:default;}">
+				<Coords points="170,285 826,285 826,451 170,451"/>
+				<Baseline points="170,451 826,451"/>
+				<TextEquiv>
+					<Unicode>סיחה ברחוב (סה אוסרים?)[חתום הג )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_217_596_848_596_848_677_217_677" custom="structure {type:text;}">
+			<Coords points="217,596 848,596 848,677 217,677"/>
+			<TextLine id="eSc_line_217_596_848_596_848_677_217_677" custom="structure {type:default;}">
+				<Coords points="217,596 848,596 848,677 217,677"/>
+				<Baseline points="217,677 848,677"/>
+				<TextEquiv>
+					<Unicode>לסרחב, 4.12.1961, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

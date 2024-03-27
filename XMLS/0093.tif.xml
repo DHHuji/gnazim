@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0093.tif">
+		<TextRegion id="eSc_region_989_77_1241_77_1241_165_989_165" custom="structure {type:text;}">
+			<Coords points="989,77 1241,77 1241,165 989,165"/>
+			<TextLine id="eSc_line_989_77_1241_77_1241_165_989_165" custom="structure {type:default;}">
+				<Coords points="989,77 1241,77 1241,165 989,165"/>
+				<Baseline points="989,165 1241,165"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_419_569_1221_569_1221_839_419_839" custom="structure {type:text;}">
+			<Coords points="419,569 1221,569 1221,839 419,839"/>
+			<TextLine id="eSc_line_419_569_1221_569_1221_839_419_839" custom="structure {type:default;}">
+				<Coords points="419,569 1221,569 1221,839 419,839"/>
+				<Baseline points="419,839 1221,839"/>
+				<TextEquiv>
+					<Unicode>22 ה 2פבפנים, 4, חורף תשל&quot;ת, כרך ס&quot;, עמ'343</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_706_285_1120_285_1120_433_706_433" custom="structure {type:text;}">
+			<Coords points="706,285 1120,285 1120,433 706,433"/>
+			<TextLine id="eSc_line_706_285_1120_285_1120_433_706_433" custom="structure {type:default;}">
+				<Coords points="706,285 1120,285 1120,433 706,433"/>
+				<Baseline points="706,433 1120,433"/>
+				<TextEquiv>
+					<Unicode>אחרת
+
+ציר, לזכר צביה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

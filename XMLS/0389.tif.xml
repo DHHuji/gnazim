@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0389.tif">
+		<TextRegion id="eSc_region_1000_123_1254_123_1254_188_1000_188" custom="structure {type:text;}">
+			<Coords points="1000,123 1254,123 1254,188 1000,188"/>
+			<TextLine id="eSc_line_1000_123_1254_123_1254_188_1000_188" custom="structure {type:default;}">
+				<Coords points="1000,123 1254,123 1254,188 1000,188"/>
+				<Baseline points="1000,188 1254,188"/>
+				<TextEquiv>
+					<Unicode>י גורי, חי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_199_600_1246_600_1246_844_199_844" custom="structure {type:text;}">
+			<Coords points="199,600 1246,600 1246,844 199,844"/>
+			<TextLine id="eSc_line_199_600_1246_600_1246_844_199_844" custom="structure {type:default;}">
+				<Coords points="199,600 1246,600 1246,844 199,844"/>
+				<Baseline points="199,844 1246,844"/>
+				<TextEquiv>
+					<Unicode>על המשסר,דף לסערות, כס תשרי תשיָ&quot;ג,(17.10.52), עמ 5,. ב &quot;] ₪32 2 ) 0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_757_307_1044_307_1044_364_757_364" custom="structure {type:text;}">
+			<Coords points="757,307 1044,307 1044,364 757,364"/>
+			<TextLine id="eSc_line_757_307_1044_307_1044_364_757_364" custom="structure {type:default;}">
+				<Coords points="757,307 1044,307 1044,364 757,364"/>
+				<Baseline points="757,364 1044,364"/>
+				<TextEquiv>
+					<Unicode>בכינוט הרביעי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

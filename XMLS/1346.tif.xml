@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1346.tif">
+		<TextRegion id="eSc_region_883_67_1117_67_1117_131_883_131" custom="structure {type:text;}">
+			<Coords points="883,67 1117,67 1117,131 883,131"/>
+			<TextLine id="eSc_line_883_67_1117_67_1117_131_883_131" custom="structure {type:default;}">
+				<Coords points="883,67 1117,67 1117,131 883,131"/>
+				<Baseline points="883,131 1117,131"/>
+				<TextEquiv>
+					<Unicode>י גודי, מיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_145_470_1149_470_1149_539_145_539" custom="structure {type:text;}">
+			<Coords points="145,470 1149,470 1149,539 145,539"/>
+			<TextLine id="eSc_line_145_470_1149_470_1149_539_145_539" custom="structure {type:default;}">
+				<Coords points="145,470 1149,470 1149,539 145,539"/>
+				<Baseline points="145,539 1149,539"/>
+				<TextEquiv>
+					<Unicode>י 57, גל&quot; לג, ס&quot; המוז השל&quot;ח, עס&quot; 551/23</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_517_206_927_206_927_260_517_260" custom="structure {type:text;}">
+			<Coords points="517,206 927,206 927,260 517,260"/>
+			<TextLine id="eSc_line_517_206_927_206_927_260_517_260" custom="structure {type:default;}">
+				<Coords points="517,206 927,206 927,260 517,260"/>
+				<Baseline points="517,260 927,260"/>
+				<TextEquiv>
+					<Unicode>מפה ורפבן תמוגן נלב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

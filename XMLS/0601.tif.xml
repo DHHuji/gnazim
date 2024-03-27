@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0601.tif">
+		<TextRegion id="eSc_region_854_290_1175_290_1175_438_854_438" custom="structure {type:text;}">
+			<Coords points="854,290 1175,290 1175,438 854,438"/>
+			<TextLine id="eSc_line_854_290_1175_290_1175_438_854_438" custom="structure {type:default;}">
+				<Coords points="854,290 1175,290 1175,438 854,438"/>
+				<Baseline points="854,438 1175,438"/>
+				<TextEquiv>
+					<Unicode>דלות &gt; 0 דלות &gt;
+
+0
+
+כיות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_148_285_667_285_667_371_148_371" custom="structure {type:text;}">
+			<Coords points="148,285 667,285 667,371 148,371"/>
+			<TextLine id="eSc_line_148_285_667_285_667_371_148_371" custom="structure {type:default;}">
+				<Coords points="148,285 667,285 667,371 148,371"/>
+				<Baseline points="148,371 667,371"/>
+				<TextEquiv>
+					<Unicode>מה טוטרים ?ל , התום:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1633.tif">
+		<TextRegion id="eSc_region_810_196_898_196_898_250_810_250" custom="structure {type:text;}">
+			<Coords points="810,196 898,196 898,250 810,250"/>
+			<TextLine id="eSc_line_810_196_898_196_898_250_810_250" custom="structure {type:default;}">
+				<Coords points="810,196 898,196 898,250 810,250"/>
+				<Baseline points="810,250 898,250"/>
+				<TextEquiv>
+					<Unicode>האו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_541_607_1259_607_1259_820_541_820" custom="structure {type:text;}">
+			<Coords points="541,607 1259,607 1259,820 541,820"/>
+			<TextLine id="eSc_line_541_607_1259_607_1259_820_541_820" custom="structure {type:default;}">
+				<Coords points="541,607 1259,607 1259,820 541,820"/>
+				<Baseline points="541,820 1259,820"/>
+				<TextEquiv>
+					<Unicode>פרוזר, חוב'39-36, יוגי 1980, לס*14</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_704_339_875_339_875_396_704_396" custom="structure {type:text;}">
+			<Coords points="704,339 875,339 875,396 704,396"/>
+			<TextLine id="eSc_line_704_339_875_339_875_396_704_396" custom="structure {type:default;}">
+				<Coords points="704,339 875,339 875,396 704,396"/>
+				<Baseline points="704,396 875,396"/>
+				<TextEquiv>
+					<Unicode>הסתקפות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

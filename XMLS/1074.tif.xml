@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1074.tif">
+		<TextRegion id="eSc_region_866_56_1121_56_1121_120_866_120" custom="structure {type:text;}">
+			<Coords points="866,56 1121,56 1121,120 866,120"/>
+			<TextLine id="eSc_line_866_56_1121_56_1121_120_866_120" custom="structure {type:default;}">
+				<Coords points="866,56 1121,56 1121,120 866,120"/>
+				<Baseline points="866,120 1121,120"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים .ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_320_277_787_277_787_440_320_440" custom="structure {type:text;}">
+			<Coords points="320,277 787,277 787,440 320,440"/>
+			<TextLine id="eSc_line_320_277_787_277_787_440_320_440" custom="structure {type:default;}">
+				<Coords points="320,277 787,277 787,440 320,440"/>
+				<Baseline points="320,440 787,440"/>
+				<TextEquiv>
+					<Unicode>(מדרור רשימוחת סוף שבוע)חתוס הגור (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_479_555_1177_555_1177_620_479_620" custom="structure {type:text;}">
+			<Coords points="479,555 1177,555 1177,620 479,620"/>
+			<TextLine id="eSc_line_479_555_1177_555_1177_620_479_620" custom="structure {type:default;}">
+				<Coords points="479,555 1177,555 1177,620 479,620"/>
+				<Baseline points="479,620 1177,620"/>
+				<TextEquiv>
+					<Unicode>דבר, כה המוז תסל&quot;ה,(4.7.75), לם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

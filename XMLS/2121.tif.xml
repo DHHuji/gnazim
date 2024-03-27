@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2121.tif">
+		<TextRegion id="eSc_region_885_94_1114_94_1114_157_885_157" custom="structure {type:text;}">
+			<Coords points="885,94 1114,94 1114,157 885,157"/>
+			<TextLine id="eSc_line_885_94_1114_94_1114_157_885_157" custom="structure {type:default;}">
+				<Coords points="885,94 1114,94 1114,157 885,157"/>
+				<Baseline points="885,157 1114,157"/>
+				<TextEquiv>
+					<Unicode>,. חיים גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_294_461_1013_461_1013_558_294_558" custom="structure {type:text;}">
+			<Coords points="294,461 1013,461 1013,558 294,558"/>
+			<TextLine id="eSc_line_294_461_1013_461_1013_558_294_558" custom="structure {type:default;}">
+				<Coords points="294,461 1013,461 1013,558 294,558"/>
+				<Baseline points="294,558 1013,558"/>
+				<TextEquiv>
+					<Unicode>דבר, ח כסלו השמ ב,(4.12.81),למ* 14</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_605_249_975_249_975_354_605_354" custom="structure {type:text;}">
+			<Coords points="605,249 975,249 975,354 605,354"/>
+			<TextLine id="eSc_line_605_249_975_249_975_354_605_354" custom="structure {type:default;}">
+				<Coords points="605,249 975,249 975,354 605,354"/>
+				<Baseline points="605,354 975,354"/>
+				<TextEquiv>
+					<Unicode>סלסה ימים בלבנון;
+אל הימים האחרים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1317.tif">
+		<TextRegion id="eSc_region_200_646_1149_646_1149_813_200_813" custom="structure {type:text;}">
+			<Coords points="200,646 1149,646 1149,813 200,813"/>
+			<TextLine id="eSc_line_200_646_1149_646_1149_813_200_813" custom="structure {type:default;}">
+				<Coords points="200,646 1149,646 1149,813 200,813"/>
+				<Baseline points="200,813 1149,813"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספריה, ה&quot; הערן השל&quot;ז,(20.10.76), עם&quot; 37</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_245_556_675_556_675_618_245_618" custom="structure {type:text;}">
+			<Coords points="245,556 675,556 675,618 245,618"/>
+			<TextLine id="eSc_line_245_556_675_556_675_618_245_618" custom="structure {type:default;}">
+				<Coords points="245,556 675,556 675,618 245,618"/>
+				<Baseline points="245,618 675,618"/>
+				<TextEquiv>
+					<Unicode>,. והזמן&quot;)
+(מתוך '&quot;השירר וה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

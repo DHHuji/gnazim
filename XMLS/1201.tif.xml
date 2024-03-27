@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1201.tif">
+		<TextRegion id="eSc_region_937_93_1236_93_1236_175_937_175" custom="structure {type:text;}">
+			<Coords points="937,93 1236,93 1236,175 937,175"/>
+			<TextLine id="eSc_line_937_93_1236_93_1236_175_937_175" custom="structure {type:default;}">
+				<Coords points="937,93 1236,93 1236,175 937,175"/>
+				<Baseline points="937,175 1236,175"/>
+				<TextEquiv>
+					<Unicode>גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_52_240_981_240_981_397_52_397" custom="structure {type:text;}">
+			<Coords points="52,240 981,240 981,397 52,397"/>
+			<TextLine id="eSc_line_52_240_981_240_981_397_52_397" custom="structure {type:default;}">
+				<Coords points="52,240 981,240 981,397 52,397"/>
+				<Baseline points="52,397 981,397"/>
+				<TextEquiv>
+					<Unicode>מזרח ולערב  ‎ -.‏ תמול עלשום[מדור: רשיסות סוף השבוע, חהום:חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_582_563_1206_563_1206_653_582_653" custom="structure {type:text;}">
+			<Coords points="582,563 1206,563 1206,653 582,653"/>
+			<TextLine id="eSc_line_582_563_1206_563_1206_653_582_653" custom="structure {type:default;}">
+				<Coords points="582,563 1206,563 1206,653 582,653"/>
+				<Baseline points="582,653 1206,653"/>
+				<TextEquiv>
+					<Unicode>למרתב, 0 6
+תב, 27.2.1970, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

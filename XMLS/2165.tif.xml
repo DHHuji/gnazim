@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2165.tif">
+		<TextRegion id="eSc_region_273_0_1252_0_1252_861_273_861" custom="structure {type:text;}">
+			<Coords points="273,0 1252,0 1252,861 273,861"/>
+			<TextLine id="eSc_line_273_0_1252_0_1252_861_273_861" custom="structure {type:default;}">
+				<Coords points="273,0 1252,0 1252,861 273,861"/>
+				<Baseline points="273,861 1252,861"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים שגיים משירי רובע שש גורי,חייםשגיים משירי רובע ששא. [(&quot;יקירי הפורחים כפרחי הסדה...&quot;|ב. [&quot;האת האשה הצופה בי...&quot;](בורפסס,יצסב,-ינואר 1948)פל המסמר,3.9.48 פם'3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

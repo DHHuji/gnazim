@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0664.tif">
+		<TextRegion id="eSc_region_923_109_1162_109_1162_176_923_176" custom="structure {type:text;}">
+			<Coords points="923,109 1162,109 1162,176 923,176"/>
+			<TextLine id="eSc_line_923_109_1162_109_1162_176_923_176" custom="structure {type:default;}">
+				<Coords points="923,109 1162,109 1162,176 923,176"/>
+				<Baseline points="923,176 1162,176"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס =-ד-ה =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_36_592_1215_592_1215_665_36_665" custom="structure {type:text;}">
+			<Coords points="36,592 1215,592 1215,665 36,665"/>
+			<TextLine id="eSc_line_36_592_1215_592_1215_665_36_665" custom="structure {type:default;}">
+				<Coords points="36,592 1215,592 1215,665 36,665"/>
+				<Baseline points="36,665 1215,665"/>
+				<TextEquiv>
+					<Unicode>יריעות אתרונות,ספרות,גל [!, ב אייר תסל&quot;ג,4.5.1973, למ5/3&quot;7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_260_254_954_254_954_317_260_317" custom="structure {type:text;}">
+			<Coords points="260,254 954,254 954,317 260,317"/>
+			<TextLine id="eSc_line_260_254_954_254_954_317_260_317" custom="structure {type:default;}">
+				<Coords points="260,254 954,254 954,317 260,317"/>
+				<Baseline points="260,317 954,317"/>
+				<TextEquiv>
+					<Unicode>היתה זו הקופה של &quot;גוף ואשון רבים&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

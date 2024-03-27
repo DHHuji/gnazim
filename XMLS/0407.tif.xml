@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0407.tif">
+		<TextRegion id="eSc_region_852_69_1159_69_1159_155_852_155" custom="structure {type:text;}">
+			<Coords points="852,69 1159,69 1159,155 852,155"/>
+			<TextLine id="eSc_line_852_69_1159_69_1159_155_852_155" custom="structure {type:default;}">
+				<Coords points="852,69 1159,69 1159,155 852,155"/>
+				<Baseline points="852,155 1159,155"/>
+				<TextEquiv>
+					<Unicode>גורי, חיי ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_139_287_1100_287_1100_457_139_457" custom="structure {type:text;}">
+			<Coords points="139,287 1100,287 1100,457 139,457"/>
+			<TextLine id="eSc_line_139_287_1100_287_1100_457_139_457" custom="structure {type:default;}">
+				<Coords points="139,287 1100,287 1100,457 139,457"/>
+				<Baseline points="139,457 1100,457"/>
+				<TextEquiv>
+					<Unicode>בפרכז המטחרי ההרום או על הרגע והנצח(פה אופסרים?) [חתום חגי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_243_572_890_572_890_661_243_661" custom="structure {type:text;}">
+			<Coords points="243,572 890,572 890,661 243,661"/>
+			<TextLine id="eSc_line_243_572_890_572_890_661_243_661" custom="structure {type:default;}">
+				<Coords points="243,572 890,572 890,661 243,661"/>
+				<Baseline points="243,661 890,661"/>
+				<TextEquiv>
+					<Unicode>למרחב, 1.12.1957, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

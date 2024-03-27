@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0439.tif">
+		<TextRegion id="eSc_region_933_84_1247_84_1247_177_933_177" custom="structure {type:text;}">
+			<Coords points="933,84 1247,84 1247,177 933,177"/>
+			<TextLine id="eSc_line_933_84_1247_84_1247_177_933_177" custom="structure {type:default;}">
+				<Coords points="933,84 1247,84 1247,177 933,177"/>
+				<Baseline points="933,177 1247,177"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;----2------ ה גורי חיים
+&lt;----2------ ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_372_272_1000_272_1000_418_372_418" custom="structure {type:text;}">
+			<Coords points="372,272 1000,272 1000,418 372,418"/>
+			<TextLine id="eSc_line_372_272_1000_272_1000_418_372_418" custom="structure {type:default;}">
+				<Coords points="372,272 1000,272 1000,418 372,418"/>
+				<Baseline points="372,418 1000,418"/>
+				<TextEquiv>
+					<Unicode>בעקבוה פקודה אחת ‏ ולדור:סוף השבוע, חהום: חגורן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

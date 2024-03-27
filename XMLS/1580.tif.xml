@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1580.tif">
+		<TextRegion id="eSc_region_946_106_1245_106_1245_166_946_166" custom="structure {type:text;}">
+			<Coords points="946,106 1245,106 1245,166 946,166"/>
+			<TextLine id="eSc_line_946_106_1245_106_1245_166_946_166" custom="structure {type:default;}">
+				<Coords points="946,106 1245,106 1245,166 946,166"/>
+				<Baseline points="946,166 1245,166"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים = -&lt;------ גווי, חיים= -&lt;------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_825_597_1217_597_1217_662_825_662" custom="structure {type:text;}">
+			<Coords points="825,597 1217,597 1217,662 825,662"/>
+			<TextLine id="eSc_line_825_597_1217_597_1217_662_825_662" custom="structure {type:default;}">
+				<Coords points="825,597 1217,597 1217,662 825,662"/>
+				<Baseline points="825,662 1217,662"/>
+				<TextEquiv>
+					<Unicode>למרחב, 3.1969
+
+-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

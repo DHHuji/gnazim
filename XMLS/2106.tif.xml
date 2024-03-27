@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2106.tif">
+		<TextRegion id="eSc_region_747_39_983_39_983_104_747_104" custom="structure {type:text;}">
+			<Coords points="747,39 983,39 983,104 747,104"/>
+			<TextLine id="eSc_line_747_39_983_39_983_104_747_104" custom="structure {type:default;}">
+				<Coords points="747,39 983,39 983,104 747,104"/>
+				<Baseline points="747,104 983,104"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסם 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_48_217_977_217_977_281_48_281" custom="structure {type:text;}">
+			<Coords points="48,217 977,217 977,281 48,281"/>
+			<TextLine id="eSc_line_48_217_977_217_977_281_48_281" custom="structure {type:default;}">
+				<Coords points="48,217 977,217 977,281 48,281"/>
+				<Baseline points="48,281 977,281"/>
+				<TextEquiv>
+					<Unicode>שלגי אשתקר ופצעים נוסנים,- השיר ץעל אסיר פראג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_232_465_973_465_973_535_232_535" custom="structure {type:text;}">
+			<Coords points="232,465 973,465 973,535 232,535"/>
+			<TextLine id="eSc_line_232_465_973_465_973_535_232_535" custom="structure {type:default;}">
+				<Coords points="232,465 973,465 973,535 232,535"/>
+				<Baseline points="232,535 973,535"/>
+				<TextEquiv>
+					<Unicode>יבר, יג חמוז תש&quot;ם,(27.6.80), עמ&quot; 16</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

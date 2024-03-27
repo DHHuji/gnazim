@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1891.tif">
+		<TextRegion id="eSc_region_966_70_1218_70_1218_159_966_159" custom="structure {type:text;}">
+			<Coords points="966,70 1218,70 1218,159 966,159"/>
+			<TextLine id="eSc_line_966_70_1218_70_1218_159_966_159" custom="structure {type:default;}">
+				<Coords points="966,70 1218,70 1218,159 966,159"/>
+				<Baseline points="966,159 1218,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_292_564_832_564_832_656_292_656" custom="structure {type:text;}">
+			<Coords points="292,564 832,564 832,656 292,656"/>
+			<TextLine id="eSc_line_292_564_832_564_832_656_292_656" custom="structure {type:default;}">
+				<Coords points="292,564 832,564 832,656 292,656"/>
+				<Baseline points="292,656 832,656"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 13.12.1956, לם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_540_268_1056_268_1056_356_540_356" custom="structure {type:text;}">
+			<Coords points="540,268 1056,268 1056,356 540,356"/>
+			<TextLine id="eSc_line_540_268_1056_268_1056_356_540_356" custom="structure {type:default;}">
+				<Coords points="540,268 1056,268 1056,356 540,356"/>
+				<Baseline points="540,356 1056,356"/>
+				<TextEquiv>
+					<Unicode>הקו האדום (מה אוסרים?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

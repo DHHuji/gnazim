@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1870.tif">
+		<TextRegion id="eSc_region_803_95_1116_95_1116_170_803_170" custom="structure {type:text;}">
+			<Coords points="803,95 1116,95 1116,170 803,170"/>
+			<TextLine id="eSc_line_803_95_1116_95_1116_170_803_170" custom="structure {type:default;}">
+				<Coords points="803,95 1116,95 1116,170 803,170"/>
+				<Baseline points="803,170 1116,170"/>
+				<TextEquiv>
+					<Unicode>ו | ו
+
+|
+
+רי חיים
+
+= 7-7 --2--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_447_277_1039_277_1039_416_447_416" custom="structure {type:text;}">
+			<Coords points="447,277 1039,277 1039,416 447,416"/>
+			<TextLine id="eSc_line_447_277_1039_277_1039_416_447_416" custom="structure {type:default;}">
+				<Coords points="447,277 1039,277 1039,416 447,416"/>
+				<Baseline points="447,416 1039,416"/>
+				<TextEquiv>
+					<Unicode>צל המזרה במערב ‏ ;בעיר קסנה על חוף התכלת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

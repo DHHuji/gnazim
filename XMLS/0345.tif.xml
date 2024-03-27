@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0345.tif">
+		<TextRegion id="eSc_region_829_99_1182_99_1182_182_829_182" custom="structure {type:text;}">
+			<Coords points="829,99 1182,99 1182,182 829,182"/>
+			<TextLine id="eSc_line_829_99_1182_99_1182_182_829_182" custom="structure {type:default;}">
+				<Coords points="829,99 1182,99 1182,182 829,182"/>
+				<Baseline points="829,182 1182,182"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 05-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_115_262_1046_262_1046_422_115_422" custom="structure {type:text;}">
+			<Coords points="115,262 1046,262 1046,422 115,422"/>
+			<TextLine id="eSc_line_115_262_1046_262_1046_422_115_422" custom="structure {type:default;}">
+				<Coords points="115,262 1046,262 1046,422 115,422"/>
+				<Baseline points="115,422 1046,422"/>
+				<TextEquiv>
+					<Unicode>בין יפו למינכן [מדוו: מרשימוהת סוףהשבוע] [חתום: חגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_519_566_1124_566_1124_653_519_653" custom="structure {type:text;}">
+			<Coords points="519,566 1124,566 1124,653 519,653"/>
+			<TextLine id="eSc_line_519_566_1124_566_1124_653_519_653" custom="structure {type:default;}">
+				<Coords points="519,566 1124,566 1124,653 519,653"/>
+				<Baseline points="519,653 1124,653"/>
+				<TextEquiv>
+					<Unicode>מ' 2
+7,ל
+770
+למרתב,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0547.tif">
+		<TextRegion id="eSc_region_304_0_1256_0_1256_767_304_767" custom="structure {type:text;}">
+			<Coords points="304,0 1256,0 1256,767 304,767"/>
+			<TextLine id="eSc_line_304_0_1256_0_1256_767_304_767" custom="structure {type:default;}">
+				<Coords points="304,0 1256,0 1256,767 304,767"/>
+				<Baseline points="304,767 1256,767"/>
+				<TextEquiv>
+					<Unicode>גורוי,תייך הדובר ותקרותת, גורוי,תייךהדובר ותקרותת,(הרופנרכומ\דבר. כ ויוז ה ד,י פו. 20027.7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

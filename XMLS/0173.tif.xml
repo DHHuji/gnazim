@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0173.tif">
+		<TextRegion id="eSc_region_933_62_1251_62_1251_136_933_136" custom="structure {type:text;}">
+			<Coords points="933,62 1251,62 1251,136 933,136"/>
+			<TextLine id="eSc_line_933_62_1251_62_1251_136_933_136" custom="structure {type:default;}">
+				<Coords points="933,62 1251,62 1251,136 933,136"/>
+				<Baseline points="933,136 1251,136"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס ו הש -]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_528_559_1226_559_1226_627_528_627" custom="structure {type:text;}">
+			<Coords points="528,559 1226,559 1226,627 528,627"/>
+			<TextLine id="eSc_line_528_559_1226_559_1226_627_528_627" custom="structure {type:default;}">
+				<Coords points="528,559 1226,559 1226,627 528,627"/>
+				<Baseline points="528,627 1226,627"/>
+				<TextEquiv>
+					<Unicode>דבר, ב&quot; אדר חשמ&quot;ב, 25.,2.82, עמ? 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_549_190_1025_190_1025_255_549_255" custom="structure {type:text;}">
+			<Coords points="549,190 1025,190 1025,255 549,255"/>
+			<TextLine id="eSc_line_549_190_1025_190_1025_255_549_255" custom="structure {type:default;}">
+				<Coords points="549,190 1025,190 1025,255 549,255"/>
+				<Baseline points="549,255 1025,255"/>
+				<TextEquiv>
+					<Unicode>האם יגאל אלון היה יונה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

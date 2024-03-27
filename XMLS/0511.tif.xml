@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0511.tif">
+		<TextRegion id="eSc_region_901_0_1162_0_1162_67_901_67" custom="structure {type:text;}">
+			<Coords points="901,0 1162,0 1162,67 901,67"/>
+			<TextLine id="eSc_line_901_0_1162_0_1162_67_901_67" custom="structure {type:default;}">
+				<Coords points="901,0 1162,0 1162,67 901,67"/>
+				<Baseline points="901,67 1162,67"/>
+				<TextEquiv>
+					<Unicode>ורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_419_206_984_206_984_319_419_319" custom="structure {type:text;}">
+			<Coords points="419,206 984,206 984,319 419,319"/>
+			<TextLine id="eSc_line_419_206_984_206_984_319_419_319" custom="structure {type:default;}">
+				<Coords points="419,206 984,206 984,319 419,319"/>
+				<Baseline points="419,319 984,319"/>
+				<TextEquiv>
+					<Unicode>הגיבוריכ יוצאים החוצה( רלימות כביה היין)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_370_454_1159_454_1159_529_370_529" custom="structure {type:text;}">
+			<Coords points="370,454 1159,454 1159,529 370,529"/>
+			<TextLine id="eSc_line_370_454_1159_454_1159_529_370_529" custom="structure {type:default;}">
+				<Coords points="370,454 1159,454 1159,529 370,529"/>
+				<Baseline points="370,529 1159,529"/>
+				<TextEquiv>
+					<Unicode>דבר. ה כיון תסלמו6הטו.12.6ע3 פן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

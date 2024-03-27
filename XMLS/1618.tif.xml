@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1618.tif">
+		<TextRegion id="eSc_region_850_94_1076_94_1076_149_850_149" custom="structure {type:text;}">
+			<Coords points="850,94 1076,94 1076,149 850,149"/>
+			<TextLine id="eSc_line_850_94_1076_94_1076_149_850_149" custom="structure {type:default;}">
+				<Coords points="850,94 1076,94 1076,149 850,149"/>
+				<Baseline points="850,149 1076,149"/>
+				<TextEquiv>
+					<Unicode>גורי,ריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_165_399_612_399_612_449_165_449" custom="structure {type:text;}">
+			<Coords points="165,399 612,399 612,449 165,449"/>
+			<TextLine id="eSc_line_165_399_612_399_612_449_165_449" custom="structure {type:default;}">
+				<Coords points="165,399 612,399 612,449 165,449"/>
+				<Baseline points="165,449 612,449"/>
+				<TextEquiv>
+					<Unicode>סוך-וקנוגז(|הזום:הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_738_564_1182_564_1182_620_738_620" custom="structure {type:text;}">
+			<Coords points="738,564 1182,564 1182,620 738,620"/>
+			<TextLine id="eSc_line_738_564_1182_564_1182_620_738_620" custom="structure {type:default;}">
+				<Coords points="738,564 1182,564 1182,620 738,620"/>
+				<Baseline points="738,620 1182,620"/>
+				<TextEquiv>
+					<Unicode>לנרהב, פה
+2.0.17
+.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

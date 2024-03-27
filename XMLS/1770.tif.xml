@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1770.tif">
+		<TextRegion id="eSc_region_924_97_1210_97_1210_170_924_170" custom="structure {type:text;}">
+			<Coords points="924,97 1210,97 1210,170 924,170"/>
+			<TextLine id="eSc_line_924_97_1210_97_1210_170_924_170" custom="structure {type:default;}">
+				<Coords points="924,97 1210,97 1210,170 924,170"/>
+				<Baseline points="924,170 1210,170"/>
+				<TextEquiv>
+					<Unicode>₪ גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_294_584_1155_584_1155_664_294_664" custom="structure {type:text;}">
+			<Coords points="294,584 1155,584 1155,664 294,664"/>
+			<TextLine id="eSc_line_294_584_1155_584_1155_664_294_664" custom="structure {type:default;}">
+				<Coords points="294,584 1155,584 1155,664 294,664"/>
+				<Baseline points="294,664 1155,664"/>
+				<TextEquiv>
+					<Unicode>דבו, דבור הסבוע, 21.1.72,עמ' 2ו-35</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_747_269_1082_269_1082_407_747_407" custom="structure {type:text;}">
+			<Coords points="747,269 1082,269 1082,407 747,407"/>
+			<TextLine id="eSc_line_747_269_1082_269_1082_407_747_407" custom="structure {type:default;}">
+				<Coords points="747,269 1082,269 1082,407 747,407"/>
+				<Baseline points="747,407 1082,407"/>
+				<TextEquiv>
+					<Unicode>פגיסה עם סים
+הצרפהי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

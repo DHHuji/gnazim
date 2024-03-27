@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1894.tif">
+		<TextRegion id="eSc_region_766_75_1002_75_1002_147_766_147" custom="structure {type:text;}">
+			<Coords points="766,75 1002,75 1002,147 766,147"/>
+			<TextLine id="eSc_line_766_75_1002_75_1002_147_766_147" custom="structure {type:default;}">
+				<Coords points="766,75 1002,75 1002,147 766,147"/>
+				<Baseline points="766,147 1002,147"/>
+				<TextEquiv>
+					<Unicode>החייב ו ורי, הי החייב
+ו ורי, הי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_147_330_839_330_839_461_147_461" custom="structure {type:text;}">
+			<Coords points="147,330 839,330 839,461 147,461"/>
+			<TextLine id="eSc_line_147_330_839_330_839_461_147_461" custom="structure {type:default;}">
+				<Coords points="147,330 839,330 839,461 147,461"/>
+				<Baseline points="147,461 839,461"/>
+				<TextEquiv>
+					<Unicode>רקו רוהולךר ונכחק[כרטיכות? סוף השבול,יר.ופ:הגור !|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0734.tif">
+		<TextRegion id="eSc_region_968_103_1203_103_1203_167_968_167" custom="structure {type:text;}">
+			<Coords points="968,103 1203,103 1203,167 968,167"/>
+			<TextLine id="eSc_line_968_103_1203_103_1203_167_968_167" custom="structure {type:default;}">
+				<Coords points="968,103 1203,103 1203,167 968,167"/>
+				<Baseline points="968,167 1203,167"/>
+				<TextEquiv>
+					<Unicode>. גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_418_394_1027_394_1027_568_418_568" custom="structure {type:text;}">
+			<Coords points="418,394 1027,394 1027,568 418,568"/>
+			<TextLine id="eSc_line_418_394_1027_394_1027_568_418_568" custom="structure {type:default;}">
+				<Coords points="418,394 1027,394 1027,568 418,568"/>
+				<Baseline points="418,568 1027,568"/>
+				<TextEquiv>
+					<Unicode>&quot;.., ולה היה שסודנט צעקיר.,,&quot;| חתום תגי \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_136_389_404_389_404_456_136_456" custom="structure {type:text;}">
+			<Coords points="136,389 404,389 404,456 136,456"/>
+			<TextLine id="eSc_line_136_389_404_389_404_456_136_456" custom="structure {type:default;}">
+				<Coords points="136,389 404,389 404,456 136,456"/>
+				<Baseline points="136,456 404,456"/>
+				<TextEquiv>
+					<Unicode>סין
+.
+ר
+אום
+ה
+(מ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

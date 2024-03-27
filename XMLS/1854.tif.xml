@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1854.tif">
+		<TextRegion id="eSc_region_616_233_968_233_968_291_616_291" custom="structure {type:text;}">
+			<Coords points="616,233 968,233 968,291 616,291"/>
+			<TextLine id="eSc_line_616_233_968_233_968_291_616_291" custom="structure {type:default;}">
+				<Coords points="616,233 968,233 968,291 616,291"/>
+				<Baseline points="616,291 968,291"/>
+				<TextEquiv>
+					<Unicode>פתיחה למסע בגליל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_432_573_1148_573_1148_640_432_640" custom="structure {type:text;}">
+			<Coords points="432,573 1148,573 1148,640 432,640"/>
+			<TextLine id="eSc_line_432_573_1148_573_1148_640_432_640" custom="structure {type:default;}">
+				<Coords points="432,573 1148,573 1148,640 432,640"/>
+				<Baseline points="432,640 1148,640"/>
+				<TextEquiv>
+					<Unicode>רבר, כ&quot; סשיון תשל&quot;ו,(18,0,76),עם* 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_476_297_963_297_963_362_476_362" custom="structure {type:text;}">
+			<Coords points="476,297 963,297 963,362 476,362"/>
+			<TextLine id="eSc_line_476_297_963_297_963_362_476_362" custom="structure {type:default;}">
+				<Coords points="476,297 963,297 963,362 476,362"/>
+				<Baseline points="476,362 963,362"/>
+				<TextEquiv>
+					<Unicode>(מרור רשימות סוף העבוע)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1877.tif">
+		<TextRegion id="eSc_region_867_80_1174_80_1174_163_867_163" custom="structure {type:text;}">
+			<Coords points="867,80 1174,80 1174,163 867,163"/>
+			<TextLine id="eSc_line_867_80_1174_80_1174_163_867_163" custom="structure {type:default;}">
+				<Coords points="867,80 1174,80 1174,163 867,163"/>
+				<Baseline points="867,163 1174,163"/>
+				<TextEquiv>
+					<Unicode>גורי היים ---------- גורי היים
+----------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_381_247_905_247_905_459_381_459" custom="structure {type:text;}">
+			<Coords points="381,247 905,247 905,459 381,459"/>
+			<TextLine id="eSc_line_381_247_905_247_905_459_381_459" custom="structure {type:default;}">
+				<Coords points="381,247 905,247 905,459 381,459"/>
+				<Baseline points="381,459 905,459"/>
+				<TextEquiv>
+					<Unicode>צלקת העניים ‏ [פדור:רשבוע, | חתום: הגור|8 י9ו3/ת-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

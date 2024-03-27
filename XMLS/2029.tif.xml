@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2029.tif">
+		<TextRegion id="eSc_region_957_649_1067_649_1067_715_957_715" custom="structure {type:text;}">
+			<Coords points="957,649 1067,649 1067,715 957,715"/>
+			<TextLine id="eSc_line_957_649_1067_649_1067_715_957_715" custom="structure {type:default;}">
+				<Coords points="957,649 1067,649 1067,715 957,715"/>
+				<Baseline points="957,715 1067,715"/>
+				<TextEquiv>
+					<Unicode>יבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_146_317_925_317_925_438_146_438" custom="structure {type:text;}">
+			<Coords points="146,317 925,317 925,438 146,438"/>
+			<TextLine id="eSc_line_146_317_925_317_925_438_146_438" custom="structure {type:default;}">
+				<Coords points="146,317 925,317 925,438 146,438"/>
+				<Baseline points="146,438 925,438"/>
+				<TextEquiv>
+					<Unicode>(&quot;פוב עטיס הכלבים על גור. .2&quot; (5יר)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_493_648_946_648_946_817_493_817" custom="structure {type:text;}">
+			<Coords points="493,648 946,648 946,817 493,817"/>
+			<TextLine id="eSc_line_493_648_946_648_946_817_493_817" custom="structure {type:default;}">
+				<Coords points="493,648 946,648 946,817 493,817"/>
+				<Baseline points="493,817 946,817"/>
+				<TextEquiv>
+					<Unicode>7, עפ&quot; 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0630.tif">
+		<TextRegion id="eSc_region_983_127_1225_127_1225_197_983_197" custom="structure {type:text;}">
+			<Coords points="983,127 1225,127 1225,197 983,197"/>
+			<TextLine id="eSc_line_983_127_1225_127_1225_197_983_197" custom="structure {type:default;}">
+				<Coords points="983,127 1225,127 1225,197 983,197"/>
+				<Baseline points="983,197 1225,197"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים == קט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_313_321_1040_321_1040_495_313_495" custom="structure {type:text;}">
+			<Coords points="313,321 1040,321 1040,495 313,495"/>
+			<TextLine id="eSc_line_313_321_1040_321_1040_495_313_495" custom="structure {type:default;}">
+				<Coords points="313,321 1040,321 1040,495 313,495"/>
+				<Baseline points="313,495 1040,495"/>
+				<TextEquiv>
+					<Unicode>הבס אחורה בגקגועים | (על סדר היום)--(&lt; אלבום הפלס&quot;ח, דברי קיסור הנ&quot;ל (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_185_616_967_616_967_681_185_681" custom="structure {type:text;}">
+			<Coords points="185,616 967,616 967,681 185,681"/>
+			<TextLine id="eSc_line_185_616_967_616_967_681_185_681" custom="structure {type:default;}">
+				<Coords points="185,616 967,616 967,681 185,681"/>
+				<Baseline points="185,681 967,681"/>
+				<TextEquiv>
+					<Unicode>על המססר, דף לספרות, 7.4.1959!, עץם&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

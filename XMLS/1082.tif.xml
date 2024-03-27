@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1082.tif">
+		<TextRegion id="eSc_region_948_98_1243_98_1243_180_948_180" custom="structure {type:text;}">
+			<Coords points="948,98 1243,98 1243,180 948,180"/>
+			<TextLine id="eSc_line_948_98_1243_98_1243_180_948_180" custom="structure {type:default;}">
+				<Coords points="948,98 1243,98 1243,180 948,180"/>
+				<Baseline points="948,180 1243,180"/>
+				<TextEquiv>
+					<Unicode>גורי היים 25-ל גורי היים
+25-ל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_212_244_988_244_988_400_212_400" custom="structure {type:text;}">
+			<Coords points="212,244 988,244 988,400 212,400"/>
+			<TextLine id="eSc_line_212_244_988_244_988_400_212_400" custom="structure {type:default;}">
+				<Coords points="212,244 988,244 988,400 212,400"/>
+				<Baseline points="212,400 988,400"/>
+				<TextEquiv>
+					<Unicode>ליד הלב [ מדור: םה טומרים ?חתום: חגי.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

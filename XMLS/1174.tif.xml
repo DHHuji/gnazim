@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1174.tif">
+		<TextRegion id="eSc_region_766_82_1116_82_1116_164_766_164" custom="structure {type:text;}">
+			<Coords points="766,82 1116,82 1116,164 766,164"/>
+			<TextLine id="eSc_line_766_82_1116_82_1116_164_766_164" custom="structure {type:default;}">
+				<Coords points="766,82 1116,82 1116,164 766,164"/>
+				<Baseline points="766,164 1116,164"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_186_590_955_590_955_670_186_670" custom="structure {type:text;}">
+			<Coords points="186,590 955,590 955,670 186,670"/>
+			<TextLine id="eSc_line_186_590_955_590_955_670_186_670" custom="structure {type:default;}">
+				<Coords points="186,590 955,590 955,670 186,670"/>
+				<Baseline points="186,670 955,670"/>
+				<TextEquiv>
+					<Unicode>למרחב,פַטא, 11.10.1956, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_421_292_821_292_821_438_421_438" custom="structure {type:text;}">
+			<Coords points="421,292 821,292 821,438 421,438"/>
+			<TextLine id="eSc_line_421_292_821_292_821_438_421_438" custom="structure {type:default;}">
+				<Coords points="421,292 821,292 821,438 421,438"/>
+				<Baseline points="421,438 821,438"/>
+				<TextEquiv>
+					<Unicode>פה נססע בדנסרק
+ו חתום הגיר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

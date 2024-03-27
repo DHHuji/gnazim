@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0937.tif">
+		<TextRegion id="eSc_region_666_600_1175_600_1175_672_666_672" custom="structure {type:text;}">
+			<Coords points="666,600 1175,600 1175,672 666,672"/>
+			<TextLine id="eSc_line_666_600_1175_600_1175_672_666_672" custom="structure {type:default;}">
+				<Coords points="666,600 1175,600 1175,672 666,672"/>
+				<Baseline points="666,672 1175,672"/>
+				<TextEquiv>
+					<Unicode>לנרה ב,0-9ן,פ.ת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_206_400_923_400_923_470_206_470" custom="structure {type:text;}">
+			<Coords points="206,400 923,400 923,470 206,470"/>
+			<TextLine id="eSc_line_206_400_923_400_923_470_206_470" custom="structure {type:default;}">
+				<Coords points="206,400 923,400 923,470 206,470"/>
+				<Baseline points="206,470 923,470"/>
+				<TextEquiv>
+					<Unicode>רה י&quot;ך הבינלאומיברה ופ:חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_275_318_764_318_764_380_275_380" custom="structure {type:text;}">
+			<Coords points="275,318 764,318 764,380 275,380"/>
+			<TextLine id="eSc_line_275_318_764_318_764_380_275_380" custom="structure {type:default;}">
+				<Coords points="275,318 764,318 764,380 275,380"/>
+				<Baseline points="275,380 764,380"/>
+				<TextEquiv>
+					<Unicode>יקרפל רקוגה - רגדולה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

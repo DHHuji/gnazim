@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0998.tif">
+		<TextRegion id="eSc_region_842_78_1138_78_1138_157_842_157" custom="structure {type:text;}">
+			<Coords points="842,78 1138,78 1138,157 842,157"/>
+			<TextLine id="eSc_line_842_78_1138_78_1138_157_842_157" custom="structure {type:default;}">
+				<Coords points="842,78 1138,78 1138,157 842,157"/>
+				<Baseline points="842,157 1138,157"/>
+				<TextEquiv>
+					<Unicode>חיים גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_319_279_657_279_657_441_319_441" custom="structure {type:text;}">
+			<Coords points="319,279 657,279 657,441 319,441"/>
+			<TextLine id="eSc_line_319_279_657_279_657_441_319_441" custom="structure {type:default;}">
+				<Coords points="319,279 657,279 657,441 319,441"/>
+				<Baseline points="319,441 657,441"/>
+				<TextEquiv>
+					<Unicode>(פה אוסרים?)( חתום הגי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_157_609_771_609_771_687_157_687" custom="structure {type:text;}">
+			<Coords points="157,609 771,609 771,687 157,687"/>
+			<TextLine id="eSc_line_157_609_771_609_771_687_157_687" custom="structure {type:default;}">
+				<Coords points="157,609 771,609 771,687 157,687"/>
+				<Baseline points="157,687 771,687"/>
+				<TextEquiv>
+					<Unicode>למרחב,28.2.1956, צם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

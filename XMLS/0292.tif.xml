@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0292.tif">
+		<TextRegion id="eSc_region_905_48_1208_48_1208_136_905_136" custom="structure {type:text;}">
+			<Coords points="905,48 1208,48 1208,136 905,136"/>
+			<TextLine id="eSc_line_905_48_1208_48_1208_136_905_136" custom="structure {type:default;}">
+				<Coords points="905,48 1208,48 1208,136 905,136"/>
+				<Baseline points="905,136 1208,136"/>
+				<TextEquiv>
+					<Unicode>חיים גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_185_572_1181_572_1181_664_185_664" custom="structure {type:text;}">
+			<Coords points="185,572 1181,572 1181,664 185,664"/>
+			<TextLine id="eSc_line_185_572_1181_572_1181_664_185_664" custom="structure {type:default;}">
+				<Coords points="185,572 1181,572 1181,664 185,664"/>
+				<Baseline points="185,664 1181,664"/>
+				<TextEquiv>
+					<Unicode>ס' בע9),5.ל&quot;ו,(76.' תשז אדר בידבר,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_456_228_991_228_991_376_456_376" custom="structure {type:text;}">
+			<Coords points="456,228 991,228 991,376 456,376"/>
+			<TextLine id="eSc_line_456_228_991_228_991_376_456_376" custom="structure {type:default;}">
+				<Coords points="456,228 991,228 991,376 456,376"/>
+				<Baseline points="456,376 991,376"/>
+				<TextEquiv>
+					<Unicode>בירך לאביבים
+( פתיחה לסרחוק 8)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

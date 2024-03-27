@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2091.tif">
+		<TextRegion id="eSc_region_833_71_1224_71_1224_167_833_167" custom="structure {type:text;}">
+			<Coords points="833,71 1224,71 1224,167 833,167"/>
+			<TextLine id="eSc_line_833_71_1224_71_1224_167_833_167" custom="structure {type:default;}">
+				<Coords points="833,71 1224,71 1224,167 833,167"/>
+				<Baseline points="833,167 1224,167"/>
+				<TextEquiv>
+					<Unicode>גורי, חתים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_95_232_989_232_989_429_95_429" custom="structure {type:text;}">
+			<Coords points="95,232 989,232 989,429 95,429"/>
+			<TextLine id="eSc_line_95_232_989_232_989_429_95_429" custom="structure {type:default;}">
+				<Coords points="95,232 989,232 989,429 95,429"/>
+				<Baseline points="95,429 989,429"/>
+				<TextEquiv>
+					<Unicode>[טני גר פעת בסמר ישן ][וזה עחד המקריט הפטחוה ירוכים]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_59_539_1178_539_1178_789_59_789" custom="structure {type:text;}">
+			<Coords points="59,539 1178,539 1178,789 59,789"/>
+			<TextLine id="eSc_line_59_539_1178_539_1178_789_59_789" custom="structure {type:default;}">
+				<Coords points="59,539 1178,539 1178,789 59,789"/>
+				<Baseline points="59,789 1178,789"/>
+				<TextEquiv>
+					<Unicode>שנח נ1ג,
+
+ג&quot;' לט, כב בטלול תשל&quot;ר
+(13.9.74), עמ' 6047</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

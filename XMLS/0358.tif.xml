@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0358.tif">
+		<TextRegion id="eSc_region_920_92_1229_92_1229_184_920_184" custom="structure {type:text;}">
+			<Coords points="920,92 1229,92 1229,184 920,184"/>
+			<TextLine id="eSc_line_920_92_1229_92_1229_184_920_184" custom="structure {type:default;}">
+				<Coords points="920,92 1229,92 1229,184 920,184"/>
+				<Baseline points="920,184 1229,184"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים #NAME? גווי, חיים
+=------2------- ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_161_260_1074_260_1074_424_161_424" custom="structure {type:text;}">
+			<Coords points="161,260 1074,260 1074,424 161,424"/>
+			<TextLine id="eSc_line_161_260_1074_260_1074_424_161_424" custom="structure {type:default;}">
+				<Coords points="161,260 1074,260 1074,424 161,424"/>
+				<Baseline points="161,424 1074,424"/>
+				<TextEquiv>
+					<Unicode>בין ריאזן ליוושלים [(מדוו: וסימותסוף השבוע, חתום: חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

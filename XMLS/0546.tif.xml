@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0546.tif">
+		<TextRegion id="eSc_region_938_92_1257_92_1257_177_938_177" custom="structure {type:text;}">
+			<Coords points="938,92 1257,92 1257,177 938,177"/>
+			<TextLine id="eSc_line_938_92_1257_92_1257_177_938_177" custom="structure {type:default;}">
+				<Coords points="938,92 1257,92 1257,177 938,177"/>
+				<Baseline points="938,177 1257,177"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים - 2-7 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_580_586_1231_586_1231_676_580_676" custom="structure {type:text;}">
+			<Coords points="580,586 1231,586 1231,676 580,676"/>
+			<TextLine id="eSc_line_580_586_1231_586_1231_676_580_676" custom="structure {type:default;}">
+				<Coords points="580,586 1231,586 1231,676 580,676"/>
+				<Baseline points="580,676 1231,676"/>
+				<TextEquiv>
+					<Unicode>מעריב, 13.6.1909, עמ' 25</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_129_272_671_272_671_367_129_367" custom="structure {type:text;}">
+			<Coords points="129,272 671,272 671,367 129,367"/>
+			<TextLine id="eSc_line_129_272_671_272_671_367_129_367" custom="structure {type:default;}">
+				<Coords points="129,272 671,272 671,367 129,367"/>
+				<Baseline points="129,367 671,367"/>
+				<TextEquiv>
+					<Unicode>[מתוך &quot;הספו המשוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

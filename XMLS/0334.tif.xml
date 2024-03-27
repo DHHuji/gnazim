@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0334.tif">
+		<TextRegion id="eSc_region_993_114_1227_114_1227_178_993_178" custom="structure {type:text;}">
+			<Coords points="993,114 1227,114 1227,178 993,178"/>
+			<TextLine id="eSc_line_993_114_1227_114_1227_178_993_178" custom="structure {type:default;}">
+				<Coords points="993,114 1227,114 1227,178 993,178"/>
+				<Baseline points="993,178 1227,178"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ---+---- גורי, חיים
+---+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_520_628_1238_628_1238_824_520_824" custom="structure {type:text;}">
+			<Coords points="520,628 1238,628 1238,824 520,824"/>
+			<TextLine id="eSc_line_520_628_1238_628_1238_824_520_824" custom="structure {type:default;}">
+				<Coords points="520,628 1238,628 1238,824 520,824"/>
+				<Baseline points="520,824 1238,824"/>
+				<TextEquiv>
+					<Unicode>רבר, ב' תמוו תסל &quot;ח,(7,7.78), עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

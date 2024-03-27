@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1945.tif">
+		<TextRegion id="eSc_region_838_88_1103_88_1103_157_838_157" custom="structure {type:text;}">
+			<Coords points="838,88 1103,88 1103,157 838,157"/>
+			<TextLine id="eSc_line_838_88_1103_88_1103_157_838_157" custom="structure {type:default;}">
+				<Coords points="838,88 1103,88 1103,157 838,157"/>
+				<Baseline points="838,157 1103,157"/>
+				<TextEquiv>
+					<Unicode>גוי?, הייה 6 גוי?, הייה
+6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_174_561_932_561_932_649_174_649" custom="structure {type:text;}">
+			<Coords points="174,561 932,561 932,649 174,649"/>
+			<TextLine id="eSc_line_174_561_932_561_932_649_174_649" custom="structure {type:default;}">
+				<Coords points="174,561 932,561 932,649 174,649"/>
+				<Baseline points="174,649 932,649"/>
+				<TextEquiv>
+					<Unicode>בפחנה, גל&quot; 34, 20.4.1950, עפ' 11 76</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

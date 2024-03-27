@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0979.tif">
+		<TextRegion id="eSc_region_969_94_1179_94_1179_143_969_143" custom="structure {type:text;}">
+			<Coords points="969,94 1179,94 1179,143 969,143"/>
+			<TextLine id="eSc_line_969_94_1179_94_1179_143_969_143" custom="structure {type:default;}">
+				<Coords points="969,94 1179,94 1179,143 969,143"/>
+				<Baseline points="969,143 1179,143"/>
+				<TextEquiv>
+					<Unicode>חייס גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_448_585_844_585_844_639_448_639" custom="structure {type:text;}">
+			<Coords points="448,585 844,585 844,639 448,639"/>
+			<TextLine id="eSc_line_448_585_844_585_844_639_448_639" custom="structure {type:default;}">
+				<Coords points="448,585 844,585 844,639 448,639"/>
+				<Baseline points="448,639 844,639"/>
+				<TextEquiv>
+					<Unicode>השל&quot;ח,(24,2.78),עמ&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_224_309_496_309_496_357_224_357" custom="structure {type:text;}">
+			<Coords points="224,309 496,309 496,357 224,357"/>
+			<TextLine id="eSc_line_224_309_496_309_496_357_224_357" custom="structure {type:default;}">
+				<Coords points="224,309 496,309 496,357 224,357"/>
+				<Baseline points="224,357 496,357"/>
+				<TextEquiv>
+					<Unicode>עניים&quot;לאלתרמן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

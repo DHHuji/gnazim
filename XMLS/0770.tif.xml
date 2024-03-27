@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0770.tif">
+		<TextRegion id="eSc_region_981_11_1248_11_1248_92_981_92" custom="structure {type:text;}">
+			<Coords points="981,11 1248,11 1248,92 981,92"/>
+			<TextLine id="eSc_line_981_11_1248_11_1248_92_981_92" custom="structure {type:default;}">
+				<Coords points="981,11 1248,11 1248,92 981,92"/>
+				<Baseline points="981,92 1248,92"/>
+				<TextEquiv>
+					<Unicode>ורי.חיי +.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_470_627_1243_627_1243_840_470_840" custom="structure {type:text;}">
+			<Coords points="470,627 1243,627 1243,840 470,840"/>
+			<TextLine id="eSc_line_470_627_1243_627_1243_840_470_840" custom="structure {type:default;}">
+				<Coords points="470,627 1243,627 1243,840 470,840"/>
+				<Baseline points="470,840 1243,840"/>
+				<TextEquiv>
+					<Unicode>דפר.כט סבה תרמז97ס|.|!.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_495_220_1070_220_1070_291_495_291" custom="structure {type:text;}">
+			<Coords points="495,220 1070,220 1070,291 495,291"/>
+			<TextLine id="eSc_line_495_220_1070_220_1070_291_495_291" custom="structure {type:default;}">
+				<Coords points="495,220 1070,220 1070,291 495,291"/>
+				<Baseline points="495,291 1070,291"/>
+				<TextEquiv>
+					<Unicode>הזטן לטבר ודפוד הככוס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

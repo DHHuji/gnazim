@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1557.tif">
+		<TextRegion id="eSc_region_15_11_1250_11_1250_816_15_816" custom="structure {type:text;}">
+			<Coords points="15,11 1250,11 1250,816 15,816"/>
+			<TextLine id="eSc_line_15_11_1250_11_1250_816_15_816" custom="structure {type:default;}">
+				<Coords points="15,11 1250,11 1250,816 15,816"/>
+				<Baseline points="15,816 1250,816"/>
+				<TextEquiv>
+					<Unicode>גורי, ת&quot;ם | ספרים חרשים גורי, ת&quot;ם |ספרים חרשיםתנועה למגע(טשירים מאת ת&quot;ם גורי)במעלה, כ&quot;ר באב תשכ*חה (18.8.68), עמ' 21</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

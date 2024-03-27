@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1469.tif">
+		<TextRegion id="eSc_region_968_22_1229_22_1229_95_968_95" custom="structure {type:text;}">
+			<Coords points="968,22 1229,22 1229,95 968,95"/>
+			<TextLine id="eSc_line_968_22_1229_22_1229_95_968_95" custom="structure {type:default;}">
+				<Coords points="968,22 1229,22 1229,95 968,95"/>
+				<Baseline points="968,95 1229,95"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_535_157_1258_157_1258_424_535_424" custom="structure {type:text;}">
+			<Coords points="535,157 1258,157 1258,424 535,424"/>
+			<TextLine id="eSc_line_535_157_1258_157_1258_424_535_424" custom="structure {type:default;}">
+				<Coords points="535,157 1258,157 1258,424 535,424"/>
+				<Baseline points="535,424 1258,424"/>
+				<TextEquiv>
+					<Unicode>נעילוה ופתחיסאקוורלפזעה(גאתה יכול לפנות אל הדממה,-)(סירים)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_303_480_1225_480_1225_719_303_719" custom="structure {type:text;}">
+			<Coords points="303,480 1225,480 1225,719 303,719"/>
+			<TextLine id="eSc_line_303_480_1225_480_1225_719_303_719" custom="structure {type:default;}">
+				<Coords points="303,480 1225,480 1225,719 303,719"/>
+				<Baseline points="303,719 1225,719"/>
+				<TextEquiv>
+					<Unicode>דבר,מסא,סז שבט השמד, 20.1.1984 עם 17</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

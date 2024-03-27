@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0001.tif">
+		<TextRegion id="eSc_region_0_5_1078_5_1078_542_0_542" custom="structure {type:text;}">
+			<Coords points="0,5 1078,5 1078,542 0,542"/>
+			<TextLine id="eSc_line_0_5_1078_5_1078_542_0_542" custom="structure {type:default;}">
+				<Coords points="0,5 1078,5 1078,542 0,542"/>
+				<Baseline points="0,542 1078,542"/>
+				<TextEquiv>
+					<Unicode>כרפיס אישי דה כרפיס אישידהבצ +פרסי7 )משפהה כלולז יחהפם קרדם,.).+..:::%3ו%4+:.3י.יוי.3,...י:י).+.....וו 9פסיבדונים כ[ 27כר94 0 09 י ו....10...,757.:0.75..0.0093תארין לידהר-., קברי לועלזי 7יי - ברקה2-וסם העיר הארץ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

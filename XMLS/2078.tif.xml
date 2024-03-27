@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2078.tif">
+		<TextRegion id="eSc_region_0_633_1258_633_1258_848_0_848" custom="structure {type:text;}">
+			<Coords points="0,633 1258,633 1258,848 0,848"/>
+			<TextLine id="eSc_line_0_633_1258_633_1258_848_0_848" custom="structure {type:default;}">
+				<Coords points="0,633 1258,633 1258,848 0,848"/>
+				<Baseline points="0,848 1258,848"/>
+				<TextEquiv>
+					<Unicode>דבר לילרים, כרך כד, חוב' 54, 78.4.54, צמ, 529-528</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_354_420_952_420_952_568_354_568" custom="structure {type:text;}">
+			<Coords points="354,420 952,420 952,568 354,568"/>
+			<TextLine id="eSc_line_354_420_952_420_952_568_354_568" custom="structure {type:default;}">
+				<Coords points="354,420 952,420 952,568 354,568"/>
+				<Baseline points="354,568 952,568"/>
+				<TextEquiv>
+					<Unicode>סיר על ארם טאין לו בית
+
+(-יר]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

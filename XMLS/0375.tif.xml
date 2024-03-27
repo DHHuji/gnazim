@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0375.tif">
+		<TextRegion id="eSc_region_926_98_1246_98_1246_183_926_183" custom="structure {type:text;}">
+			<Coords points="926,98 1246,98 1246,183 926,183"/>
+			<TextLine id="eSc_line_926_98_1246_98_1246_183_926_183" custom="structure {type:default;}">
+				<Coords points="926,98 1246,98 1246,183 926,183"/>
+				<Baseline points="926,183 1246,183"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ------2-------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_69_570_1218_570_1218_665_69_665" custom="structure {type:text;}">
+			<Coords points="69,570 1218,570 1218,665 69,665"/>
+			<TextLine id="eSc_line_69_570_1218_570_1218_665_69_665" custom="structure {type:default;}">
+				<Coords points="69,570 1218,570 1218,665 69,665"/>
+				<Baseline points="69,665 1218,665"/>
+				<TextEquiv>
+					<Unicode>. ב .ל + גלמוסב,מעא לספרוה, אמנוה ובקורה,ו26.2.7,ץ 5' א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_648_229_1092_229_1092_380_648_380" custom="structure {type:text;}">
+			<Coords points="648,229 1092,229 1092,380 648,380"/>
+			<TextLine id="eSc_line_648_229_1092_229_1092_380_648_380" custom="structure {type:default;}">
+				<Coords points="648,229 1092,229 1092,380 648,380"/>
+				<Baseline points="648,380 1092,380"/>
+				<TextEquiv>
+					<Unicode>בירושלים ובבריסל
+
+כוף העבוע, חהום:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

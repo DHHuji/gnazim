@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0517.tif">
+		<TextRegion id="eSc_region_908_138_1157_138_1157_196_908_196" custom="structure {type:text;}">
+			<Coords points="908,138 1157,138 1157,196 908,196"/>
+			<TextLine id="eSc_line_908_138_1157_138_1157_196_908_196" custom="structure {type:default;}">
+				<Coords points="908,138 1157,138 1157,196 908,196"/>
+				<Baseline points="908,196 1157,196"/>
+				<TextEquiv>
+					<Unicode>וגורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_521_451_924_451_924_507_521_507" custom="structure {type:text;}">
+			<Coords points="521,451 924,451 924,507 521,507"/>
+			<TextLine id="eSc_line_521_451_924_451_924_507_521_507" custom="structure {type:default;}">
+				<Coords points="521,451 924,451 924,507 521,507"/>
+				<Baseline points="521,507 924,507"/>
+				<TextEquiv>
+					<Unicode>[ רכיכה,ת ום:הגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_846_634_1267_634_1267_690_846_690" custom="structure {type:text;}">
+			<Coords points="846,634 1267,634 1267,690 846,690"/>
+			<TextLine id="eSc_line_846_634_1267_634_1267_690_846_690" custom="structure {type:default;}">
+				<Coords points="846,634 1267,634 1267,690 846,690"/>
+				<Baseline points="846,690 1267,690"/>
+				<TextEquiv>
+					<Unicode>לכרהב,4.1.1997,ע5.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

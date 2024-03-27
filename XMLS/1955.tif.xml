@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1955.tif">
+		<TextRegion id="eSc_region_863_96_1194_96_1194_183_863_183" custom="structure {type:text;}">
+			<Coords points="863,96 1194,96 1194,183 863,183"/>
+			<TextLine id="eSc_line_863_96_1194_96_1194_183_863_183" custom="structure {type:default;}">
+				<Coords points="863,96 1194,96 1194,183 863,183"/>
+				<Baseline points="863,183 1194,183"/>
+				<TextEquiv>
+					<Unicode>גורי, היים -----+-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_447_295_933_295_933_442_447_442" custom="structure {type:text;}">
+			<Coords points="447,295 933,295 933,442 447,442"/>
+			<TextLine id="eSc_line_447_295_933_295_933_442_447_442" custom="structure {type:default;}">
+				<Coords points="447,295 933,295 933,442 447,442"/>
+				<Baseline points="447,442 933,442"/>
+				<TextEquiv>
+					<Unicode>רוחה רפאים סל העגר(מפול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_315_560_962_560_962_649_315_649" custom="structure {type:text;}">
+			<Coords points="315,560 962,560 962,649 315,649"/>
+			<TextLine id="eSc_line_315_560_962_560_962_649_315_649" custom="structure {type:default;}">
+				<Coords points="315,560 962,560 962,649 315,649"/>
+				<Baseline points="315,649 962,649"/>
+				<TextEquiv>
+					<Unicode>לסרחב, 24.5.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0929.tif">
+		<TextRegion id="eSc_region_942_296_1075_296_1075_364_942_364" custom="structure {type:text;}">
+			<Coords points="942,296 1075,296 1075,364 942,364"/>
+			<TextLine id="eSc_line_942_296_1075_296_1075_364_942_364" custom="structure {type:default;}">
+				<Coords points="942,296 1075,296 1075,364 942,364"/>
+				<Baseline points="942,364 1075,364"/>
+				<TextEquiv>
+					<Unicode>ונר ונר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_298_218_504_218_504_293_298_293" custom="structure {type:text;}">
+			<Coords points="298,218 504,218 504,293 298,293"/>
+			<TextLine id="eSc_line_298_218_504_218_504_293_298_293" custom="structure {type:default;}">
+				<Coords points="298,218 504,218 504,293 298,293"/>
+				<Baseline points="298,293 504,293"/>
+				<TextEquiv>
+					<Unicode>לובריבת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

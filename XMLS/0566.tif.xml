@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0566.tif">
+		<TextRegion id="eSc_region_244_0_1284_0_1284_922_244_922" custom="structure {type:text;}">
+			<Coords points="244,0 1284,0 1284,922 244,922"/>
+			<TextLine id="eSc_line_244_0_1284_0_1284_922_244_922" custom="structure {type:default;}">
+				<Coords points="244,0 1284,0 1284,922 244,922"/>
+				<Baseline points="244,922 1284,922"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים דו&quot;ח והשקורה גורי, חייםדו&quot;ח והשקורה(פתוך &quot;הרחק מאלגרינה&quot;)מעריב,ספרות, יא תמוז תשל&quot;ה,(20.6.75),עמ 37</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

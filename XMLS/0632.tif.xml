@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0632.tif">
+		<TextRegion id="eSc_region_926_127_1170_127_1170_199_926_199" custom="structure {type:text;}">
+			<Coords points="926,127 1170,127 1170,199 926,199"/>
+			<TextLine id="eSc_line_926_127_1170_127_1170_199_926_199" custom="structure {type:default;}">
+				<Coords points="926,127 1170,127 1170,199 926,199"/>
+				<Baseline points="926,199 1170,199"/>
+				<TextEquiv>
+					<Unicode>גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_264_369_954_369_954_500_264_500" custom="structure {type:text;}">
+			<Coords points="264,369 954,369 954,500 264,500"/>
+			<TextLine id="eSc_line_264_369_954_369_954_500_264_500" custom="structure {type:default;}">
+				<Coords points="264,369 954,369 954,500 264,500"/>
+				<Baseline points="264,500 954,500"/>
+				<TextEquiv>
+					<Unicode>רבלים וזופהת[ כרכיפ.ת סוף רכבוע,ית ום:רגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_739_648_1271_648_1271_721_739_721" custom="structure {type:text;}">
+			<Coords points="739,648 1271,648 1271,721 739,721"/>
+			<TextLine id="eSc_line_739_648_1271_648_1271_721_739_721" custom="structure {type:default;}">
+				<Coords points="739,648 1271,648 1271,721 739,721"/>
+				<Baseline points="739,721 1271,721"/>
+				<TextEquiv>
+					<Unicode>לכרחב,1.1979ן.185,פמ. ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1802.tif">
+		<TextRegion id="eSc_region_924_84_1244_84_1244_159_924_159" custom="structure {type:text;}">
+			<Coords points="924,84 1244,84 1244,159 924,159"/>
+			<TextLine id="eSc_line_924_84_1244_84_1244_159_924_159" custom="structure {type:default;}">
+				<Coords points="924,84 1244,84 1244,159 924,159"/>
+				<Baseline points="924,159 1244,159"/>
+				<TextEquiv>
+					<Unicode>גנריש- חי יס גנריש- חי יס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_297_173_753_173_753_325_297_325" custom="structure {type:text;}">
+			<Coords points="297,173 753,173 753,325 297,325"/>
+			<TextLine id="eSc_line_297_173_753_173_753_325_297_325" custom="structure {type:default;}">
+				<Coords points="297,173 753,173 753,325 297,325"/>
+				<Baseline points="297,325 753,325"/>
+				<TextEquiv>
+					<Unicode>טהיברהי&quot; !כאמו'רטיכוה סוף השבוע]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

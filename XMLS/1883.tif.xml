@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1883.tif">
+		<TextRegion id="eSc_region_831_20_1125_20_1125_125_831_125" custom="structure {type:text;}">
+			<Coords points="831,20 1125,20 1125,125 831,125"/>
+			<TextLine id="eSc_line_831_20_1125_20_1125_125_831_125" custom="structure {type:default;}">
+				<Coords points="831,20 1125,20 1125,125 831,125"/>
+				<Baseline points="831,125 1125,125"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_86_224_934_224_934_414_86_414" custom="structure {type:text;}">
+			<Coords points="86,224 934,224 934,414 86,414"/>
+			<TextLine id="eSc_line_86_224_934_224_934_414_86_414" custom="structure {type:default;}">
+				<Coords points="86,224 934,224 934,414 86,414"/>
+				<Baseline points="86,414 934,414"/>
+				<TextEquiv>
+					<Unicode>צריכת חשמל | (סה אוסרים) ) חתוס &quot;יי \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_113_560_671_560_671_812_113_812" custom="structure {type:text;}">
+			<Coords points="113,560 671,560 671,812 113,812"/>
+			<TextLine id="eSc_line_113_560_671_560_671_812_113_812" custom="structure {type:default;}">
+				<Coords points="113,560 671,560 671,812 113,812"/>
+				<Baseline points="113,812 671,812"/>
+				<TextEquiv>
+					<Unicode>למרחב, 28.11.1956, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

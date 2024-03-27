@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1204.tif">
+		<TextRegion id="eSc_region_844_120_1110_120_1110_194_844_194" custom="structure {type:text;}">
+			<Coords points="844,120 1110,120 1110,194 844,194"/>
+			<TextLine id="eSc_line_844_120_1110_120_1110_194_844_194" custom="structure {type:default;}">
+				<Coords points="844,120 1110,120 1110,194 844,194"/>
+				<Baseline points="844,194 1110,194"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_201_599_1210_599_1210_682_201_682" custom="structure {type:text;}">
+			<Coords points="201,599 1210,599 1210,682 201,682"/>
+			<TextLine id="eSc_line_201_599_1210_599_1210_682_201_682" custom="structure {type:default;}">
+				<Coords points="201,599 1210,599 1210,682 201,682"/>
+				<Baseline points="201,682 1210,682"/>
+				<TextEquiv>
+					<Unicode>בסער, בסאון ההסיבה הצעירה, 10.5.1951, פס. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_499_362_784_362_784_493_499_493" custom="structure {type:text;}">
+			<Coords points="499,362 784,362 784,493 499,493"/>
+			<TextLine id="eSc_line_499_362_784_362_784_493_499_493" custom="structure {type:default;}">
+				<Coords points="499,362 784,362 784,493 499,493"/>
+				<Baseline points="499,493 784,493"/>
+				<TextEquiv>
+					<Unicode>מחול היחפים
+[פירן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0302.tif">
+		<TextRegion id="eSc_region_880_119_1111_119_1111_186_880_186" custom="structure {type:text;}">
+			<Coords points="880,119 1111,119 1111,186 880,186"/>
+			<TextLine id="eSc_line_880_119_1111_119_1111_186_880_186" custom="structure {type:default;}">
+				<Coords points="880,119 1111,119 1111,186 880,186"/>
+				<Baseline points="880,186 1111,186"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_326_495_1026_495_1026_568_326_568" custom="structure {type:text;}">
+			<Coords points="326,495 1026,495 1026,568 326,568"/>
+			<TextLine id="eSc_line_326_495_1026_495_1026_568_326_568" custom="structure {type:default;}">
+				<Coords points="326,495 1026,495 1026,568 326,568"/>
+				<Baseline points="326,568 1026,568"/>
+				<TextEquiv>
+					<Unicode>דבר, ו' תפוז תש&quot;פ,(20.6.80), למ&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_675_304_925_304_925_361_675_361" custom="structure {type:text;}">
+			<Coords points="675,304 925,304 925,361 675,361"/>
+			<TextLine id="eSc_line_675_304_925_304_925_361_675_361" custom="structure {type:default;}">
+				<Coords points="675,304 925,304 925,361 675,361"/>
+				<Baseline points="675,361 925,361"/>
+				<TextEquiv>
+					<Unicode>בדקה התשעיאם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

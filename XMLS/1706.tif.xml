@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1706.tif">
+		<TextRegion id="eSc_region_962_60_1195_60_1195_122_962_122" custom="structure {type:text;}">
+			<Coords points="962,60 1195,60 1195,122 962,122"/>
+			<TextLine id="eSc_line_962_60_1195_60_1195_122_962_122" custom="structure {type:default;}">
+				<Coords points="962,60 1195,60 1195,122 962,122"/>
+				<Baseline points="962,122 1195,122"/>
+				<TextEquiv>
+					<Unicode>ורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_212_331_1014_331_1014_465_212_465" custom="structure {type:text;}">
+			<Coords points="212,331 1014,331 1014,465 212,465"/>
+			<TextLine id="eSc_line_212_331_1014_331_1014_465_212_465" custom="structure {type:default;}">
+				<Coords points="212,331 1014,331 1014,465 212,465"/>
+				<Baseline points="212,465 1014,465"/>
+				<TextEquiv>
+					<Unicode>עלבון להבונה או דאילק ניקיטה הרושצ'וב(ימה אוכפרים?, חתום: הגי ]%-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_696_650_988_650_988_711_696_711" custom="structure {type:text;}">
+			<Coords points="696,650 988,650 988,711 696,711"/>
+			<TextLine id="eSc_line_696_650_988_650_988_711_696_711" custom="structure {type:default;}">
+				<Coords points="696,650 988,650 988,711 696,711"/>
+				<Baseline points="696,711 988,711"/>
+				<TextEquiv>
+					<Unicode>0%0, ע' כ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

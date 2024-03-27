@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1132.tif">
+		<TextRegion id="eSc_region_826_96_1156_96_1156_183_826_183" custom="structure {type:text;}">
+			<Coords points="826,96 1156,96 1156,183 826,183"/>
+			<TextLine id="eSc_line_826_96_1156_96_1156_183_826_183" custom="structure {type:default;}">
+				<Coords points="826,96 1156,96 1156,183 826,183"/>
+				<Baseline points="826,183 1156,183"/>
+				<TextEquiv>
+					<Unicode>גורי חיי וו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_277_295_892_295_892_473_277_473" custom="structure {type:text;}">
+			<Coords points="277,295 892,295 892,473 277,473"/>
+			<TextLine id="eSc_line_277_295_892_295_892_473_277_473" custom="structure {type:default;}">
+				<Coords points="277,295 892,295 892,473 277,473"/>
+				<Baseline points="277,473 892,473"/>
+				<TextEquiv>
+					<Unicode>פאקאריוס (פה אופרים?)| חתוס תגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_352_604_999_604_999_691_352_691" custom="structure {type:text;}">
+			<Coords points="352,604 999,604 999,691 352,691"/>
+			<TextLine id="eSc_line_352_604_999_604_999_691_352_691" custom="structure {type:default;}">
+				<Coords points="352,604 999,604 999,691 352,691"/>
+				<Baseline points="352,691 999,691"/>
+				<TextEquiv>
+					<Unicode>לפמרחב, 13.3.1956, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

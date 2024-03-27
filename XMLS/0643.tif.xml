@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0643.tif">
+		<TextRegion id="eSc_region_957_13_1261_13_1261_170_957_170" custom="structure {type:text;}">
+			<Coords points="957,13 1261,13 1261,170 957,170"/>
+			<TextLine id="eSc_line_957_13_1261_13_1261_170_957_170" custom="structure {type:default;}">
+				<Coords points="957,13 1261,13 1261,170 957,170"/>
+				<Baseline points="957,170 1261,170"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ---4-----=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_380_218_1050_218_1050_480_380_480" custom="structure {type:text;}">
+			<Coords points="380,218 1050,218 1050,480 380,480"/>
+			<TextLine id="eSc_line_380_218_1050_218_1050_480_380_480" custom="structure {type:default;}">
+				<Coords points="380,218 1050,218 1050,480 380,480"/>
+				<Baseline points="380,480 1050,480"/>
+				<TextEquiv>
+					<Unicode>&quot;הוי, ארץ-תסרת-לב&quot;(מרור רסימות סוף שסבוע)/ חתום הגור-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_516_565_1212_565_1212_646_516_646" custom="structure {type:text;}">
+			<Coords points="516,565 1212,565 1212,646 516,646"/>
+			<TextLine id="eSc_line_516_565_1212_565_1212_646_516_646" custom="structure {type:default;}">
+				<Coords points="516,565 1212,565 1212,646 516,646"/>
+				<Baseline points="516,646 1212,646"/>
+				<TextEquiv>
+					<Unicode>דבר, ה סיון תשל&quot;ה,!/15.5.75),תם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

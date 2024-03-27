@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0504.tif">
+		<TextRegion id="eSc_region_966_10_1236_10_1236_84_966_84" custom="structure {type:text;}">
+			<Coords points="966,10 1236,10 1236,84 966,84"/>
+			<TextLine id="eSc_line_966_10_1236_10_1236_84_966_84" custom="structure {type:default;}">
+				<Coords points="966,10 1236,10 1236,84 966,84"/>
+				<Baseline points="966,84 1236,84"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים =--הה-1 ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_139_561_1226_561_1226_680_139_680" custom="structure {type:text;}">
+			<Coords points="139,561 1226,561 1226,680 139,680"/>
+			<TextLine id="eSc_line_139_561_1226_561_1226_680_139_680" custom="structure {type:default;}">
+				<Coords points="139,561 1226,561 1226,680 139,680"/>
+				<Baseline points="139,680 1226,680"/>
+				<TextEquiv>
+					<Unicode>יריעוה אחרונוה,ספרוה,כ&quot;ו סבה השמ&quot;א,ו3.!ו.2,= צמ20&quot;7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_389_262_1157_262_1157_330_389_330" custom="structure {type:text;}">
+			<Coords points="389,262 1157,262 1157,330 389,330"/>
+			<TextLine id="eSc_line_389_262_1157_262_1157_330_389_330" custom="structure {type:default;}">
+				<Coords points="389,262 1157,262 1157,330 389,330"/>
+				<Baseline points="389,330 1157,330"/>
+				<TextEquiv>
+					<Unicode>לשנה לפטירתה של יוכבה בת- מרים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

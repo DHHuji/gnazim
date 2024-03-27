@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0686.tif">
+		<TextRegion id="eSc_region_736_42_955_42_955_88_736_88" custom="structure {type:text;}">
+			<Coords points="736,42 955,42 955,88 736,88"/>
+			<TextLine id="eSc_line_736_42_955_42_955_88_736_88" custom="structure {type:default;}">
+				<Coords points="736,42 955,42 955,88 736,88"/>
+				<Baseline points="736,88 955,88"/>
+				<TextEquiv>
+					<Unicode>גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_596_316_764_316_764_413_596_413" custom="structure {type:text;}">
+			<Coords points="596,316 764,316 764,413 596,413"/>
+			<TextLine id="eSc_line_596_316_764_316_764_413_596_413" custom="structure {type:default;}">
+				<Coords points="596,316 764,316 764,413 596,413"/>
+				<Baseline points="596,413 764,413"/>
+				<TextEquiv>
+					<Unicode>&quot;הפגנות(מה אוטמר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_516_358_684_358_684_403_516_403" custom="structure {type:text;}">
+			<Coords points="516,358 684,358 684,403 516,403"/>
+			<TextLine id="eSc_line_516_358_684_358_684_403_516_403" custom="structure {type:default;}">
+				<Coords points="516,358 684,358 684,403 516,403"/>
+				<Baseline points="516,403 684,403"/>
+				<TextEquiv>
+					<Unicode>אומרים?,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0194.tif">
+		<TextRegion id="eSc_region_869_73_1196_73_1196_148_869_148" custom="structure {type:text;}">
+			<Coords points="869,73 1196,73 1196,148 869,148"/>
+			<TextLine id="eSc_line_869_73_1196_73_1196_148_869_148" custom="structure {type:default;}">
+				<Coords points="869,73 1196,73 1196,148 869,148"/>
+				<Baseline points="869,148 1196,148"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ----*--= הש</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_240_257_731_257_731_395_240_395" custom="structure {type:text;}">
+			<Coords points="240,257 731,257 731,395 240,395"/>
+			<TextLine id="eSc_line_240_257_731_257_731_395_240_395" custom="structure {type:default;}">
+				<Coords points="240,257 731,257 731,395 240,395"/>
+				<Baseline points="240,395 731,395"/>
+				<TextEquiv>
+					<Unicode>נטיו ‎ -.‏ טבוה ובניםמה אומרים 7, התום:ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_546_250_905_250_905_390_546_390" custom="structure {type:text;}">
+			<Coords points="546,250 905,250 905,390 546,390"/>
+			<TextLine id="eSc_line_546_250_905_250_905_390_546_390" custom="structure {type:default;}">
+				<Coords points="546,250 905,250 905,390 546,390"/>
+				<Baseline points="546,390 905,390"/>
+				<TextEquiv>
+					<Unicode>אני ועכשיו .-
+
+[ מדור: פה אומו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2004.tif">
+		<TextRegion id="eSc_region_222_257_1064_257_1064_426_222_426" custom="structure {type:text;}">
+			<Coords points="222,257 1064,257 1064,426 222,426"/>
+			<TextLine id="eSc_line_222_257_1064_257_1064_426_222_426" custom="structure {type:default;}">
+				<Coords points="222,257 1064,257 1064,426 222,426"/>
+				<Baseline points="222,426 1064,426"/>
+				<TextEquiv>
+					<Unicode>הסשאבריות וה&quot; פרוגים&quot;ו &quot;י רשיפה, מדור: אקדמות להולך (63)-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_273_521_1208_521_1208_613_273_613" custom="structure {type:text;}">
+			<Coords points="273,521 1208,521 1208,613 273,613"/>
+			<TextLine id="eSc_line_273_521_1208_521_1208_613_273_613" custom="structure {type:default;}">
+				<Coords points="273,521 1208,521 1208,613 273,613"/>
+				<Baseline points="273,613 1208,613"/>
+				<TextEquiv>
+					<Unicode>\
+
+מעריב, סז סבס תחל&quot;ד 42),),), צם,. 5ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

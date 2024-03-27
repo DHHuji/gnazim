@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0593.tif">
+		<TextRegion id="eSc_region_937_0_1236_0_1236_104_937_104" custom="structure {type:text;}">
+			<Coords points="937,0 1236,0 1236,104 937,104"/>
+			<TextLine id="eSc_line_937_0_1236_0_1236_104_937_104" custom="structure {type:default;}">
+				<Coords points="937,0 1236,0 1236,104 937,104"/>
+				<Baseline points="937,104 1236,104"/>
+				<TextEquiv>
+					<Unicode>גורי,חהייס הד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_612_279_979_279_979_561_612_561" custom="structure {type:text;}">
+			<Coords points="612,279 979,279 979,561 612,561"/>
+			<TextLine id="eSc_line_612_279_979_279_979_561_612_561" custom="structure {type:default;}">
+				<Coords points="612,279 979,279 979,561 612,561"/>
+				<Baseline points="612,561 979,561"/>
+				<TextEquiv>
+					<Unicode>דם ‏ רעך( המשך יבוא)החהתום: הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_176_595_1231_595_1231_853_176_853" custom="structure {type:text;}">
+			<Coords points="176,595 1231,595 1231,853 176,853"/>
+			<TextLine id="eSc_line_176_595_1231_595_1231_853_176_853" custom="structure {type:default;}">
+				<Coords points="176,595 1231,595 1231,853 176,853"/>
+				<Baseline points="176,853 1231,853"/>
+				<TextEquiv>
+					<Unicode>דבר,ו' ניסן השמ&quot;א, ו10.4.198 עמ&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

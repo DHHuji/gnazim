@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1010.tif">
+		<TextRegion id="eSc_region_895_5_1165_5_1165_86_895_86" custom="structure {type:text;}">
+			<Coords points="895,5 1165,5 1165,86 895,86"/>
+			<TextLine id="eSc_line_895_5_1165_5_1165_86_895_86" custom="structure {type:default;}">
+				<Coords points="895,5 1165,5 1165,86 895,86"/>
+				<Baseline points="895,86 1165,86"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_58_509_1160_509_1160_727_58_727" custom="structure {type:text;}">
+			<Coords points="58,509 1160,509 1160,727 58,727"/>
+			<TextLine id="eSc_line_58_509_1160_509_1160_727_58_727" custom="structure {type:default;}">
+				<Coords points="58,509 1160,509 1160,727 58,727"/>
+				<Baseline points="58,727 1160,727"/>
+				<TextEquiv>
+					<Unicode>ידיעוה אחרונות,פספרוה.יד ניסן השנאו29.4.100עמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_600_193_986_193_986_326_600_326" custom="structure {type:text;}">
+			<Coords points="600,193 986,193 986,326 600,326"/>
+			<TextLine id="eSc_line_600_193_986_193_986_326_600_326" custom="structure {type:default;}">
+				<Coords points="600,193 986,193 986,326 600,326"/>
+				<Baseline points="600,326 986,326"/>
+				<TextEquiv>
+					<Unicode>כמו ביירותה
+
+( סיר)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

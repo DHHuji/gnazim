@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1235.tif">
+		<TextRegion id="eSc_region_934_96_1244_96_1244_178_934_178" custom="structure {type:text;}">
+			<Coords points="934,96 1244,96 1244,178 934,178"/>
+			<TextLine id="eSc_line_934_96_1244_96_1244_178_934_178" custom="structure {type:default;}">
+				<Coords points="934,96 1244,96 1244,178 934,178"/>
+				<Baseline points="934,178 1244,178"/>
+				<TextEquiv>
+					<Unicode>גורי חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_96_251_1148_251_1148_471_96_471" custom="structure {type:text;}">
+			<Coords points="96,251 1148,251 1148,471 96,471"/>
+			<TextLine id="eSc_line_96_251_1148_251_1148_471_96_471" custom="structure {type:default;}">
+				<Coords points="96,251 1148,251 1148,471 96,471"/>
+				<Baseline points="96,471 1148,471"/>
+				<TextEquiv>
+					<Unicode>מיכרזים ודרכי מלך | מאפר על פיתוחירושליםן ‏ (כדיר: רשימות סוף השבוע, חתוש:חגו רן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_675_595_1171_595_1171_683_675_683" custom="structure {type:text;}">
+			<Coords points="675,595 1171,595 1171,683 675,683"/>
+			<TextLine id="eSc_line_675_595_1171_595_1171_683_675_683" custom="structure {type:default;}">
+				<Coords points="675,595 1171,595 1171,683 675,683"/>
+				<Baseline points="675,683 1171,683"/>
+				<TextEquiv>
+					<Unicode>דבו, 26.5.72,עמ7 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

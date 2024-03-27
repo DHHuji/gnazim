@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1361.tif">
+		<TextRegion id="eSc_region_943_118_1200_118_1200_182_943_182" custom="structure {type:text;}">
+			<Coords points="943,118 1200,118 1200,182 943,182"/>
+			<TextLine id="eSc_line_943_118_1200_118_1200_182_943_182" custom="structure {type:default;}">
+				<Coords points="943,118 1200,118 1200,182 943,182"/>
+				<Baseline points="943,182 1200,182"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_349_476_1191_476_1191_544_349_544" custom="structure {type:text;}">
+			<Coords points="349,476 1191,476 1191,544 349,544"/>
+			<TextLine id="eSc_line_349_476_1191_476_1191_544_349_544" custom="structure {type:default;}">
+				<Coords points="349,476 1191,476 1191,544 349,544"/>
+				<Baseline points="349,544 1191,544"/>
+				<TextEquiv>
+					<Unicode>ידיקות אחרונות, גאב תסם&quot;ב,(23.7.82),עמ 8</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_367_280_1195_280_1195_421_367_421" custom="structure {type:text;}">
+			<Coords points="367,280 1195,280 1195,421 367,421"/>
+			<TextLine id="eSc_line_367_280_1195_280_1195_421_367_421" custom="structure {type:default;}">
+				<Coords points="367,280 1195,280 1195,421 367,421"/>
+				<Baseline points="367,421 1195,421"/>
+				<TextEquiv>
+					<Unicode>מראה מן המרפסת
+
+ו '9: סגיאב א * (63</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

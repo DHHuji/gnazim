@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0120.tif">
+		<TextRegion id="eSc_region_131_21_1258_21_1258_849_131_849" custom="structure {type:text;}">
+			<Coords points="131,21 1258,21 1258,849 131,849"/>
+			<TextLine id="eSc_line_131_21_1258_21_1258_849_131_849" custom="structure {type:default;}">
+				<Coords points="131,21 1258,21 1258,849 131,849"/>
+				<Baseline points="131,849 1258,849"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים אילת בין מים ואס [מדור: מה אומוים? גורי, חייםאילת בין מים ואס [מדור: מה אומוים?חתום: תגי]למוחב, 11.4.1969, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

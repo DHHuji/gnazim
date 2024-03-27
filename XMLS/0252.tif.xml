@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0252.tif">
+		<TextRegion id="eSc_region_659_235_1040_235_1040_353_659_353" custom="structure {type:text;}">
+			<Coords points="659,235 1040,235 1040,353 659,353"/>
+			<TextLine id="eSc_line_659_235_1040_235_1040_353_659_353" custom="structure {type:default;}">
+				<Coords points="659,235 1040,235 1040,353 659,353"/>
+				<Baseline points="659,353 1040,353"/>
+				<TextEquiv>
+					<Unicode>אהה ההולר טיש אהה ההולר
+
+טיש</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_444_495_1214_495_1214_699_444_699" custom="structure {type:text;}">
+			<Coords points="444,495 1214,495 1214,699 444,699"/>
+			<TextLine id="eSc_line_444_495_1214_495_1214_699_444_699" custom="structure {type:default;}">
+				<Coords points="444,495 1214,495 1214,699 444,699"/>
+				<Baseline points="444,699 1214,699"/>
+				<TextEquiv>
+					<Unicode>ויהו פריקהי מקראוה וי רטעל חדטוה,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2089.tif">
+		<TextRegion id="eSc_region_913_132_1140_132_1140_195_913_195" custom="structure {type:text;}">
+			<Coords points="913,132 1140,132 1140,195 913,195"/>
+			<TextLine id="eSc_line_913_132_1140_132_1140_195_913_195" custom="structure {type:default;}">
+				<Coords points="913,132 1140,132 1140,195 913,195"/>
+				<Baseline points="913,195 1140,195"/>
+				<TextEquiv>
+					<Unicode>גורי, תייסם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_176_603_1199_603_1199_671_176_671" custom="structure {type:text;}">
+			<Coords points="176,603 1199,603 1199,671 176,671"/>
+			<TextLine id="eSc_line_176_603_1199_603_1199_671_176_671" custom="structure {type:default;}">
+				<Coords points="176,603 1199,603 1199,671 176,671"/>
+				<Baseline points="176,671 1199,671"/>
+				<TextEquiv>
+					<Unicode>מעריב,ימים ולילות, ה' אייר תסל&quot;ח,(2,5,78!),?&quot; 12</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_815_264_1081_264_1081_325_815_325" custom="structure {type:text;}">
+			<Coords points="815,264 1081,264 1081,325 815,325"/>
+			<TextLine id="eSc_line_815_264_1081_264_1081_325_815_325" custom="structure {type:default;}">
+				<Coords points="815,264 1081,264 1081,325 815,325"/>
+				<Baseline points="815,325 1081,325"/>
+				<TextEquiv>
+					<Unicode>טירי 30 שגהן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0487.tif">
+		<TextRegion id="eSc_region_901_96_1200_96_1200_176_901_176" custom="structure {type:text;}">
+			<Coords points="901,96 1200,96 1200,176 901,176"/>
+			<TextLine id="eSc_line_901_96_1200_96_1200_176_901_176" custom="structure {type:default;}">
+				<Coords points="901,96 1200,96 1200,176 901,176"/>
+				<Baseline points="901,176 1200,176"/>
+				<TextEquiv>
+					<Unicode>. גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_135_582_1225_582_1225_664_135_664" custom="structure {type:text;}">
+			<Coords points="135,582 1225,582 1225,664 135,664"/>
+			<TextLine id="eSc_line_135_582_1225_582_1225_664_135_664" custom="structure {type:default;}">
+				<Coords points="135,582 1225,582 1225,664 135,664"/>
+				<Baseline points="135,664 1225,664"/>
+				<TextEquiv>
+					<Unicode>מערים,ספרות,יס אלול תסל&quot;ז,(2.9.77)עמ' 57</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_558_283_959_283_959_349_558_349" custom="structure {type:text;}">
+			<Coords points="558,283 959,283 959,349 558,349"/>
+			<TextLine id="eSc_line_558_283_959_283_959_349_558_349" custom="structure {type:default;}">
+				<Coords points="558,283 959,283 959,349 558,349"/>
+				<Baseline points="558,349 959,349"/>
+				<TextEquiv>
+					<Unicode>בסורת הפמצורעלים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

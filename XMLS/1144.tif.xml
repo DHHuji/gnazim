@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1144.tif">
+		<TextRegion id="eSc_region_817_62_1130_62_1130_137_817_137" custom="structure {type:text;}">
+			<Coords points="817,62 1130,62 1130,137 817,137"/>
+			<TextLine id="eSc_line_817_62_1130_62_1130_137_817_137" custom="structure {type:default;}">
+				<Coords points="817,62 1130,62 1130,137 817,137"/>
+				<Baseline points="817,137 1130,137"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_441_213_1025_213_1025_357_441_357" custom="structure {type:text;}">
+			<Coords points="441,213 1025,213 1025,357 441,357"/>
+			<TextLine id="eSc_line_441_213_1025_213_1025_357_441_357" custom="structure {type:default;}">
+				<Coords points="441,213 1025,213 1025,357 441,357"/>
+				<Baseline points="441,357 1025,357"/>
+				<TextEquiv>
+					<Unicode>חמדור ואצני והזקן הכועס(מתוך &quot;הספר המשוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_157_559_1101_559_1101_637_157_637" custom="structure {type:text;}">
+			<Coords points="157,559 1101,559 1101,637 157,637"/>
+			<TextLine id="eSc_line_157_559_1101_559_1101_637_157_637" custom="structure {type:default;}">
+				<Coords points="157,559 1101,559 1101,637 157,637"/>
+				<Baseline points="157,637 1101,637"/>
+				<TextEquiv>
+					<Unicode>האוץ, תרבות וספרות,%,10.12.19,עמ' 25</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

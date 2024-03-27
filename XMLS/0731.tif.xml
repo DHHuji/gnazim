@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0731.tif">
+		<TextRegion id="eSc_region_886_97_1183_97_1183_178_886_178" custom="structure {type:text;}">
+			<Coords points="886,97 1183,97 1183,178 886,178"/>
+			<TextLine id="eSc_line_886_97_1183_97_1183_178_886_178" custom="structure {type:default;}">
+				<Coords points="886,97 1183,97 1183,178 886,178"/>
+				<Baseline points="886,178 1183,178"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 4-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_355_263_1053_263_1053_483_355_483" custom="structure {type:text;}">
+			<Coords points="355,263 1053,263 1053,483 355,483"/>
+			<TextLine id="eSc_line_355_263_1053_263_1053_483_355_483" custom="structure {type:default;}">
+				<Coords points="355,263 1053,263 1053,483 355,483"/>
+				<Baseline points="355,483 1053,483"/>
+				<TextEquiv>
+					<Unicode>וכעת מה?ן| ‎ -.‏ הרשימה .-אוכיסלסורה  ‎ -.‏ אל הכותל(מדור: רשימות סוף השבוע]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_683_611_1154_611_1154_699_683_699" custom="structure {type:text;}">
+			<Coords points="683,611 1154,611 1154,699 683,699"/>
+			<TextLine id="eSc_line_683_611_1154_611_1154_699_683_699" custom="structure {type:default;}">
+				<Coords points="683,611 1154,611 1154,699 683,699"/>
+				<Baseline points="683,699 1154,699"/>
+				<TextEquiv>
+					<Unicode>דבר, 4.2.702,עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

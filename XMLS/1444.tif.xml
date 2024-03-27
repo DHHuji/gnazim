@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1444.tif">
+		<TextRegion id="eSc_region_324_568_994_568_994_695_324_695" custom="structure {type:text;}">
+			<Coords points="324,568 994,568 994,695 324,695"/>
+			<TextLine id="eSc_line_324_568_994_568_994_695_324_695" custom="structure {type:default;}">
+				<Coords points="324,568 994,568 994,695 324,695"/>
+				<Baseline points="324,695 994,695"/>
+				<TextEquiv>
+					<Unicode>לררחב,/6!1777+? &lt; 41&quot; 5!96</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_456_245_913_245_913_445_456_445" custom="structure {type:text;}">
+			<Coords points="456,245 913,245 913,445 456,445"/>
+			<TextLine id="eSc_line_456_245_913_245_913_445_456_445" custom="structure {type:default;}">
+				<Coords points="456,245 913,245 913,445 456,445"/>
+				<Baseline points="456,445 913,445"/>
+				<TextEquiv>
+					<Unicode>&quot;נחפו; בתכו למי&quot;
+
+-₪-
+
+\ ותו חגי
+7 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

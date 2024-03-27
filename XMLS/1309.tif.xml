@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1309.tif">
+		<TextRegion id="eSc_region_656_332_864_332_864_388_656_388" custom="structure {type:text;}">
+			<Coords points="656,332 864,332 864,388 656,388"/>
+			<TextLine id="eSc_line_656_332_864_332_864_388_656_388" custom="structure {type:default;}">
+				<Coords points="656,332 864,332 864,388 656,388"/>
+				<Baseline points="656,388 864,388"/>
+				<TextEquiv>
+					<Unicode>מסע בלילר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_214_331_477_331_477_386_214_386" custom="structure {type:text;}">
+			<Coords points="214,331 477,331 477,386 214,386"/>
+			<TextLine id="eSc_line_214_331_477_331_477_386_214_386" custom="structure {type:default;}">
+				<Coords points="214,331 477,331 477,386 214,386"/>
+				<Baseline points="214,386 477,386"/>
+				<TextEquiv>
+					<Unicode>'העיר האחרת&quot;)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_880_650_1125_650_1125_709_880_709" custom="structure {type:text;}">
+			<Coords points="880,650 1125,650 1125,709 880,709"/>
+			<TextLine id="eSc_line_880_650_1125_650_1125_709_880_709" custom="structure {type:default;}">
+				<Coords points="880,650 1125,650 1125,709 880,709"/>
+				<Baseline points="880,709 1125,709"/>
+				<TextEquiv>
+					<Unicode>למרהב, מע\א,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2214.tif">
+		<TextRegion id="eSc_region_997_96_1232_96_1232_161_997_161" custom="structure {type:text;}">
+			<Coords points="997,96 1232,96 1232,161 997,161"/>
+			<TextLine id="eSc_line_997_96_1232_96_1232_161_997_161" custom="structure {type:default;}">
+				<Coords points="997,96 1232,96 1232,161 997,161"/>
+				<Baseline points="997,161 1232,161"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים -=--+--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_303_535_1225_535_1225_601_303_601" custom="structure {type:text;}">
+			<Coords points="303,535 1225,535 1225,601 303,601"/>
+			<TextLine id="eSc_line_303_535_1225_535_1225_601_303_601" custom="structure {type:default;}">
+				<Coords points="303,535 1225,535 1225,601 303,601"/>
+				<Baseline points="303,601 1225,601"/>
+				<TextEquiv>
+					<Unicode>דבר,םטא,גל 47, י כסלו תפל&quot;ו,(14.11.75), עם 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_537_229_1113_229_1113_387_537_387" custom="structure {type:text;}">
+			<Coords points="537,229 1113,229 1113,387 537,387"/>
+			<TextLine id="eSc_line_537_229_1113_229_1113_387_537_387" custom="structure {type:default;}">
+				<Coords points="537,229 1113,229 1113,387 537,387"/>
+				<Baseline points="537,387 1113,387"/>
+				<TextEquiv>
+					<Unicode>תודה לקזוא
+
+מו -
+( על עזרא סלייפר(י,גולה) (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

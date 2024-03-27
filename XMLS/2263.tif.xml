@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2263.tif">
+		<TextRegion id="eSc_region_114_236_1182_236_1182_762_114_762" custom="structure {type:text;}">
+			<Coords points="114,236 1182,236 1182,762 114,762"/>
+			<TextLine id="eSc_line_114_236_1182_236_1182_762_114_762" custom="structure {type:default;}">
+				<Coords points="114,236 1182,236 1182,762 114,762"/>
+				<Baseline points="114,762 1182,762"/>
+				<TextEquiv>
+					<Unicode>השעה טשירים משנוה הטרבעים -ן אב.תצפית מעלר הכרמלרב.אקדמות לצפרנים תאלת.- ‏ האע מתה השעה טשירים משנוה הטרבעים -ן אב.תצפית מעלרהכרמלרב.אקדמות לצפרנים תאלת.- ‏ האע מתהעלומץ אותי 9!! .- כ מרים 9.- הבנדור בחפשאת מהובתו .- חמדור מדבר אל טהובתו כאילוהיתה ארץ ‎ -.‏ בקור בנתלל .- הוזקן לוקםאה הנערים ‎ -,‏ ברות הנושב [כתוך&quot;הספר הכמבוגצץ&quot;'. ₪ 0מעריב, 60.4.107%, / עמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

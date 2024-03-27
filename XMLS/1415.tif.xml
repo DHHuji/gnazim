@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1415.tif">
+		<TextRegion id="eSc_region_886_58_1167_58_1167_171_886_171" custom="structure {type:text;}">
+			<Coords points="886,58 1167,58 1167,171 886,171"/>
+			<TextLine id="eSc_line_886_58_1167_58_1167_171_886_171" custom="structure {type:default;}">
+				<Coords points="886,58 1167,58 1167,171 886,171"/>
+				<Baseline points="886,171 1167,171"/>
+				<TextEquiv>
+					<Unicode>. גורי, חיים .
+
+גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_214_1161_214_1161_821_0_821" custom="structure {type:text;}">
+			<Coords points="0,214 1161,214 1161,821 0,821"/>
+			<TextLine id="eSc_line_0_214_1161_214_1161_821_0_821" custom="structure {type:default;}">
+				<Coords points="0,214 1161,214 1161,821 0,821"/>
+				<Baseline points="0,821 1161,821"/>
+				<TextEquiv>
+					<Unicode>מתוך &quot;סראות גיהזי&quot;ן(&quot;וראיתי אה פניה הפצולסות מלפנים ופן הצר...),-(&quot;בתים-- --פתוחים מן הרגיל...&quot;4- |'הטמט סוקעת...&quot;)- (&quot;אגי גר כעת₪בספר יזו..- (&quot;באה אלי סעה שאינה מתקבלת קל הרעח. ..&quot;)| חפיסה סיריס )ירוסלים, כרך ז-ת, סנתון, &quot;ג, עם&quot; 71/69</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

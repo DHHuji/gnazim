@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0871.tif">
+		<TextRegion id="eSc_region_961_18_1222_18_1222_90_961_90" custom="structure {type:text;}">
+			<Coords points="961,18 1222,18 1222,90 961,90"/>
+			<TextLine id="eSc_line_961_18_1222_18_1222_90_961_90" custom="structure {type:default;}">
+				<Coords points="961,18 1222,18 1222,90 961,90"/>
+				<Baseline points="961,90 1222,90"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים ---+-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_561_269_1193_269_1193_389_561_389" custom="structure {type:text;}">
+			<Coords points="561,269 1193,269 1193,389 561,389"/>
+			<TextLine id="eSc_line_561_269_1193_269_1193_389_561_389" custom="structure {type:default;}">
+				<Coords points="561,269 1193,269 1193,389 561,389"/>
+				<Baseline points="561,389 1193,389"/>
+				<TextEquiv>
+					<Unicode>&quot;יגאל טאלון,כליס כלובים&quot;הכיא לדפוס: עללמה ררך</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_96_593_1214_593_1214_823_96_823" custom="structure {type:text;}">
+			<Coords points="96,593 1214,593 1214,823 96,823"/>
+			<TextLine id="eSc_line_96_593_1214_593_1214_823_96_823" custom="structure {type:default;}">
+				<Coords points="96,593 1214,593 1214,823 96,823"/>
+				<Baseline points="96,823 1214,823"/>
+				<TextEquiv>
+					<Unicode>ידיעוה,כתרונוח,ספרוה,ו&quot; כסלו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

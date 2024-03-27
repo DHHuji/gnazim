@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1710.tif">
+		<TextRegion id="eSc_region_992_0_1256_0_1256_68_992_68" custom="structure {type:text;}">
+			<Coords points="992,0 1256,0 1256,68 992,68"/>
+			<TextLine id="eSc_line_992_0_1256_0_1256_68_992_68" custom="structure {type:default;}">
+				<Coords points="992,0 1256,0 1256,68 992,68"/>
+				<Baseline points="992,68 1256,68"/>
+				<TextEquiv>
+					<Unicode>גורי,תיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_126_494_1247_494_1247_722_126_722" custom="structure {type:text;}">
+			<Coords points="126,494 1247,494 1247,722 126,722"/>
+			<TextLine id="eSc_line_126_494_1247_494_1247_722_126_722" custom="structure {type:default;}">
+				<Coords points="126,494 1247,494 1247,722 126,722"/>
+				<Baseline points="126,722 1247,722"/>
+				<TextEquiv>
+					<Unicode>יריצוה אחרונוה,יד ניסן הפלמג,28.3.1983 עמ&quot;13</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_687_229_1024_229_1024_293_687_293" custom="structure {type:text;}">
+			<Coords points="687,229 1024,229 1024,293 687,293"/>
+			<TextLine id="eSc_line_687_229_1024_229_1024_293_687_293" custom="structure {type:default;}">
+				<Coords points="687,229 1024,229 1024,293 687,293"/>
+				<Baseline points="687,293 1024,293"/>
+				<TextEquiv>
+					<Unicode>עצם האביב הזה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

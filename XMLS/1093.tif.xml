@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1093.tif">
+		<TextRegion id="eSc_region_607_186_944_186_944_254_607_254" custom="structure {type:text;}">
+			<Coords points="607,186 944,186 944,254 607,254"/>
+			<TextLine id="eSc_line_607_186_944_186_944_254_607_254" custom="structure {type:default;}">
+				<Coords points="607,186 944,186 944,254 607,254"/>
+				<Baseline points="607,254 944,254"/>
+				<TextEquiv>
+					<Unicode>לילה בנינווה לילה בנינווה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

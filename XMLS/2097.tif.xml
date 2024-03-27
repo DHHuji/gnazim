@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2097.tif">
+		<TextRegion id="eSc_region_855_90_1124_90_1124_163_855_163" custom="structure {type:text;}">
+			<Coords points="855,90 1124,90 1124,163 855,163"/>
+			<TextLine id="eSc_line_855_90_1124_90_1124_163_855_163" custom="structure {type:default;}">
+				<Coords points="855,90 1124,90 1124,163 855,163"/>
+				<Baseline points="855,163 1124,163"/>
+				<TextEquiv>
+					<Unicode>גורי, חייט 4 גורי, חייט
+4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_390_219_1164_219_1164_422_390_422" custom="structure {type:text;}">
+			<Coords points="390,219 1164,219 1164,422 390,422"/>
+			<TextLine id="eSc_line_390_219_1164_219_1164_422_390_422" custom="structure {type:default;}">
+				<Coords points="390,219 1164,219 1164,422 390,422"/>
+				<Baseline points="390,422 1164,422"/>
+				<TextEquiv>
+					<Unicode>גהירים מתוך יומן לילי0/6049 58]. 9-2 אאלנתמשח, גליון 8, תטי&quot;ב, עס' 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

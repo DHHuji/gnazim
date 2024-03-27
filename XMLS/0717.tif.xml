@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0717.tif">
+		<TextRegion id="eSc_region_885_106_1144_106_1144_171_885_171" custom="structure {type:text;}">
+			<Coords points="885,106 1144,106 1144,171 885,171"/>
+			<TextLine id="eSc_line_885_106_1144_106_1144_171_885_171" custom="structure {type:default;}">
+				<Coords points="885,106 1144,106 1144,171 885,171"/>
+				<Baseline points="885,171 1144,171"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים כ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_189_227_1004_227_1004_364_189_364" custom="structure {type:text;}">
+			<Coords points="189,227 1004,227 1004,364 189,364"/>
+			<TextLine id="eSc_line_189_227_1004_227_1004_364_189_364" custom="structure {type:default;}">
+				<Coords points="189,227 1004,227 1004,364 189,364"/>
+				<Baseline points="189,364 1004,364"/>
+				<TextEquiv>
+					<Unicode>&quot;וזה ורך הפיר&quot; (על פיר &quot;הבקתה&quot; לגתןאלתרפן)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_431_425_1140_425_1140_543_431_543" custom="structure {type:text;}">
+			<Coords points="431,425 1140,425 1140,543 431,543"/>
+			<TextLine id="eSc_line_431_425_1140_425_1140_543_431_543" custom="structure {type:default;}">
+				<Coords points="431,425 1140,425 1140,543 431,543"/>
+				<Baseline points="431,543 1140,543"/>
+				<TextEquiv>
+					<Unicode>מפא, גליון 24, תשי&quot;ב, עם' 3, 8
+בו 3 27</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

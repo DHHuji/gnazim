@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0795.tif">
+		<TextRegion id="eSc_region_896_149_1130_149_1130_215_896_215" custom="structure {type:text;}">
+			<Coords points="896,149 1130,149 1130,215 896,215"/>
+			<TextLine id="eSc_line_896_149_1130_149_1130_215_896_215" custom="structure {type:default;}">
+				<Coords points="896,149 1130,149 1130,215 896,215"/>
+				<Baseline points="896,215 1130,215"/>
+				<TextEquiv>
+					<Unicode>גורי, תייט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_421_488_1122_488_1122_555_421_555" custom="structure {type:text;}">
+			<Coords points="421,488 1122,488 1122,555 421,555"/>
+			<TextLine id="eSc_line_421_488_1122_488_1122_555_421_555" custom="structure {type:default;}">
+				<Coords points="421,488 1122,488 1122,555 421,555"/>
+				<Baseline points="421,555 1122,555"/>
+				<TextEquiv>
+					<Unicode>דבר, כח תסרי הט&quot;ם,(9,)19.10.79מ27</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_535_289_1002_289_1002_462_535_462" custom="structure {type:text;}">
+			<Coords points="535,289 1002,289 1002,462 535,462"/>
+			<TextLine id="eSc_line_535_289_1002_289_1002_462_535_462" custom="structure {type:default;}">
+				<Coords points="535,289 1002,289 1002,462 535,462"/>
+				<Baseline points="535,462 1002,462"/>
+				<TextEquiv>
+					<Unicode>חוקי המטסחץ
+
+חתום ת-גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

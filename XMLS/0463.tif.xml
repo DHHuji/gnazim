@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0463.tif">
+		<TextRegion id="eSc_region_859_79_1159_79_1159_158_859_158" custom="structure {type:text;}">
+			<Coords points="859,79 1159,79 1159,158 859,158"/>
+			<TextLine id="eSc_line_859_79_1159_79_1159_158_859_158" custom="structure {type:default;}">
+				<Coords points="859,79 1159,79 1159,158 859,158"/>
+				<Baseline points="859,158 1159,158"/>
+				<TextEquiv>
+					<Unicode>- גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_202_306_915_306_915_459_202_459" custom="structure {type:text;}">
+			<Coords points="202,306 915,306 915,459 202,459"/>
+			<TextLine id="eSc_line_202_306_915_306_915_459_202_459" custom="structure {type:default;}">
+				<Coords points="202,306 915,306 915,459 202,459"/>
+				<Baseline points="202,459 915,459"/>
+				<TextEquiv>
+					<Unicode>ברחוב דיזנגוף באותה שבת(פה אוסרים?) ( חתרם תגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_227_606_866_606_866_687_227_687" custom="structure {type:text;}">
+			<Coords points="227,606 866,606 866,687 227,687"/>
+			<TextLine id="eSc_line_227_606_866_606_866_687_227_687" custom="structure {type:default;}">
+				<Coords points="227,606 866,606 866,687 227,687"/>
+				<Baseline points="227,687 866,687"/>
+				<TextEquiv>
+					<Unicode>לפרתב, 26.1.1956, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

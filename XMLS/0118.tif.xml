@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0118.tif">
+		<TextRegion id="eSc_region_901_96_1144_96_1144_176_901_176" custom="structure {type:text;}">
+			<Coords points="901,96 1144,96 1144,176 901,176"/>
+			<TextLine id="eSc_line_901_96_1144_96_1144_176_901_176" custom="structure {type:default;}">
+				<Coords points="901,96 1144,96 1144,176 901,176"/>
+				<Baseline points="901,176 1144,176"/>
+				<TextEquiv>
+					<Unicode>חיים גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_330_228_1002_228_1002_445_330_445" custom="structure {type:text;}">
+			<Coords points="330,228 1002,228 1002,445 330,445"/>
+			<TextLine id="eSc_line_330_228_1002_228_1002_445_330_445" custom="structure {type:default;}">
+				<Coords points="330,228 1002,228 1002,445 330,445"/>
+				<Baseline points="330,445 1002,445"/>
+				<TextEquiv>
+					<Unicode>&quot;אילו הייה ראס הממצלה&quot;&quot; (2)פעיל: &quot;הצהרת בלפור לפלעשח'נטים&quot;שיחה עפ תיים גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_249_503_1020_503_1020_586_249_586" custom="structure {type:text;}">
+			<Coords points="249,503 1020,503 1020,586 249,586"/>
+			<TextLine id="eSc_line_249_503_1020_503_1020_586_249_586" custom="structure {type:default;}">
+				<Coords points="249,503 1020,503 1020,586 249,586"/>
+				<Baseline points="249,586 1020,586"/>
+				<TextEquiv>
+					<Unicode>דכר, כא תפר* תע&quot;ם,(12,10.7%), למ&quot; 16</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1853.tif">
+		<TextRegion id="eSc_region_903_44_1215_44_1215_117_903_117" custom="structure {type:text;}">
+			<Coords points="903,44 1215,44 1215,117 903,117"/>
+			<TextLine id="eSc_line_903_44_1215_44_1215_117_903_117" custom="structure {type:default;}">
+				<Coords points="903,44 1215,44 1215,117 903,117"/>
+				<Baseline points="903,117 1215,117"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 7 0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_91_265_914_265_914_451_91_451" custom="structure {type:text;}">
+			<Coords points="91,265 914,265 914,451 91,451"/>
+			<TextLine id="eSc_line_91_265_914_265_914_451_91_451" custom="structure {type:default;}">
+				<Coords points="91,265 914,265 914,451 91,451"/>
+				<Baseline points="91,451 914,451"/>
+				<TextEquiv>
+					<Unicode>(מרור רס'מות סוף השבוע, &quot;סס; בצפון&quot;, !)( | חתוס -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_496_590_1161_590_1161_780_496_780" custom="structure {type:text;}">
+			<Coords points="496,590 1161,590 1161,780 496,780"/>
+			<TextLine id="eSc_line_496_590_1161_590_1161_780_496_780" custom="structure {type:default;}">
+				<Coords points="496,590 1161,590 1161,780 496,780"/>
+				<Baseline points="496,780 1161,780"/>
+				<TextEquiv>
+					<Unicode>דבר, כפ סבה השל&quot;ו, 2.1.76),עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

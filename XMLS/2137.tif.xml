@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2137.tif">
+		<TextRegion id="eSc_region_1050_218_1145_218_1145_269_1050_269" custom="structure {type:text;}">
+			<Coords points="1050,218 1145,218 1145,269 1050,269"/>
+			<TextLine id="eSc_line_1050_218_1145_218_1145_269_1050_269" custom="structure {type:default;}">
+				<Coords points="1050,218 1145,218 1145,269 1050,269"/>
+				<Baseline points="1050,269 1145,269"/>
+				<TextEquiv>
+					<Unicode>הדם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_924_218_1044_218_1044_267_924_267" custom="structure {type:text;}">
+			<Coords points="924,218 1044,218 1044,267 924,267"/>
+			<TextLine id="eSc_line_924_218_1044_218_1044_267_924_267" custom="structure {type:default;}">
+				<Coords points="924,218 1044,218 1044,267 924,267"/>
+				<Baseline points="924,267 1044,267"/>
+				<TextEquiv>
+					<Unicode>ונשור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_748_219_917_219_917_271_748_271" custom="structure {type:text;}">
+			<Coords points="748,219 917,219 917,271 748,271"/>
+			<TextLine id="eSc_line_748_219_917_219_917_271_748_271" custom="structure {type:default;}">
+				<Coords points="748,219 917,219 917,271 748,271"/>
+				<Baseline points="748,271 917,271"/>
+				<TextEquiv>
+					<Unicode>והגנוב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

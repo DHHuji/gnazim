@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1303.tif">
+		<TextRegion id="eSc_region_806_0_1188_0_1188_251_806_251" custom="structure {type:text;}">
+			<Coords points="806,0 1188,0 1188,251 806,251"/>
+			<TextLine id="eSc_line_806_0_1188_0_1188_251_806_251" custom="structure {type:default;}">
+				<Coords points="806,0 1188,0 1188,251 806,251"/>
+				<Baseline points="806,251 1188,251"/>
+				<TextEquiv>
+					<Unicode>י, חיים גורי, י, חיים
+גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_269_1078_269_1078_828_0_828" custom="structure {type:text;}">
+			<Coords points="0,269 1078,269 1078,828 0,828"/>
+			<TextLine id="eSc_line_0_269_1078_269_1078_828_0_828" custom="structure {type:default;}">
+				<Coords points="0,269 1078,269 1078,828 0,828"/>
+				<Baseline points="0,828 1078,828"/>
+				<TextEquiv>
+					<Unicode>המסץ אל הר האלהים (ממון &quot;קעד עלות השחר&quot;)הארץ, פנר ל&quot;ב, 20.1,1950, עמ&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

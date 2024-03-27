@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1268.tif">
+		<TextRegion id="eSc_region_941_70_1173_70_1173_131_941_131" custom="structure {type:text;}">
+			<Coords points="941,70 1173,70 1173,131 941,131"/>
+			<TextLine id="eSc_line_941_70_1173_70_1173_131_941_131" custom="structure {type:default;}">
+				<Coords points="941,70 1173,70 1173,131 941,131"/>
+				<Baseline points="941,131 1173,131"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 27-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_494_366_968_366_968_493_494_493" custom="structure {type:text;}">
+			<Coords points="494,366 968,366 968,493 494,493"/>
+			<TextLine id="eSc_line_494_366_968_366_968_493_494_493" custom="structure {type:default;}">
+				<Coords points="494,366 968,366 968,493 494,493"/>
+				<Baseline points="494,493 968,493"/>
+				<TextEquiv>
+					<Unicode>המלים החכסרות והמיותרותאומרים? 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_741_641_1107_641_1107_703_741_703" custom="structure {type:text;}">
+			<Coords points="741,641 1107,641 1107,703 741,703"/>
+			<TextLine id="eSc_line_741_641_1107_641_1107_703_741_703" custom="structure {type:default;}">
+				<Coords points="741,641 1107,641 1107,703 741,703"/>
+				<Baseline points="741,703 1107,703"/>
+				<TextEquiv>
+					<Unicode>למרחב, 16.2.60, 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

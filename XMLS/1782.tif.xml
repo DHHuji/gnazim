@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1782.tif">
+		<TextRegion id="eSc_region_908_90_1140_90_1140_153_908_153" custom="structure {type:text;}">
+			<Coords points="908,90 1140,90 1140,153 908,153"/>
+			<TextLine id="eSc_line_908_90_1140_90_1140_153_908_153" custom="structure {type:default;}">
+				<Coords points="908,90 1140,90 1140,153 908,153"/>
+				<Baseline points="908,153 1140,153"/>
+				<TextEquiv>
+					<Unicode>חייס גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_130_491_1112_491_1112_561_130_561" custom="structure {type:text;}">
+			<Coords points="130,491 1112,491 1112,561 130,561"/>
+			<TextLine id="eSc_line_130_491_1112_491_1112_561_130_561" custom="structure {type:default;}">
+				<Coords points="130,491 1112,491 1112,561 130,561"/>
+				<Baseline points="130,561 1112,561"/>
+				<TextEquiv>
+					<Unicode>הדואר,שנה50, גל&quot; כה, יא אייר השל&quot;ז, עמ&quot; 408/407</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_77_323_666_323_666_452_77_452" custom="structure {type:text;}">
+			<Coords points="77,323 666,323 666,452 77,452"/>
+			<TextLine id="eSc_line_77_323_666_323_666_452_77_452" custom="structure {type:default;}">
+				<Coords points="77,323 666,323 666,452 77,452"/>
+				<Baseline points="77,452 666,452"/>
+				<TextEquiv>
+					<Unicode>פזכיר שלונס:י, סדן, עגנון
+= .</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

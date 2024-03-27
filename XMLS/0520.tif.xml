@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0520.tif">
+		<TextRegion id="eSc_region_328_0_1155_0_1155_753_328_753" custom="structure {type:text;}">
+			<Coords points="328,0 1155,0 1155,753 328,753"/>
+			<TextLine id="eSc_line_328_0_1155_0_1155_753_328_753" custom="structure {type:default;}">
+				<Coords points="328,0 1155,0 1155,753 328,753"/>
+				<Baseline points="328,753 1155,753"/>
+				<TextEquiv>
+					<Unicode>גורי.היים גב אהה? גורי.הייםגב אהה?( על כפר-גלטדי)ההום: ת-גידבר,. כב אב תקלמז 7,3.1097ועמ 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

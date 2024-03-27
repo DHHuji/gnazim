@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2226.tif">
+		<TextRegion id="eSc_region_939_90_1239_90_1239_174_939_174" custom="structure {type:text;}">
+			<Coords points="939,90 1239,90 1239,174 939,174"/>
+			<TextLine id="eSc_line_939_90_1239_90_1239_174_939_174" custom="structure {type:default;}">
+				<Coords points="939,90 1239,90 1239,174 939,174"/>
+				<Baseline points="939,174 1239,174"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 2-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_281_584_1231_584_1231_673_281_673" custom="structure {type:text;}">
+			<Coords points="281,584 1231,584 1231,673 281,673"/>
+			<TextLine id="eSc_line_281_584_1231_584_1231_673_281_673" custom="structure {type:default;}">
+				<Coords points="281,584 1231,584 1231,673 281,673"/>
+				<Baseline points="281,673 1231,673"/>
+				<TextEquiv>
+					<Unicode>ידילוה אהרונות, 17.1.1969, עמ' 16-15</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_685_286_1084_286_1084_435_685_435" custom="structure {type:text;}">
+			<Coords points="685,286 1084,286 1084,435 685,435"/>
+			<TextLine id="eSc_line_685_286_1084_286_1084_435_685_435" custom="structure {type:default;}">
+				<Coords points="685,286 1084,286 1084,435 685,435"/>
+				<Baseline points="685,435 1084,435"/>
+				<TextEquiv>
+					<Unicode>התחרות הנוראית
+המסוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

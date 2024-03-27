@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1364.tif">
+		<TextRegion id="eSc_region_947_113_1197_113_1197_194_947_194" custom="structure {type:text;}">
+			<Coords points="947,113 1197,113 1197,194 947,194"/>
+			<TextLine id="eSc_line_947_113_1197_113_1197_194_947_194" custom="structure {type:default;}">
+				<Coords points="947,113 1197,113 1197,194 947,194"/>
+				<Baseline points="947,194 1197,194"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_105_314_1064_314_1064_555_105_555" custom="structure {type:text;}">
+			<Coords points="105,314 1064,314 1064,555 105,555"/>
+			<TextLine id="eSc_line_105_314_1064_314_1064_555_105_555" custom="structure {type:default;}">
+				<Coords points="105,314 1064,314 1064,555 105,555"/>
+				<Baseline points="105,555 1064,555"/>
+				<TextEquiv>
+					<Unicode>המראות והדברים; בהאסף שנה,- תמילת הקיימים.-אשרי התמיט,- העלבון,- הסטורר,- ביונה הלבנה( טישה עירים )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_208_672_1028_672_1028_846_208_846" custom="structure {type:text;}">
+			<Coords points="208,672 1028,672 1028,846 208,846"/>
+			<TextLine id="eSc_line_208_672_1028_672_1028_846_208_846" custom="structure {type:default;}">
+				<Coords points="208,672 1028,672 1028,846 208,846"/>
+				<Baseline points="208,846 1028,846"/>
+				<TextEquiv>
+					<Unicode>על המשסמר, דף 9 ול26.10,19, עם&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

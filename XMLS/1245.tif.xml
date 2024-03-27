@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1245.tif">
+		<TextRegion id="eSc_region_930_94_1187_94_1187_183_930_183" custom="structure {type:text;}">
+			<Coords points="930,94 1187,94 1187,183 930,183"/>
+			<TextLine id="eSc_line_930_94_1187_94_1187_183_930_183" custom="structure {type:default;}">
+				<Coords points="930,94 1187,94 1187,183 930,183"/>
+				<Baseline points="930,183 1187,183"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_99_229_1062_229_1062_452_99_452" custom="structure {type:text;}">
+			<Coords points="99,229 1062,229 1062,452 99,452"/>
+			<TextLine id="eSc_line_99_229_1062_229_1062_452_99_452" custom="structure {type:default;}">
+				<Coords points="99,229 1062,229 1062,452 99,452"/>
+				<Baseline points="99,452 1062,452"/>
+				<TextEquiv>
+					<Unicode>סכל הרורותדברים באוניברסיפה הקברית בירושליס בקרב זיכיוןלס.י.צגנון</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_355_569_1240_569_1240_662_355_662" custom="structure {type:text;}">
+			<Coords points="355,569 1240,569 1240,662 355,662"/>
+			<TextLine id="eSc_line_355_569_1240_569_1240_662_355_662" custom="structure {type:default;}">
+				<Coords points="355,569 1240,569 1240,662 355,662"/>
+				<Baseline points="355,662 1240,662"/>
+				<TextEquiv>
+					<Unicode>דבר,מטא, ס&quot; ניסן תסל&quot;ח,(6.4.79), עם&quot;21/20</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

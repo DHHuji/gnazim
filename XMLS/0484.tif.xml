@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0484.tif">
+		<TextRegion id="eSc_region_832_87_1207_87_1207_187_832_187" custom="structure {type:text;}">
+			<Coords points="832,87 1207,87 1207,187 832,187"/>
+			<TextLine id="eSc_line_832_87_1207_87_1207_187_832_187" custom="structure {type:default;}">
+				<Coords points="832,87 1207,87 1207,187 832,187"/>
+				<Baseline points="832,187 1207,187"/>
+				<TextEquiv>
+					<Unicode>גורי, חים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_513_1233_513_1233_653_0_653" custom="structure {type:text;}">
+			<Coords points="0,513 1233,513 1233,653 0,653"/>
+			<TextLine id="eSc_line_0_513_1233_513_1233_653_0_653" custom="structure {type:default;}">
+				<Coords points="0,513 1233,513 1233,653 0,653"/>
+				<Baseline points="0,653 1233,653"/>
+				<TextEquiv>
+					<Unicode>אספקלריה, מם' 44, ל שבט תש*ן ‏ (20.2.47),עמ' 79/78</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_432_220_812_220_812_403_432_403" custom="structure {type:text;}">
+			<Coords points="432,220 812,220 812,403 432,403"/>
+			<TextLine id="eSc_line_432_220_812_220_812_403_432_403" custom="structure {type:default;}">
+				<Coords points="432,220 812,220 812,403 432,403"/>
+				<Baseline points="432,403 812,403"/>
+				<TextEquiv>
+					<Unicode>היטן
+בשוק
+
+(סיפור קטן ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

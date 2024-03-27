@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2016.tif">
+		<TextRegion id="eSc_region_439_623_1137_623_1137_834_439_834" custom="structure {type:text;}">
+			<Coords points="439,623 1137,623 1137,834 439,834"/>
+			<TextLine id="eSc_line_439_623_1137_623_1137_834_439_834" custom="structure {type:default;}">
+				<Coords points="439,623 1137,623 1137,834 439,834"/>
+				<Baseline points="439,834 1137,834"/>
+				<TextEquiv>
+					<Unicode>דבר,ג' חשון הסל&quot;ס, (7.11.78),לם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_545_310_999_310_999_492_545_492" custom="structure {type:text;}">
+			<Coords points="545,310 999,310 999,492 545,492"/>
+			<TextLine id="eSc_line_545_310_999_310_999_492_545_492" custom="structure {type:default;}">
+				<Coords points="545,310 999,310 999,492 545,492"/>
+				<Baseline points="545,492 999,492"/>
+				<TextEquiv>
+					<Unicode>סשבחי האור
+
+| חתום ח-גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

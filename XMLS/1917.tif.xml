@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1917.tif">
+		<TextRegion id="eSc_region_863_19_1135_19_1135_101_863_101" custom="structure {type:text;}">
+			<Coords points="863,19 1135,19 1135,101 863,101"/>
+			<TextLine id="eSc_line_863_19_1135_19_1135_101_863_101" custom="structure {type:default;}">
+				<Coords points="863,19 1135,19 1135,101 863,101"/>
+				<Baseline points="863,101 1135,101"/>
+				<TextEquiv>
+					<Unicode>וריבחייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_355_218_977_218_977_297_355_297" custom="structure {type:text;}">
+			<Coords points="355,218 977,218 977,297 355,297"/>
+			<TextLine id="eSc_line_355_218_977_218_977_297_355_297" custom="structure {type:default;}">
+				<Coords points="355,218 977,218 977,297 355,297"/>
+				<Baseline points="355,297 977,297"/>
+				<TextEquiv>
+					<Unicode>הקונאה הרכה אה תדור קלי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_24_495_1126_495_1126_723_24_723" custom="structure {type:text;}">
+			<Coords points="24,495 1126,495 1126,723 24,723"/>
+			<TextLine id="eSc_line_24_495_1126_495_1126_723_24_723" custom="structure {type:default;}">
+				<Coords points="24,495 1126,495 1126,723 24,723"/>
+				<Baseline points="24,723 1126,723"/>
+				<TextEquiv>
+					<Unicode>ידיטוהר אסחרונות.&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

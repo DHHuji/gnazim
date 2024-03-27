@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1171.tif">
+		<TextRegion id="eSc_region_815_75_1123_75_1123_163_815_163" custom="structure {type:text;}">
+			<Coords points="815,75 1123,75 1123,163 815,163"/>
+			<TextLine id="eSc_line_815_75_1123_75_1123_163_815_163" custom="structure {type:default;}">
+				<Coords points="815,75 1123,75 1123,163 815,163"/>
+				<Baseline points="815,163 1123,163"/>
+				<TextEquiv>
+					<Unicode>גורי, היים =הה-2-- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_533_296_1068_296_1068_462_533_462" custom="structure {type:text;}">
+			<Coords points="533,296 1068,296 1068,462 533,462"/>
+			<TextLine id="eSc_line_533_296_1068_296_1068_462_533_462" custom="structure {type:default;}">
+				<Coords points="533,296 1068,296 1068,462 533,462"/>
+				<Baseline points="533,462 1068,462"/>
+				<TextEquiv>
+					<Unicode>&quot;מה כואב לך, יסראל&quot;--| חתום חגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_370_591_1014_591_1014_678_370_678" custom="structure {type:text;}">
+			<Coords points="370,591 1014,591 1014,678 370,678"/>
+			<TextLine id="eSc_line_370_591_1014_591_1014_678_370_678" custom="structure {type:default;}">
+				<Coords points="370,591 1014,591 1014,678 370,678"/>
+				<Baseline points="370,678 1014,678"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 17.2.1956, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

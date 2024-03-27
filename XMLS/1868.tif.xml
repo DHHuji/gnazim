@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1868.tif">
+		<TextRegion id="eSc_region_884_70_1282_70_1282_277_884_277" custom="structure {type:text;}">
+			<Coords points="884,70 1282,70 1282,277 884,277"/>
+			<TextLine id="eSc_line_884_70_1282_70_1282_277_884_277" custom="structure {type:default;}">
+				<Coords points="884,70 1282,70 1282,277 884,277"/>
+				<Baseline points="884,277 1282,277"/>
+				<TextEquiv>
+					<Unicode>יו-₪ ו ידי הם.. יו-₪ו ידי הם..גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_305_1286_305_1286_910_0_910" custom="structure {type:text;}">
+			<Coords points="0,305 1286,305 1286,910 0,910"/>
+			<TextLine id="eSc_line_0_305_1286_305_1286_910_0_910" custom="structure {type:default;}">
+				<Coords points="0,305 1286,305 1286,910 0,910"/>
+				<Baseline points="0,910 1286,910"/>
+				<TextEquiv>
+					<Unicode>[ גל
+
+פורים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

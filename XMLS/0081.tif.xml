@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0081.tif">
+		<TextRegion id="eSc_region_192_36_1213_36_1213_502_192_502" custom="structure {type:text;}">
+			<Coords points="192,36 1213,36 1213,502 192,502"/>
+			<TextLine id="eSc_line_192_36_1213_36_1213_502_192_502" custom="structure {type:default;}">
+				<Coords points="192,36 1213,36 1213,502 192,502"/>
+				<Baseline points="192,502 1213,502"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים1 : 0 לטובת ירוסלים(מה אומרים?) ( חתום הגו \7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_253_523_1000_523_1000_885_253_885" custom="structure {type:text;}">
+			<Coords points="253,523 1000,523 1000,885 253,885"/>
+			<TextLine id="eSc_line_253_523_1000_523_1000_885_253_885" custom="structure {type:default;}">
+				<Coords points="253,523 1000,523 1000,885 253,885"/>
+				<Baseline points="253,885 1000,885"/>
+				<TextEquiv>
+					<Unicode>לפרתב, 29.2.1956, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

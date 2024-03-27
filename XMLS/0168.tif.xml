@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0168.tif">
+		<TextRegion id="eSc_region_937_98_1228_98_1228_173_937_173" custom="structure {type:text;}">
+			<Coords points="937,98 1228,98 1228,173 937,173"/>
+			<TextLine id="eSc_line_937_98_1228_98_1228_173_937_173" custom="structure {type:default;}">
+				<Coords points="937,98 1228,98 1228,173 937,173"/>
+				<Baseline points="937,173 1228,173"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_253_285_1123_285_1123_436_253_436" custom="structure {type:text;}">
+			<Coords points="253,285 1123,285 1123,436 253,436"/>
+			<TextLine id="eSc_line_253_285_1123_285_1123_436_253_436" custom="structure {type:default;}">
+				<Coords points="253,285 1123,285 1123,436 253,436"/>
+				<Baseline points="253,436 1123,436"/>
+				<TextEquiv>
+					<Unicode>ו ו&quot;האם גם דספרות עלנו אמרה &quot;אחרי!&quot; ?[מתוך דיון ספווהי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_667_564_1225_564_1225_644_667_644" custom="structure {type:text;}">
+			<Coords points="667,564 1225,564 1225,644 667,644"/>
+			<TextLine id="eSc_line_667_564_1225_564_1225_644_667_644" custom="structure {type:default;}">
+				<Coords points="667,564 1225,564 1225,644 667,644"/>
+				<Baseline points="667,644 1225,644"/>
+				<TextEquiv>
+					<Unicode>מעויב, 0.10.1908, עמב'</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

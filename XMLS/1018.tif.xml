@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1018.tif">
+		<TextRegion id="eSc_region_978_34_1243_34_1243_107_978_107" custom="structure {type:text;}">
+			<Coords points="978,34 1243,34 1243,107 978,107"/>
+			<TextLine id="eSc_line_978_34_1243_34_1243_107_978_107" custom="structure {type:default;}">
+				<Coords points="978,34 1243,34 1243,107 978,107"/>
+				<Baseline points="978,107 1243,107"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים ---=1=----=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_109_585_1237_585_1237_829_109_829" custom="structure {type:text;}">
+			<Coords points="109,585 1237,585 1237,829 109,829"/>
+			<TextLine id="eSc_line_109_585_1237_585_1237_829_109_829" custom="structure {type:default;}">
+				<Coords points="109,585 1237,585 1237,829 109,829"/>
+				<Baseline points="109,829 1237,829"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרות,כ&quot;ח הטון חסמ&quot;א,7.|1.80עמ7 51 /36</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_367_359_1160_359_1160_430_367_430" custom="structure {type:text;}">
+			<Coords points="367,359 1160,359 1160,430 367,430"/>
+			<TextLine id="eSc_line_367_359_1160_359_1160_430_367_430" custom="structure {type:default;}">
+				<Coords points="367,359 1160,359 1160,430 367,430"/>
+				<Baseline points="367,430 1160,430"/>
+				<TextEquiv>
+					<Unicode>פרק טליסי מהוך הטעה הכנענית&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

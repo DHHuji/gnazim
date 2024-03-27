@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0501.tif">
+		<TextRegion id="eSc_region_821_22_1082_22_1082_95_821_95" custom="structure {type:text;}">
+			<Coords points="821,22 1082,22 1082,95 821,95"/>
+			<TextLine id="eSc_line_821_22_1082_22_1082_95_821_95" custom="structure {type:default;}">
+				<Coords points="821,22 1082,22 1082,95 821,95"/>
+				<Baseline points="821,95 1082,95"/>
+				<TextEquiv>
+					<Unicode>גורי.חתיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_438_248_898_248_898_361_438_361" custom="structure {type:text;}">
+			<Coords points="438,248 898,248 898,361 438,361"/>
+			<TextLine id="eSc_line_438_248_898_248_898_361_438_361" custom="structure {type:default;}">
+				<Coords points="438,248 898,248 898,361 438,361"/>
+				<Baseline points="438,361 898,361"/>
+				<TextEquiv>
+					<Unicode>גנול התחשירה(תהום:וגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_494_523_1077_523_1077_731_494_731" custom="structure {type:text;}">
+			<Coords points="494,523 1077,523 1077,731 494,731"/>
+			<TextLine id="eSc_line_494_523_1077_523_1077_731_494_731" custom="structure {type:default;}">
+				<Coords points="494,523 1077,523 1077,731 494,731"/>
+				<Baseline points="494,731 1077,731"/>
+				<TextEquiv>
+					<Unicode>דגבר, ם כסלו תשמת97ו.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

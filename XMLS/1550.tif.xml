@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1550.tif">
+		<TextRegion id="eSc_region_918_90_1203_90_1203_162_918_162" custom="structure {type:text;}">
+			<Coords points="918,90 1203,90 1203,162 918,162"/>
+			<TextLine id="eSc_line_918_90_1203_90_1203_162_918_162" custom="structure {type:default;}">
+				<Coords points="918,90 1203,90 1203,162 918,162"/>
+				<Baseline points="918,162 1203,162"/>
+				<TextEquiv>
+					<Unicode>גורי, תהייס ---+---- גורי, תהייס
+---+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_206_312_599_312_599_443_206_443" custom="structure {type:text;}">
+			<Coords points="206,312 599,312 599,443 206,443"/>
+			<TextLine id="eSc_line_206_312_599_312_599_443_206_443" custom="structure {type:default;}">
+				<Coords points="206,312 599,312 599,443 206,443"/>
+				<Baseline points="206,443 599,443"/>
+				<TextEquiv>
+					<Unicode>אופרים?)במלהמתו&quot;,חהתום</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

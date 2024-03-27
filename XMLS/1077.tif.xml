@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1077.tif">
+		<TextRegion id="eSc_region_763_39_1060_39_1060_118_763_118" custom="structure {type:text;}">
+			<Coords points="763,39 1060,39 1060,118 763,118"/>
+			<TextLine id="eSc_line_763_39_1060_39_1060_118_763_118" custom="structure {type:default;}">
+				<Coords points="763,39 1060,39 1060,118 763,118"/>
+				<Baseline points="763,118 1060,118"/>
+				<TextEquiv>
+					<Unicode>גורין, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_428_279_1087_279_1087_448_428_448" custom="structure {type:text;}">
+			<Coords points="428,279 1087,279 1087,448 428,448"/>
+			<TextLine id="eSc_line_428_279_1087_279_1087_448_428_448" custom="structure {type:default;}">
+				<Coords points="428,279 1087,279 1087,448 428,448"/>
+				<Baseline points="428,448 1087,448"/>
+				<TextEquiv>
+					<Unicode>&quot;לולה קראמרסקי ושו&quot;ת&quot;...(&quot;חתוס הגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_265_585_903_585_903_664_265_664" custom="structure {type:text;}">
+			<Coords points="265,585 903,585 903,664 265,664"/>
+			<TextLine id="eSc_line_265_585_903_585_903_664_265_664" custom="structure {type:default;}">
+				<Coords points="265,585 903,585 903,664 265,664"/>
+				<Baseline points="265,664 903,664"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 22.8,1961, צס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

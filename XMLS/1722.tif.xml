@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1722.tif">
+		<TextRegion id="eSc_region_980_9_1245_9_1245_82_980_82" custom="structure {type:text;}">
+			<Coords points="980,9 1245,9 1245,82 980,82"/>
+			<TextLine id="eSc_line_980_9_1245_9_1245_82_980_82" custom="structure {type:default;}">
+				<Coords points="980,9 1245,9 1245,82 980,82"/>
+				<Baseline points="980,82 1245,82"/>
+				<TextEquiv>
+					<Unicode>ים גורי,הי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_496_419_1032_419_1032_492_496_492" custom="structure {type:text;}">
+			<Coords points="496,419 1032,419 1032,492 496,492"/>
+			<TextLine id="eSc_line_496_419_1032_419_1032_492_496_492" custom="structure {type:default;}">
+				<Coords points="496,419 1032,419 1032,492 496,492"/>
+				<Baseline points="496,492 1032,492"/>
+				<TextEquiv>
+					<Unicode>(לזכרה של רבכה פרבר\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_290_647_1240_647_1240_839_290_839" custom="structure {type:text;}">
+			<Coords points="290,647 1240,647 1240,839 290,839"/>
+			<TextLine id="eSc_line_290_647_1240_647_1240_839_290_839" custom="structure {type:default;}">
+				<Coords points="290,647 1240,647 1240,839 290,839"/>
+				<Baseline points="290,839 1240,839"/>
+				<TextEquiv>
+					<Unicode>כלבו
+
+חופתה
+שה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

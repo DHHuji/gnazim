@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0744.tif">
+		<TextRegion id="eSc_region_977_147_1209_147_1209_211_977_211" custom="structure {type:text;}">
+			<Coords points="977,147 1209,147 1209,211 977,211"/>
+			<TextLine id="eSc_line_977_147_1209_147_1209_211_977_211" custom="structure {type:default;}">
+				<Coords points="977,147 1209,147 1209,211 977,211"/>
+				<Baseline points="977,211 1209,211"/>
+				<TextEquiv>
+					<Unicode>י, חיים גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_364_278_1043_278_1043_480_364_480" custom="structure {type:text;}">
+			<Coords points="364,278 1043,278 1043,480 364,480"/>
+			<TextLine id="eSc_line_364_278_1043_278_1043_480_364_480" custom="structure {type:default;}">
+				<Coords points="364,278 1043,278 1043,480 364,480"/>
+				<Baseline points="364,480 1043,480"/>
+				<TextEquiv>
+					<Unicode>רזאת נקמי?.- בקשות, סני שירים,חתום ח-גי(מדור מה אומרים?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_524_642_1250_642_1250_840_524_840" custom="structure {type:text;}">
+			<Coords points="524,642 1250,642 1250,840 524,840"/>
+			<TextLine id="eSc_line_524_642_1250_642_1250_840_524_840" custom="structure {type:default;}">
+				<Coords points="524,642 1250,642 1250,840 524,840"/>
+				<Baseline points="524,840 1250,840"/>
+				<TextEquiv>
+					<Unicode>דבר, כה השרי העל&quot;ו,(3.10.75), עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

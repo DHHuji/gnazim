@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1148.tif">
+		<TextRegion id="eSc_region_730_262_1110_262_1110_408_730_408" custom="structure {type:text;}">
+			<Coords points="730,262 1110,262 1110,408 730,408"/>
+			<TextLine id="eSc_line_730_262_1110_262_1110_408_730_408" custom="structure {type:default;}">
+				<Coords points="730,262 1110,262 1110,408 730,408"/>
+				<Baseline points="730,408 1110,408"/>
+				<TextEquiv>
+					<Unicode>פה מולריפ בקמהיון לאחר 0 יסיפ פה מולריפ בקמהיון
+
+לאחר 0 יסיפ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_456_537_1176_537_1176_633_456_633" custom="structure {type:text;}">
+			<Coords points="456,537 1176,537 1176,633 456,633"/>
+			<TextLine id="eSc_line_456_537_1176_537_1176_633_456_633" custom="structure {type:default;}">
+				<Coords points="456,537 1176,537 1176,633 456,633"/>
+				<Baseline points="456,633 1176,633"/>
+				<TextEquiv>
+					<Unicode>דבר, יג סבה תפל&quot;ה,(2(,12,77),עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

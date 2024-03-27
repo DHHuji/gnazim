@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0648.tif">
+		<TextRegion id="eSc_region_900_42_1246_42_1246_244_900_244" custom="structure {type:text;}">
+			<Coords points="900,42 1246,42 1246,244 900,244"/>
+			<TextLine id="eSc_line_900_42_1246_42_1246_244_900_244" custom="structure {type:default;}">
+				<Coords points="900,42 1246,42 1246,244 900,244"/>
+				<Baseline points="900,244 1246,244"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_0_1084_0_1084_589_0_589" custom="structure {type:text;}">
+			<Coords points="0,0 1084,0 1084,589 0,589"/>
+			<TextLine id="eSc_line_0_0_1084_0_1084_589_0_589" custom="structure {type:default;}">
+				<Coords points="0,0 1084,0 1084,589 0,589"/>
+				<Baseline points="0,589 1084,589"/>
+				<TextEquiv>
+					<Unicode>חיים=הוראות למורי &quot;כתיבת הארץ&quot; ולקורכי &quot;כריססומתיות-. לפוער&quot;)(מה אומרים?) חתום בו=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_253_600_884_600_884_853_253_853" custom="structure {type:text;}">
+			<Coords points="253,600 884,600 884,853 253,853"/>
+			<TextLine id="eSc_line_253_600_884_600_884_853_253_853" custom="structure {type:default;}">
+				<Coords points="253,600 884,600 884,853 253,853"/>
+				<Baseline points="253,853 884,853"/>
+				<TextEquiv>
+					<Unicode>למרחב, . ץצם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

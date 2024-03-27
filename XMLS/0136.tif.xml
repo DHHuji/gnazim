@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0136.tif">
+		<TextRegion id="eSc_region_30_0_1049_0_1049_765_30_765" custom="structure {type:text;}">
+			<Coords points="30,0 1049,0 1049,765 30,765"/>
+			<TextLine id="eSc_line_30_0_1049_0_1049_765_30_765" custom="structure {type:default;}">
+				<Coords points="30,0 1049,0 1049,765 30,765"/>
+				<Baseline points="30,765 1049,765"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים אל עאודה גורי.חייםאל עאודה(התום:חגור);פניה לא,ב,ירוסע לא לקבל את ספינתהמגורסים.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

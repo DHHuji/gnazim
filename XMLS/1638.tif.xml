@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1638.tif">
+		<TextRegion id="eSc_region_784_47_1094_47_1094_121_784_121" custom="structure {type:text;}">
+			<Coords points="784,47 1094,47 1094,121 784,121"/>
+			<TextLine id="eSc_line_784_47_1094_47_1094_121_784_121" custom="structure {type:default;}">
+				<Coords points="784,47 1094,47 1094,121 784,121"/>
+				<Baseline points="784,121 1094,121"/>
+				<TextEquiv>
+					<Unicode>גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_75_212_688_212_688_289_75_289" custom="structure {type:text;}">
+			<Coords points="75,212 688,212 688,289 75,289"/>
+			<TextLine id="eSc_line_75_212_688_212_688_289_75_289" custom="structure {type:default;}">
+				<Coords points="75,212 688,212 688,289 75,289"/>
+				<Baseline points="75,289 688,289"/>
+				<TextEquiv>
+					<Unicode>&quot; שתורגם[על &quot;עשיה לוחמים&quot; ל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_710_212_970_212_970_359_710_359" custom="structure {type:text;}">
+			<Coords points="710,212 970,212 970,359 710,359"/>
+			<TextLine id="eSc_line_710_212_970_212_970_359_710_359" custom="structure {type:default;}">
+				<Coords points="710,212 970,212 970,359 710,359"/>
+				<Baseline points="710,359 970,359"/>
+				<TextEquiv>
+					<Unicode>על ההבדל
+
+לגומנית]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

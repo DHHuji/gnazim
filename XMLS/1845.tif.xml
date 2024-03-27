@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1845.tif">
+		<TextRegion id="eSc_region_903_85_1129_85_1129_149_903_149" custom="structure {type:text;}">
+			<Coords points="903,85 1129,85 1129,149 903,149"/>
+			<TextLine id="eSc_line_903_85_1129_85_1129_149_903_149" custom="structure {type:default;}">
+				<Coords points="903,85 1129,85 1129,149 903,149"/>
+				<Baseline points="903,149 1129,149"/>
+				<TextEquiv>
+					<Unicode>גורי הוייסם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_108_221_967_221_967_347_108_347" custom="structure {type:text;}">
+			<Coords points="108,221 967,221 967,347 108,347"/>
+			<TextLine id="eSc_line_108_221_967_221_967_347_108_347" custom="structure {type:default;}">
+				<Coords points="108,221 967,221 967,347 108,347"/>
+				<Baseline points="108,347 967,347"/>
+				<TextEquiv>
+					<Unicode>מרקי רעואלןצונ 93 / 7הרגיפה,- הכמלב הנורא.- נסידך-&lt;::ג.1בר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_111_511_1106_511_1106_615_111_615" custom="structure {type:text;}">
+			<Coords points="111,511 1106,511 1106,615 111,615"/>
+			<TextLine id="eSc_line_111_511_1106_511_1106_615_111_615" custom="structure {type:default;}">
+				<Coords points="111,511 1106,511 1106,615 111,615"/>
+				<Baseline points="111,615 1106,615"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרוה, *ד הטרי השל&quot;ס 2/8</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

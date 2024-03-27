@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2053.tif">
+		<TextRegion id="eSc_region_972_67_1204_67_1204_129_972_129" custom="structure {type:text;}">
+			<Coords points="972,67 1204,67 1204,129 972,129"/>
+			<TextLine id="eSc_line_972_67_1204_67_1204_129_972_129" custom="structure {type:default;}">
+				<Coords points="972,67 1204,67 1204,129 972,129"/>
+				<Baseline points="972,129 1204,129"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_377_361_993_361_993_507_377_507" custom="structure {type:text;}">
+			<Coords points="377,361 993,361 993,507 377,507"/>
+			<TextLine id="eSc_line_377_361_993_361_993_507_377_507" custom="structure {type:default;}">
+				<Coords points="377,361 993,361 993,507 377,507"/>
+				<Baseline points="377,507 993,507"/>
+				<TextEquiv>
+					<Unicode>סיהר עם ג'ומבה על מסעות ב.ג.\והתום: הגור )-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_731_659_1162_659_1162_724_731_724" custom="structure {type:text;}">
+			<Coords points="731,659 1162,659 1162,724 731,724"/>
+			<TextLine id="eSc_line_731_659_1162_659_1162_724_731_724" custom="structure {type:default;}">
+				<Coords points="731,659 1162,659 1162,724 731,724"/>
+				<Baseline points="731,724 1162,724"/>
+				<TextEquiv>
+					<Unicode>למרחב, 29.3.00, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0111.tif">
+		<TextRegion id="eSc_region_823_26_1068_26_1068_85_823_85" custom="structure {type:text;}">
+			<Coords points="823,26 1068,26 1068,85 823,85"/>
+			<TextLine id="eSc_line_823_26_1068_26_1068_85_823_85" custom="structure {type:default;}">
+				<Coords points="823,26 1068,26 1068,85 823,85"/>
+				<Baseline points="823,85 1068,85"/>
+				<TextEquiv>
+					<Unicode>גורי,.חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_36_198_656_198_656_301_36_301" custom="structure {type:text;}">
+			<Coords points="36,198 656,198 656,301 36,301"/>
+			<TextLine id="eSc_line_36_198_656_198_656_301_36_301" custom="structure {type:default;}">
+				<Coords points="36,198 656,198 656,301 36,301"/>
+				<Baseline points="36,301 656,301"/>
+				<TextEquiv>
+					<Unicode>הייתי ראש ממטלת יקראל...(צברית, צרבית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_719_535_1148_535_1148_651_719_651" custom="structure {type:text;}">
+			<Coords points="719,535 1148,535 1148,651 719,651"/>
+			<TextLine id="eSc_line_719_535_1148_535_1148_651_719_651" custom="structure {type:default;}">
+				<Coords points="719,535 1148,535 1148,651 719,651"/>
+				<Baseline points="719,651 1148,651"/>
+				<TextEquiv>
+					<Unicode>מפגש,הוב&quot;ו,!ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

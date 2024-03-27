@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0235.tif">
+		<TextRegion id="eSc_region_930_16_1192_16_1192_89_930_89" custom="structure {type:text;}">
+			<Coords points="930,16 1192,16 1192,89 930,89"/>
+			<TextLine id="eSc_line_930_16_1192_16_1192_89_930_89" custom="structure {type:default;}">
+				<Coords points="930,16 1192,16 1192,89 930,89"/>
+				<Baseline points="930,89 1192,89"/>
+				<TextEquiv>
+					<Unicode>היי גוריברויים היי
+גוריברויים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_171_218_1164_218_1164_379_171_379" custom="structure {type:text;}">
+			<Coords points="171,218 1164,218 1164,379 171,379"/>
+			<TextLine id="eSc_line_171_218_1164_218_1164_379_171_379" custom="structure {type:default;}">
+				<Coords points="171,218 1164,218 1164,379 171,379"/>
+				<Baseline points="171,379 1164,379"/>
+				<TextEquiv>
+					<Unicode>ארץ החלבונוה הטרוכים; מסע ברצועת האינתיפאדה\;ג\לס,יזהר, מקה שפיר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

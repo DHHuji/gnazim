@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0748.tif">
+		<TextRegion id="eSc_region_989_110_1225_110_1225_174_989_174" custom="structure {type:text;}">
+			<Coords points="989,110 1225,110 1225,174 989,174"/>
+			<TextLine id="eSc_line_989_110_1225_110_1225_174_989_174" custom="structure {type:default;}">
+				<Coords points="989,110 1225,110 1225,174 989,174"/>
+				<Baseline points="989,174 1225,174"/>
+				<TextEquiv>
+					<Unicode>גורי חיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_460_586_1198_586_1198_653_460_653" custom="structure {type:text;}">
+			<Coords points="460,586 1198,586 1198,653 460,653"/>
+			<TextLine id="eSc_line_460_586_1198_586_1198_653_460_653" custom="structure {type:default;}">
+				<Coords points="460,586 1198,586 1198,653 460,653"/>
+				<Baseline points="460,653 1198,653"/>
+				<TextEquiv>
+					<Unicode>דבר, כב אלול תשל&quot;ו,(17.9.76), קמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_526_309_911_309_911_373_526_373" custom="structure {type:text;}">
+			<Coords points="526,309 911,309 911,373 526,373"/>
+			<TextLine id="eSc_line_526_309_911_309_911_373_526_373" custom="structure {type:default;}">
+				<Coords points="526,309 911,309 911,373 526,373"/>
+				<Baseline points="526,373 911,373"/>
+				<TextEquiv>
+					<Unicode>(רשיפוה סוף השבוע)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

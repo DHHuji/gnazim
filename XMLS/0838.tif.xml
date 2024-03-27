@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0838.tif">
+		<TextRegion id="eSc_region_825_96_1088_96_1088_168_825_168" custom="structure {type:text;}">
+			<Coords points="825,96 1088,96 1088,168 825,168"/>
+			<TextLine id="eSc_line_825_96_1088_96_1088_168_825_168" custom="structure {type:default;}">
+				<Coords points="825,96 1088,96 1088,168 825,168"/>
+				<Baseline points="825,168 1088,168"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים --הה--+---- גורי, חיים
+--הה--+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_205_595_1080_595_1080_669_205_669" custom="structure {type:text;}">
+			<Coords points="205,595 1080,595 1080,669 205,669"/>
+			<TextLine id="eSc_line_205_595_1080_595_1080_669_205_669" custom="structure {type:default;}">
+				<Coords points="205,595 1080,595 1080,669 205,669"/>
+				<Baseline points="205,669 1080,669"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרות, כח אדר תשל&quot;ו,(18,3.77),עמ*37</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

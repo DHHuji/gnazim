@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0588.tif">
+		<TextRegion id="eSc_region_878_83_1257_83_1257_164_878_164" custom="structure {type:text;}">
+			<Coords points="878,83 1257,83 1257,164 878,164"/>
+			<TextLine id="eSc_line_878_83_1257_83_1257_164_878_164" custom="structure {type:default;}">
+				<Coords points="878,83 1257,83 1257,164 878,164"/>
+				<Baseline points="878,164 1257,164"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים - ה --1----- גורי, חיים
+- ה --1-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_169_283_960_283_960_457_169_457" custom="structure {type:text;}">
+			<Coords points="169,283 960,283 960,457 169,457"/>
+			<TextLine id="eSc_line_169_283_960_283_960_457_169_457" custom="structure {type:default;}">
+				<Coords points="169,283 960,283 960,457 169,457"/>
+				<Baseline points="169,457 960,457"/>
+				<TextEquiv>
+					<Unicode>דרם הנערים (פרסיסות סוףפסבוץ)(&quot;חתום הגוי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

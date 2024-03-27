@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0932.tif">
+		<TextRegion id="eSc_region_965_65_1209_65_1209_144_965_144" custom="structure {type:text;}">
+			<Coords points="965,65 1209,65 1209,144 965,144"/>
+			<TextLine id="eSc_line_965_65_1209_65_1209_144_965_144" custom="structure {type:default;}">
+				<Coords points="965,65 1209,65 1209,144 965,144"/>
+				<Baseline points="965,144 1209,144"/>
+				<TextEquiv>
+					<Unicode>גורי חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_9_1067_9_1067_855_0_855" custom="structure {type:text;}">
+			<Coords points="0,9 1067,9 1067,855 0,855"/>
+			<TextLine id="eSc_line_0_9_1067_9_1067_855_0_855" custom="structure {type:default;}">
+				<Coords points="0,9 1067,9 1067,855 0,855"/>
+				<Baseline points="0,855 1067,855"/>
+				<TextEquiv>
+					<Unicode>חייסירוד קטן; הראיון ע6 פר אופנהייפר,- שער הלצור,- תפארק; הנפלא,- חוכלים,- לחכ ויון,- ה-2!,- 5* בכםים ולילות, כז המוז תסל &quot;פ,(22,0,790), צמ'* 11/10</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_123_474_1262_474_1262_555_123_555" custom="structure {type:text;}">
+			<Coords points="123,474 1262,474 1262,555 123,555"/>
+			<TextLine id="eSc_line_123_474_1262_474_1262_555_123_555" custom="structure {type:default;}">
+				<Coords points="123,474 1262,474 1262,555 123,555"/>
+				<Baseline points="123,555 1262,555"/>
+				<TextEquiv>
+					<Unicode>מעריב, ימים ולילות, כז המוז השל&quot;ס,(22.0,790), צמ* 10/וו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

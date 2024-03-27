@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1083.tif">
+		<TextRegion id="eSc_region_929_22_1173_22_1173_79_929_79" custom="structure {type:text;}">
+			<Coords points="929,22 1173,22 1173,79 929,79"/>
+			<TextLine id="eSc_line_929_22_1173_22_1173_79_929_79" custom="structure {type:default;}">
+				<Coords points="929,22 1173,22 1173,79 929,79"/>
+				<Baseline points="929,79 1173,79"/>
+				<TextEquiv>
+					<Unicode>גורי,הייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_514_535_1030_535_1030_725_514_725" custom="structure {type:text;}">
+			<Coords points="514,535 1030,535 1030,725 514,725"/>
+			<TextLine id="eSc_line_514_535_1030_535_1030_725_514_725" custom="structure {type:default;}">
+				<Coords points="514,535 1030,535 1030,725 514,725"/>
+				<Baseline points="514,725 1030,725"/>
+				<TextEquiv>
+					<Unicode>ירושלים(מסכ&quot;ל), 1068</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_671_202_865_202_865_314_671_314" custom="structure {type:text;}">
+			<Coords points="671,202 865,202 865,314 671,314"/>
+			<TextLine id="eSc_line_671_202_865_202_865_314_671_314" custom="structure {type:default;}">
+				<Coords points="671,202 865,202 865,314 671,314"/>
+				<Baseline points="671,314 865,314"/>
+				<TextEquiv>
+					<Unicode>לים
+ירוס
+
+(יר)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

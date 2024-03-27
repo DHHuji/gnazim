@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1072.tif">
+		<TextRegion id="eSc_region_226_0_1169_0_1169_699_226_699" custom="structure {type:text;}">
+			<Coords points="226,0 1169,0 1169,699 226,699"/>
+			<TextLine id="eSc_line_226_0_1169_0_1169_699_226_699" custom="structure {type:default;}">
+				<Coords points="226,0 1169,0 1169,699 226,699"/>
+				<Baseline points="226,699 1169,699"/>
+				<TextEquiv>
+					<Unicode>גורי,בהיים רדבר עם האויב גורי,בהייםרדבר עם האויבלטריב.כה סיוז הקלנא!7.6.!100 טמ 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

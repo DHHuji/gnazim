@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2094.tif">
+		<TextRegion id="eSc_region_972_33_1207_33_1207_98_972_98" custom="structure {type:text;}">
+			<Coords points="972,33 1207,33 1207,98 972,98"/>
+			<TextLine id="eSc_line_972_33_1207_33_1207_98_972_98" custom="structure {type:default;}">
+				<Coords points="972,33 1207,33 1207,98 972,98"/>
+				<Baseline points="972,98 1207,98"/>
+				<TextEquiv>
+					<Unicode>, הייס גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_375_531_1096_531_1096_598_375_598" custom="structure {type:text;}">
+			<Coords points="375,531 1096,531 1096,598 375,598"/>
+			<TextLine id="eSc_line_375_531_1096_531_1096_598_375_598" custom="structure {type:default;}">
+				<Coords points="375,531 1096,531 1096,598 375,598"/>
+				<Baseline points="375,598 1096,598"/>
+				<TextEquiv>
+					<Unicode>דבר, יב חשון תפל&quot;ז,(5.1!,760),עמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_319_231_804_231_804_366_319_366" custom="structure {type:text;}">
+			<Coords points="319,231 804,231 804,366 319,366"/>
+			<TextLine id="eSc_line_319_231_804_231_804_366_319_366" custom="structure {type:default;}">
+				<Coords points="319,231 804,231 804,366 319,366"/>
+				<Baseline points="319,366 804,366"/>
+				<TextEquiv>
+					<Unicode>(מדור רשימות סוף העבוק)
+
+7 ינר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

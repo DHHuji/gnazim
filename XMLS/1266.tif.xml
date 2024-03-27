@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1266.tif">
+		<TextRegion id="eSc_region_930_549_1040_549_1040_595_930_595" custom="structure {type:text;}">
+			<Coords points="930,549 1040,549 1040,595 930,595"/>
+			<TextLine id="eSc_line_930_549_1040_549_1040_595_930_595" custom="structure {type:default;}">
+				<Coords points="930,549 1040,549 1040,595 930,595"/>
+				<Baseline points="930,595 1040,595"/>
+				<TextEquiv>
+					<Unicode>בר.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_341_538_739_538_739_739_341_739" custom="structure {type:text;}">
+			<Coords points="341,538 739,538 739,739 341,739"/>
+			<TextLine id="eSc_line_341_538_739_538_739_739_341_739" custom="structure {type:default;}">
+				<Coords points="341,538 739,538 739,739 341,739"/>
+				<Baseline points="341,739 739,739"/>
+				<TextEquiv>
+					<Unicode>הקרדית</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_748_549_840_549_840_593_748_593" custom="structure {type:text;}">
+			<Coords points="748,549 840,549 840,593 748,593"/>
+			<TextLine id="eSc_line_748_549_840_549_840_593_748_593" custom="structure {type:default;}">
+				<Coords points="748,549 840,549 840,593 748,593"/>
+				<Baseline points="748,593 840,593"/>
+				<TextEquiv>
+					<Unicode>/
+
+₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

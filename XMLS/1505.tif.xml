@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1505.tif">
+		<TextRegion id="eSc_region_814_26_1276_26_1276_226_814_226" custom="structure {type:text;}">
+			<Coords points="814,26 1276,26 1276,226 814,226"/>
+			<TextLine id="eSc_line_814_26_1276_26_1276_226_814_226" custom="structure {type:default;}">
+				<Coords points="814,26 1276,26 1276,226 814,226"/>
+				<Baseline points="814,226 1276,226"/>
+				<TextEquiv>
+					<Unicode>י גורי, הי י
+
+גורי, הי
+
+ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_161_228_994_228_994_884_161_884" custom="structure {type:text;}">
+			<Coords points="161,228 994,228 994,884 161,884"/>
+			<TextLine id="eSc_line_161_228_994_228_994_884_161_884" custom="structure {type:default;}">
+				<Coords points="161,228 994,228 994,884 161,884"/>
+				<Baseline points="161,884 994,884"/>
+				<TextEquiv>
+					<Unicode>סונסה על פדינאי אחוד 2(מה אוסרים?) | תתום החגי |לפמרחב, 4.12.1958, לספ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

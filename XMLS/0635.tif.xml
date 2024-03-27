@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0635.tif">
+		<TextRegion id="eSc_region_855_134_1121_134_1121_207_855_207" custom="structure {type:text;}">
+			<Coords points="855,134 1121,134 1121,207 855,207"/>
+			<TextLine id="eSc_line_855_134_1121_134_1121_207_855_207" custom="structure {type:default;}">
+				<Coords points="855,134 1121,134 1121,207 855,207"/>
+				<Baseline points="855,207 1121,207"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים =-7---+-=---- גורי, חיים
+=-7---+-=----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_237_623_1246_623_1246_832_237_832" custom="structure {type:text;}">
+			<Coords points="237,623 1246,623 1246,832 237,832"/>
+			<TextLine id="eSc_line_237_623_1246_623_1246_832_237_832" custom="structure {type:default;}">
+				<Coords points="237,623 1246,623 1246,832 237,832"/>
+				<Baseline points="237,832 1246,832"/>
+				<TextEquiv>
+					<Unicode>בסער, בסאון החטיבה הצעירה, 24.5.1951, עס. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

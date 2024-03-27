@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1590.tif">
+		<TextRegion id="eSc_region_943_97_1235_97_1235_178_943_178" custom="structure {type:text;}">
+			<Coords points="943,97 1235,97 1235,178 943,178"/>
+			<TextLine id="eSc_line_943_97_1235_97_1235_178_943_178" custom="structure {type:default;}">
+				<Coords points="943,97 1235,97 1235,178 943,178"/>
+				<Baseline points="943,178 1235,178"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 7-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_77_590_1232_590_1232_679_77_679" custom="structure {type:text;}">
+			<Coords points="77,590 1232,590 1232,679 77,679"/>
+			<TextLine id="eSc_line_77_590_1232_590_1232_679_77_679" custom="structure {type:default;}">
+				<Coords points="77,590 1232,590 1232,679 77,679"/>
+				<Baseline points="77,679 1232,679"/>
+				<TextEquiv>
+					<Unicode>למרהב מסא לספרוה, אמנות ובקורת, ו23.5.7, עמ' ו1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_386_263_1107_263_1107_419_386_419" custom="structure {type:text;}">
+			<Coords points="386,263 1107,263 1107,419 386,419"/>
+			<TextLine id="eSc_line_386_263_1107_263_1107_419_386_419" custom="structure {type:default;}">
+				<Coords points="386,263 1107,263 1107,419 386,419"/>
+				<Baseline points="386,419 1107,419"/>
+				<TextEquiv>
+					<Unicode>עודר &quot;משא&quot; [עם סגירה העהון,
+
+חתום: חגין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

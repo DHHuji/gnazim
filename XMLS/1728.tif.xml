@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1728.tif">
+		<TextRegion id="eSc_region_860_0_1248_0_1248_155_860_155" custom="structure {type:text;}">
+			<Coords points="860,0 1248,0 1248,155 860,155"/>
+			<TextLine id="eSc_line_860_0_1248_0_1248_155_860_155" custom="structure {type:default;}">
+				<Coords points="860,0 1248,0 1248,155 860,155"/>
+				<Baseline points="860,155 1248,155"/>
+				<TextEquiv>
+					<Unicode>גורי,.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_128_574_1256_574_1256_883_128_883" custom="structure {type:text;}">
+			<Coords points="128,574 1256,574 1256,883 128,883"/>
+			<TextLine id="eSc_line_128_574_1256_574_1256_883_128_883" custom="structure {type:default;}">
+				<Coords points="128,574 1256,574 1256,883 128,883"/>
+				<Baseline points="128,883 1256,883"/>
+				<TextEquiv>
+					<Unicode>חיים על קו הכץ,הקמב,תלת א, עפ' 276-272</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_582_160_1044_160_1044_360_582_360" custom="structure {type:text;}">
+			<Coords points="582,160 1044,160 1044,360 582,360"/>
+			<TextLine id="eSc_line_582_160_1044_160_1044_360_582_360" custom="structure {type:default;}">
+				<Coords points="582,160 1044,160 1044,360 582,360"/>
+				<Baseline points="582,360 1044,360"/>
+				<TextEquiv>
+					<Unicode>עסקה הטוקולד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

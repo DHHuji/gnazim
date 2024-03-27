@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2244.tif">
+		<TextRegion id="eSc_region_839_45_1098_45_1098_110_839_110" custom="structure {type:text;}">
+			<Coords points="839,45 1098,45 1098,110 839,110"/>
+			<TextLine id="eSc_line_839_45_1098_45_1098_110_839_110" custom="structure {type:default;}">
+				<Coords points="839,45 1098,45 1098,110 839,110"/>
+				<Baseline points="839,110 1098,110"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_226_182_950_182_950_240_226_240" custom="structure {type:text;}">
+			<Coords points="226,182 950,182 950,240 226,240"/>
+			<TextLine id="eSc_line_226_182_950_182_950_240_226_240" custom="structure {type:default;}">
+				<Coords points="226,182 950,182 950,240 226,240"/>
+				<Baseline points="226,240 950,240"/>
+				<TextEquiv>
+					<Unicode>תמונת מצבן גנזי צרות.- גנזי ישועות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_508_473_1147_473_1147_542_508_542" custom="structure {type:text;}">
+			<Coords points="508,473 1147,473 1147,542 508,542"/>
+			<TextLine id="eSc_line_508_473_1147_473_1147_542_508_542" custom="structure {type:default;}">
+				<Coords points="508,473 1147,473 1147,542 508,542"/>
+				<Baseline points="508,542 1147,542"/>
+				<TextEquiv>
+					<Unicode>דבר,יב אב תס&quot;ם,(25.7.80), ץם&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2233.tif">
+		<TextRegion id="eSc_region_918_96_1209_96_1209_173_918_173" custom="structure {type:text;}">
+			<Coords points="918,96 1209,96 1209,173 918,173"/>
+			<TextLine id="eSc_line_918_96_1209_96_1209_173_918_173" custom="structure {type:default;}">
+				<Coords points="918,96 1209,96 1209,173 918,173"/>
+				<Baseline points="918,173 1209,173"/>
+				<TextEquiv>
+					<Unicode>גוורי, חיים =----2-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_214_287_1082_287_1082_437_214_437" custom="structure {type:text;}">
+			<Coords points="214,287 1082,287 1082,437 214,437"/>
+			<TextLine id="eSc_line_214_287_1082_287_1082_437_214_437" custom="structure {type:default;}">
+				<Coords points="214,287 1082,287 1082,437 214,437"/>
+				<Baseline points="214,437 1082,437"/>
+				<TextEquiv>
+					<Unicode>תחל-אביב, תל-אביב [פוק מחוך הספר:&quot;דפים ירושלמיים&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_261_570_1232_570_1232_652_261_652" custom="structure {type:text;}">
+			<Coords points="261,570 1232,570 1232,652 261,652"/>
+			<TextLine id="eSc_line_261_570_1232_570_1232_652_261_652" custom="structure {type:default;}">
+				<Coords points="261,570 1232,570 1232,652 261,652"/>
+				<Baseline points="261,652 1232,652"/>
+				<TextEquiv>
+					<Unicode>האוץ, תרבות וספרות, 23.8.1968, עמ' 19</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

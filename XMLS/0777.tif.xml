@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0777.tif">
+		<TextRegion id="eSc_region_824_94_1106_94_1106_158_824_158" custom="structure {type:text;}">
+			<Coords points="824,94 1106,94 1106,158 824,158"/>
+			<TextLine id="eSc_line_824_94_1106_94_1106_158_824_158" custom="structure {type:default;}">
+				<Coords points="824,94 1106,94 1106,158 824,158"/>
+				<Baseline points="824,158 1106,158"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_350_321_708_321_708_450_350_450" custom="structure {type:text;}">
+			<Coords points="350,321 708,321 708,450 350,450"/>
+			<TextLine id="eSc_line_350_321_708_321_708_450_350_450" custom="structure {type:default;}">
+				<Coords points="350,321 708,321 708,450 350,450"/>
+				<Baseline points="350,450 708,450"/>
+				<TextEquiv>
+					<Unicode>והמכונה הקסנהים?) |( חתום |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_433_621_869_621_869_684_433_684" custom="structure {type:text;}">
+			<Coords points="433,621 869,621 869,684 433,684"/>
+			<TextLine id="eSc_line_433_621_869_621_869_684_433_684" custom="structure {type:default;}">
+				<Coords points="433,621 869,621 869,684 433,684"/>
+				<Baseline points="433,684 869,684"/>
+				<TextEquiv>
+					<Unicode>לפרחב,27.2.1956,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

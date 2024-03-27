@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1640.tif">
+		<TextRegion id="eSc_region_855_76_1150_76_1150_155_855_155" custom="structure {type:text;}">
+			<Coords points="855,76 1150,76 1150,155 855,155"/>
+			<TextLine id="eSc_line_855_76_1150_76_1150_155_855_155" custom="structure {type:default;}">
+				<Coords points="855,76 1150,76 1150,155 855,155"/>
+				<Baseline points="855,155 1150,155"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים --1----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_188_317_911_317_911_490_188_490" custom="structure {type:text;}">
+			<Coords points="188,317 911,317 911,490 188,490"/>
+			<TextLine id="eSc_line_188_317_911_317_911_490_188_490" custom="structure {type:default;}">
+				<Coords points="188,317 911,317 911,490 188,490"/>
+				<Baseline points="188,490 911,490"/>
+				<TextEquiv>
+					<Unicode>על הר-ציון ולרגלין(פה אוסרים?) ( חתום הג \7-. -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_456_664_1095_664_1095_849_456_849" custom="structure {type:text;}">
+			<Coords points="456,664 1095,664 1095,849 456,849"/>
+			<TextLine id="eSc_line_456_664_1095_664_1095_849_456_849" custom="structure {type:default;}">
+				<Coords points="456,664 1095,664 1095,849 456,849"/>
+				<Baseline points="456,849 1095,849"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 16.3.1956, עס' 2
+
+9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

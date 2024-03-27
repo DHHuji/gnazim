@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1255.tif">
+		<TextRegion id="eSc_region_951_88_1209_88_1209_154_951_154" custom="structure {type:text;}">
+			<Coords points="951,88 1209,88 1209,154 951,154"/>
+			<TextLine id="eSc_line_951_88_1209_88_1209_154_951_154" custom="structure {type:default;}">
+				<Coords points="951,88 1209,88 1209,154 951,154"/>
+				<Baseline points="951,154 1209,154"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס ----- -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_465_304_978_304_978_478_465_478" custom="structure {type:text;}">
+			<Coords points="465,304 978,304 978,478 465,478"/>
+			<TextLine id="eSc_line_465_304_978_304_978_478_465_478" custom="structure {type:default;}">
+				<Coords points="465,304 978,304 978,478 465,478"/>
+				<Baseline points="465,478 978,478"/>
+				<TextEquiv>
+					<Unicode>מלח בישסול | (סה אומרים?)-ה חתום &quot;גי )77</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_379_625_873_625_873_691_379_691" custom="structure {type:text;}">
+			<Coords points="379,625 873,625 873,691 379,691"/>
+			<TextLine id="eSc_line_379_625_873_625_873_691_379_691" custom="structure {type:default;}">
+				<Coords points="379,625 873,625 873,691 379,691"/>
+				<Baseline points="379,691 873,691"/>
+				<TextEquiv>
+					<Unicode>למרחב, 6.1!2.1956, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1112.tif">
+		<TextRegion id="eSc_region_945_21_1206_21_1206_95_945_95" custom="structure {type:text;}">
+			<Coords points="945,21 1206,21 1206,95 945,95"/>
+			<TextLine id="eSc_line_945_21_1206_21_1206_95_945_95" custom="structure {type:default;}">
+				<Coords points="945,21 1206,21 1206,95 945,95"/>
+				<Baseline points="945,95 1206,95"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_435_155_1026_155_1026_264_435_264" custom="structure {type:text;}">
+			<Coords points="435,155 1026,155 1026,264 435,264"/>
+			<TextLine id="eSc_line_435_155_1026_155_1026_264_435_264" custom="structure {type:default;}">
+				<Coords points="435,155 1026,155 1026,264 435,264"/>
+				<Baseline points="435,264 1026,264"/>
+				<TextEquiv>
+					<Unicode>למראה סמחתם \(ברלין)(חתום:יח-גי\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_432_454_1202_454_1202_543_432_543" custom="structure {type:text;}">
+			<Coords points="432,454 1202,454 1202,543 432,543"/>
+			<TextLine id="eSc_line_432_454_1202_454_1202_543_432_543" custom="structure {type:default;}">
+				<Coords points="432,454 1202,454 1202,543 432,543"/>
+				<Baseline points="432,543 1202,543"/>
+				<TextEquiv>
+					<Unicode>דבר,טו חשון תלן1980,וו,3ו עמך</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

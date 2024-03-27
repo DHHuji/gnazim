@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1651.tif">
+		<TextRegion id="eSc_region_979_129_1205_129_1205_194_979_194" custom="structure {type:text;}">
+			<Coords points="979,129 1205,129 1205,194 979,194"/>
+			<TextLine id="eSc_line_979_129_1205_129_1205_194_979_194" custom="structure {type:default;}">
+				<Coords points="979,129 1205,129 1205,194 979,194"/>
+				<Baseline points="979,194 1205,194"/>
+				<TextEquiv>
+					<Unicode>יים ח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_227_314_1065_314_1065_467_227_467" custom="structure {type:text;}">
+			<Coords points="227,314 1065,314 1065,467 227,467"/>
+			<TextLine id="eSc_line_227_314_1065_314_1065_467_227_467" custom="structure {type:default;}">
+				<Coords points="227,314 1065,314 1065,467 227,467"/>
+				<Baseline points="227,467 1065,467"/>
+				<TextEquiv>
+					<Unicode>ץל הסוראי רבינוביץ ועל העז (מה אומריס?)( חתום חגי \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_505_658_1023_658_1023_838_505_838" custom="structure {type:text;}">
+			<Coords points="505,658 1023,658 1023,838 505,838"/>
+			<TextLine id="eSc_line_505_658_1023_658_1023_838_505_838" custom="structure {type:default;}">
+				<Coords points="505,658 1023,658 1023,838 505,838"/>
+				<Baseline points="505,838 1023,838"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 26.1!2.1957, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

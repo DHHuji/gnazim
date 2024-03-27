@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0072.tif">
+		<TextRegion id="eSc_region_912_94_1015_94_1015_146_912_146" custom="structure {type:text;}">
+			<Coords points="912,94 1015,94 1015,146 912,146"/>
+			<TextLine id="eSc_line_912_94_1015_94_1015_146_912_146" custom="structure {type:default;}">
+				<Coords points="912,94 1015,94 1015,146 912,146"/>
+				<Baseline points="912,146 1015,146"/>
+				<TextEquiv>
+					<Unicode>חים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_76_523_1018_523_1018_639_76_639" custom="structure {type:text;}">
+			<Coords points="76,523 1018,523 1018,639 76,639"/>
+			<TextLine id="eSc_line_76_523_1018_523_1018_639_76_639" custom="structure {type:default;}">
+				<Coords points="76,523 1018,523 1018,639 76,639"/>
+				<Baseline points="76,639 1018,639"/>
+				<TextEquiv>
+					<Unicode>שבועון הקבוץ הארצי, גל' 1294,ב נגיםן תשל*ט (30.3.79), עמ'</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_859_96_1252_96_1252_179_859_179" custom="structure {type:text;}">
+			<Coords points="859,96 1252,96 1252,179 859,179"/>
+			<TextLine id="eSc_line_859_96_1252_96_1252_179_859_179" custom="structure {type:default;}">
+				<Coords points="859,96 1252,96 1252,179 859,179"/>
+				<Baseline points="859,179 1252,179"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

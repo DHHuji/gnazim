@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2032.tif">
+		<TextRegion id="eSc_region_939_53_1174_53_1174_119_939_119" custom="structure {type:text;}">
+			<Coords points="939,53 1174,53 1174,119 939,119"/>
+			<TextLine id="eSc_line_939_53_1174_53_1174_119_939_119" custom="structure {type:default;}">
+				<Coords points="939,53 1174,53 1174,119 939,119"/>
+				<Baseline points="939,119 1174,119"/>
+				<TextEquiv>
+					<Unicode>- גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_509_526_1205_526_1205_593_509_593" custom="structure {type:text;}">
+			<Coords points="509,526 1205,526 1205,593 509,593"/>
+			<TextLine id="eSc_line_509_526_1205_526_1205_593_509_593" custom="structure {type:default;}">
+				<Coords points="509,526 1205,526 1205,593 509,593"/>
+				<Baseline points="509,593 1205,593"/>
+				<TextEquiv>
+					<Unicode>דב , יא כסלו השל&quot;ז,(2&quot;02,)3.12.76</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_12_228_464_228_464_392_12_392" custom="structure {type:text;}">
+			<Coords points="12,228 464,228 464,392 12,392"/>
+			<TextLine id="eSc_line_12_228_464_228_464_392_12_392" custom="structure {type:default;}">
+				<Coords points="12,228 464,228 464,392 12,392"/>
+				<Baseline points="12,392 464,392"/>
+				<TextEquiv>
+					<Unicode>| התום הגור,
+פזכיר אלתרמן \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

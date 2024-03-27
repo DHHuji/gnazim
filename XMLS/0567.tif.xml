@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0567.tif">
+		<TextRegion id="eSc_region_888_189_1154_189_1154_262_888_262" custom="structure {type:text;}">
+			<Coords points="888,189 1154,189 1154,262 888,262"/>
+			<TextLine id="eSc_line_888_189_1154_189_1154_262_888_262" custom="structure {type:default;}">
+				<Coords points="888,189 1154,189 1154,262 888,262"/>
+				<Baseline points="888,262 1154,262"/>
+				<TextEquiv>
+					<Unicode>גורי, היים -8</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_118_485_1010_485_1010_564_118_564" custom="structure {type:text;}">
+			<Coords points="118,485 1010,485 1010,564 118,564"/>
+			<TextLine id="eSc_line_118_485_1010_485_1010_564_118_564" custom="structure {type:default;}">
+				<Coords points="118,485 1010,485 1010,564 118,564"/>
+				<Baseline points="118,564 1010,564"/>
+				<TextEquiv>
+					<Unicode>( ההום: הגור; מדור: רשימות סוף השבוע 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_320_663_1151_663_1151_847_320_847" custom="structure {type:text;}">
+			<Coords points="320,663 1151,663 1151,847 320,847"/>
+			<TextLine id="eSc_line_320_663_1151_663_1151_847_320_847" custom="structure {type:default;}">
+				<Coords points="320,663 1151,663 1151,847 320,847"/>
+				<Baseline points="320,847 1151,847"/>
+				<TextEquiv>
+					<Unicode>רורבר, כ&quot;ס תסוז השל&quot;ר,(19.7.74),עם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

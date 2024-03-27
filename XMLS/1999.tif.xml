@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1999.tif">
+		<TextRegion id="eSc_region_905_66_1165_66_1165_164_905_164" custom="structure {type:text;}">
+			<Coords points="905,66 1165,66 1165,164 905,164"/>
+			<TextLine id="eSc_line_905_66_1165_66_1165_164_905_164" custom="structure {type:default;}">
+				<Coords points="905,66 1165,66 1165,164 905,164"/>
+				<Baseline points="905,164 1165,164"/>
+				<TextEquiv>
+					<Unicode>י גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_48_258_1021_258_1021_431_48_431" custom="structure {type:text;}">
+			<Coords points="48,258 1021,258 1021,431 48,431"/>
+			<TextLine id="eSc_line_48_258_1021_258_1021_431_48_431" custom="structure {type:default;}">
+				<Coords points="48,258 1021,258 1021,431 48,431"/>
+				<Baseline points="48,431 1021,431"/>
+				<TextEquiv>
+					<Unicode>רסיסוה סוף הסבוע;; משהו קל הסלסוס ולל המחרתייםהחתום הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_507_473_1219_473_1219_777_507_777" custom="structure {type:text;}">
+			<Coords points="507,473 1219,473 1219,777 507,777"/>
+			<TextLine id="eSc_line_507_473_1219_473_1219_777_507_777" custom="structure {type:default;}">
+				<Coords points="507,473 1219,473 1219,777 507,777"/>
+				<Baseline points="507,777 1219,777"/>
+				<TextEquiv>
+					<Unicode>דבר, כא שבס תט&quot;ם, (48.2,80, עמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

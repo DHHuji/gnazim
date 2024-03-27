@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1654.tif">
+		<TextRegion id="eSc_region_378_0_1221_0_1221_778_378_778" custom="structure {type:text;}">
+			<Coords points="378,0 1221,0 1221,778 378,778"/>
+			<TextLine id="eSc_line_378_0_1221_0_1221_778_378_778" custom="structure {type:default;}">
+				<Coords points="378,0 1221,0 1221,778 378,778"/>
+				<Baseline points="378,778 1221,778"/>
+				<TextEquiv>
+					<Unicode>וריברייף וריברייף</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1353.tif">
+		<TextRegion id="eSc_region_811_86_1112_86_1112_173_811_173" custom="structure {type:text;}">
+			<Coords points="811,86 1112,86 1112,173 811,173"/>
+			<TextLine id="eSc_line_811_86_1112_86_1112_173_811_173" custom="structure {type:default;}">
+				<Coords points="811,86 1112,86 1112,173 811,173"/>
+				<Baseline points="811,173 1112,173"/>
+				<TextEquiv>
+					<Unicode>ג ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_179_590_795_590_795_679_179_679" custom="structure {type:text;}">
+			<Coords points="179,590 795,590 795,679 179,679"/>
+			<TextLine id="eSc_line_179_590_795_590_795_679_179_679" custom="structure {type:default;}">
+				<Coords points="179,590 795,590 795,679 179,679"/>
+				<Baseline points="179,679 795,679"/>
+				<TextEquiv>
+					<Unicode>לסמרתב,21.6.1961, עם' 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_235_284_685_284_685_372_235_372" custom="structure {type:text;}">
+			<Coords points="235,284 685,284 685,372 235,372"/>
+			<TextLine id="eSc_line_235_284_685_284_685_372_235_372" custom="structure {type:default;}">
+				<Coords points="235,284 685,284 685,372 235,372"/>
+				<Baseline points="235,372 685,372"/>
+				<TextEquiv>
+					<Unicode>(פול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

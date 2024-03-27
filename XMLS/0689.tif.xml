@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0689.tif">
+		<TextRegion id="eSc_region_934_95_1254_95_1254_170_934_170" custom="structure {type:text;}">
+			<Coords points="934,95 1254,95 1254,170 934,170"/>
+			<TextLine id="eSc_line_934_95_1254_95_1254_170_934_170" custom="structure {type:default;}">
+				<Coords points="934,95 1254,95 1254,170 934,170"/>
+				<Baseline points="934,170 1254,170"/>
+				<TextEquiv>
+					<Unicode>גורי, היים ינו-32</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_101_260_1023_260_1023_411_101_411" custom="structure {type:text;}">
+			<Coords points="101,260 1023,260 1023,411 101,411"/>
+			<TextLine id="eSc_line_101_260_1023_260_1023_411_101_411" custom="structure {type:default;}">
+				<Coords points="101,260 1023,260 1023,411 101,411"/>
+				<Baseline points="101,411 1023,411"/>
+				<TextEquiv>
+					<Unicode>הצעה מעשית (על הנקיון ברחובותינו][(מדוו: מה אומוים?, חתום: ה-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_655_607_1197_607_1197_688_655_688" custom="structure {type:text;}">
+			<Coords points="655,607 1197,607 1197,688 655,688"/>
+			<TextLine id="eSc_line_655_607_1197_607_1197_688_655_688" custom="structure {type:default;}">
+				<Coords points="655,607 1197,607 1197,688 655,688"/>
+				<Baseline points="655,688 1197,688"/>
+				<TextEquiv>
+					<Unicode>מ* 2
+ע
+ו,
+2-72
+דבו,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

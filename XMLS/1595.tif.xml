@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1595.tif">
+		<TextRegion id="eSc_region_74_44_1246_44_1246_621_74_621" custom="structure {type:text;}">
+			<Coords points="74,44 1246,44 1246,621 74,621"/>
+			<TextLine id="eSc_line_74_44_1246_44_1246_621_74_621" custom="structure {type:default;}">
+				<Coords points="74,44 1246,44 1246,621 74,621"/>
+				<Baseline points="74,621 1246,621"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים עור על הילדות גורי, חייםעור על הילדות(&lt; &quot;] . רשוה למעריב,ספרות,יר שבט תשל&quot;ו, (35'52,)16.1.76</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

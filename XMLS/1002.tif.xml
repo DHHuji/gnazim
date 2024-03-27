@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1002.tif">
+		<TextRegion id="eSc_region_948_99_1242_99_1242_175_948_175" custom="structure {type:text;}">
+			<Coords points="948,99 1242,99 1242,175 948,175"/>
+			<TextLine id="eSc_line_948_99_1242_99_1242_175_948_175" custom="structure {type:default;}">
+				<Coords points="948,99 1242,99 1242,175 948,175"/>
+				<Baseline points="948,175 1242,175"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים =----5--=-- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_116_264_1138_264_1138_415_116_415" custom="structure {type:text;}">
+			<Coords points="116,264 1138,264 1138,415 116,415"/>
+			<TextLine id="eSc_line_116_264_1138_264_1138_415_116_415" custom="structure {type:default;}">
+				<Coords points="116,264 1138,264 1138,415 116,415"/>
+				<Baseline points="116,415 1138,415"/>
+				<TextEquiv>
+					<Unicode>כמה מלים בשבהם של חברי (נגינת ביניים)[שיר, מתון &quot;הספו המשוגץ&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_570_589_1213_589_1213_671_570_671" custom="structure {type:text;}">
+			<Coords points="570,589 1213,589 1213,671 570,671"/>
+			<TextLine id="eSc_line_570_589_1213_589_1213_671_570_671" custom="structure {type:default;}">
+				<Coords points="570,589 1213,589 1213,671 570,671"/>
+				<Baseline points="570,671 1213,671"/>
+				<TextEquiv>
+					<Unicode>למרחב, 14.11.1969, עמ'* 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

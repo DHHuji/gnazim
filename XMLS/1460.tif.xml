@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1460.tif">
+		<TextRegion id="eSc_region_967_7_1202_7_1202_82_967_82" custom="structure {type:text;}">
+			<Coords points="967,7 1202,7 1202,82 967,82"/>
+			<TextLine id="eSc_line_967_7_1202_7_1202_82_967_82" custom="structure {type:default;}">
+				<Coords points="967,7 1202,7 1202,82 967,82"/>
+				<Baseline points="967,82 1202,82"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_436_194_1227_194_1227_401_436_401" custom="structure {type:text;}">
+			<Coords points="436,194 1227,194 1227,401 436,401"/>
+			<TextLine id="eSc_line_436_194_1227_194_1227_401_436_401" custom="structure {type:default;}">
+				<Coords points="436,194 1227,194 1227,401 436,401"/>
+				<Baseline points="436,401 1227,401"/>
+				<TextEquiv>
+					<Unicode>פרק שני מתוך &quot;השץה הכנענית&quot;5 , ידן יי 26 2 0:4 ₪2 א*גר.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_242_560_1210_560_1210_835_242_835" custom="structure {type:text;}">
+			<Coords points="242,560 1210,560 1210,835 242,835"/>
+			<TextLine id="eSc_line_242_560_1210_560_1210_835_242_835" custom="structure {type:default;}">
+				<Coords points="242,560 1210,560 1210,835 242,835"/>
+				<Baseline points="242,835 1210,835"/>
+				<TextEquiv>
+					<Unicode>פץריגב, ספרות, כ&quot;א השון תשס&quot;א, 3!.10.80, עם&quot; וכ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

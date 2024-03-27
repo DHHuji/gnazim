@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1520.tif">
+		<TextRegion id="eSc_region_960_61_1195_61_1195_123_960_123" custom="structure {type:text;}">
+			<Coords points="960,61 1195,61 1195,123 960,123"/>
+			<TextLine id="eSc_line_960_61_1195_61_1195_123_960_123" custom="structure {type:default;}">
+				<Coords points="960,61 1195,61 1195,123 960,123"/>
+				<Baseline points="960,123 1195,123"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &gt;=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_162_341_713_341_713_436_162_436" custom="structure {type:text;}">
+			<Coords points="162,341 713,341 713,436 162,436"/>
+			<TextLine id="eSc_line_162_341_713_341_713_436_162_436" custom="structure {type:default;}">
+				<Coords points="162,341 713,341 713,436 162,436"/>
+				<Baseline points="162,436 713,436"/>
+				<TextEquiv>
+					<Unicode>ג אומרים? , החתום: הג ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_576_652_1068_652_1068_834_576_834" custom="structure {type:text;}">
+			<Coords points="576,652 1068,652 1068,834 576,834"/>
+			<TextLine id="eSc_line_576_652_1068_652_1068_834_576_834" custom="structure {type:default;}">
+				<Coords points="576,652 1068,652 1068,834 576,834"/>
+				<Baseline points="576,834 1068,834"/>
+				<TextEquiv>
+					<Unicode>למרחב, 30,73.00, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

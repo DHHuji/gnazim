@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1340.tif">
+		<TextRegion id="eSc_region_290_271_943_271_943_443_290_443" custom="structure {type:text;}">
+			<Coords points="290,271 943,271 943,443 290,443"/>
+			<TextLine id="eSc_line_290_271_943_271_943_443_290_443" custom="structure {type:default;}">
+				<Coords points="290,271 943,271 943,443 290,443"/>
+				<Baseline points="290,443 943,443"/>
+				<TextEquiv>
+					<Unicode>מעטר ביונר (עירכ 7 99 2% )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_523_600_1102_600_1102_823_523_823" custom="structure {type:text;}">
+			<Coords points="523,600 1102,600 1102,823 523,823"/>
+			<TextLine id="eSc_line_523_600_1102_600_1102_823_523_823" custom="structure {type:default;}">
+				<Coords points="523,600 1102,600 1102,823 523,823"/>
+				<Baseline points="523,823 1102,823"/>
+				<TextEquiv>
+					<Unicode>מעריב, ‏ 29.10.00, ע' 4ן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

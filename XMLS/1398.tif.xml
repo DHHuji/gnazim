@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1398.tif">
+		<TextRegion id="eSc_region_856_96_1163_96_1163_156_856_156" custom="structure {type:text;}">
+			<Coords points="856,96 1163,96 1163,156 856,156"/>
+			<TextLine id="eSc_line_856_96_1163_96_1163_156_856_156" custom="structure {type:default;}">
+				<Coords points="856,96 1163,96 1163,156 856,156"/>
+				<Baseline points="856,156 1163,156"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ה ----1-ה=ה.-= גורי חייםה ----1-ה=ה.-=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_432_313_740_313_740_470_432_470" custom="structure {type:text;}">
+			<Coords points="432,313 740,313 740,470 432,470"/>
+			<TextLine id="eSc_line_432_313_740_313_740_470_432_470" custom="structure {type:default;}">
+				<Coords points="432,313 740,313 740,470 432,470"/>
+				<Baseline points="432,470 740,470"/>
+				<TextEquiv>
+					<Unicode>סנרצח (מה
+
+77
+(ום חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

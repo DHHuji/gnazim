@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1515.tif">
+		<TextRegion id="eSc_region_789_47_1229_47_1229_142_789_142" custom="structure {type:text;}">
+			<Coords points="789,47 1229,47 1229,142 789,142"/>
+			<TextLine id="eSc_line_789_47_1229_47_1229_142_789_142" custom="structure {type:default;}">
+				<Coords points="789,47 1229,47 1229,142 789,142"/>
+				<Baseline points="789,142 1229,142"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_117_482_742_482_742_604_117_604" custom="structure {type:text;}">
+			<Coords points="117,482 742,482 742,604 117,604"/>
+			<TextLine id="eSc_line_117_482_742_482_742_604_117_604" custom="structure {type:default;}">
+				<Coords points="117,482 742,482 742,604 117,604"/>
+				<Baseline points="117,604 742,604"/>
+				<TextEquiv>
+					<Unicode>חוב' 3, י בשכמט תשי*&quot;ד(16.1.56), עמ - 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_362_263_917_263_917_342_362_342" custom="structure {type:text;}">
+			<Coords points="362,263 917,263 917,342 362,342"/>
+			<TextLine id="eSc_line_362_263_917_263_917_342_362_342" custom="structure {type:default;}">
+				<Coords points="362,263 917,263 917,342 362,342"/>
+				<Baseline points="362,342 917,342"/>
+				<TextEquiv>
+					<Unicode>יות)
+1 1
+( רש ימות פאריז</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

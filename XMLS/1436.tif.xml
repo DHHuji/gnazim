@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1436.tif">
+		<TextRegion id="eSc_region_958_64_1230_64_1230_147_958_147" custom="structure {type:text;}">
+			<Coords points="958,64 1230,64 1230,147 958,147"/>
+			<TextLine id="eSc_line_958_64_1230_64_1230_147_958_147" custom="structure {type:default;}">
+				<Coords points="958,64 1230,64 1230,147 958,147"/>
+				<Baseline points="958,147 1230,147"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_220_1019_220_1019_367_0_367" custom="structure {type:text;}">
+			<Coords points="0,220 1019,220 1019,367 0,367"/>
+			<TextLine id="eSc_line_0_220_1019_220_1019_367_0_367" custom="structure {type:default;}">
+				<Coords points="0,220 1019,220 1019,367 0,367"/>
+				<Baseline points="0,367 1019,367"/>
+				<TextEquiv>
+					<Unicode>נדמה לי שהכל נאמר,- מגישה קצרה,-ציפצוף,-הביסוף:;-כסף וזהב | (רשימות סוף השבוק)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_484_586_1221_586_1221_822_484_822" custom="structure {type:text;}">
+			<Coords points="484,586 1221,586 1221,822 484,822"/>
+			<TextLine id="eSc_line_484_586_1221_586_1221_822_484_822" custom="structure {type:default;}">
+				<Coords points="484,586 1221,586 1221,822 484,822"/>
+				<Baseline points="484,822 1221,822"/>
+				<TextEquiv>
+					<Unicode>דבר, יה תשרי תסל&quot;ה,(4.10.74), עם 2
+
+69</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2230.tif">
+		<TextRegion id="eSc_region_686_472_1013_472_1013_546_686_546" custom="structure {type:text;}">
+			<Coords points="686,472 1013,472 1013,546 686,546"/>
+			<TextLine id="eSc_line_686_472_1013_472_1013_546_686_546" custom="structure {type:default;}">
+				<Coords points="686,472 1013,472 1013,546 686,546"/>
+				<Baseline points="686,546 1013,546"/>
+				<TextEquiv>
+					<Unicode>ג ארר תפל&quot;ד,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_100_259_903_259_903_396_100_396" custom="structure {type:text;}">
+			<Coords points="100,259 903,259 903,396 100,396"/>
+			<TextLine id="eSc_line_100_259_903_259_903_396_100_396" custom="structure {type:default;}">
+				<Coords points="100,259 903,259 903,396 100,396"/>
+				<Baseline points="100,396 903,396"/>
+				<TextEquiv>
+					<Unicode>היקונים וטעויותור . רל . -7| פדור: פה ח*אופרים , חתום: ת-ג (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_253_468_682_468_682_549_253_549" custom="structure {type:text;}">
+			<Coords points="253,468 682,468 682,549 253,549"/>
+			<TextLine id="eSc_line_253_468_682_468_682_549_253_549" custom="structure {type:default;}">
+				<Coords points="253,468 682,468 682,549 253,549"/>
+				<Baseline points="253,549 682,549"/>
+				<TextEquiv>
+					<Unicode>(75.2,74), פם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0272.tif">
+		<TextRegion id="eSc_region_774_629_1265_629_1265_701_774_701" custom="structure {type:text;}">
+			<Coords points="774,629 1265,629 1265,701 774,701"/>
+			<TextLine id="eSc_line_774_629_1265_629_1265_701_774_701" custom="structure {type:default;}">
+				<Coords points="774,629 1265,629 1265,701 774,701"/>
+				<Baseline points="774,701 1265,701"/>
+				<TextEquiv>
+					<Unicode>לפרחב,2,5.4.1757ר. 2 לפרחב,2,5.4.1757ר. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_411_390_897_390_897_518_411_518" custom="structure {type:text;}">
+			<Coords points="411,390 897,390 897,518 411,518"/>
+			<TextLine id="eSc_line_411_390_897_390_897_518_411_518" custom="structure {type:default;}">
+				<Coords points="411,390 897,390 897,518 411,518"/>
+				<Baseline points="411,518 897,518"/>
+				<TextEquiv>
+					<Unicode>בפווירםב על ריסכריה[כרלינוה סוף רנבוע.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

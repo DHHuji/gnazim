@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1610.tif">
+		<TextRegion id="eSc_region_150_0_1207_0_1207_380_150_380" custom="structure {type:text;}">
+			<Coords points="150,0 1207,0 1207,380 150,380"/>
+			<TextLine id="eSc_line_150_0_1207_0_1207_380_150_380" custom="structure {type:default;}">
+				<Coords points="150,0 1207,0 1207,380 150,380"/>
+				<Baseline points="150,380 1207,380"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים&quot;פיליתח ללא ממפשיכים&quot; מאת יונתן שפירא</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_170_475_1198_475_1198_779_170_779" custom="structure {type:text;}">
+			<Coords points="170,475 1198,475 1198,779 170,779"/>
+			<TextLine id="eSc_line_170_475_1198_475_1198_779_170_779" custom="structure {type:default;}">
+				<Coords points="170,475 1198,475 1198,779 170,779"/>
+				<Baseline points="170,779 1198,779"/>
+				<TextEquiv>
+					<Unicode>כותרתח ראשית, גל 117ו,27.3.1085 9עמ24</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

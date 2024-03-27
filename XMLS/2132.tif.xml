@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2132.tif">
+		<TextRegion id="eSc_region_808_99_1108_99_1108_186_808_186" custom="structure {type:text;}">
+			<Coords points="808,99 1108,99 1108,186 808,186"/>
+			<TextLine id="eSc_line_808_99_1108_99_1108_186_808_186" custom="structure {type:default;}">
+				<Coords points="808,99 1108,99 1108,186 808,186"/>
+				<Baseline points="808,186 1108,186"/>
+				<TextEquiv>
+					<Unicode>ג ורי חיים ג
+ורי חיים
+--- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_81_318_1111_318_1111_516_81_516" custom="structure {type:text;}">
+			<Coords points="81,318 1111,318 1111,516 81,516"/>
+			<TextLine id="eSc_line_81_318_1111_318_1111_516_81_516" custom="structure {type:default;}">
+				<Coords points="81,318 1111,318 1111,516 81,516"/>
+				<Baseline points="81,516 1111,516"/>
+				<TextEquiv>
+					<Unicode>הסליס.- תודה לבריטים.- תצצות --(טרטיפות סוף סבוע) , חתום וגור |-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

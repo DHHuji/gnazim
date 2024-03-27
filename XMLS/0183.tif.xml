@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0183.tif">
+		<TextRegion id="eSc_region_59_42_1258_42_1258_490_59_490" custom="structure {type:text;}">
+			<Coords points="59,42 1258,42 1258,490 59,490"/>
+			<TextLine id="eSc_line_59_42_1258_42_1258_490_59_490" custom="structure {type:default;}">
+				<Coords points="59,42 1258,42 1258,490 59,490"/>
+				<Baseline points="59,490 1258,490"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם(אגא, סלחודנא גם לי בדם נעליכם המגדלות][הנה יבואו עליך רחמים עהים בנטות היום][אולי פלת היא באה אלי שעת החםר הקרועה]ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_557_1262_557_1262_651_0_651" custom="structure {type:text;}">
+			<Coords points="0,557 1262,557 1262,651 0,651"/>
+			<TextLine id="eSc_line_0_557_1262_557_1262_651_0_651" custom="structure {type:default;}">
+				<Coords points="0,557 1262,557 1262,651 0,651"/>
+				<Baseline points="0,651 1262,651"/>
+				<TextEquiv>
+					<Unicode>מכחר ספרותגנו בשנת תשל*ד, תשל&quot;ה, עמ'283/5381</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

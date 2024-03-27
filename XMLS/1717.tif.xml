@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1717.tif">
+		<TextRegion id="eSc_region_357_0_1221_0_1221_747_357_747" custom="structure {type:text;}">
+			<Coords points="357,0 1221,0 1221,747 357,747"/>
+			<TextLine id="eSc_line_357_0_1221_0_1221_747_357_747" custom="structure {type:default;}">
+				<Coords points="357,0 1221,0 1221,747 357,747"/>
+				<Baseline points="357,747 1221,747"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים עם פטירתהו סל רדב פדן גורי,חייםעם פטירתהו סל רדב פדן;תחתום:ח.,ג\0רברבמו תחדרי ה6ו090.. 5.10 ועטמק</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0884.tif">
+		<TextRegion id="eSc_region_938_50_1198_50_1198_136_938_136" custom="structure {type:text;}">
+			<Coords points="938,50 1198,50 1198,136 938,136"/>
+			<TextLine id="eSc_line_938_50_1198_50_1198_136_938_136" custom="structure {type:default;}">
+				<Coords points="938,50 1198,50 1198,136 938,136"/>
+				<Baseline points="938,136 1198,136"/>
+				<TextEquiv>
+					<Unicode>גורי היים #NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_195_305_887_305_887_431_195_431" custom="structure {type:text;}">
+			<Coords points="195,305 887,305 887,431 195,431"/>
+			<TextLine id="eSc_line_195_305_887_305_887_431_195_431" custom="structure {type:default;}">
+				<Coords points="195,305 887,305 887,431 195,431"/>
+				<Baseline points="195,431 887,431"/>
+				<TextEquiv>
+					<Unicode>יום ולילה ויום (על מספס אייבמן)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_555_644_1152_644_1152_845_555_845" custom="structure {type:text;}">
+			<Coords points="555,644 1152,644 1152,845 555,845"/>
+			<TextLine id="eSc_line_555_644_1152_644_1152_845_555_845" custom="structure {type:default;}">
+				<Coords points="555,644 1152,644 1152,845 555,845"/>
+				<Baseline points="555,845 1152,845"/>
+				<TextEquiv>
+					<Unicode>למרחב, !19.4.0, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

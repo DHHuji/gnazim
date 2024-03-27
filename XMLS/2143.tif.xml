@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2143.tif">
+		<TextRegion id="eSc_region_931_5_1182_5_1182_70_931_70" custom="structure {type:text;}">
+			<Coords points="931,5 1182,5 1182,70 931,70"/>
+			<TextLine id="eSc_line_931_5_1182_5_1182_70_931_70" custom="structure {type:default;}">
+				<Coords points="931,5 1182,5 1182,70 931,70"/>
+				<Baseline points="931,70 1182,70"/>
+				<TextEquiv>
+					<Unicode>גורב .חייסםס גורב .חייסםס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_550_186_1058_186_1058_292_550_292" custom="structure {type:text;}">
+			<Coords points="550,186 1058,186 1058,292 550,292"/>
+			<TextLine id="eSc_line_550_186_1058_186_1058_292_550_292" custom="structure {type:default;}">
+				<Coords points="550,186 1058,186 1058,292 550,292"/>
+				<Baseline points="550,292 1058,292"/>
+				<TextEquiv>
+					<Unicode>כנוי במהלוכתקל ברוךר כוראווי&quot;,פן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

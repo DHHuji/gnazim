@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0346.tif">
+		<TextRegion id="eSc_region_853_91_1149_91_1149_174_853_174" custom="structure {type:text;}">
+			<Coords points="853,91 1149,91 1149,174 853,174"/>
+			<TextLine id="eSc_line_853_91_1149_91_1149_174_853_174" custom="structure {type:default;}">
+				<Coords points="853,91 1149,91 1149,174 853,174"/>
+				<Baseline points="853,174 1149,174"/>
+				<TextEquiv>
+					<Unicode>ג ורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_407_259_1073_259_1073_415_407_415" custom="structure {type:text;}">
+			<Coords points="407,259 1073,259 1073,415 407,415"/>
+			<TextLine id="eSc_line_407_259_1073_259_1073_415_407_415" custom="structure {type:default;}">
+				<Coords points="407,259 1073,259 1073,415 407,415"/>
+				<Baseline points="407,415 1073,415"/>
+				<TextEquiv>
+					<Unicode>יהוסירבת סַיווצּו ככררירבחת ג |ומר / . .ום:מ ם ] יו א : [ חמה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_425_335_736_335_736_426_425_426" custom="structure {type:text;}">
+			<Coords points="425,335 736,335 736,426 425,426"/>
+			<TextLine id="eSc_line_425_335_736_335_736_426_425_426" custom="structure {type:default;}">
+				<Coords points="425,335 736,335 736,426 425,426"/>
+				<Baseline points="425,426 736,426"/>
+				<TextEquiv>
+					<Unicode>: ין
+[חתום: חגי|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

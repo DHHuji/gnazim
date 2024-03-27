@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0809.tif">
+		<TextRegion id="eSc_region_933_105_1218_105_1218_179_933_179" custom="structure {type:text;}">
+			<Coords points="933,105 1218,105 1218,179 933,179"/>
+			<TextLine id="eSc_line_933_105_1218_105_1218_179_933_179" custom="structure {type:default;}">
+				<Coords points="933,105 1218,105 1218,179 933,179"/>
+				<Baseline points="933,179 1218,179"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ----7-4 ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_355_573_1244_573_1244_711_355_711" custom="structure {type:text;}">
+			<Coords points="355,573 1244,573 1244,711 355,711"/>
+			<TextLine id="eSc_line_355_573_1244_573_1244_711_355_711" custom="structure {type:default;}">
+				<Coords points="355,573 1244,573 1244,711 355,711"/>
+				<Baseline points="355,711 1244,711"/>
+				<TextEquiv>
+					<Unicode>במחנה,כד אלול תשל&quot;א,!15.0.7, הוב'י47-65א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_278_277_964_277_964_344_278_344" custom="structure {type:text;}">
+			<Coords points="278,277 964,277 964,344 278,344"/>
+			<TextLine id="eSc_line_278_277_964_277_964_344_278_344" custom="structure {type:default;}">
+				<Coords points="278,277 964,277 964,344 278,344"/>
+				<Baseline points="278,344 964,344"/>
+				<TextEquiv>
+					<Unicode>. יר( שט בינא
+חיים גורי פמרטיין את רובינ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

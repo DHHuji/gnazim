@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0308.tif">
+		<TextRegion id="eSc_region_890_106_1169_106_1169_170_890_170" custom="structure {type:text;}">
+			<Coords points="890,106 1169,106 1169,170 890,170"/>
+			<TextLine id="eSc_line_890_106_1169_106_1169_170_890_170" custom="structure {type:default;}">
+				<Coords points="890,106 1169,106 1169,170 890,170"/>
+				<Baseline points="890,170 1169,170"/>
+				<TextEquiv>
+					<Unicode>יים גורי, הח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_756_287_984_287_984_440_756_440" custom="structure {type:text;}">
+			<Coords points="756,287 984,287 984,440 756,440"/>
+			<TextLine id="eSc_line_756_287_984_287_984_440_756_440" custom="structure {type:default;}">
+				<Coords points="756,287 984,287 984,440 756,440"/>
+				<Baseline points="756,440 984,440"/>
+				<TextEquiv>
+					<Unicode>בהתתחלה ן.| חתום</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_601_293_797_293_797_424_601_424" custom="structure {type:text;}">
+			<Coords points="601,293 797,293 797,424 601,424"/>
+			<TextLine id="eSc_line_601_293_797_293_797_424_601_424" custom="structure {type:default;}">
+				<Coords points="601,293 797,293 797,424 601,424"/>
+				<Baseline points="601,424 797,424"/>
+				<TextEquiv>
+					<Unicode>ובסיום
+
+ם חגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

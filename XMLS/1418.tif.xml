@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1418.tif">
+		<TextRegion id="eSc_region_881_72_1147_72_1147_137_881_137" custom="structure {type:text;}">
+			<Coords points="881,72 1147,72 1147,137 881,137"/>
+			<TextLine id="eSc_line_881_72_1147_72_1147_137_881_137" custom="structure {type:default;}">
+				<Coords points="881,72 1147,72 1147,137 881,137"/>
+				<Baseline points="881,137 1147,137"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס #NAME? גורי, חייס
+=----2-ה--יה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_119_188_1142_188_1142_395_119_395" custom="structure {type:text;}">
+			<Coords points="119,188 1142,188 1142,395 119,395"/>
+			<TextLine id="eSc_line_119_188_1142_188_1142_395_119_395" custom="structure {type:default;}">
+				<Coords points="119,188 1142,188 1142,395 119,395"/>
+				<Baseline points="119,395 1142,395"/>
+				<TextEquiv>
+					<Unicode>מתוך &quot;קוסי הקטבה&quot;, - ירושה [סירים |(פי6- &quot;9%הסואה בשסירה העברית סבחר, תשל&quot;ד, פמ' 197-195</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

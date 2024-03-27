@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0404.tif">
+		<TextRegion id="eSc_region_792_121_1242_121_1242_230_792_230" custom="structure {type:text;}">
+			<Coords points="792,121 1242,121 1242,230 792,230"/>
+			<TextLine id="eSc_line_792_121_1242_121_1242_230_792_230" custom="structure {type:default;}">
+				<Coords points="792,121 1242,121 1242,230 792,230"/>
+				<Baseline points="792,230 1242,230"/>
+				<TextEquiv>
+					<Unicode>גורד, חפם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_45_557_1229_557_1229_859_45_859" custom="structure {type:text;}">
+			<Coords points="45,557 1229,557 1229,859 45,859"/>
+			<TextLine id="eSc_line_45_557_1229_557_1229_859_45_859" custom="structure {type:default;}">
+				<Coords points="45,557 1229,557 1229,859 45,859"/>
+				<Baseline points="45,859 1229,859"/>
+				<TextEquiv>
+					<Unicode>רבר, רכר השבוע, הוב' 6, א באדר א תשיירך(4.2.54), עמ' 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_261_345_841_345_841_527_261_527" custom="structure {type:text;}">
+			<Coords points="261,345 841,345 841,527 261,527"/>
+			<TextLine id="eSc_line_261_345_841_345_841_527_261_527" custom="structure {type:default;}">
+				<Coords points="261,345 841,345 841,527 261,527"/>
+				<Baseline points="261,527 841,527"/>
+				<TextEquiv>
+					<Unicode>רשימות פאריואיות
+
+(ספרים.- קלושרים)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

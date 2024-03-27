@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2204.tif">
+		<TextRegion id="eSc_region_827_85_1116_85_1116_160_827_160" custom="structure {type:text;}">
+			<Coords points="827,85 1116,85 1116,160 827,160"/>
+			<TextLine id="eSc_line_827_85_1116_85_1116_160_827_160" custom="structure {type:default;}">
+				<Coords points="827,85 1116,85 1116,160 827,160"/>
+				<Baseline points="827,160 1116,160"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_150_254_991_254_991_393_150_393" custom="structure {type:text;}">
+			<Coords points="150,254 991,254 991,393 150,393"/>
+			<TextLine id="eSc_line_150_254_991_254_991_393_150_393" custom="structure {type:default;}">
+				<Coords points="150,254 991,254 991,393 150,393"/>
+				<Baseline points="150,393 991,393"/>
+				<TextEquiv>
+					<Unicode>שהי סונטוה על צבי (גרישה; פייגין,'ופדור: מה טומוים? חהום: חגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_471_575_1112_575_1112_654_471_654" custom="structure {type:text;}">
+			<Coords points="471,575 1112,575 1112,654 471,654"/>
+			<TextLine id="eSc_line_471_575_1112_575_1112_654_471_654" custom="structure {type:default;}">
+				<Coords points="471,575 1112,575 1112,654 471,654"/>
+				<Baseline points="471,654 1112,654"/>
+				<TextEquiv>
+					<Unicode>למרהב,
+
+0 כ
+
+עמ'
+
+:א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

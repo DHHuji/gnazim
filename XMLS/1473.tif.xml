@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1473.tif">
+		<TextRegion id="eSc_region_0_4_1230_4_1230_457_0_457" custom="structure {type:text;}">
+			<Coords points="0,4 1230,4 1230,457 0,457"/>
+			<TextLine id="eSc_line_0_4_1230_4_1230_457_0_457" custom="structure {type:default;}">
+				<Coords points="0,4 1230,4 1230,457 0,457"/>
+				<Baseline points="0,457 1230,457"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסהנערה מחורפע וברז-המים (המה תקופת הבאר והכד)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_384_498_1066_498_1066_859_384_859" custom="structure {type:text;}">
+			<Coords points="384,498 1066,498 1066,859 384,859"/>
+			<TextLine id="eSc_line_384_498_1066_498_1066_859_384_859" custom="structure {type:default;}">
+				<Coords points="384,498 1066,498 1066,859 384,859"/>
+				<Baseline points="384,859 1066,859"/>
+				<TextEquiv>
+					<Unicode>למרחב, 5.11.1957!, עמ* 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

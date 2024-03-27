@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1091.tif">
+		<TextRegion id="eSc_region_989_44_1234_44_1234_101_989_101" custom="structure {type:text;}">
+			<Coords points="989,44 1234,44 1234,101 989,101"/>
+			<TextLine id="eSc_line_989_44_1234_44_1234_101_989_101" custom="structure {type:default;}">
+				<Coords points="989,44 1234,44 1234,101 989,101"/>
+				<Baseline points="989,101 1234,101"/>
+				<TextEquiv>
+					<Unicode>גודי,חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_531_558_1051_558_1051_714_531_714" custom="structure {type:text;}">
+			<Coords points="531,558 1051,558 1051,714 531,714"/>
+			<TextLine id="eSc_line_531_558_1051_558_1051_714_531_714" custom="structure {type:default;}">
+				<Coords points="531,558 1051,558 1051,714 531,714"/>
+				<Baseline points="531,714 1051,714"/>
+				<TextEquiv>
+					<Unicode>אהרונוה,ספרוה.,טו אדר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_68_548_519_548_519_606_68_606" custom="structure {type:text;}">
+			<Coords points="68,548 519,548 519,606 68,606"/>
+			<TextLine id="eSc_line_68_548_519_548_519_606_68_606" custom="structure {type:default;}">
+				<Coords points="68,548 519,548 519,606 68,606"/>
+				<Baseline points="68,606 519,606"/>
+				<TextEquiv>
+					<Unicode>השמה.8.3.1909עמ20</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

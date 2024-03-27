@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1703.tif">
+		<TextRegion id="eSc_region_830_89_1184_89_1184_169_830_169" custom="structure {type:text;}">
+			<Coords points="830,89 1184,89 1184,169 830,169"/>
+			<TextLine id="eSc_line_830_89_1184_89_1184_169_830_169" custom="structure {type:default;}">
+				<Coords points="830,89 1184,89 1184,169 830,169"/>
+				<Baseline points="830,169 1184,169"/>
+				<TextEquiv>
+					<Unicode>חיי גורין מ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_238_330_1074_330_1074_516_238_516" custom="structure {type:text;}">
+			<Coords points="238,330 1074,330 1074,516 238,516"/>
+			<TextLine id="eSc_line_238_330_1074_330_1074_516_238_516" custom="structure {type:default;}">
+				<Coords points="238,330 1074,330 1074,516 238,516"/>
+				<Baseline points="238,516 1074,516"/>
+				<TextEquiv>
+					<Unicode>על הספם, על הכבוד ועל הזפן 2-(רסיסות סוף סבוץ) חתום תגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_228_615_866_615_866_695_228_695" custom="structure {type:text;}">
+			<Coords points="228,615 866,615 866,695 228,695"/>
+			<TextLine id="eSc_line_228_615_866_615_866_695_228_695" custom="structure {type:default;}">
+				<Coords points="228,615 866,615 866,695 228,695"/>
+				<Baseline points="228,695 866,695"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 29.7.1960, עמ' 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

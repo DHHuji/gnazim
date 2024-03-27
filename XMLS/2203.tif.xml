@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2203.tif">
+		<TextRegion id="eSc_region_842_334_935_334_935_431_842_431" custom="structure {type:text;}">
+			<Coords points="842,334 935,334 935,431 842,431"/>
+			<TextLine id="eSc_line_842_334_935_334_935_431_842_431" custom="structure {type:default;}">
+				<Coords points="842,334 935,334 935,431 842,431"/>
+				<Baseline points="842,431 935,431"/>
+				<TextEquiv>
+					<Unicode>סתי ב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_370_328_543_328_543_443_370_443" custom="structure {type:text;}">
+			<Coords points="370,328 543,328 543,443 370,443"/>
+			<TextLine id="eSc_line_370_328_543_328_543_443_370_443" custom="structure {type:default;}">
+				<Coords points="370,328 543,328 543,443 370,443"/>
+				<Baseline points="370,443 543,443"/>
+				<TextEquiv>
+					<Unicode>יס לסים&quot;א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_679_374_848_374_848_420_679_420" custom="structure {type:text;}">
+			<Coords points="679,374 848,374 848,420 679,420"/>
+			<TextLine id="eSc_line_679_374_848_374_848_420_679_420" custom="structure {type:default;}">
+				<Coords points="679,374 848,374 848,420 679,420"/>
+				<Baseline points="679,420 848,420"/>
+				<TextEquiv>
+					<Unicode>אומרים?,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

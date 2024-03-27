@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1173.tif">
+		<TextRegion id="eSc_region_916_54_1186_54_1186_131_916_131" custom="structure {type:text;}">
+			<Coords points="916,54 1186,54 1186,131 916,131"/>
+			<TextLine id="eSc_line_916_54_1186_54_1186_131_916_131" custom="structure {type:default;}">
+				<Coords points="916,54 1186,54 1186,131 916,131"/>
+				<Baseline points="916,131 1186,131"/>
+				<TextEquiv>
+					<Unicode>י חיים ר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_135_330_857_330_857_449_135_449" custom="structure {type:text;}">
+			<Coords points="135,330 857,330 857,449 135,449"/>
+			<TextLine id="eSc_line_135_330_857_330_857_449_135_449" custom="structure {type:default;}">
+				<Coords points="135,330 857,330 857,449 135,449"/>
+				<Baseline points="135,449 857,449"/>
+				<TextEquiv>
+					<Unicode>-מר נעשה? [ מה אומרים&quot;?, חתום: הגו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_561_648_1121_648_1121_851_561_851" custom="structure {type:text;}">
+			<Coords points="561,648 1121,648 1121,851 561,851"/>
+			<TextLine id="eSc_line_561_648_1121_648_1121_851_561_851" custom="structure {type:default;}">
+				<Coords points="561,648 1121,648 1121,851 561,851"/>
+				<Baseline points="561,851 1121,851"/>
+				<TextEquiv>
+					<Unicode>לפרהב, !2(.2.0, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

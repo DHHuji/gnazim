@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1468.tif">
+		<TextRegion id="eSc_region_855_105_1140_105_1140_180_855_180" custom="structure {type:text;}">
+			<Coords points="855,105 1140,105 1140,180 855,180"/>
+			<TextLine id="eSc_line_855_105_1140_105_1140_180_855_180" custom="structure {type:default;}">
+				<Coords points="855,105 1140,105 1140,180 855,180"/>
+				<Baseline points="855,180 1140,180"/>
+				<TextEquiv>
+					<Unicode>גורי החיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_324_574_1259_574_1259_651_324_651" custom="structure {type:text;}">
+			<Coords points="324,574 1259,574 1259,651 324,651"/>
+			<TextLine id="eSc_line_324_574_1259_574_1259_651_324_651" custom="structure {type:default;}">
+				<Coords points="324,574 1259,574 1259,651 324,651"/>
+				<Baseline points="324,651 1259,651"/>
+				<TextEquiv>
+					<Unicode>מצריב, ל טבס ת-ל&quot;ד (22,2,74|, צמ, 5ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_449_339_782_339_782_476_449_476" custom="structure {type:text;}">
+			<Coords points="449,339 782,339 782,476 449,476"/>
+			<TextLine id="eSc_line_449_339_782_339_782_476_449_476" custom="structure {type:default;}">
+				<Coords points="449,339 782,339 782,476 449,476"/>
+				<Baseline points="449,476 782,476"/>
+				<TextEquiv>
+					<Unicode>נעילה בעדביתהת
+
+[ יפ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

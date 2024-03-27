@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0322.tif">
+		<TextRegion id="eSc_region_340_0_1234_0_1234_774_340_774" custom="structure {type:text;}">
+			<Coords points="340,0 1234,0 1234,774 340,774"/>
+			<TextLine id="eSc_line_340_0_1234_0_1234_774_340_774" custom="structure {type:default;}">
+				<Coords points="340,0 1234,0 1234,774 340,774"/>
+				<Baseline points="340,774 1234,774"/>
+				<TextEquiv>
+					<Unicode>האחד, במחיים האחד,במחייםבתוצות רירידאזהרההמוזהשצלת ו.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

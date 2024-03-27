@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0212.tif">
+		<TextRegion id="eSc_region_720_650_1152_650_1152_713_720_713" custom="structure {type:text;}">
+			<Coords points="720,650 1152,650 1152,713 720,713"/>
+			<TextLine id="eSc_line_720_650_1152_650_1152_713_720_713" custom="structure {type:default;}">
+				<Coords points="720,650 1152,650 1152,713 720,713"/>
+				<Baseline points="720,713 1152,713"/>
+				<TextEquiv>
+					<Unicode>למרחב, ‏ 14.9.90, ע' 2 למרחב, ‏ 14.9.90, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_91_303_968_303_968_430_91_430" custom="structure {type:text;}">
+			<Coords points="91,303 968,303 968,430 91,430"/>
+			<TextLine id="eSc_line_91_303_968_303_968_430_91_430" custom="structure {type:default;}">
+				<Coords points="91,303 968,303 968,430 91,430"/>
+				<Baseline points="91,430 968,430"/>
+				<TextEquiv>
+					<Unicode>&quot;ראסיר מ.א.&quot; (פדור: מה אומרים&quot;, חחום: הגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0528.tif">
+		<TextRegion id="eSc_region_865_92_1198_92_1198_183_865_183" custom="structure {type:text;}">
+			<Coords points="865,92 1198,92 1198,183 865,183"/>
+			<TextLine id="eSc_line_865_92_1198_92_1198_183_865_183" custom="structure {type:default;}">
+				<Coords points="865,92 1198,92 1198,183 865,183"/>
+				<Baseline points="865,183 1198,183"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_640_219_1070_219_1070_375_640_375" custom="structure {type:text;}">
+			<Coords points="640,219 1070,219 1070,375 640,375"/>
+			<TextLine id="eSc_line_640_219_1070_219_1070_375_640_375" custom="structure {type:default;}">
+				<Coords points="640,219 1070,219 1070,375 640,375"/>
+				<Baseline points="640,375 1070,375"/>
+				<TextEquiv>
+					<Unicode>הגועין והריחייםהתום: ה-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_527_603_1169_603_1169_849_527_849" custom="structure {type:text;}">
+			<Coords points="527,603 1169,603 1169,849 527,849"/>
+			<TextLine id="eSc_line_527_603_1169_603_1169_849_527_849" custom="structure {type:default;}">
+				<Coords points="527,603 1169,603 1169,849 527,849"/>
+				<Baseline points="527,849 1169,849"/>
+				<TextEquiv>
+					<Unicode>דבר, 94.3.72, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0646.tif">
+		<TextRegion id="eSc_region_898_93_1200_93_1200_180_898_180" custom="structure {type:text;}">
+			<Coords points="898,93 1200,93 1200,180 898,180"/>
+			<TextLine id="eSc_line_898_93_1200_93_1200_180_898_180" custom="structure {type:default;}">
+				<Coords points="898,93 1200,93 1200,180 898,180"/>
+				<Baseline points="898,180 1200,180"/>
+				<TextEquiv>
+					<Unicode>חיים גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_31_314_991_314_991_402_31_402" custom="structure {type:text;}">
+			<Coords points="31,314 991,314 991,402 31,402"/>
+			<TextLine id="eSc_line_31_314_991_314_991_402_31_402" custom="structure {type:default;}">
+				<Coords points="31,314 991,314 991,402 31,402"/>
+				<Baseline points="31,402 991,402"/>
+				<TextEquiv>
+					<Unicode>הונגריה הונגריה... (סול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_265_600_912_600_912_688_265_688" custom="structure {type:text;}">
+			<Coords points="265,600 912,600 912,688 265,688"/>
+			<TextLine id="eSc_line_265_600_912_600_912_688_265_688" custom="structure {type:default;}">
+				<Coords points="265,600 912,600 912,688 265,688"/>
+				<Baseline points="265,688 912,688"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 26.5.1961, עלם'* 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

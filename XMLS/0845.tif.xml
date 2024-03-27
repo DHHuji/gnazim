@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0845.tif">
+		<TextRegion id="eSc_region_938_94_1254_94_1254_192_938_192" custom="structure {type:text;}">
+			<Coords points="938,94 1254,94 1254,192 938,192"/>
+			<TextLine id="eSc_line_938_94_1254_94_1254_192_938_192" custom="structure {type:default;}">
+				<Coords points="938,94 1254,94 1254,192 938,192"/>
+				<Baseline points="938,192 1254,192"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ---7 7-3 גורי חיים
+---7 7-3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_357_252_1195_252_1195_425_357_425" custom="structure {type:text;}">
+			<Coords points="357,252 1195,252 1195,425 357,425"/>
+			<TextLine id="eSc_line_357_252_1195_252_1195_425_357_425" custom="structure {type:default;}">
+				<Coords points="357,252 1195,252 1195,425 357,425"/>
+				<Baseline points="357,425 1195,425"/>
+				<TextEquiv>
+					<Unicode>ההריף, השולחן ופנס הרוח [מהוך&quot;הספר המשוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

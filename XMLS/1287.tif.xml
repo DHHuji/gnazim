@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1287.tif">
+		<TextRegion id="eSc_region_795_55_1098_55_1098_142_795_142" custom="structure {type:text;}">
+			<Coords points="795,55 1098,55 1098,142 795,142"/>
+			<TextLine id="eSc_line_795_55_1098_55_1098_142_795_142" custom="structure {type:default;}">
+				<Coords points="795,55 1098,55 1098,142 795,142"/>
+				<Baseline points="795,142 1098,142"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ---+-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_478_299_1123_299_1123_479_478_479" custom="structure {type:text;}">
+			<Coords points="478,299 1123,299 1123,479 478,479"/>
+			<TextLine id="eSc_line_478_299_1123_299_1123_479_478_479" custom="structure {type:default;}">
+				<Coords points="478,299 1123,299 1123,479 478,479"/>
+				<Baseline points="478,479 1123,479"/>
+				<TextEquiv>
+					<Unicode>&quot;מנוי וגסור עפנו - - -%[ת חתום גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_21_604_805_604_805_827_21_827" custom="structure {type:text;}">
+			<Coords points="21,604 805,604 805,827 21,827"/>
+			<TextLine id="eSc_line_21_604_805_604_805_827_21_827" custom="structure {type:default;}">
+				<Coords points="21,604 805,604 805,827 21,827"/>
+				<Baseline points="21,827 805,827"/>
+				<TextEquiv>
+					<Unicode>לסרחב, מחא, 20.6.1960, לס' 2
+
+9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

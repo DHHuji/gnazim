@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1269.tif">
+		<TextRegion id="eSc_region_941_134_1183_134_1183_205_941_205" custom="structure {type:text;}">
+			<Coords points="941,134 1183,134 1183,205 941,205"/>
+			<TextLine id="eSc_line_941_134_1183_134_1183_205_941_205" custom="structure {type:default;}">
+				<Coords points="941,134 1183,134 1183,205 941,205"/>
+				<Baseline points="941,205 1183,205"/>
+				<TextEquiv>
+					<Unicode>גורי, חייב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_484_381_878_381_878_510_484_510" custom="structure {type:text;}">
+			<Coords points="484,381 878,381 878,510 484,510"/>
+			<TextLine id="eSc_line_484_381_878_381_878_510_484_510" custom="structure {type:default;}">
+				<Coords points="484,381 878,381 878,510 484,510"/>
+				<Baseline points="484,510 878,510"/>
+				<TextEquiv>
+					<Unicode>רתות &quot;&quot;ררכלים 3יחגי]ה,רת וב:ףח\סיכב יי|רש</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_689_620_1270_620_1270_692_689_692" custom="structure {type:text;}">
+			<Coords points="689,620 1270,620 1270,692 689,692"/>
+			<TextLine id="eSc_line_689_620_1270_620_1270_692_689_692" custom="structure {type:default;}">
+				<Coords points="689,620 1270,620 1270,692 689,692"/>
+				<Baseline points="689,692 1270,692"/>
+				<TextEquiv>
+					<Unicode>לכרחב,000,320ו.2,70.09כ. 6
+[,. א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

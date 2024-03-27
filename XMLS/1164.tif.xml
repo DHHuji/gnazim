@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1164.tif">
+		<TextRegion id="eSc_region_750_39_983_39_983_103_750_103" custom="structure {type:text;}">
+			<Coords points="750,39 983,39 983,103 750,103"/>
+			<TextLine id="eSc_line_750_39_983_39_983_103_750_103" custom="structure {type:default;}">
+				<Coords points="750,39 983,39 983,103 750,103"/>
+				<Baseline points="750,103 983,103"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &gt; גורי חיים
+&gt;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_363_304_776_304_776_366_363_366" custom="structure {type:text;}">
+			<Coords points="363,304 776,304 776,366 363,366"/>
+			<TextLine id="eSc_line_363_304_776_304_776_366_363_366" custom="structure {type:default;}">
+				<Coords points="363,304 776,304 776,366 363,366"/>
+				<Baseline points="363,366 776,366"/>
+				<TextEquiv>
+					<Unicode>מר בין הצפון לורוס?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

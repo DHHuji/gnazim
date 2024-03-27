@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0165.tif">
+		<TextRegion id="eSc_region_934_89_1243_89_1243_194_934_194" custom="structure {type:text;}">
+			<Coords points="934,89 1243,89 1243,194 934,194"/>
+			<TextLine id="eSc_line_934_89_1243_89_1243_194_934_194" custom="structure {type:default;}">
+				<Coords points="934,89 1243,89 1243,194 934,194"/>
+				<Baseline points="934,194 1243,194"/>
+				<TextEquiv>
+					<Unicode>גורי חיררת ' 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_95_559_1222_559_1222_829_95_829" custom="structure {type:text;}">
+			<Coords points="95,559 1222,559 1222,829 95,829"/>
+			<TextLine id="eSc_line_95_559_1222_559_1222_829_95_829" custom="structure {type:default;}">
+				<Coords points="95,559 1222,559 1222,829 95,829"/>
+				<Baseline points="95,829 1222,829"/>
+				<TextEquiv>
+					<Unicode>למר-רהוה-(משא לספרוה,טמנוה ובקווה, |2.7.ט1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_306_236_1074_236_1074_411_306_411" custom="structure {type:text;}">
+			<Coords points="306,236 1074,236 1074,411 306,411"/>
+			<TextLine id="eSc_line_306_236_1074_236_1074_411_306_411" custom="structure {type:default;}">
+				<Coords points="306,236 1074,236 1074,411 306,411"/>
+				<Baseline points="306,411 1074,411"/>
+				<TextEquiv>
+					<Unicode>4
+
+ו|מדור:
+
+לת
+
+טומריבץ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

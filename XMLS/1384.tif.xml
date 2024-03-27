@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1384.tif">
+		<TextRegion id="eSc_region_901_119_1127_119_1127_184_901_184" custom="structure {type:text;}">
+			<Coords points="901,119 1127,119 1127,184 901,184"/>
+			<TextLine id="eSc_line_901_119_1127_119_1127_184_901_184" custom="structure {type:default;}">
+				<Coords points="901,119 1127,119 1127,184 901,184"/>
+				<Baseline points="901,184 1127,184"/>
+				<TextEquiv>
+					<Unicode>יים ח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_180_453_1106_453_1106_522_180_522" custom="structure {type:text;}">
+			<Coords points="180,453 1106,453 1106,522 180,522"/>
+			<TextLine id="eSc_line_180_453_1106_453_1106_522_180_522" custom="structure {type:default;}">
+				<Coords points="180,453 1106,453 1106,522 180,522"/>
+				<Baseline points="180,522 1106,522"/>
+				<TextEquiv>
+					<Unicode>,דכר,דבר השכוע, יס סבס תעל&quot;ט,(5/1&quot;02,)10,2,790</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_595_249_1007_249_1007_309_595_309" custom="structure {type:text;}">
+			<Coords points="595,249 1007,249 1007,309 595,309"/>
+			<TextLine id="eSc_line_595_249_1007_249_1007_309_595_309" custom="structure {type:default;}">
+				<Coords points="595,249 1007,249 1007,309 595,309"/>
+				<Baseline points="595,309 1007,309"/>
+				<TextEquiv>
+					<Unicode>משהו על רודי צזריאל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

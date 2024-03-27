@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1135.tif">
+		<TextRegion id="eSc_region_929_95_1255_95_1255_178_929_178" custom="structure {type:text;}">
+			<Coords points="929,95 1255,95 1255,178 929,178"/>
+			<TextLine id="eSc_line_929_95_1255_95_1255_178_929_178" custom="structure {type:default;}">
+				<Coords points="929,95 1255,95 1255,178 929,178"/>
+				<Baseline points="929,178 1255,178"/>
+				<TextEquiv>
+					<Unicode>גוורי חיים |- | גוורי חיים
+|- |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_400_285_1098_285_1098_431_400_431" custom="structure {type:text;}">
+			<Coords points="400,285 1098,285 1098,431 400,431"/>
+			<TextLine id="eSc_line_400_285_1098_285_1098_431_400_431" custom="structure {type:default;}">
+				<Coords points="400,285 1098,285 1098,431 400,431"/>
+				<Baseline points="400,431 1098,431"/>
+				<TextEquiv>
+					<Unicode>המארה ‏ [מדור: מה אומרים ?]וחתוס: חגי:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

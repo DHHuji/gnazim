@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0775.tif">
+		<TextRegion id="eSc_region_369_0_1148_0_1148_742_369_742" custom="structure {type:text;}">
+			<Coords points="369,0 1148,0 1148,742 369,742"/>
+			<TextLine id="eSc_line_369_0_1148_0_1148_742_369_742" custom="structure {type:default;}">
+				<Coords points="369,0 1148,0 1148,742 369,742"/>
+				<Baseline points="369,742 1148,742"/>
+				<TextEquiv>
+					<Unicode>גורי.חייםהזץת&quot; והסנאתההפגנר ליד מצונו כל ראטס המשלהאלו&quot; הסמז4.0.!0987 עמ7ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_394_518_979_518_979_715_394_715" custom="structure {type:text;}">
+			<Coords points="394,518 979,518 979,715 394,715"/>
+			<TextLine id="eSc_line_394_518_979_518_979_715_394_715" custom="structure {type:default;}">
+				<Coords points="394,518 979,518 979,715 394,715"/>
+				<Baseline points="394,715 979,715"/>
+				<TextEquiv>
+					<Unicode>אלו&quot; הסמז4.0.!987 עמדו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

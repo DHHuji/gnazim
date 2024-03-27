@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0952.tif">
+		<TextRegion id="eSc_region_684_83_924_83_924_154_684_154" custom="structure {type:text;}">
+			<Coords points="684,83 924,83 924,154 684,154"/>
+			<TextLine id="eSc_line_684_83_924_83_924_154_684_154" custom="structure {type:default;}">
+				<Coords points="684,83 924,83 924,154 684,154"/>
+				<Baseline points="684,154 924,154"/>
+				<TextEquiv>
+					<Unicode>גורי,חייםב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_139_312_603_312_603_437_139_437" custom="structure {type:text;}">
+			<Coords points="139,312 603,312 603,437 139,437"/>
+			<TextLine id="eSc_line_139_312_603_312_603_437_139_437" custom="structure {type:default;}">
+				<Coords points="139,312 603,312 603,437 139,437"/>
+				<Baseline points="139,437 603,437"/>
+				<TextEquiv>
+					<Unicode>רכדור. רניהר. רפניםס[גר טוכרים,רהוכ:רגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_478_571_1011_571_1011_644_478_644" custom="structure {type:text;}">
+			<Coords points="478,571 1011,571 1011,644 478,644"/>
+			<TextLine id="eSc_line_478_571_1011_571_1011_644_478_644" custom="structure {type:default;}">
+				<Coords points="478,571 1011,571 1011,644 478,644"/>
+				<Baseline points="478,644 1011,644"/>
+				<TextEquiv>
+					<Unicode>לנרהב,1960.ר1.1ו,9מ. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

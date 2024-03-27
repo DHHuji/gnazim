@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0447.tif">
+		<TextRegion id="eSc_region_131_35_1254_35_1254_900_131_900" custom="structure {type:text;}">
+			<Coords points="131,35 1254,35 1254,900 131,900"/>
+			<TextLine id="eSc_line_131_35_1254_35_1254_900_131_900" custom="structure {type:default;}">
+				<Coords points="131,35 1254,35 1254,900 131,900"/>
+				<Baseline points="131,900 1254,900"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס בצמא 5 גורי, חייסבצמא 5על המססר,וף לספרות, 6 אלול תשי&quot;ב,(5.9.52), עם 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

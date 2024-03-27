@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1941.tif">
+		<TextRegion id="eSc_region_644_308_868_308_868_367_644_367" custom="structure {type:text;}">
+			<Coords points="644,308 868,308 868,367 644,367"/>
+			<TextLine id="eSc_line_644_308_868_308_868_367_644_367" custom="structure {type:default;}">
+				<Coords points="644,308 868,308 868,367 644,367"/>
+				<Baseline points="644,367 868,367"/>
+				<TextEquiv>
+					<Unicode>קריל צ'כמן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_104_289_622_289_622_398_104_398" custom="structure {type:text;}">
+			<Coords points="104,289 622,289 622,398 104,398"/>
+			<TextLine id="eSc_line_104_289_622_289_622_398_104_398" custom="structure {type:default;}">
+				<Coords points="104,289 622,289 622,398 104,398"/>
+				<Baseline points="104,398 622,398"/>
+				<TextEquiv>
+					<Unicode>פה אומרים&quot;, חהום: הגי ]|%-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_543_627_1071_627_1071_810_543_810" custom="structure {type:text;}">
+			<Coords points="543,627 1071,627 1071,810 543,810"/>
+			<TextLine id="eSc_line_543_627_1071_627_1071_810_543_810" custom="structure {type:default;}">
+				<Coords points="543,627 1071,627 1071,810 543,810"/>
+				<Baseline points="543,810 1071,810"/>
+				<TextEquiv>
+					<Unicode>למרחב, 22,2.00, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

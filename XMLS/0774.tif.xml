@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0774.tif">
+		<TextRegion id="eSc_region_879_111_1264_111_1264_209_879_209" custom="structure {type:text;}">
+			<Coords points="879,111 1264,111 1264,209 879,209"/>
+			<TextLine id="eSc_line_879_111_1264_111_1264_209_879_209" custom="structure {type:default;}">
+				<Coords points="879,111 1264,111 1264,209 879,209"/>
+				<Baseline points="879,209 1264,209"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_34_491_1239_491_1239_585_34_585" custom="structure {type:text;}">
+			<Coords points="34,491 1239,491 1239,585 34,585"/>
+			<TextLine id="eSc_line_34_491_1239_491_1239_585_34_585" custom="structure {type:default;}">
+				<Coords points="34,491 1239,491 1239,585 34,585"/>
+				<Baseline points="34,585 1239,585"/>
+				<TextEquiv>
+					<Unicode>על החומחה, תל&quot;אביב, תשרי, ראש השנה תשי&quot;ק</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_362_273_875_273_875_363_362_363" custom="structure {type:text;}">
+			<Coords points="362,273 875,273 875,363 362,363"/>
+			<TextLine id="eSc_line_362_273_875_273_875_363_362_363" custom="structure {type:default;}">
+				<Coords points="362,273 875,273 875,363 362,363"/>
+				<Baseline points="362,363 875,363"/>
+				<TextEquiv>
+					<Unicode>למ&quot;חז
+מי הם
+ר לוח
+ומ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

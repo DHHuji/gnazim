@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0793.tif">
+		<TextRegion id="eSc_region_990_131_1270_131_1270_195_990_195" custom="structure {type:text;}">
+			<Coords points="990,131 1270,131 1270,195 990,195"/>
+			<TextLine id="eSc_line_990_131_1270_131_1270_195_990_195" custom="structure {type:default;}">
+				<Coords points="990,131 1270,131 1270,195 990,195"/>
+				<Baseline points="990,195 1270,195"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_466_560_1276_560_1276_694_466_694" custom="structure {type:text;}">
+			<Coords points="466,560 1276,560 1276,694 466,694"/>
+			<TextLine id="eSc_line_466_560_1276_560_1276_694_466_694" custom="structure {type:default;}">
+				<Coords points="466,560 1276,560 1276,694 466,694"/>
+				<Baseline points="466,694 1276,694"/>
+				<TextEquiv>
+					<Unicode>פעריב),יד ניסן חשל&quot;ו, (14.4.76), עם&quot; 38ספרות, /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_478_270_1020_270_1020_434_478_434" custom="structure {type:text;}">
+			<Coords points="478,270 1020,270 1020,434 478,434"/>
+			<TextLine id="eSc_line_478_270_1020_270_1020_434_478_434" custom="structure {type:default;}">
+				<Coords points="478,270 1020,270 1020,434 478,434"/>
+				<Baseline points="478,434 1020,434"/>
+				<TextEquiv>
+					<Unicode>חוף יונה הנביא
+
+(, סזור , 5! שסירים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

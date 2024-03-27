@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0870.tif">
+		<TextRegion id="eSc_region_852_94_1151_94_1151_177_852_177" custom="structure {type:text;}">
+			<Coords points="852,94 1151,94 1151,177 852,177"/>
+			<TextLine id="eSc_line_852_94_1151_94_1151_177_852_177" custom="structure {type:default;}">
+				<Coords points="852,94 1151,94 1151,177 852,177"/>
+				<Baseline points="852,177 1151,177"/>
+				<TextEquiv>
+					<Unicode>גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_349_519_1122_519_1122_599_349_599" custom="structure {type:text;}">
+			<Coords points="349,519 1122,519 1122,599 349,599"/>
+			<TextLine id="eSc_line_349_519_1122_519_1122_599_349_599" custom="structure {type:default;}">
+				<Coords points="349,519 1122,519 1122,599 349,599"/>
+				<Baseline points="349,599 1122,599"/>
+				<TextEquiv>
+					<Unicode>למרהב, אאאץ 22.8.1960, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_163_218_796_218_796_360_163_360" custom="structure {type:text;}">
+			<Coords points="163,218 796,218 796,360 163,360"/>
+			<TextLine id="eSc_line_163_218_796_218_796_360_163_360" custom="structure {type:default;}">
+				<Coords points="163,218 796,218 796,360 163,360"/>
+				<Baseline points="163,360 796,360"/>
+				<TextEquiv>
+					<Unicode>(סה אוסרים.) חתום חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

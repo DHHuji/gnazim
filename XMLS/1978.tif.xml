@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1978.tif">
+		<TextRegion id="eSc_region_858_65_1095_65_1095_129_858_129" custom="structure {type:text;}">
+			<Coords points="858,65 1095,65 1095,129 858,129"/>
+			<TextLine id="eSc_line_858_65_1095_65_1095_129_858_129" custom="structure {type:default;}">
+				<Coords points="858,65 1095,65 1095,129 858,129"/>
+				<Baseline points="858,129 1095,129"/>
+				<TextEquiv>
+					<Unicode>גורי, הייסם #NAME? גורי, הייסם
+=ה- ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_115_499_1090_499_1090_608_115_608" custom="structure {type:text;}">
+			<Coords points="115,499 1090,499 1090,608 115,608"/>
+			<TextLine id="eSc_line_115_499_1090_499_1090_608_115_608" custom="structure {type:default;}">
+				<Coords points="115,499 1090,499 1090,608 115,608"/>
+				<Baseline points="115,608 1090,608"/>
+				<TextEquiv>
+					<Unicode>קשה סופרים, ילקוס לדברי ספרות של סופרים-היילים,הוצאת סרות תרבות של צה&quot;ל, עם&quot; 18 - 20</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

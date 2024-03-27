@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0620.tif">
+		<TextRegion id="eSc_region_852_241_938_241_938_283_852_283" custom="structure {type:text;}">
+			<Coords points="852,241 938,241 938,283 852,283"/>
+			<TextLine id="eSc_line_852_241_938_241_938_283_852_283" custom="structure {type:default;}">
+				<Coords points="852,241 938,241 938,283 852,283"/>
+				<Baseline points="852,283 938,283"/>
+				<TextEquiv>
+					<Unicode>דרר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_902_518_1017_518_1017_562_902_562" custom="structure {type:text;}">
+			<Coords points="902,518 1017,518 1017,562 902,562"/>
+			<TextLine id="eSc_line_902_518_1017_518_1017_562_902_562" custom="structure {type:default;}">
+				<Coords points="902,518 1017,518 1017,562 902,562"/>
+				<Baseline points="902,562 1017,562"/>
+				<TextEquiv>
+					<Unicode>הלוז</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_1080_518_1189_518_1189_564_1080_564" custom="structure {type:text;}">
+			<Coords points="1080,518 1189,518 1189,564 1080,564"/>
+			<TextLine id="eSc_line_1080_518_1189_518_1189_564_1080_564" custom="structure {type:default;}">
+				<Coords points="1080,518 1189,518 1189,564 1080,564"/>
+				<Baseline points="1080,564 1189,564"/>
+				<TextEquiv>
+					<Unicode>דבר,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

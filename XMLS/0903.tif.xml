@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0903.tif">
+		<TextRegion id="eSc_region_933_37_1181_37_1181_100_933_100" custom="structure {type:text;}">
+			<Coords points="933,37 1181,37 1181,100 933,100"/>
+			<TextLine id="eSc_line_933_37_1181_37_1181_100_933_100" custom="structure {type:default;}">
+				<Coords points="933,37 1181,37 1181,100 933,100"/>
+				<Baseline points="933,100 1181,100"/>
+				<TextEquiv>
+					<Unicode>גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_471_547_1001_547_1001_741_471_741" custom="structure {type:text;}">
+			<Coords points="471,547 1001,547 1001,741 471,741"/>
+			<TextLine id="eSc_line_471_547_1001_547_1001_741_471_741" custom="structure {type:default;}">
+				<Coords points="471,547 1001,547 1001,741 471,741"/>
+				<Baseline points="471,741 1001,741"/>
+				<TextEquiv>
+					<Unicode>אחרונות,מוס&quot;. ג אייר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_708_245_954_245_954_344_708_344" custom="structure {type:text;}">
+			<Coords points="708,245 954,245 954,344 708,344"/>
+			<TextLine id="eSc_line_708_245_954_245_954_344_708_344" custom="structure {type:default;}">
+				<Coords points="708,245 954,245 954,344 708,344"/>
+				<Baseline points="708,344 954,344"/>
+				<TextEquiv>
+					<Unicode>הההנערות
+
+)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

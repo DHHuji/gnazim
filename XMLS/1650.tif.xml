@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1650.tif">
+		<TextRegion id="eSc_region_906_84_1197_84_1197_203_906_203" custom="structure {type:text;}">
+			<Coords points="906,84 1197,84 1197,203 906,203"/>
+			<TextLine id="eSc_line_906_84_1197_84_1197_203_906_203" custom="structure {type:default;}">
+				<Coords points="906,84 1197,84 1197,203 906,203"/>
+				<Baseline points="906,203 1197,203"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס = גורי, חייס
+=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_20_261_992_261_992_611_20_611" custom="structure {type:text;}">
+			<Coords points="20,261 992,261 992,611 20,611"/>
+			<TextLine id="eSc_line_20_261_992_261_992_611_20_611" custom="structure {type:default;}">
+				<Coords points="20,261 992,261 992,611 20,611"/>
+				<Baseline points="20,611 992,611"/>
+				<TextEquiv>
+					<Unicode>על החלומות מחוור שירים (-כ שור. ₪%\ת 5הארץ, שנה ל&quot;ה, 21.8,1953, (תרבות וספרות, א&quot;)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

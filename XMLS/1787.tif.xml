@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1787.tif">
+		<TextRegion id="eSc_region_832_80_1053_80_1053_136_832_136" custom="structure {type:text;}">
+			<Coords points="832,80 1053,80 1053,136 832,136"/>
+			<TextLine id="eSc_line_832_80_1053_80_1053_136_832_136" custom="structure {type:default;}">
+				<Coords points="832,80 1053,80 1053,136 832,136"/>
+				<Baseline points="832,136 1053,136"/>
+				<TextEquiv>
+					<Unicode>גורי, ה גורי, ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_377_286_700_286_700_392_377_392" custom="structure {type:text;}">
+			<Coords points="377,286 700,286 700,392 377,392"/>
+			<TextLine id="eSc_line_377_286_700_286_700_392_377_392" custom="structure {type:default;}">
+				<Coords points="377,286 700,286 700,392 377,392"/>
+				<Baseline points="377,392 700,392"/>
+				<TextEquiv>
+					<Unicode>[ מתזור עפירים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1756.tif">
+		<TextRegion id="eSc_region_889_59_1159_59_1159_150_889_150" custom="structure {type:text;}">
+			<Coords points="889,59 1159,59 1159,150 889,150"/>
+			<TextLine id="eSc_line_889_59_1159_59_1159_150_889_150" custom="structure {type:default;}">
+				<Coords points="889,59 1159,59 1159,150 889,150"/>
+				<Baseline points="889,150 1159,150"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס &lt;---+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_52_233_1052_233_1052_446_52_446" custom="structure {type:text;}">
+			<Coords points="52,233 1052,233 1052,446 52,446"/>
+			<TextLine id="eSc_line_52_233_1052_233_1052_446_52_446" custom="structure {type:default;}">
+				<Coords points="52,233 1052,233 1052,446 52,446"/>
+				<Baseline points="52,446 1052,446"/>
+				<TextEquiv>
+					<Unicode>שבעה שירי מועד | ץתונא' .+ -- שיר הווף + -חהופשה קצרה ‏ . - בעץקבוה מאגדה מדוב-אוצה + -הופסה בצפון -. - מהזור -. - כ תם מועד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_31_484_1154_484_1154_579_31_579" custom="structure {type:text;}">
+			<Coords points="31,484 1154,484 1154,579 31,579"/>
+			<TextLine id="eSc_line_31_484_1154_484_1154_579_31_579" custom="structure {type:default;}">
+				<Coords points="31,484 1154,484 1154,579 31,579"/>
+				<Baseline points="31,579 1154,579"/>
+				<TextEquiv>
+					<Unicode>לסרחב, משא לספרות,אמנוה ובקורת, 4.10.1967.) עם' 21</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

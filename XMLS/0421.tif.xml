@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0421.tif">
+		<TextRegion id="eSc_region_210_0_1068_0_1068_763_210_763" custom="structure {type:text;}">
+			<Coords points="210,0 1068,0 1068,763 210,763"/>
+			<TextLine id="eSc_line_210_0_1068_0_1068_763_210_763" custom="structure {type:default;}">
+				<Coords points="210,0 1068,0 1068,763 210,763"/>
+				<Baseline points="210,763 1068,763"/>
+				<TextEquiv>
+					<Unicode>בכימסאות ההן (חהופ5:הח-גי) בכימסאות ההן(חהופ5:הח-גי)דבר, כט תבס תשמהםה|!,ה. לועמ 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

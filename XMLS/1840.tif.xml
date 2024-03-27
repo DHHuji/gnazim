@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1840.tif">
+		<TextRegion id="eSc_region_12_0_1242_0_1242_856_12_856" custom="structure {type:text;}">
+			<Coords points="12,0 1242,0 1242,856 12,856"/>
+			<TextLine id="eSc_line_12_0_1242_0_1242_856_12_856" custom="structure {type:default;}">
+				<Coords points="12,0 1242,0 1242,856 12,856"/>
+				<Baseline points="12,856 1242,856"/>
+				<TextEquiv>
+					<Unicode>8|: (1ע2, 2 8|: (1ע2,2א 5 מ'\ו סו. | חאו9 0 | חת | :/ 2-5 / //| את [5, ג זז.. 2 ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

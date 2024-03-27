@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2188.tif">
+		<TextRegion id="eSc_region_96_32_1073_32_1073_801_96_801" custom="structure {type:text;}">
+			<Coords points="96,32 1073,32 1073,801 96,801"/>
+			<TextLine id="eSc_line_96_32_1073_32_1073_801_96_801" custom="structure {type:default;}">
+				<Coords points="96,32 1073,32 1073,801 96,801"/>
+				<Baseline points="96,801 1073,801"/>
+				<TextEquiv>
+					<Unicode>סר תההיססוריר,- שולפן י-07.- תנעיתת -- סר תההיססוריר,- שולפן י-07.- תנעיתת--+ +התוס &quot;ה\דבר, ה&quot; סיון העכ&quot;ס,(31,5.79), עמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

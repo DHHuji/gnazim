@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0548.tif">
+		<TextRegion id="eSc_region_829_54_1076_54_1076_132_829_132" custom="structure {type:text;}">
+			<Coords points="829,54 1076,54 1076,132 829,132"/>
+			<TextLine id="eSc_line_829_54_1076_54_1076_132_829_132" custom="structure {type:default;}">
+				<Coords points="829,54 1076,54 1076,132 829,132"/>
+				<Baseline points="829,132 1076,132"/>
+				<TextEquiv>
+					<Unicode>גורי חיים #NAME? גורי חיים
+----1----- ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_320_355_837_355_837_493_320_493" custom="structure {type:text;}">
+			<Coords points="320,355 837,355 837,493 320,493"/>
+			<TextLine id="eSc_line_320_355_837_355_837_493_320_493" custom="structure {type:default;}">
+				<Coords points="320,355 837,355 837,493 320,493"/>
+				<Baseline points="320,493 837,493"/>
+				<TextEquiv>
+					<Unicode>דגל אדום מעל בלגיהמה אומרים?, חתום: חגה]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

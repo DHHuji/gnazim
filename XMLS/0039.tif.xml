@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0039.tif">
+		<TextRegion id="eSc_region_996_10_1249_10_1249_106_996_106" custom="structure {type:text;}">
+			<Coords points="996,10 1249,10 1249,106 996,106"/>
+			<TextLine id="eSc_line_996_10_1249_10_1249_106_996_106" custom="structure {type:default;}">
+				<Coords points="996,10 1249,10 1249,106 996,106"/>
+				<Baseline points="996,106 1249,106"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_364_553_1241_553_1241_825_364_825" custom="structure {type:text;}">
+			<Coords points="364,553 1241,553 1241,825 364,825"/>
+			<TextLine id="eSc_line_364_553_1241_553_1241_825_364_825" custom="structure {type:default;}">
+				<Coords points="364,553 1241,553 1241,825 364,825"/>
+				<Baseline points="364,825 1241,825"/>
+				<TextEquiv>
+					<Unicode>דבר, משא, כ&quot;ט אלול הס&quot;ס, 10.9.80, עמ&quot; וו.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_411_313_1020_313_1020_403_411_403" custom="structure {type:text;}">
+			<Coords points="411,313 1020,313 1020,403 411,403"/>
+			<TextLine id="eSc_line_411_313_1020_313_1020_403_411_403" custom="structure {type:default;}">
+				<Coords points="411,313 1020,313 1020,403 411,403"/>
+				<Baseline points="411,403 1020,403"/>
+				<TextEquiv>
+					<Unicode>מתון &quot;החקירה&quot;, סיפור רעואל)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0428.tif">
+		<TextRegion id="eSc_region_880_70_1214_70_1214_158_880_158" custom="structure {type:text;}">
+			<Coords points="880,70 1214,70 1214,158 880,158"/>
+			<TextLine id="eSc_line_880_70_1214_70_1214_158_880_158" custom="structure {type:default;}">
+				<Coords points="880,70 1214,70 1214,158 880,158"/>
+				<Baseline points="880,158 1214,158"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_151_310_624_310_624_497_151_497" custom="structure {type:text;}">
+			<Coords points="151,310 624,310 624,497 151,497"/>
+			<TextLine id="eSc_line_151_310_624_310_624_497_151_497" custom="structure {type:default;}">
+				<Coords points="151,310 624,310 624,497 151,497"/>
+				<Baseline points="151,497 624,497"/>
+				<TextEquiv>
+					<Unicode>(מה אופרים?). .ב( חתום זגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_276_617_949_617_949_706_276_706" custom="structure {type:text;}">
+			<Coords points="276,617 949,617 949,706 276,706"/>
+			<TextLine id="eSc_line_276_617_949_617_949_706_276_706" custom="structure {type:default;}">
+				<Coords points="276,617 949,617 949,706 276,706"/>
+				<Baseline points="276,706 949,706"/>
+				<TextEquiv>
+					<Unicode>למרחב, 18.10.1961, עמס' א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

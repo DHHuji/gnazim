@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1481.tif">
+		<TextRegion id="eSc_region_843_148_1164_148_1164_231_843_231" custom="structure {type:text;}">
+			<Coords points="843,148 1164,148 1164,231 843,231"/>
+			<TextLine id="eSc_line_843_148_1164_148_1164_231_843_231" custom="structure {type:default;}">
+				<Coords points="843,148 1164,148 1164,231 843,231"/>
+				<Baseline points="843,231 1164,231"/>
+				<TextEquiv>
+					<Unicode>גוריג חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_141_321_1145_321_1145_471_141_471" custom="structure {type:text;}">
+			<Coords points="141,321 1145,321 1145,471 141,471"/>
+			<TextLine id="eSc_line_141_321_1145_321_1145_471_141_471" custom="structure {type:default;}">
+				<Coords points="141,321 1145,321 1145,471 141,471"/>
+				<Baseline points="141,471 1145,471"/>
+				<TextEquiv>
+					<Unicode>נקורות הורפר(? רסיסה, מדור: ספרה אומרים, התום: ה-גי |-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_409_571_1261_571_1261_667_409_667" custom="structure {type:text;}">
+			<Coords points="409,571 1261,571 1261,667 409,667"/>
+			<TextLine id="eSc_line_409_571_1261_571_1261_667_409_667" custom="structure {type:default;}">
+				<Coords points="409,571 1261,571 1261,667 409,667"/>
+				<Baseline points="409,667 1261,667"/>
+				<TextEquiv>
+					<Unicode>דבר, ז ארר תסל&quot;ב (1.3.74), ץצם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

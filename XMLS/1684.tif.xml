@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1684.tif">
+		<TextRegion id="eSc_region_141_288_999_288_999_446_141_446" custom="structure {type:text;}">
+			<Coords points="141,288 999,288 999,446 141,446"/>
+			<TextLine id="eSc_line_141_288_999_288_999_446_141_446" custom="structure {type:default;}">
+				<Coords points="141,288 999,288 999,446 141,446"/>
+				<Baseline points="141,446 999,446"/>
+				<TextEquiv>
+					<Unicode>- על פני &quot;ציר לכבי&quot;&quot;| רפיסה, מדור: אכומות להולך ג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_179_549_1152_549_1152_640_179_640" custom="structure {type:text;}">
+			<Coords points="179,549 1152,549 1152,640 179,640"/>
+			<TextLine id="eSc_line_179_549_1152_549_1152_640_179_640" custom="structure {type:default;}">
+				<Coords points="179,549 1152,549 1152,640 179,640"/>
+				<Baseline points="179,640 1152,640"/>
+				<TextEquiv>
+					<Unicode>מעריב, כג שבס תסל&quot;ד (15,2.74), עם. פי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

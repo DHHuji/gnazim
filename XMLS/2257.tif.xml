@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2257.tif">
+		<TextRegion id="eSc_region_992_70_1229_70_1229_135_992_135" custom="structure {type:text;}">
+			<Coords points="992,70 1229,70 1229,135 992,135"/>
+			<TextLine id="eSc_line_992_70_1229_70_1229_135_992_135" custom="structure {type:default;}">
+				<Coords points="992,70 1229,70 1229,135 992,135"/>
+				<Baseline points="992,135 1229,135"/>
+				<TextEquiv>
+					<Unicode>גורי,ן חייס &gt;= גורי,ן חייס
+&gt;=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_138_590_1141_590_1141_658_138_658" custom="structure {type:text;}">
+			<Coords points="138,590 1141,590 1141,658 138,658"/>
+			<TextLine id="eSc_line_138_590_1141_590_1141_658_138_658" custom="structure {type:default;}">
+				<Coords points="138,590 1141,590 1141,658 138,658"/>
+				<Baseline points="138,658 1141,658"/>
+				<TextEquiv>
+					<Unicode>משמר לילדים, שנה י&quot;ג, חוב ו3, 22.4.1958, עם&quot; 503</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

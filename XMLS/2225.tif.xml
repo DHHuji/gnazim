@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2225.tif">
+		<TextRegion id="eSc_region_135_0_1165_0_1165_769_135_769" custom="structure {type:text;}">
+			<Coords points="135,0 1165,0 1165,769 135,769"/>
+			<TextLine id="eSc_line_135_0_1165_0_1165_769_135_769" custom="structure {type:default;}">
+				<Coords points="135,0 1165,0 1165,769 135,769"/>
+				<Baseline points="135,769 1165,769"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים התחנה האתרונה (נוסח אתר) גורי.חייםהתחנה האתרונה (נוסח אתר)חרבשירים7%דבר.משא,ה כסלו חלמר,1!1,1!985.!! עם 19</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

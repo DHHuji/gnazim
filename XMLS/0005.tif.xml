@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0005.tif">
+		<TextRegion id="eSc_region_902_114_1131_114_1131_179_902_179" custom="structure {type:text;}">
+			<Coords points="902,114 1131,114 1131,179 902,179"/>
+			<TextLine id="eSc_line_902_114_1131_114_1131_179_902_179" custom="structure {type:default;}">
+				<Coords points="902,114 1131,114 1131,179 902,179"/>
+				<Baseline points="902,179 1131,179"/>
+				<TextEquiv>
+					<Unicode>גורי חתיים --+---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_290_228_771_228_771_433_290_433" custom="structure {type:text;}">
+			<Coords points="290,228 771,228 771,433 290,433"/>
+			<TextLine id="eSc_line_290_228_771_228_771_433_290_433" custom="structure {type:default;}">
+				<Coords points="290,228 771,228 771,433 290,433"/>
+				<Baseline points="290,433 771,433"/>
+				<TextEquiv>
+					<Unicode>(מדור רשימות סוף שבוץ)( חהום חגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_458_582_1157_582_1157_657_458_657" custom="structure {type:text;}">
+			<Coords points="458,582 1157,582 1157,657 458,657"/>
+			<TextLine id="eSc_line_458_582_1157_582_1157_657_458_657" custom="structure {type:default;}">
+				<Coords points="458,582 1157,582 1157,657 458,657"/>
+				<Baseline points="458,657 1157,657"/>
+				<TextEquiv>
+					<Unicode>דבר, סז ניפן תסל&quot;ה,(28.0.75),?מ 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

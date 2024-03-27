@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0891.tif">
+		<TextRegion id="eSc_region_933_134_1163_134_1163_197_933_197" custom="structure {type:text;}">
+			<Coords points="933,134 1163,134 1163,197 933,197"/>
+			<TextLine id="eSc_line_933_134_1163_134_1163_197_933_197" custom="structure {type:default;}">
+				<Coords points="933,134 1163,134 1163,197 933,197"/>
+				<Baseline points="933,197 1163,197"/>
+				<TextEquiv>
+					<Unicode>גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_732_639_1268_639_1268_704_732_704" custom="structure {type:text;}">
+			<Coords points="732,639 1268,639 1268,704 732,704"/>
+			<TextLine id="eSc_line_732_639_1268_639_1268_704_732_704" custom="structure {type:default;}">
+				<Coords points="732,639 1268,639 1268,704 732,704"/>
+				<Baseline points="732,704 1268,704"/>
+				<TextEquiv>
+					<Unicode>לכרתחב,פכא,52,07.0.1959.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_400_415_842_415_842_480_400_480" custom="structure {type:text;}">
+			<Coords points="400,415 842,415 842,480 400,480"/>
+			<TextLine id="eSc_line_400_415_842_415_842_480_400_480" custom="structure {type:default;}">
+				<Coords points="400,415 842,415 842,480 400,480"/>
+				<Baseline points="400,480 842,480"/>
+				<TextEquiv>
+					<Unicode>[יוכז פאריס,רסינר|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

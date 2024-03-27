@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0877.tif">
+		<TextRegion id="eSc_region_884_5_1152_5_1152_86_884_86" custom="structure {type:text;}">
+			<Coords points="884,5 1152,5 1152,86 884,86"/>
+			<TextLine id="eSc_line_884_5_1152_5_1152_86_884_86" custom="structure {type:default;}">
+				<Coords points="884,5 1152,5 1152,86 884,86"/>
+				<Baseline points="884,86 1152,86"/>
+				<TextEquiv>
+					<Unicode>.היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_246_92_1042_92_1042_215_246_215" custom="structure {type:text;}">
+			<Coords points="246,92 1042,92 1042,215 246,215"/>
+			<TextLine id="eSc_line_246_92_1042_92_1042_215_246_215" custom="structure {type:default;}">
+				<Coords points="246,92 1042,92 1042,215 246,215"/>
+				<Baseline points="246,215 1042,215"/>
+				<TextEquiv>
+					<Unicode>יוליק;צל יולי ארדלסלטיין, חתום: ת-גי\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_315_510_1146_510_1146_746_315_746" custom="structure {type:text;}">
+			<Coords points="315,510 1146,510 1146,746 315,746"/>
+			<TextLine id="eSc_line_315_510_1146_510_1146_746_315_746" custom="structure {type:default;}">
+				<Coords points="315,510 1146,510 1146,746 315,746"/>
+				<Baseline points="315,746 1146,746"/>
+				<TextEquiv>
+					<Unicode>דבר, יח תכרי הקמז996ו!.21.10 עמ7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

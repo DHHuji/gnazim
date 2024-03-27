@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2102.tif">
+		<TextRegion id="eSc_region_877_112_1158_112_1158_176_877_176" custom="structure {type:text;}">
+			<Coords points="877,112 1158,112 1158,176 877,176"/>
+			<TextLine id="eSc_line_877_112_1158_112_1158_176_877_176" custom="structure {type:default;}">
+				<Coords points="877,112 1158,112 1158,176 877,176"/>
+				<Baseline points="877,176 1158,176"/>
+				<TextEquiv>
+					<Unicode>גורי, חיי 02-פבר גורי, חיי
+2-2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_542_374_921_374_921_532_542_532" custom="structure {type:text;}">
+			<Coords points="542,374 921,374 921,532 542,532"/>
+			<TextLine id="eSc_line_542_374_921_374_921_532_542_532" custom="structure {type:default;}">
+				<Coords points="542,374 921,374 921,532 542,532"/>
+				<Baseline points="542,532 921,532"/>
+				<TextEquiv>
+					<Unicode>הסכן סלי...( חתופ חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

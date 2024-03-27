@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0121.tif">
+		<TextRegion id="eSc_region_925_19_1188_19_1188_91_925_91" custom="structure {type:text;}">
+			<Coords points="925,19 1188,19 1188,91 925,91"/>
+			<TextLine id="eSc_line_925_19_1188_19_1188_91_925_91" custom="structure {type:default;}">
+				<Coords points="925,19 1188,19 1188,91 925,91"/>
+				<Baseline points="925,91 1188,91"/>
+				<TextEquiv>
+					<Unicode>גורי,חייס 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_168_356_1055_356_1055_436_168_436" custom="structure {type:text;}">
+			<Coords points="168,356 1055,356 1055,436 168,436"/>
+			<TextLine id="eSc_line_168_356_1055_356_1055_436_168_436" custom="structure {type:default;}">
+				<Coords points="168,356 1055,356 1055,436 168,436"/>
+				<Baseline points="168,436 1055,436"/>
+				<TextEquiv>
+					<Unicode>גם על אבא קובנר, שז&quot;ר, אצג, אלתהרמן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_368_587_1184_587_1184_816_368_816" custom="structure {type:text;}">
+			<Coords points="368,587 1184,587 1184,816 368,816"/>
+			<TextLine id="eSc_line_368_587_1184_587_1184_816_368_816" custom="structure {type:default;}">
+				<Coords points="368,587 1184,587 1184,816 368,816"/>
+				<Baseline points="368,816 1184,816"/>
+				<TextEquiv>
+					<Unicode>דבר,מטא,י&quot;ד ניסן תחשמב,4.1982. 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

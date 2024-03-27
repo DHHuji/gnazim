@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0781.tif">
+		<TextRegion id="eSc_region_890_131_1158_131_1158_204_890_204" custom="structure {type:text;}">
+			<Coords points="890,131 1158,131 1158,204 890,204"/>
+			<TextLine id="eSc_line_890_131_1158_131_1158_204_890_204" custom="structure {type:default;}">
+				<Coords points="890,131 1158,131 1158,204 890,204"/>
+				<Baseline points="890,204 1158,204"/>
+				<TextEquiv>
+					<Unicode>גורי חייםס #NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_275_382_992_382_992_512_275_512" custom="structure {type:text;}">
+			<Coords points="275,382 992,382 992,512 275,512"/>
+			<TextLine id="eSc_line_275_382_992_382_992_512_275_512" custom="structure {type:default;}">
+				<Coords points="275,382 992,382 992,512 275,512"/>
+				<Baseline points="275,512 992,512"/>
+				<TextEquiv>
+					<Unicode>הזרוע הססאלית סל הורר( פוד על אחי הבלהי ידוע\[רשיסה]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_228_624_1241_624_1241_698_228_698" custom="structure {type:text;}">
+			<Coords points="228,624 1241,624 1241,698 228,698"/>
+			<TextLine id="eSc_line_228_624_1241_624_1241_698_228_698" custom="structure {type:default;}">
+				<Coords points="228,624 1241,624 1241,698 228,698"/>
+				<Baseline points="228,698 1241,698"/>
+				<TextEquiv>
+					<Unicode>בטפר, בסאון ההסמיבה הצעירה, 15.2.1951, עפמ. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

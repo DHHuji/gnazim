@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0736.tif">
+		<TextRegion id="eSc_region_11_0_1228_0_1228_738_11_738" custom="structure {type:text;}">
+			<Coords points="11,0 1228,0 1228,738 11,738"/>
+			<TextLine id="eSc_line_11_0_1228_0_1228_738_11_738" custom="structure {type:default;}">
+				<Coords points="11,0 1228,0 1228,738 11,738"/>
+				<Baseline points="11,738 1228,738"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים ומה פסנשאר,הוא הצתור למק-דונלד גורי.חייםומה פסנשאר,הוא הצתור למק-דונלדמעריב,הקלביץ, כז אלול תסלנא !6,090,100 עמה50.5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0851.tif">
+		<TextRegion id="eSc_region_902_38_1176_38_1176_126_902_126" custom="structure {type:text;}">
+			<Coords points="902,38 1176,38 1176,126 902,126"/>
+			<TextLine id="eSc_line_902_38_1176_38_1176_126_902_126" custom="structure {type:default;}">
+				<Coords points="902,38 1176,38 1176,126 902,126"/>
+				<Baseline points="902,126 1176,126"/>
+				<TextEquiv>
+					<Unicode>,. יורם ,.
+
+יורם
+ורי,ח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_421_521_1201_521_1201_725_421_725" custom="structure {type:text;}">
+			<Coords points="421,521 1201,521 1201,725 421,725"/>
+			<TextLine id="eSc_line_421_521_1201_521_1201_725_421_725" custom="structure {type:default;}">
+				<Coords points="421,521 1201,521 1201,725 421,725"/>
+				<Baseline points="421,725 1201,725"/>
+				<TextEquiv>
+					<Unicode>כמבפנית.גל רהניערייר רו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

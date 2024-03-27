@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1494.tif">
+		<TextRegion id="eSc_region_897_59_1149_59_1149_120_897_120" custom="structure {type:text;}">
+			<Coords points="897,59 1149,59 1149,120 897,120"/>
+			<TextLine id="eSc_line_897_59_1149_59_1149_120_897_120" custom="structure {type:default;}">
+				<Coords points="897,59 1149,59 1149,120 897,120"/>
+				<Baseline points="897,120 1149,120"/>
+				<TextEquiv>
+					<Unicode>גורי חהיים 11 גורי חהיים
+=--+4---- 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_80_330_922_330_922_433_80_433" custom="structure {type:text;}">
+			<Coords points="80,330 922,330 922,433 80,433"/>
+			<TextLine id="eSc_line_80_330_922_330_922_433_80_433" custom="structure {type:default;}">
+				<Coords points="80,330 922,330 922,433 80,433"/>
+				<Baseline points="80,433 922,433"/>
+				<TextEquiv>
+					<Unicode>רסוחר מונציה והגנרל מאלג'יר (חקום</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

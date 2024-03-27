@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0416.tif">
+		<TextRegion id="eSc_region_928_128_1169_128_1169_200_928_200" custom="structure {type:text;}">
+			<Coords points="928,128 1169,128 1169,200 928,200"/>
+			<TextLine id="eSc_line_928_128_1169_128_1169_200_928_200" custom="structure {type:default;}">
+				<Coords points="928,128 1169,128 1169,200 928,200"/>
+				<Baseline points="928,200 1169,200"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים -=---+-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_107_238_1019_238_1019_419_107_419" custom="structure {type:text;}">
+			<Coords points="107,238 1019,238 1019,419 107,419"/>
+			<TextLine id="eSc_line_107_238_1019_238_1019_419_107_419" custom="structure {type:default;}">
+				<Coords points="107,238 1019,238 1019,419 107,419"/>
+				<Baseline points="107,419 1019,419"/>
+				<TextEquiv>
+					<Unicode>בנפול המסוות(מדור רטסימות סוף הסנולק) חתופ הגור 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_476_600_1181_600_1181_676_476_676" custom="structure {type:text;}">
+			<Coords points="476,600 1181,600 1181,676 476,676"/>
+			<TextLine id="eSc_line_476_600_1181_600_1181_676_476_676" custom="structure {type:default;}">
+				<Coords points="476,600 1181,600 1181,676 476,676"/>
+				<Baseline points="476,676 1181,676"/>
+				<TextEquiv>
+					<Unicode>דבר, ז' אדר תפל&quot;ז, (25,2,77),טם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0376.tif">
+		<TextRegion id="eSc_region_403_382_931_382_931_588_403_588" custom="structure {type:text;}">
+			<Coords points="403,382 931,382 931,588 403,588"/>
+			<TextLine id="eSc_line_403_382_931_382_931_588_403_588" custom="structure {type:default;}">
+				<Coords points="403,382 931,382 931,588 403,588"/>
+				<Baseline points="403,588 931,588"/>
+				<TextEquiv>
+					<Unicode>כירו.לי₪ובקריית[( החום: הגי)מדור:טב-מוני&lt;ובריכ)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_374_662_1157_662_1157_842_374_842" custom="structure {type:text;}">
+			<Coords points="374,662 1157,662 1157,842 374,842"/>
+			<TextLine id="eSc_line_374_662_1157_662_1157_842_374_842" custom="structure {type:default;}">
+				<Coords points="374,662 1157,662 1157,842 374,842"/>
+				<Baseline points="374,842 1157,842"/>
+				<TextEquiv>
+					<Unicode>דכר,כ' גניסן תבשל&quot;ד,(4.704</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

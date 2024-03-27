@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0192.tif">
+		<TextRegion id="eSc_region_952_94_1192_94_1192_159_952_159" custom="structure {type:text;}">
+			<Coords points="952,94 1192,94 1192,159 952,159"/>
+			<TextLine id="eSc_line_952_94_1192_94_1192_159_952_159" custom="structure {type:default;}">
+				<Coords points="952,94 1192,94 1192,159 952,159"/>
+				<Baseline points="952,159 1192,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_60_196_1228_196_1228_452_60_452" custom="structure {type:text;}">
+			<Coords points="60,196 1228,196 1228,452 60,452"/>
+			<TextLine id="eSc_line_60_196_1228_196_1228_452_60_452" custom="structure {type:default;}">
+				<Coords points="60,196 1228,196 1228,452 60,452"/>
+				<Baseline points="60,452 1228,452"/>
+				<TextEquiv>
+					<Unicode>&quot;אני גר כעת בספר יסן.. &quot;1 - ] &quot;יט לי קרובי משפחה..,')-| &quot;וזה אחד המקרים הפחות ידועים...ץ)-[ &quot;אני חושב שזו הרוחהמקסיכה מפרחקיה...&quot; |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_221_644_1247_644_1247_830_221_830" custom="structure {type:text;}">
+			<Coords points="221,644 1247,644 1247,830 221,830"/>
+			<TextLine id="eSc_line_221_644_1247_644_1247_830_221_830" custom="structure {type:default;}">
+				<Coords points="221,644 1247,644 1247,830 221,830"/>
+				<Baseline points="221,830 1247,830"/>
+				<TextEquiv>
+					<Unicode>על המשמר, רף לספרות, א תמוז תשסל&quot;ד,(21.6.74), עם 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

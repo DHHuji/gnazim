@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0510.tif">
+		<TextRegion id="eSc_region_935_98_1235_98_1235_182_935_182" custom="structure {type:text;}">
+			<Coords points="935,98 1235,98 1235,182 935,182"/>
+			<TextLine id="eSc_line_935_98_1235_98_1235_182_935_182" custom="structure {type:default;}">
+				<Coords points="935,98 1235,98 1235,182 935,182"/>
+				<Baseline points="935,182 1235,182"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 7-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_357_574_1229_574_1229_663_357_663" custom="structure {type:text;}">
+			<Coords points="357,574 1229,574 1229,663 357,663"/>
+			<TextLine id="eSc_line_357_574_1229_574_1229_663_357_663" custom="structure {type:default;}">
+				<Coords points="357,574 1229,574 1229,663 357,663"/>
+				<Baseline points="357,663 1229,663"/>
+				<TextEquiv>
+					<Unicode>ידיעות אחרונות, 10.7.1970, עמ' וו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_609_294_1155_294_1155_367_609_367" custom="structure {type:text;}">
+			<Coords points="609,294 1155,294 1155,367 609,367"/>
+			<TextLine id="eSc_line_609_294_1155_294_1155_367_609_367" custom="structure {type:default;}">
+				<Coords points="609,294 1155,294 1155,367 609,367"/>
+				<Baseline points="609,367 1155,367"/>
+				<TextEquiv>
+					<Unicode>הגיאוגופיה וההססוויה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

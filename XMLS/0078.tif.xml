@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0078.tif">
+		<TextRegion id="eSc_region_933_137_1184_137_1184_193_933_193" custom="structure {type:text;}">
+			<Coords points="933,137 1184,137 1184,193 933,193"/>
+			<TextLine id="eSc_line_933_137_1184_137_1184_193_933_193" custom="structure {type:default;}">
+				<Coords points="933,137 1184,137 1184,193 933,193"/>
+				<Baseline points="933,193 1184,193"/>
+				<TextEquiv>
+					<Unicode>ורוי חיים. גורי,ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_454_464_832_464_832_520_454_520" custom="structure {type:text;}">
+			<Coords points="454,464 832,464 832,520 454,520"/>
+			<TextLine id="eSc_line_454_464_832_464_832_520_454_520" custom="structure {type:default;}">
+				<Coords points="454,464 832,464 832,520 454,520"/>
+				<Baseline points="454,520 832,520"/>
+				<TextEquiv>
+					<Unicode>ר-:הרוי[רנימר, רתור:הגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_847_645_1267_645_1267_700_847_700" custom="structure {type:text;}">
+			<Coords points="847,645 1267,645 1267,700 847,700"/>
+			<TextLine id="eSc_line_847_645_1267_645_1267_700_847_700" custom="structure {type:default;}">
+				<Coords points="847,645 1267,645 1267,700 847,700"/>
+				<Baseline points="847,700 1267,700"/>
+				<TextEquiv>
+					<Unicode>לכרחהב,9099ן.7.8,עכ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

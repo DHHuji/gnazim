@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2027.tif">
+		<TextRegion id="eSc_region_30_0_1205_0_1205_726_30_726" custom="structure {type:text;}">
+			<Coords points="30,0 1205,0 1205,726 30,726"/>
+			<TextLine id="eSc_line_30_0_1205_0_1205_726_30_726" custom="structure {type:default;}">
+				<Coords points="30,0 1205,0 1205,726 30,726"/>
+				<Baseline points="30,726 1205,726"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים סוב יוצא הזסמר :עדותם סל פזמונים גורי,חייםסוב יוצא הזסמר :עדותם סל פזמוניםא.לזכור אתח&quot;כולם&quot;&quot;לעולם&quot;: פזמונאות והישארותהנפעעל הנ&quot;לדבר,משא,כז אלול תסנאו6.9.!099 עם 28-26</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

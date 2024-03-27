@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1908.tif">
+		<TextRegion id="eSc_region_923_78_1220_78_1220_159_923_159" custom="structure {type:text;}">
+			<Coords points="923,78 1220,78 1220,159 923,159"/>
+			<TextLine id="eSc_line_923_78_1220_78_1220_159_923_159" custom="structure {type:default;}">
+				<Coords points="923,78 1220,78 1220,159 923,159"/>
+				<Baseline points="923,159 1220,159"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;-ה-- ה = גורי חיים
+&lt;-ה-- ה =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_241_1092_241_1092_399_0_399" custom="structure {type:text;}">
+			<Coords points="0,241 1092,241 1092,399 0,399"/>
+			<TextLine id="eSc_line_0_241_1092_241_1092_399_0_399" custom="structure {type:default;}">
+				<Coords points="0,241 1092,241 1092,399 0,399"/>
+				<Baseline points="0,399 1092,399"/>
+				<TextEquiv>
+					<Unicode>הלונגוס והרב וְעל הקונגרס הציוני ועלהוב כהנא] [מדור: מה אומרים ?, חהום: ם-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

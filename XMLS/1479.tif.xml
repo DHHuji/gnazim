@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1479.tif">
+		<TextRegion id="eSc_region_478_246_689_246_689_327_478_327" custom="structure {type:text;}">
+			<Coords points="478,246 689,246 689,327 478,327"/>
+			<TextLine id="eSc_line_478_246_689_246_689_327_478_327" custom="structure {type:default;}">
+				<Coords points="478,246 689,246 689,327 478,327"/>
+				<Baseline points="478,327 689,327"/>
+				<TextEquiv>
+					<Unicode>| הוררוד-ב הלטימת.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_150_253_461_253_461_335_150_335" custom="structure {type:text;}">
+			<Coords points="150,253 461,253 461,335 150,335"/>
+			<TextLine id="eSc_line_150_253_461_253_461_335_150_335" custom="structure {type:default;}">
+				<Coords points="150,253 461,253 461,335 150,335"/>
+				<Baseline points="150,335 461,335"/>
+				<TextEquiv>
+					<Unicode>ימתום:הגוון</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

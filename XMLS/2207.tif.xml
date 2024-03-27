@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2207.tif">
+		<TextRegion id="eSc_region_682_201_821_201_821_242_682_242" custom="structure {type:text;}">
+			<Coords points="682,201 821,201 821,242 682,242"/>
+			<TextLine id="eSc_line_682_201_821_201_821_242_682_242" custom="structure {type:default;}">
+				<Coords points="682,201 821,201 821,242 682,242"/>
+				<Baseline points="682,242 821,242"/>
+				<TextEquiv>
+					<Unicode>רחולוד רחולוד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_581_204_665_204_665_249_581_249" custom="structure {type:text;}">
+			<Coords points="581,204 665,204 665,249 581,249"/>
+			<TextLine id="eSc_line_581_204_665_204_665_249_581_249" custom="structure {type:default;}">
+				<Coords points="581,204 665,204 665,249 581,249"/>
+				<Baseline points="581,249 665,249"/>
+				<TextEquiv>
+					<Unicode>ררבם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

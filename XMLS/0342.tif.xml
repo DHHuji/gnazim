@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0342.tif">
+		<TextRegion id="eSc_region_903_17_1184_17_1184_90_903_90" custom="structure {type:text;}">
+			<Coords points="903,17 1184,17 1184,90 903,90"/>
+			<TextLine id="eSc_line_903_17_1184_17_1184_90_903_90" custom="structure {type:default;}">
+				<Coords points="903,17 1184,17 1184,90 903,90"/>
+				<Baseline points="903,90 1184,90"/>
+				<TextEquiv>
+					<Unicode>גורי .היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_333_515_1027_515_1027_737_333_737" custom="structure {type:text;}">
+			<Coords points="333,515 1027,515 1027,737 333,737"/>
+			<TextLine id="eSc_line_333_515_1027_515_1027_737_333_737" custom="structure {type:default;}">
+				<Coords points="333,515 1027,515 1027,737 333,737"/>
+				<Baseline points="333,737 1027,737"/>
+				<TextEquiv>
+					<Unicode>יס הערי הפמו 4.10,1095 צמ2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_387_215_955_215_955_285_387_285" custom="structure {type:text;}">
+			<Coords points="387,215 955,215 955,285 387,285"/>
+			<TextLine id="eSc_line_387_215_955_215_955_285_387_285" custom="structure {type:default;}">
+				<Coords points="387,215 955,215 955,285 387,285"/>
+				<Baseline points="387,285 955,285"/>
+				<TextEquiv>
+					<Unicode>ירי
+ו
+
+חוסן לחפמאם -א-סאס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2150.tif">
+		<TextRegion id="eSc_region_1040_29_1151_29_1151_101_1040_101" custom="structure {type:text;}">
+			<Coords points="1040,29 1151,29 1151,101 1040,101"/>
+			<TextLine id="eSc_line_1040_29_1151_29_1151_101_1040_101" custom="structure {type:default;}">
+				<Coords points="1040,29 1151,29 1151,101 1040,101"/>
+				<Baseline points="1040,101 1151,101"/>
+				<TextEquiv>
+					<Unicode>חגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_69_146_1035_146_1035_292_69_292" custom="structure {type:text;}">
+			<Coords points="69,146 1035,146 1035,292 69,292"/>
+			<TextLine id="eSc_line_69_146_1035_146_1035_292_69_292" custom="structure {type:default;}">
+				<Coords points="69,146 1035,146 1035,292 69,292"/>
+				<Baseline points="69,292 1035,292"/>
+				<TextEquiv>
+					<Unicode>טגי ספרים [על &quot;שלושה מתוך שלושה סיליונים&quot;לליאונרד פרנק, &quot;הסושנה הלבבה&quot; לב. סראון |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_26_344_1148_344_1148_488_26_488" custom="structure {type:text;}">
+			<Coords points="26,344 1148,344 1148,488 26,488"/>
+			<TextLine id="eSc_line_26_344_1148_344_1148_488_26_488" custom="structure {type:default;}">
+				<Coords points="26,344 1148,344 1148,488 26,488"/>
+				<Baseline points="26,488 1148,488"/>
+				<TextEquiv>
+					<Unicode>הפועל הצעיר, י&quot;ח תמוז תרצ&quot;ב - 22.7.1932 (שגה 25,
+גליון 15-1!4,35)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

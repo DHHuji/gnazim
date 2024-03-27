@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1339.tif">
+		<TextRegion id="eSc_region_181_0_1252_0_1252_903_181_903" custom="structure {type:text;}">
+			<Coords points="181,0 1252,0 1252,903 181,903"/>
+			<TextLine id="eSc_line_181_0_1252_0_1252_903_181_903" custom="structure {type:default;}">
+				<Coords points="181,0 1252,0 1252,903 181,903"/>
+				<Baseline points="181,903 1252,903"/>
+				<TextEquiv>
+					<Unicode>בלכה ב . בלכה ב.(רדירבוררמ75הצרו המו דור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

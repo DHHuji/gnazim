@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0231.tif">
+		<TextRegion id="eSc_region_917_49_1258_49_1258_184_917_184" custom="structure {type:text;}">
+			<Coords points="917,49 1258,49 1258,184 917,184"/>
+			<TextLine id="eSc_line_917_49_1258_49_1258_184_917_184" custom="structure {type:default;}">
+				<Coords points="917,49 1258,49 1258,184 917,184"/>
+				<Baseline points="917,184 1258,184"/>
+				<TextEquiv>
+					<Unicode>גוריון, דרור גוריון, דרור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_239_527_910_527_910_877_239_877" custom="structure {type:text;}">
+			<Coords points="239,527 910,527 910,877 239,877"/>
+			<TextLine id="eSc_line_239_527_910_527_910_877_239_877" custom="structure {type:default;}">
+				<Coords points="239,527 910,527 910,877 239,877"/>
+				<Baseline points="239,877 910,877"/>
+				<TextEquiv>
+					<Unicode>הרות,ספרות, 5.4.!957!, עם - 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1205.tif">
+		<TextRegion id="eSc_region_936_33_1205_33_1205_115_936_115" custom="structure {type:text;}">
+			<Coords points="936,33 1205,33 1205,115 936,115"/>
+			<TextLine id="eSc_line_936_33_1205_33_1205_115_936_115" custom="structure {type:default;}">
+				<Coords points="936,33 1205,33 1205,115 936,115"/>
+				<Baseline points="936,115 1205,115"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים = == גורי,חיים
+= ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_47_247_1223_247_1223_824_47_824" custom="structure {type:text;}">
+			<Coords points="47,247 1223,247 1223,824 47,824"/>
+			<TextLine id="eSc_line_47_247_1223_247_1223_824_47_824" custom="structure {type:default;}">
+				<Coords points="47,247 1223,247 1223,824 47,824"/>
+				<Baseline points="47,824 1223,824"/>
+				<TextEquiv>
+					<Unicode>(ועוד באותות הסובים: חכמה הולכת ומשתכחת,-על רסכינים ועל העיניים כי תקהינה,-הנה יעלו ויבואו גויים גדולים ועלצומים,-בא סיג בכור,-סוסים באים.צונפים בערפל.נעים לרחב החזיה,-פני אם אמי,שמעולם לא ראיתיה,-באנו מן האבנים,-הלצנים היו קשות מן המעוער ₪דבר,מלא,כ&quot;ס אלול 5 תסמ&quot;א,ו28.0.195עמי ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

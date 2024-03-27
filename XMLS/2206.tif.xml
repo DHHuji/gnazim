@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2206.tif">
+		<TextRegion id="eSc_region_879_79_1197_79_1197_144_879_144" custom="structure {type:text;}">
+			<Coords points="879,79 1197,79 1197,144 879,144"/>
+			<TextLine id="eSc_line_879_79_1197_79_1197_144_879_144" custom="structure {type:default;}">
+				<Coords points="879,79 1197,79 1197,144 879,144"/>
+				<Baseline points="879,144 1197,144"/>
+				<TextEquiv>
+					<Unicode>גורי, חייםס 07-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_321_627_934_627_934_820_321_820" custom="structure {type:text;}">
+			<Coords points="321,627 934,627 934,820 321,820"/>
+			<TextLine id="eSc_line_321_627_934_627_934_820_321_820" custom="structure {type:default;}">
+				<Coords points="321,627 934,627 934,820 321,820"/>
+				<Baseline points="321,820 934,820"/>
+				<TextEquiv>
+					<Unicode>למרחב, משא, 16.3.1956, עמ&quot; א&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_457_298_912_298_912_356_457_356" custom="structure {type:text;}">
+			<Coords points="457,298 912,298 912,356 457,356"/>
+			<TextLine id="eSc_line_457_298_912_298_912_356_457_356" custom="structure {type:default;}">
+				<Coords points="457,298 912,298 912,356 457,356"/>
+				<Baseline points="457,356 912,356"/>
+				<TextEquiv>
+					<Unicode>שסשתיקת הים,- אני והשסקס.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

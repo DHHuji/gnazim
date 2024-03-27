@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1005.tif">
+		<TextRegion id="eSc_region_0_0_1204_0_1204_358_0_358" custom="structure {type:text;}">
+			<Coords points="0,0 1204,0 1204,358 0,358"/>
+			<TextLine id="eSc_line_0_0_1204_0_1204_358_0_358" custom="structure {type:default;}">
+				<Coords points="0,0 1204,0 1204,358 0,358"/>
+				<Baseline points="0,358 1204,358"/>
+				<TextEquiv>
+					<Unicode>גורי.הייסכבמדה פגירות ים וררהוןעל אלהרמו, גם ללנפן,תירוון וייל,ביאליקה,א גרבטלותה, ויבקרני, רביקובריל דליה, סדן דב, לונלקי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_111_455_1200_455_1200_773_111_773" custom="structure {type:text;}">
+			<Coords points="111,455 1200,455 1200,773 111,773"/>
+			<TextLine id="eSc_line_111_455_1200_455_1200_773_111_773" custom="structure {type:default;}">
+				<Coords points="111,455 1200,455 1200,773 111,773"/>
+				<Baseline points="111,773 1200,773"/>
+				<TextEquiv>
+					<Unicode>צאלהזדרז
+
+וילירהו, דורמי,הובם. היה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

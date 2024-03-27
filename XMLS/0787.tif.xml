@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0787.tif">
+		<TextRegion id="eSc_region_947_58_1165_58_1165_105_947_105" custom="structure {type:text;}">
+			<Coords points="947,58 1165,58 1165,105 947,105"/>
+			<TextLine id="eSc_line_947_58_1165_58_1165_105_947_105" custom="structure {type:default;}">
+				<Coords points="947,58 1165,58 1165,105 947,105"/>
+				<Baseline points="947,105 1165,105"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 1 גורי חיים1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_528_307_693_307_693_352_528_352" custom="structure {type:text;}">
+			<Coords points="528,307 693,307 693,352 528,352"/>
+			<TextLine id="eSc_line_528_307_693_307_693_352_528_352" custom="structure {type:default;}">
+				<Coords points="528,307 693,307 693,352 528,352"/>
+				<Baseline points="528,352 693,352"/>
+				<TextEquiv>
+					<Unicode>אומרים?,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

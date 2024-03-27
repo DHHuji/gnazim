@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2181.tif">
+		<TextRegion id="eSc_region_868_65_1124_65_1124_138_868_138" custom="structure {type:text;}">
+			<Coords points="868,65 1124,65 1124,138 868,138"/>
+			<TextLine id="eSc_line_868_65_1124_65_1124_138_868_138" custom="structure {type:default;}">
+				<Coords points="868,65 1124,65 1124,138 868,138"/>
+				<Baseline points="868,138 1124,138"/>
+				<TextEquiv>
+					<Unicode>גורי, חייפם יייה=---+--==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_38_204_971_204_971_418_38_418" custom="structure {type:text;}">
+			<Coords points="38,204 971,204 971,418 38,418"/>
+			<TextLine id="eSc_line_38_204_971_204_971_418_38_418" custom="structure {type:default;}">
+				<Coords points="38,204 971,204 971,418 38,418"/>
+				<Baseline points="38,418 971,418"/>
+				<TextEquiv>
+					<Unicode>שעה-הסד נפלאה ונוראה (דבריס בכינוס סופריםו רעל נצהון ישראל בסלהמה ששה הימיבן | מדור:על כף רמאזנים: בי עה לעשוה]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_272_534_1010_534_1010_612_272_612" custom="structure {type:text;}">
+			<Coords points="272,534 1010,534 1010,612 272,612"/>
+			<TextLine id="eSc_line_272_534_1010_534_1010_612_272_612" custom="structure {type:default;}">
+				<Coords points="272,534 1010,534 1010,612 272,612"/>
+				<Baseline points="272,612 1010,612"/>
+				<TextEquiv>
+					<Unicode>מאזנים, כרן כ&quot;ה, העכ&quot;ז, 174 - 176</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

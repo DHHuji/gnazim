@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0842.tif">
+		<TextRegion id="eSc_region_897_137_1139_137_1139_208_897_208" custom="structure {type:text;}">
+			<Coords points="897,137 1139,137 1139,208 897,208"/>
+			<TextLine id="eSc_line_897_137_1139_137_1139_208_897_208" custom="structure {type:default;}">
+				<Coords points="897,137 1139,137 1139,208 897,208"/>
+				<Baseline points="897,208 1139,208"/>
+				<TextEquiv>
+					<Unicode>גורי,רייב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_97_363_860_363_860_492_97_492" custom="structure {type:text;}">
+			<Coords points="97,363 860,363 860,492 97,492"/>
+			<TextLine id="eSc_line_97_363_860_363_860_492_97_492" custom="structure {type:default;}">
+				<Coords points="97,363 860,363 860,492 97,492"/>
+				<Baseline points="97,492 860,492"/>
+				<TextEquiv>
+					<Unicode>ררוזיבך[כ:צולנצים כר בעייראוכריס,ות ופ:רייןמרת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_758_623_1267_623_1267_694_758_694" custom="structure {type:text;}">
+			<Coords points="758,623 1267,623 1267,694 758,694"/>
+			<TextLine id="eSc_line_758_623_1267_623_1267_694_758_694" custom="structure {type:default;}">
+				<Coords points="758,623 1267,623 1267,694 758,694"/>
+				<Baseline points="758,694 1267,694"/>
+				<TextEquiv>
+					<Unicode>לכרחב,1007.ו.כ ,עכ. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

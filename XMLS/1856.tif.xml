@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1856.tif">
+		<TextRegion id="eSc_region_726_5_981_5_981_72_726_72" custom="structure {type:text;}">
+			<Coords points="726,5 981,5 981,72 726,72"/>
+			<TextLine id="eSc_line_726_5_981_5_981_72_726_72" custom="structure {type:default;}">
+				<Coords points="726,5 981,5 981,72 726,72"/>
+				<Baseline points="726,72 981,72"/>
+				<TextEquiv>
+					<Unicode>גורי.חייסם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_194_485_671_485_671_699_194_699" custom="structure {type:text;}">
+			<Coords points="194,485 671,485 671,699 194,699"/>
+			<TextLine id="eSc_line_194_485_671_485_671_699_194_699" custom="structure {type:default;}">
+				<Coords points="194,485 671,485 671,699 194,699"/>
+				<Baseline points="194,699 671,699"/>
+				<TextEquiv>
+					<Unicode>השפה9.1!10,1987עמ&quot;1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_217_202_511_202_511_263_217_263" custom="structure {type:text;}">
+			<Coords points="217,202 511,202 511,263 217,263"/>
+			<TextLine id="eSc_line_217_202_511_202_511_263_217_263" custom="structure {type:default;}">
+				<Coords points="217,202 511,202 511,263 217,263"/>
+				<Baseline points="217,263 511,263"/>
+				<TextEquiv>
+					<Unicode>,חתום:חגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1735.tif">
+		<TextRegion id="eSc_region_811_132_1080_132_1080_205_811_205" custom="structure {type:text;}">
+			<Coords points="811,132 1080,132 1080,205 811,205"/>
+			<TextLine id="eSc_line_811_132_1080_132_1080_205_811_205" custom="structure {type:default;}">
+				<Coords points="811,132 1080,132 1080,205 811,205"/>
+				<Baseline points="811,205 1080,205"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_103_352_957_352_957_488_103_488" custom="structure {type:text;}">
+			<Coords points="103,352 957,352 957,488 103,488"/>
+			<TextLine id="eSc_line_103_352_957_352_957_488_103_488" custom="structure {type:default;}">
+				<Coords points="103,352 957,352 957,488 103,488"/>
+				<Baseline points="103,488 957,488"/>
+				<TextEquiv>
+					<Unicode>עצת ידיר(ההום: הגור) (מדור:רשיםסות סוף הסבוע)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_287_605_1077_605_1077_779_287_779" custom="structure {type:text;}">
+			<Coords points="287,605 1077,605 1077,779 287,779"/>
+			<TextLine id="eSc_line_287_605_1077_605_1077_779_287_779" custom="structure {type:default;}">
+				<Coords points="287,605 1077,605 1077,779 287,779"/>
+				<Baseline points="287,779 1077,779"/>
+				<TextEquiv>
+					<Unicode>דבר,ס&quot;ו המוז השל&quot;ר,(5.7,74),עם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

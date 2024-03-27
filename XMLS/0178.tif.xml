@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0178.tif">
+		<TextRegion id="eSc_region_870_68_1128_68_1128_133_870_133" custom="structure {type:text;}">
+			<Coords points="870,68 1128,68 1128,133 870,133"/>
+			<TextLine id="eSc_line_870_68_1128_68_1128_133_870_133" custom="structure {type:default;}">
+				<Coords points="870,68 1128,68 1128,133 870,133"/>
+				<Baseline points="870,133 1128,133"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים #NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_22_224_1122_224_1122_520_22_520" custom="structure {type:text;}">
+			<Coords points="22,224 1122,224 1122,520 22,520"/>
+			<TextLine id="eSc_line_22_224_1122_224_1122_520_22_520" custom="structure {type:default;}">
+				<Coords points="22,224 1122,224 1122,520 22,520"/>
+				<Baseline points="22,520 1122,520"/>
+				<TextEquiv>
+					<Unicode>האמנם קקרה1 (סיחה בגטד)משתתפים:הנ&quot;ל,דובי,א.ספירא,א.ריבלין,ה,ריבלין,ג,שחס,ז,איבינסקי,ר,הלוי, יונת פסגר, ואלו(מדור השעה הנוקפת)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_382_590_1084_590_1084_662_382_662" custom="structure {type:text;}">
+			<Coords points="382,590 1084,590 1084,662 382,662"/>
+			<TextLine id="eSc_line_382_590_1084_590_1084_662_382_662" custom="structure {type:default;}">
+				<Coords points="382,590 1084,590 1084,662 382,662"/>
+				<Baseline points="382,662 1084,662"/>
+				<TextEquiv>
+					<Unicode>שדמות, גל מז, קיץ השל&quot;ב, עם 33/14</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

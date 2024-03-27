@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1054.tif">
+		<TextRegion id="eSc_region_803_62_1121_62_1121_143_803_143" custom="structure {type:text;}">
+			<Coords points="803,62 1121,62 1121,143 803,143"/>
+			<TextLine id="eSc_line_803_62_1121_62_1121_143_803_143" custom="structure {type:default;}">
+				<Coords points="803,62 1121,62 1121,143 803,143"/>
+				<Baseline points="803,143 1121,143"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים גווי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_244_230_1016_230_1016_386_244_386" custom="structure {type:text;}">
+			<Coords points="244,230 1016,230 1016,386 244,386"/>
+			<TextLine id="eSc_line_244_230_1016_230_1016_386_244_386" custom="structure {type:default;}">
+				<Coords points="244,230 1016,230 1016,386 244,386"/>
+				<Baseline points="244,386 1016,386"/>
+				<TextEquiv>
+					<Unicode>לצטהר ה&quot;שבוע&quot;הגרמנית:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

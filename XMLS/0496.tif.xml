@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0496.tif">
+		<TextRegion id="eSc_region_980_15_1235_15_1235_80_980_80" custom="structure {type:text;}">
+			<Coords points="980,15 1235,15 1235,80 980,80"/>
+			<TextLine id="eSc_line_980_15_1235_15_1235_80_980_80" custom="structure {type:default;}">
+				<Coords points="980,15 1235,15 1235,80 980,80"/>
+				<Baseline points="980,80 1235,80"/>
+				<TextEquiv>
+					<Unicode>גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_16_279_729_279_729_382_16_382" custom="structure {type:text;}">
+			<Coords points="16,279 729,279 729,382 16,382"/>
+			<TextLine id="eSc_line_16_279_729_279_729_382_16_382" custom="structure {type:default;}">
+				<Coords points="16,279 729,279 729,382 16,382"/>
+				<Baseline points="16,382 729,382"/>
+				<TextEquiv>
+					<Unicode>הדברים בכיגוס היסוד טל הסופריםבסעברות )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_495_621_1210_621_1210_692_495_692" custom="structure {type:text;}">
+			<Coords points="495,621 1210,621 1210,692 495,692"/>
+			<TextLine id="eSc_line_495_621_1210_621_1210_692_495_692" custom="structure {type:default;}">
+				<Coords points="495,621 1210,621 1210,692 495,692"/>
+				<Baseline points="495,692 1210,692"/>
+				<TextEquiv>
+					<Unicode>על המססר,וף לספרות,6.1.50 עם'6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

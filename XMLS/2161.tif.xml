@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2161.tif">
+		<TextRegion id="eSc_region_787_63_1077_63_1077_138_787_138" custom="structure {type:text;}">
+			<Coords points="787,63 1077,63 1077,138 787,138"/>
+			<TextLine id="eSc_line_787_63_1077_63_1077_138_787_138" custom="structure {type:default;}">
+				<Coords points="787,63 1077,63 1077,138 787,138"/>
+				<Baseline points="787,138 1077,138"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;&gt;----2------ גורי חיים
+&lt;&gt;----2------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_183_208_999_208_999_356_183_356" custom="structure {type:text;}">
+			<Coords points="183,208 999,208 999,356 183,356"/>
+			<TextLine id="eSc_line_183_208_999_208_999_356_183_356" custom="structure {type:default;}">
+				<Coords points="183,208 999,208 999,356 183,356"/>
+				<Baseline points="183,356 999,356"/>
+				<TextEquiv>
+					<Unicode>השנים ‏ [על יגאל אלון ומסה דיין](מדור: מה אומרים, חתום: ח-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

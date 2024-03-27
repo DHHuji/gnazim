@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1445.tif">
+		<TextRegion id="eSc_region_863_105_1104_105_1104_178_863_178" custom="structure {type:text;}">
+			<Coords points="863,105 1104,105 1104,178 863,178"/>
+			<TextLine id="eSc_line_863_105_1104_105_1104_178_863_178" custom="structure {type:default;}">
+				<Coords points="863,105 1104,105 1104,178 863,178"/>
+				<Baseline points="863,178 1104,178"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_474_237_932_237_932_371_474_371" custom="structure {type:text;}">
+			<Coords points="474,237 932,237 932,371 474,371"/>
+			<TextLine id="eSc_line_474_237_932_237_932_371_474_371" custom="structure {type:default;}">
+				<Coords points="474,237 932,237 932,371 474,371"/>
+				<Baseline points="474,371 932,371"/>
+				<TextEquiv>
+					<Unicode>נחשים, כל הסאר עקרביס(כדור כה אופריס?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_218_614_966_614_966_796_218_796" custom="structure {type:text;}">
+			<Coords points="218,614 966,614 966,796 218,796"/>
+			<TextLine id="eSc_line_218_614_966_614_966_796_218_796" custom="structure {type:default;}">
+				<Coords points="218,614 966,614 966,796 218,796"/>
+				<Baseline points="218,796 966,796"/>
+				<TextEquiv>
+					<Unicode>דבר, יה תשרי השל&quot;ח,(70,9.77), עפ&quot; 9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

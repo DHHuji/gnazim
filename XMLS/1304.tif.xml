@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1304.tif">
+		<TextRegion id="eSc_region_833_69_1072_69_1072_139_833_139" custom="structure {type:text;}">
+			<Coords points="833,69 1072,69 1072,139 833,139"/>
+			<TextLine id="eSc_line_833_69_1072_69_1072_139_833_139" custom="structure {type:default;}">
+				<Coords points="833,69 1072,69 1072,139 833,139"/>
+				<Baseline points="833,139 1072,139"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;----2ה---= גורי חיים
+&lt;----2ה---=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_374_326_882_326_882_473_374_473" custom="structure {type:text;}">
+			<Coords points="374,326 882,326 882,473 374,473"/>
+			<TextLine id="eSc_line_374_326_882_326_882_473_374_473" custom="structure {type:default;}">
+				<Coords points="374,326 882,326 882,473 374,473"/>
+				<Baseline points="374,473 882,473"/>
+				<TextEquiv>
+					<Unicode>&quot;מסע ארון אל תור הלילה&quot;(פר אופרים?, התוס: 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

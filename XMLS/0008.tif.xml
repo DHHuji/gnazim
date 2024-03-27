@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0008.tif">
+		<TextRegion id="eSc_region_992_126_1248_126_1248_191_992_191" custom="structure {type:text;}">
+			<Coords points="992,126 1248,126 1248,191 992,191"/>
+			<TextLine id="eSc_line_992_126_1248_126_1248_191_992_191" custom="structure {type:default;}">
+				<Coords points="992,126 1248,126 1248,191 992,191"/>
+				<Baseline points="992,191 1248,191"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס ----)-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_169_564_1243_564_1243_657_169_657" custom="structure {type:text;}">
+			<Coords points="169,564 1243,564 1243,657 169,657"/>
+			<TextLine id="eSc_line_169_564_1243_564_1243_657_169_657" custom="structure {type:default;}">
+				<Coords points="169,564 1243,564 1243,657 169,657"/>
+				<Baseline points="169,657 1243,657"/>
+				<TextEquiv>
+					<Unicode>דיעות אהרונות,ספרות, יד ניסן תטל&quot;ו, (9,)14.4.76ם7 ]ד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_201_297_1022_297_1022_366_201_366" custom="structure {type:text;}">
+			<Coords points="201,297 1022,297 1022,366 201,366"/>
+			<TextLine id="eSc_line_201_297_1022_297_1022_366_201_366" custom="structure {type:default;}">
+				<Coords points="201,297 1022,297 1022,366 201,366"/>
+				<Baseline points="201,366 1022,366"/>
+				<TextEquiv>
+					<Unicode>אבידות ומציאות,- ביקור המץ,- חודש האביב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

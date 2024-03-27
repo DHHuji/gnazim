@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1837.tif">
+		<TextRegion id="eSc_region_897_628_1142_628_1142_688_897_688" custom="structure {type:text;}">
+			<Coords points="897,628 1142,628 1142,688 897,688"/>
+			<TextLine id="eSc_line_897_628_1142_628_1142_688_897_688" custom="structure {type:default;}">
+				<Coords points="897,628 1142,628 1142,688 897,688"/>
+				<Baseline points="897,688 1142,688"/>
+				<TextEquiv>
+					<Unicode>לנלרחב, 2 א, ‏ לנלרחב, 2 א, ‏</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_399_366_692_366_692_419_399_419" custom="structure {type:text;}">
+			<Coords points="399,366 692,366 692,419 399,419"/>
+			<TextLine id="eSc_line_399_366_692_366_692_419_399_419" custom="structure {type:default;}">
+				<Coords points="399,366 692,366 692,419 399,419"/>
+				<Baseline points="399,419 692,419"/>
+				<TextEquiv>
+					<Unicode>פרידר נפאריז</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

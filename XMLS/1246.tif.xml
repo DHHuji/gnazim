@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1246.tif">
+		<TextRegion id="eSc_region_909_95_1200_95_1200_171_909_171" custom="structure {type:text;}">
+			<Coords points="909,95 1200,95 1200,171 909,171"/>
+			<TextLine id="eSc_line_909_95_1200_95_1200_171_909_171" custom="structure {type:default;}">
+				<Coords points="909,95 1200,95 1200,171 909,171"/>
+				<Baseline points="909,171 1200,171"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 2-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_276_571_1219_571_1219_652_276_652" custom="structure {type:text;}">
+			<Coords points="276,571 1219,571 1219,652 276,652"/>
+			<TextLine id="eSc_line_276_571_1219_571_1219_652_276_652" custom="structure {type:default;}">
+				<Coords points="276,571 1219,571 1219,652 276,652"/>
+				<Baseline points="276,652 1219,652"/>
+				<TextEquiv>
+					<Unicode>ידיעות אחוונות, 1968 .22.9, עמ' 18-4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_552_269_944_269_944_341_552_341" custom="structure {type:text;}">
+			<Coords points="552,269 944,269 944,341 552,341"/>
+			<TextLine id="eSc_line_552_269_944_269_944_341_552_341" custom="structure {type:default;}">
+				<Coords points="552,269 944,269 944,341 552,341"/>
+				<Baseline points="552,341 944,341"/>
+				<TextEquiv>
+					<Unicode>מכות על הסיילת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

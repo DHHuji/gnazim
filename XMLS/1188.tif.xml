@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1188.tif">
+		<TextRegion id="eSc_region_926_87_1181_87_1181_152_926_152" custom="structure {type:text;}">
+			<Coords points="926,87 1181,87 1181,152 926,152"/>
+			<TextLine id="eSc_line_926_87_1181_87_1181_152_926_152" custom="structure {type:default;}">
+				<Coords points="926,87 1181,87 1181,152 926,152"/>
+				<Baseline points="926,152 1181,152"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_187_617_949_617_949_689_187_689" custom="structure {type:text;}">
+			<Coords points="187,617 949,617 949,689 187,689"/>
+			<TextLine id="eSc_line_187_617_949_617_949_689_187_689" custom="structure {type:default;}">
+				<Coords points="187,617 949,617 949,689 187,689"/>
+				<Baseline points="187,689 949,689"/>
+				<TextEquiv>
+					<Unicode>על המשמר, רף לספרות, 7.4.1950, עם&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_658_334_970_334_970_392_658_392" custom="structure {type:text;}">
+			<Coords points="658,334 970,334 970,392 658,392"/>
+			<TextLine id="eSc_line_658_334_970_334_970_392_658_392" custom="structure {type:default;}">
+				<Coords points="658,334 970,334 970,392 658,392"/>
+				<Baseline points="658,392 970,392"/>
+				<TextEquiv>
+					<Unicode>סול הר האלוהיס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1597.tif">
+		<TextRegion id="eSc_region_915_99_1203_99_1203_175_915_175" custom="structure {type:text;}">
+			<Coords points="915,99 1203,99 1203,175 915,175"/>
+			<TextLine id="eSc_line_915_99_1203_99_1203_175_915_175" custom="structure {type:default;}">
+				<Coords points="915,99 1203,99 1203,175 915,175"/>
+				<Baseline points="915,175 1203,175"/>
+				<TextEquiv>
+					<Unicode>גווי חיים 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_291_268_950_268_950_412_291_412" custom="structure {type:text;}">
+			<Coords points="291,268 950,268 950,412 291,412"/>
+			<TextLine id="eSc_line_291_268_950_268_950_412_291_412" custom="structure {type:default;}">
+				<Coords points="291,268 950,268 950,412 291,412"/>
+				<Baseline points="291,412 950,412"/>
+				<TextEquiv>
+					<Unicode>עור על פוסת השבוע [מדור:רשימות סוף השסבוע, חתום: תח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_663_614_1176_614_1176_696_663_696" custom="structure {type:text;}">
+			<Coords points="663,614 1176,614 1176,696 663,696"/>
+			<TextLine id="eSc_line_663_614_1176_614_1176_696_663_696" custom="structure {type:default;}">
+				<Coords points="663,614 1176,614 1176,696 663,696"/>
+				<Baseline points="663,696 1176,696"/>
+				<TextEquiv>
+					<Unicode>דבר, 18.2.72, צמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

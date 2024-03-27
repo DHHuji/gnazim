@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0503.tif">
+		<TextRegion id="eSc_region_864_122_1228_122_1228_205_864_205" custom="structure {type:text;}">
+			<Coords points="864,122 1228,122 1228,205 864,205"/>
+			<TextLine id="eSc_line_864_122_1228_122_1228_205_864_205" custom="structure {type:default;}">
+				<Coords points="864,122 1228,122 1228,205 864,205"/>
+				<Baseline points="864,205 1228,205"/>
+				<TextEquiv>
+					<Unicode>גורי, חים גורי, חים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_85_505_822_505_822_628_85_628" custom="structure {type:text;}">
+			<Coords points="85,505 822,505 822,628 85,628"/>
+			<TextLine id="eSc_line_85_505_822_505_822_628_85_628" custom="structure {type:default;}">
+				<Coords points="85,505 822,505 822,628 85,628"/>
+				<Baseline points="85,628 822,628"/>
+				<TextEquiv>
+					<Unicode>יו, חוב' א-ב, כסלו תשי*ד(נובמבר 1953), עמ' 117</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

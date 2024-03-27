@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1233.tif">
+		<TextRegion id="eSc_region_897_0_1141_0_1141_55_897_55" custom="structure {type:text;}">
+			<Coords points="897,0 1141,0 1141,55 897,55"/>
+			<TextLine id="eSc_line_897_0_1141_0_1141_55_897_55" custom="structure {type:default;}">
+				<Coords points="897,0 1141,0 1141,55 897,55"/>
+				<Baseline points="897,55 1141,55"/>
+				<TextEquiv>
+					<Unicode>נבורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_488_146_702_146_702_245_488_245" custom="structure {type:text;}">
+			<Coords points="488,146 702,146 702,245 488,245"/>
+			<TextLine id="eSc_line_488_146_702_146_702_245_488_245" custom="structure {type:default;}">
+				<Coords points="488,146 702,146 702,245 488,245"/>
+				<Baseline points="488,245 702,245"/>
+				<TextEquiv>
+					<Unicode>לוי-פיקלאלוה הנ&quot;-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_765_504_922_504_922_548_765_548" custom="structure {type:text;}">
+			<Coords points="765,504 922,504 922,548 765,548"/>
+			<TextLine id="eSc_line_765_504_922_504_922_548_765_548" custom="structure {type:default;}">
+				<Coords points="765,504 922,504 922,548 765,548"/>
+				<Baseline points="765,548 922,548"/>
+				<TextEquiv>
+					<Unicode>רו
+
+רּ
+
+ג
+.2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

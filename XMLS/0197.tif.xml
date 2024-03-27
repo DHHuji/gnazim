@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0197.tif">
+		<TextRegion id="eSc_region_297_0_1262_0_1262_766_297_766" custom="structure {type:text;}">
+			<Coords points="297,0 1262,0 1262,766 297,766"/>
+			<TextLine id="eSc_line_297_0_1262_0_1262_766_297_766" custom="structure {type:default;}">
+				<Coords points="297,0 1262,0 1262,766 297,766"/>
+				<Baseline points="297,766 1262,766"/>
+				<TextEquiv>
+					<Unicode>גורי.תיים אני רוצה לדעח גורי.תייםאני רוצה לדעחההום:חגורדבר, ח כפלו הטשמד, ‎ 14,11!,1983‏ עמ2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

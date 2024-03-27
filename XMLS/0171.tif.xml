@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0171.tif">
+		<TextRegion id="eSc_region_864_124_1112_124_1112_204_864_204" custom="structure {type:text;}">
+			<Coords points="864,124 1112,124 1112,204 864,204"/>
+			<TextLine id="eSc_line_864_124_1112_124_1112_204_864_204" custom="structure {type:default;}">
+				<Coords points="864,124 1112,124 1112,204 864,204"/>
+				<Baseline points="864,204 1112,204"/>
+				<TextEquiv>
+					<Unicode>הורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_294_366_808_366_808_510_294_510" custom="structure {type:text;}">
+			<Coords points="294,366 808,366 808,510 294,510"/>
+			<TextLine id="eSc_line_294_366_808_366_808_510_294_510" custom="structure {type:default;}">
+				<Coords points="294,366 808,366 808,510 294,510"/>
+				<Baseline points="294,510 808,510"/>
+				<TextEquiv>
+					<Unicode>ראפ זר היר רכרהי ?ל[כר אומרים,רדתום: חגין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_677_630_1194_630_1194_710_677_710" custom="structure {type:text;}">
+			<Coords points="677,630 1194,630 1194,710 677,710"/>
+			<TextLine id="eSc_line_677_630_1194_630_1194_710_677_710" custom="structure {type:default;}">
+				<Coords points="677,630 1194,630 1194,710 677,710"/>
+				<Baseline points="677,710 1194,710"/>
+				<TextEquiv>
+					<Unicode>לכרהב,2,71.3.1997נ. כ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1107.tif">
+		<TextRegion id="eSc_region_907_35_1171_35_1171_109_907_109" custom="structure {type:text;}">
+			<Coords points="907,35 1171,35 1171,109 907,109"/>
+			<TextLine id="eSc_line_907_35_1171_35_1171_109_907_109" custom="structure {type:default;}">
+				<Coords points="907,35 1171,35 1171,109 907,109"/>
+				<Baseline points="907,109 1171,109"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_62_518_1165_518_1165_736_62_736" custom="structure {type:text;}">
+			<Coords points="62,518 1165,518 1165,736 62,736"/>
+			<TextLine id="eSc_line_62_518_1165_518_1165_736_62_736" custom="structure {type:default;}">
+				<Coords points="62,518 1165,518 1165,736 62,736"/>
+				<Baseline points="62,736 1165,736"/>
+				<TextEquiv>
+					<Unicode>העיר חל אביב.יס השרי תסמו,4.102.1985ע25,220</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_522_239_987_239_987_360_522_360" custom="structure {type:text;}">
+			<Coords points="522,239 987,239 987,360 522,360"/>
+			<TextLine id="eSc_line_522_239_987_239_987_360_522_360" custom="structure {type:default;}">
+				<Coords points="522,239 987,239 987,360 522,360"/>
+				<Baseline points="522,360 987,360"/>
+				<TextEquiv>
+					<Unicode>לפמה אני כוהב-כשאל
+רק הטריקה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

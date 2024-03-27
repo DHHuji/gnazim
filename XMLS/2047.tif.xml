@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2047.tif">
+		<TextRegion id="eSc_region_926_646_1071_646_1071_708_926_708" custom="structure {type:text;}">
+			<Coords points="926,646 1071,646 1071,708 926,708"/>
+			<TextLine id="eSc_line_926_646_1071_646_1071_708_926_708" custom="structure {type:default;}">
+				<Coords points="926,646 1071,646 1071,708 926,708"/>
+				<Baseline points="926,708 1071,708"/>
+				<TextEquiv>
+					<Unicode>לפרחב,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_498_348_889_348_889_400_498_400" custom="structure {type:text;}">
+			<Coords points="498,348 889,348 889,400 498,400"/>
+			<TextLine id="eSc_line_498_348_889_348_889_400_498_400" custom="structure {type:default;}">
+				<Coords points="498,348 889,348 889,400 498,400"/>
+				<Baseline points="498,400 889,400"/>
+				<TextEquiv>
+					<Unicode>טיחה בקצה רחוב יפו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_197_322_481_322_481_415_197_415" custom="structure {type:text;}">
+			<Coords points="197,322 481,322 481,415 197,415"/>
+			<TextLine id="eSc_line_197_322_481_322_481_415_197_415" custom="structure {type:default;}">
+				<Coords points="197,322 481,322 481,415 197,415"/>
+				<Baseline points="197,415 481,415"/>
+				<TextEquiv>
+					<Unicode>(התום: הגור )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

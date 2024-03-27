@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0975.tif">
+		<TextRegion id="eSc_region_835_90_1158_90_1158_172_835_172" custom="structure {type:text;}">
+			<Coords points="835,90 1158,90 1158,172 835,172"/>
+			<TextLine id="eSc_line_835_90_1158_90_1158_172_835_172" custom="structure {type:default;}">
+				<Coords points="835,90 1158,90 1158,172 835,172"/>
+				<Baseline points="835,172 1158,172"/>
+				<TextEquiv>
+					<Unicode>גורי חיים -----2 7 ל גורי חיים
+-----2 7 ל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_109_234_1030_234_1030_387_109_387" custom="structure {type:text;}">
+			<Coords points="109,234 1030,234 1030,387 109,387"/>
+			<TextLine id="eSc_line_109_234_1030_234_1030_387_109_387" custom="structure {type:default;}">
+				<Coords points="109,234 1030,234 1030,387 109,387"/>
+				<Baseline points="109,387 1030,387"/>
+				<TextEquiv>
+					<Unicode>הכח והפצץ [מדור: וסימוה סוף השבוע,התום: הגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

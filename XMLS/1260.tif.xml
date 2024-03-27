@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1260.tif">
+		<TextRegion id="eSc_region_865_99_1188_99_1188_181_865_181" custom="structure {type:text;}">
+			<Coords points="865,99 1188,99 1188,181 865,181"/>
+			<TextLine id="eSc_line_865_99_1188_99_1188_181_865_181" custom="structure {type:default;}">
+				<Coords points="865,99 1188,99 1188,181 865,181"/>
+				<Baseline points="865,181 1188,181"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 05-יול</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_178_285_1085_285_1085_446_178_446" custom="structure {type:text;}">
+			<Coords points="178,285 1085,285 1085,446 178,446"/>
+			<TextLine id="eSc_line_178_285_1085_285_1085_446_178_446" custom="structure {type:default;}">
+				<Coords points="178,285 1085,285 1085,446 178,446"/>
+				<Baseline points="178,446 1085,446"/>
+				<TextEquiv>
+					<Unicode>המלחמה על הכוה אחרת ‏ [סדור: רטימותסוף השבוע, חתום: הגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_582_589_1183_589_1183_677_582_677" custom="structure {type:text;}">
+			<Coords points="582,589 1183,589 1183,677 582,677"/>
+			<TextLine id="eSc_line_582_589_1183_589_1183_677_582_677" custom="structure {type:default;}">
+				<Coords points="582,589 1183,589 1183,677 582,677"/>
+				<Baseline points="582,677 1183,677"/>
+				<TextEquiv>
+					<Unicode>₪
+
+למרחב,0.10609.כ5י, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

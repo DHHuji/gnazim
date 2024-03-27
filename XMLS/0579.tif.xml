@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0579.tif">
+		<TextRegion id="eSc_region_565_637_1086_637_1086_836_565_836" custom="structure {type:text;}">
+			<Coords points="565,637 1086,637 1086,836 565,836"/>
+			<TextLine id="eSc_line_565_637_1086_637_1086_836_565_836" custom="structure {type:default;}">
+				<Coords points="565,637 1086,637 1086,836 565,836"/>
+				<Baseline points="565,836 1086,836"/>
+				<TextEquiv>
+					<Unicode>למרחב, 6.5.96, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_37_290_549_290_549_403_37_403" custom="structure {type:text;}">
+			<Coords points="37,290 549,290 549,403 37,403"/>
+			<TextLine id="eSc_line_37_290_549_290_549_403_37_403" custom="structure {type:default;}">
+				<Coords points="37,290 549,290 549,403 37,403"/>
+				<Baseline points="37,403 549,403"/>
+				<TextEquiv>
+					<Unicode>ב אומרים&quot;, חהום: ₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

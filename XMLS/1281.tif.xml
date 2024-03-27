@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1281.tif">
+		<TextRegion id="eSc_region_940_25_1205_25_1205_97_940_97" custom="structure {type:text;}">
+			<Coords points="940,25 1205,25 1205,97 940,97"/>
+			<TextLine id="eSc_line_940_25_1205_25_1205_97_940_97" custom="structure {type:default;}">
+				<Coords points="940,25 1205,25 1205,97 940,97"/>
+				<Baseline points="940,97 1205,97"/>
+				<TextEquiv>
+					<Unicode>גורי.חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_186_475_1199_475_1199_693_186_693" custom="structure {type:text;}">
+			<Coords points="186,475 1199,475 1199,693 186,693"/>
+			<TextLine id="eSc_line_186_475_1199_475_1199_693_186_693" custom="structure {type:default;}">
+				<Coords points="186,475 1199,475 1199,693 186,693"/>
+				<Baseline points="186,693 1199,693"/>
+				<TextEquiv>
+					<Unicode>דבר. יבר הכבוע. כד איר ב תכמו4.4.1980 פס 10</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_758_184_1109_184_1109_252_758_252" custom="structure {type:text;}">
+			<Coords points="758,184 1109,184 1109,252 758,252"/>
+			<TextLine id="eSc_line_758_184_1109_184_1109_252_758_252" custom="structure {type:default;}">
+				<Coords points="758,184 1109,184 1109,252 758,252"/>
+				<Baseline points="758,252 1109,252"/>
+				<TextEquiv>
+					<Unicode>מספות הנכרי/ ב\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

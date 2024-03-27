@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0040.tif">
+		<TextRegion id="eSc_region_971_14_1233_14_1233_88_971_88" custom="structure {type:text;}">
+			<Coords points="971,14 1233,14 1233,88 971,88"/>
+			<TextLine id="eSc_line_971_14_1233_14_1233_88_971_88" custom="structure {type:default;}">
+				<Coords points="971,14 1233,14 1233,88 971,88"/>
+				<Baseline points="971,88 1233,88"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים גורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_435_488_1227_488_1227_712_435_712" custom="structure {type:text;}">
+			<Coords points="435,488 1227,488 1227,712 435,712"/>
+			<TextLine id="eSc_line_435_488_1227_488_1227_712_435_712" custom="structure {type:default;}">
+				<Coords points="435,488 1227,488 1227,712 435,712"/>
+				<Baseline points="435,712 1227,712"/>
+				<TextEquiv>
+					<Unicode>דרבר.יד חסון השנא2.11.!000 עמ6ו|ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1316.tif">
+		<TextRegion id="eSc_region_928_0_1202_0_1202_89_928_89" custom="structure {type:text;}">
+			<Coords points="928,0 1202,0 1202,89 928,89"/>
+			<TextLine id="eSc_line_928_0_1202_0_1202_89_928_89" custom="structure {type:default;}">
+				<Coords points="928,0 1202,0 1202,89 928,89"/>
+				<Baseline points="928,89 1202,89"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים == ---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_645_155_1023_155_1023_574_645_574" custom="structure {type:text;}">
+			<Coords points="645,155 1023,155 1023,574 645,574"/>
+			<TextLine id="eSc_line_645_155_1023_155_1023_574_645_574" custom="structure {type:default;}">
+				<Coords points="645,155 1023,155 1023,574 645,574"/>
+				<Baseline points="645,574 1023,574"/>
+				<TextEquiv>
+					<Unicode>מ( 0ו) מפרץ אורנוס2) חוף אורגוס(] שי כ תח הב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_257_564_1184_564_1184_815_257_815" custom="structure {type:text;}">
+			<Coords points="257,564 1184,564 1184,815 257,815"/>
+			<TextLine id="eSc_line_257_564_1184_564_1184_815_257_815" custom="structure {type:default;}">
+				<Coords points="257,564 1184,564 1184,815 257,815"/>
+				<Baseline points="257,815 1184,815"/>
+				<TextEquiv>
+					<Unicode>מעריב, ספרות, כג תסרי תשמא, 3.10.80, עם* ו2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

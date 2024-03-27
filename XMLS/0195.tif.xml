@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0195.tif">
+		<TextRegion id="eSc_region_186_0_1253_0_1253_874_186_874" custom="structure {type:text;}">
+			<Coords points="186,0 1253,0 1253,874 186,874"/>
+			<TextLine id="eSc_line_186_0_1253_0_1253_874_186_874" custom="structure {type:default;}">
+				<Coords points="186,0 1253,0 1253,874 186,874"/>
+				<Baseline points="186,874 1253,874"/>
+				<TextEquiv>
+					<Unicode>אני מהפט את הציונוה מכהב מגברפת אני מהפט את הציונוהמכהב מגברפת1רבר, 7,5,1954,עם* 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

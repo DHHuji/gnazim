@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1079.tif">
+		<TextRegion id="eSc_region_950_133_1225_133_1225_197_950_197" custom="structure {type:text;}">
+			<Coords points="950,133 1225,133 1225,197 950,197"/>
+			<TextLine id="eSc_line_950_133_1225_133_1225_197_950_197" custom="structure {type:default;}">
+				<Coords points="950,133 1225,133 1225,197 950,197"/>
+				<Baseline points="950,197 1225,197"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ------2----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_458_581_1137_581_1137_652_458_652" custom="structure {type:text;}">
+			<Coords points="458,581 1137,581 1137,652 458,652"/>
+			<TextLine id="eSc_line_458_581_1137_581_1137_652_458_652" custom="structure {type:default;}">
+				<Coords points="458,581 1137,581 1137,652 458,652"/>
+				<Baseline points="458,652 1137,652"/>
+				<TextEquiv>
+					<Unicode>דגר, סו המוז תשסל&quot;ו,(1,7.77),עמ&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_169_311_467_311_467_422_169_422" custom="structure {type:text;}">
+			<Coords points="169,311 467,311 467,422 169,422"/>
+			<TextLine id="eSc_line_169_311_467_311_467_422_169_422" custom="structure {type:default;}">
+				<Coords points="169,311 467,311 467,422 169,422"/>
+				<Baseline points="169,422 467,422"/>
+				<TextEquiv>
+					<Unicode>7 .
+חתהוסם הגור
+(חקוס חגור )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

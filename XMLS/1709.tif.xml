@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1709.tif">
+		<TextRegion id="eSc_region_941_95_1239_95_1239_179_941_179" custom="structure {type:text;}">
+			<Coords points="941,95 1239,95 1239,179 941,179"/>
+			<TextLine id="eSc_line_941_95_1239_95_1239_179_941_179" custom="structure {type:default;}">
+				<Coords points="941,95 1239,95 1239,179 941,179"/>
+				<Baseline points="941,179 1239,179"/>
+				<TextEquiv>
+					<Unicode>גווי חיים 05-יול</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_178_262_1161_262_1161_420_178_420" custom="structure {type:text;}">
+			<Coords points="178,262 1161,262 1161,420 178,420"/>
+			<TextLine id="eSc_line_178_262_1161_262_1161_420_178_420" custom="structure {type:default;}">
+				<Coords points="178,262 1161,262 1161,420 178,420"/>
+				<Baseline points="178,420 1161,420"/>
+				<TextEquiv>
+					<Unicode>רפלם הצנום, הטזוקן [מדוו: וסימות סוףהסבוע, חתום: חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_634_587_1235_587_1235_675_634_675" custom="structure {type:text;}">
+			<Coords points="634,587 1235,587 1235,675 634,675"/>
+			<TextLine id="eSc_line_634_587_1235_587_1235_675_634_675" custom="structure {type:default;}">
+				<Coords points="634,587 1235,587 1235,675 634,675"/>
+				<Baseline points="634,675 1235,675"/>
+				<TextEquiv>
+					<Unicode>למרחב, 2.1.1970, עמ'* 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

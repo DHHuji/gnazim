@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1764.tif">
+		<TextRegion id="eSc_region_888_0_1141_0_1141_62_888_62" custom="structure {type:text;}">
+			<Coords points="888,0 1141,0 1141,62 888,62"/>
+			<TextLine id="eSc_line_888_0_1141_0_1141_62_888_62" custom="structure {type:default;}">
+				<Coords points="888,0 1141,0 1141,62 888,62"/>
+				<Baseline points="888,62 1141,62"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים =-חיה-+--- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_254_206_771_206_771_422_254_422" custom="structure {type:text;}">
+			<Coords points="254,206 771,206 771,422 254,422"/>
+			<TextLine id="eSc_line_254_206_771_206_771_422_254_422" custom="structure {type:default;}">
+				<Coords points="254,206 771,206 771,422 254,422"/>
+				<Baseline points="254,422 771,422"/>
+				<TextEquiv>
+					<Unicode>הפגישה האלף ואחת[ פל נתן אלתרמן](מתוך &quot;הסירה והזסן&quot; )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_275_556_1176_556_1176_805_275_805" custom="structure {type:text;}">
+			<Coords points="275,556 1176,556 1176,805 275,805"/>
+			<TextLine id="eSc_line_275_556_1176_556_1176_805_275_805" custom="structure {type:default;}">
+				<Coords points="275,556 1176,556 1176,805 275,805"/>
+				<Baseline points="275,805 1176,805"/>
+				<TextEquiv>
+					<Unicode>זאת הארץ, כ&quot;ו אזר תס&quot;ס, 14.3.80, 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

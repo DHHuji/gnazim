@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1918.tif">
+		<TextRegion id="eSc_region_458_71_1165_71_1165_504_458_504" custom="structure {type:text;}">
+			<Coords points="458,71 1165,71 1165,504 458,504"/>
+			<TextLine id="eSc_line_458_71_1165_71_1165_504_458_504" custom="structure {type:default;}">
+				<Coords points="458,71 1165,71 1165,504 458,504"/>
+				<Baseline points="458,504 1165,504"/>
+				<TextEquiv>
+					<Unicode>גורי, היים קינה [שיר] גורי, הייםקינה [שיר]סשא, גליון !3, תשי&quot;ג, עם' [ג-1 1₪ 3%</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

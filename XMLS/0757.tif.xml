@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0757.tif">
+		<TextRegion id="eSc_region_879_57_1115_57_1115_120_879_120" custom="structure {type:text;}">
+			<Coords points="879,57 1115,57 1115,120 879,120"/>
+			<TextLine id="eSc_line_879_57_1115_57_1115_120_879_120" custom="structure {type:default;}">
+				<Coords points="879,57 1115,57 1115,120 879,120"/>
+				<Baseline points="879,120 1115,120"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ----- גורי, חיים
+-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_65_558_1088_558_1088_665_65_665" custom="structure {type:text;}">
+			<Coords points="65,558 1088,558 1088,665 65,665"/>
+			<TextLine id="eSc_line_65_558_1088_558_1088_665_65_665" custom="structure {type:default;}">
+				<Coords points="65,558 1088,558 1088,665 65,665"/>
+				<Baseline points="65,665 1088,665"/>
+				<TextEquiv>
+					<Unicode>עתיס, גל' 7, טפנה ראסונה, כ&quot;ז בחסון תסש&quot;ז, 21.11.46עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

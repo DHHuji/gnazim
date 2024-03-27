@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0609.tif">
+		<TextRegion id="eSc_region_79_259_1269_259_1269_867_79_867" custom="structure {type:text;}">
+			<Coords points="79,259 1269,259 1269,867 79,867"/>
+			<TextLine id="eSc_line_79_259_1269_259_1269_867_79_867" custom="structure {type:default;}">
+				<Coords points="79,259 1269,259 1269,867 79,867"/>
+				<Baseline points="79,867 1269,867"/>
+				<TextEquiv>
+					<Unicode>5 ₪ 299 ו (0 09/ ג א |לת 7 ל (. 0 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_399_17_1277_17_1277_182_399_182" custom="structure {type:text;}">
+			<Coords points="399,17 1277,17 1277,182 399,182"/>
+			<TextLine id="eSc_line_399_17_1277_17_1277_182_399_182" custom="structure {type:default;}">
+				<Coords points="399,17 1277,17 1277,182 399,182"/>
+				<Baseline points="399,182 1277,182"/>
+				<TextEquiv>
+					<Unicode>]כ / קנוויס)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

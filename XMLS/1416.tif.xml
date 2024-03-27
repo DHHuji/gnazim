@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1416.tif">
+		<TextRegion id="eSc_region_824_34_1225_34_1225_267_824_267" custom="structure {type:text;}">
+			<Coords points="824,34 1225,34 1225,267 824,267"/>
+			<TextLine id="eSc_line_824_34_1225_34_1225_267_824_267" custom="structure {type:default;}">
+				<Coords points="824,34 1225,34 1225,267 824,267"/>
+				<Baseline points="824,267 1225,267"/>
+				<TextEquiv>
+					<Unicode>גורי,ריים ----2---- גורי,ריים
+----2----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_283_1261_283_1261_922_0_922" custom="structure {type:text;}">
+			<Coords points="0,283 1261,283 1261,922 0,922"/>
+			<TextLine id="eSc_line_0_283_1261_283_1261_922_0_922" custom="structure {type:default;}">
+				<Coords points="0,283 1261,283 1261,922 0,922"/>
+				<Baseline points="0,922 1261,922"/>
+				<TextEquiv>
+					<Unicode>סני צירים:(מהוך &quot;קו פרטת הכים&quot;) ידיו .- [אפשר היה לרוץ מכברתון]על הכככר,יף לספרות ואמנות,26.0.,1959,ע9ם. 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

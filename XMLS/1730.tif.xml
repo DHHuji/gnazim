@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1730.tif">
+		<TextRegion id="eSc_region_885_105_1119_105_1119_170_885_170" custom="structure {type:text;}">
+			<Coords points="885,105 1119,105 1119,170 885,170"/>
+			<TextLine id="eSc_line_885_105_1119_105_1119_170_885_170" custom="structure {type:default;}">
+				<Coords points="885,105 1119,105 1119,170 885,170"/>
+				<Baseline points="885,170 1119,170"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסם --7--4-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_120_304_908_304_908_502_120_502" custom="structure {type:text;}">
+			<Coords points="120,304 908,304 908,502 120,502"/>
+			<TextLine id="eSc_line_120_304_908_304_908_502_120_502" custom="structure {type:default;}">
+				<Coords points="120,304 908,304 908,502 120,502"/>
+				<Baseline points="120,502 908,502"/>
+				<TextEquiv>
+					<Unicode>(מרור רסימות סוף השבוע)( ץעל ספרו של יורם קגניוק &quot;עפר ותסוקה&quot;ור)פוכיר גס את נתן אלתרמן, חהום הג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_351_605_1093_605_1093_671_351_671" custom="structure {type:text;}">
+			<Coords points="351,605 1093,605 1093,671 351,671"/>
+			<TextLine id="eSc_line_351_605_1093_605_1093_671_351_671" custom="structure {type:default;}">
+				<Coords points="351,605 1093,605 1093,671 351,671"/>
+				<Baseline points="351,671 1093,671"/>
+				<TextEquiv>
+					<Unicode>דבר, כו השון השל&quot;ו,(31.10.75), עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

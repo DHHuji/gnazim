@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0297.tif">
+		<TextRegion id="eSc_region_302_258_1239_258_1239_831_302_831" custom="structure {type:text;}">
+			<Coords points="302,258 1239,258 1239,831 302,831"/>
+			<TextLine id="eSc_line_302_258_1239_258_1239_831_302_831" custom="structure {type:default;}">
+				<Coords points="302,258 1239,258 1239,831 302,831"/>
+				<Baseline points="302,831 1239,831"/>
+				<TextEquiv>
+					<Unicode>בדרך לפלורנמין ללללבה לבא בדרך לפלורנמיןללללבה לבאבהוך&quot; רסיצוה מבית היין&quot;חהום: ח - גידבר,כ&quot;ד סיון השמ&quot;א, !26.6,!0%8 עמ* 16</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

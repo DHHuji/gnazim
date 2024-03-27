@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1669.tif">
+		<TextRegion id="eSc_region_844_65_1141_65_1141_144_844_144" custom="structure {type:text;}">
+			<Coords points="844,65 1141,65 1141,144 844,144"/>
+			<TextLine id="eSc_line_844_65_1141_65_1141_144_844_144" custom="structure {type:default;}">
+				<Coords points="844,65 1141,65 1141,144 844,144"/>
+				<Baseline points="844,144 1141,144"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_473_308_924_308_924_487_473_487" custom="structure {type:text;}">
+			<Coords points="473,308 924,308 924,487 473,487"/>
+			<TextLine id="eSc_line_473_308_924_308_924_487_473_487" custom="structure {type:default;}">
+				<Coords points="473,308 924,308 924,487 473,487"/>
+				<Baseline points="473,487 924,487"/>
+				<TextEquiv>
+					<Unicode>על סגנון ו&quot;פרחק&quot;] חתום ףגור ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_306_469_306_469_386_0_386" custom="structure {type:text;}">
+			<Coords points="0,306 469,306 469,386 0,386"/>
+			<TextLine id="eSc_line_0_306_469_306_469_386_0_386" custom="structure {type:default;}">
+				<Coords points="0,306 469,306 469,386 0,386"/>
+				<Baseline points="0,386 469,386"/>
+				<TextEquiv>
+					<Unicode>(רסיפות סוף סבוע)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

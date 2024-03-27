@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1231.tif">
+		<TextRegion id="eSc_region_80_12_1188_12_1188_853_80_853" custom="structure {type:text;}">
+			<Coords points="80,12 1188,12 1188,853 80,853"/>
+			<TextLine id="eSc_line_80_12_1188_12_1188_853_80_853" custom="structure {type:default;}">
+				<Coords points="80,12 1188,12 1188,853 80,853"/>
+				<Baseline points="80,853 1188,853"/>
+				<TextEquiv>
+					<Unicode>גורי, תִייס מידץ מהימן ומםעורכן גורי, תִייסמידץ מהימן ומםעורכן(םה אופרים?)( ראה אור ב&quot;דבר&quot;, 2.9.75, חתום הג-י )בארץ יסראל,גל 48,חסון השל&quot;ו,(אוקטובר 75), עם 9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

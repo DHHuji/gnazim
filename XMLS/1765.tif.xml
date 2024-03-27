@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1765.tif">
+		<TextRegion id="eSc_region_838_80_1145_80_1145_165_838_165" custom="structure {type:text;}">
+			<Coords points="838,80 1145,80 1145,165 838,165"/>
+			<TextLine id="eSc_line_838_80_1145_80_1145_165_838_165" custom="structure {type:default;}">
+				<Coords points="838,80 1145,80 1145,165 838,165"/>
+				<Baseline points="838,165 1145,165"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 0-7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_56_301_922_301_922_524_56_524" custom="structure {type:text;}">
+			<Coords points="56,301 922,301 922,524 56,524"/>
+			<TextLine id="eSc_line_56_301_922_301_922_524_56_524" custom="structure {type:default;}">
+				<Coords points="56,301 922,301 922,524 56,524"/>
+				<Baseline points="56,524 922,524"/>
+				<TextEquiv>
+					<Unicode>פגיטשה בחדר בץ ארבעה כתלים[ על פפגט עם טסופרים ערביים- חתום: חגי )|--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_240_645_1069_645_1069_851_240_851" custom="structure {type:text;}">
+			<Coords points="240,645 1069,645 1069,851 240,851"/>
+			<TextLine id="eSc_line_240_645_1069_645_1069_851_240_851" custom="structure {type:default;}">
+				<Coords points="240,645 1069,645 1069,851 240,851"/>
+				<Baseline points="240,851 1069,851"/>
+				<TextEquiv>
+					<Unicode>לפרחב,
+
+סטשת,
+
+7 ,8
+
+.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

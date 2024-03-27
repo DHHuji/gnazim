@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0359.tif">
+		<TextRegion id="eSc_region_224_0_1254_0_1254_775_224_775" custom="structure {type:text;}">
+			<Coords points="224,0 1254,0 1254,775 224,775"/>
+			<TextLine id="eSc_line_224_0_1254_0_1254_775_224_775" custom="structure {type:default;}">
+				<Coords points="224,0 1254,0 1254,775 224,775"/>
+				<Baseline points="224,775 1254,775"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים בין צשומרון לגדה גורי.חייםבין צשומרון לגדהדבר. כו הסרי הלכןו.995ו,10,ווק5 15</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

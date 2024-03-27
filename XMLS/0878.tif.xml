@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0878.tif">
+		<TextRegion id="eSc_region_925_12_1160_12_1160_61_925_61" custom="structure {type:text;}">
+			<Coords points="925,12 1160,12 1160,61 925,61"/>
+			<TextLine id="eSc_line_925_12_1160_12_1160_61_925_61" custom="structure {type:default;}">
+				<Coords points="925,12 1160,12 1160,61 925,61"/>
+				<Baseline points="925,61 1160,61"/>
+				<TextEquiv>
+					<Unicode>ורי.חיים ורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_426_515_591_515_591_561_426_561" custom="structure {type:text;}">
+			<Coords points="426,515 591,515 591,561 426,561"/>
+			<TextLine id="eSc_line_426_515_591_515_591_561_426_561" custom="structure {type:default;}">
+				<Coords points="426,515 591,515 591,561 426,561"/>
+				<Baseline points="426,561 591,561"/>
+				<TextEquiv>
+					<Unicode>תצמי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0430.tif">
+		<TextRegion id="eSc_region_910_107_1258_107_1258_190_910_190" custom="structure {type:text;}">
+			<Coords points="910,107 1258,107 1258,190 910,190"/>
+			<TextLine id="eSc_line_910_107_1258_107_1258_190_910_190" custom="structure {type:default;}">
+				<Coords points="910,107 1258,107 1258,190 910,190"/>
+				<Baseline points="910,190 1258,190"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 8</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_72_263_1077_263_1077_419_72_419" custom="structure {type:text;}">
+			<Coords points="72,263 1077,263 1077,419 72,419"/>
+			<TextLine id="eSc_line_72_263_1077_263_1077_419_72_419" custom="structure {type:default;}">
+				<Coords points="72,263 1077,263 1077,419 72,419"/>
+				<Baseline points="72,419 1077,419"/>
+				<TextEquiv>
+					<Unicode>בעיר קטנה על הוף התכלת [מדור: רשימותסוף הטבוע, ‏ התום: חגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_652_586_1228_586_1228_676_652_676" custom="structure {type:text;}">
+			<Coords points="652,586 1228,586 1228,676 652,676"/>
+			<TextLine id="eSc_line_652_586_1228_586_1228_676_652_676" custom="structure {type:default;}">
+				<Coords points="652,586 1228,586 1228,676 652,676"/>
+				<Baseline points="652,676 1228,676"/>
+				<TextEquiv>
+					<Unicode>מ' 2
+7%, ע
+ב,969ו.
+למרחב,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

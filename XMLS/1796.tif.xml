@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1796.tif">
+		<TextRegion id="eSc_region_0_8_1260_8_1260_868_0_868" custom="structure {type:text;}">
+			<Coords points="0,8 1260,8 1260,868 0,868"/>
+			<TextLine id="eSc_line_0_8_1260_8_1260_868_0_868" custom="structure {type:default;}">
+				<Coords points="0,8 1260,8 1260,868 0,868"/>
+				<Baseline points="0,868 1260,868"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים פירות הקיץ גורי, תייםפירות הקיץעל המשמו, דף לספרות ולאמנות,16.8.19689, עמ' 7-6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

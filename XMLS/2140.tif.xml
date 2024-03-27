@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2140.tif">
+		<TextRegion id="eSc_region_699_353_852_353_852_398_699_398" custom="structure {type:text;}">
+			<Coords points="699,353 852,353 852,398 699,398"/>
+			<TextLine id="eSc_line_699_353_852_353_852_398_699_398" custom="structure {type:default;}">
+				<Coords points="699,353 852,353 852,398 699,398"/>
+				<Baseline points="699,398 852,398"/>
+				<TextEquiv>
+					<Unicode>גרינספן גרינספן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_648_361_812_361_812_462_648_462" custom="structure {type:text;}">
+			<Coords points="648,361 812,361 812,462 648,462"/>
+			<TextLine id="eSc_line_648_361_812_361_812_462_648_462" custom="structure {type:default;}">
+				<Coords points="648,361 812,361 812,462 648,462"/>
+				<Baseline points="648,462 812,462"/>
+				<TextEquiv>
+					<Unicode>היוגאייכמן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0038.tif">
+		<TextRegion id="eSc_region_865_103_1249_103_1249_196_865_196" custom="structure {type:text;}">
+			<Coords points="865,103 1249,103 1249,196 865,196"/>
+			<TextLine id="eSc_line_865_103_1249_103_1249_196_865_196" custom="structure {type:default;}">
+				<Coords points="865,103 1249,103 1249,196 865,196"/>
+				<Baseline points="865,196 1249,196"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_35_533_1021_533_1021_703_35_703" custom="structure {type:text;}">
+			<Coords points="35,533 1021,533 1021,703 35,703"/>
+			<TextLine id="eSc_line_35_533_1021_533_1021_703_35_703" custom="structure {type:default;}">
+				<Coords points="35,533 1021,533 1021,703 35,703"/>
+				<Baseline points="35,703 1021,703"/>
+				<TextEquiv>
+					<Unicode>ירושלים, שנה א, החוב' א, טבת תש&quot;י(פברואר 0,,,עמ' 11/7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_340_236_910_236_910_315_340_315" custom="structure {type:text;}">
+			<Coords points="340,236 910,236 910,315 340,315"/>
+			<TextLine id="eSc_line_340_236_910_236_910_315_340_315" custom="structure {type:default;}">
+				<Coords points="340,236 910,236 910,315 340,315"/>
+				<Baseline points="340,315 910,315"/>
+				<TextEquiv>
+					<Unicode>אדמת הקובות השבויה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

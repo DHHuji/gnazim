@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0971.tif">
+		<TextRegion id="eSc_region_959_138_1191_138_1191_201_959_201" custom="structure {type:text;}">
+			<Coords points="959,138 1191,138 1191,201 959,201"/>
+			<TextLine id="eSc_line_959_138_1191_138_1191_201_959_201" custom="structure {type:default;}">
+				<Coords points="959,138 1191,138 1191,201 959,201"/>
+				<Baseline points="959,201 1191,201"/>
+				<TextEquiv>
+					<Unicode>גורי חייםס &lt;----+4----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_386_273_1003_273_1003_460_386_460" custom="structure {type:text;}">
+			<Coords points="386,273 1003,273 1003,460 386,460"/>
+			<TextLine id="eSc_line_386_273_1003_273_1003_460_386_460" custom="structure {type:default;}">
+				<Coords points="386,273 1003,273 1003,460 386,460"/>
+				<Baseline points="386,460 1003,460"/>
+				<TextEquiv>
+					<Unicode>הכופרים,- המזגרילים.- סוף הקיץ( שלוע רשיפת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_382_635_1244_635_1244_699_382_699" custom="structure {type:text;}">
+			<Coords points="382,635 1244,635 1244,699 382,699"/>
+			<TextLine id="eSc_line_382_635_1244_635_1244_699_382_699" custom="structure {type:default;}">
+				<Coords points="382,635 1244,635 1244,699 382,699"/>
+				<Baseline points="382,699 1244,699"/>
+				<TextEquiv>
+					<Unicode>דבר, כשש, כס אלול השל&quot;ו,(24,9.76+, עס&quot; 43</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

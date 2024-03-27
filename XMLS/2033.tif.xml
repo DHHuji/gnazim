@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2033.tif">
+		<TextRegion id="eSc_region_932_59_1185_59_1185_121_932_121" custom="structure {type:text;}">
+			<Coords points="932,59 1185,59 1185,121 932,121"/>
+			<TextLine id="eSc_line_932_59_1185_59_1185_121_932_121" custom="structure {type:default;}">
+				<Coords points="932,59 1185,59 1185,121 932,121"/>
+				<Baseline points="932,121 1185,121"/>
+				<TextEquiv>
+					<Unicode>ורי,בהיים ורי,בהיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_909_274_1056_274_1056_325_909_325" custom="structure {type:text;}">
+			<Coords points="909,274 1056,274 1056,325 909,325"/>
+			<TextLine id="eSc_line_909_274_1056_274_1056_325_909_325" custom="structure {type:default;}">
+				<Coords points="909,274 1056,274 1056,325 909,325"/>
+				<Baseline points="909,325 1056,325"/>
+				<TextEquiv>
+					<Unicode>הי
+
+וונה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

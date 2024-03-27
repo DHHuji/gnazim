@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1848.tif">
+		<TextRegion id="eSc_region_809_61_1101_61_1101_140_809_140" custom="structure {type:text;}">
+			<Coords points="809,61 1101,61 1101,140 809,140"/>
+			<TextLine id="eSc_line_809_61_1101_61_1101_140_809_140" custom="structure {type:default;}">
+				<Coords points="809,61 1101,61 1101,140 809,140"/>
+				<Baseline points="809,140 1101,140"/>
+				<TextEquiv>
+					<Unicode>חיים גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_114_549_1204_549_1204_628_114_628" custom="structure {type:text;}">
+			<Coords points="114,549 1204,549 1204,628 114,628"/>
+			<TextLine id="eSc_line_114_549_1204_549_1204_628_114_628" custom="structure {type:default;}">
+				<Coords points="114,549 1204,549 1204,628 114,628"/>
+				<Baseline points="114,628 1204,628"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרות, א סבת תסל&quot;ו,(5.12.75),עמ 357</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_252_217_865_217_865_396_252_396" custom="structure {type:text;}">
+			<Coords points="252,217 865,217 865,396 252,396"/>
+			<TextLine id="eSc_line_252_217_865_217_865_396_252_396" custom="structure {type:default;}">
+				<Coords points="252,217 865,217 865,396 252,396"/>
+				<Baseline points="252,396 865,396"/>
+				<TextEquiv>
+					<Unicode>פרקים מוידויי חצות (ב)
+
+( גם על אלתרסן |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

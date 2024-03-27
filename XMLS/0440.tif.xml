@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0440.tif">
+		<TextRegion id="eSc_region_936_97_1254_97_1254_179_936_179" custom="structure {type:text;}">
+			<Coords points="936,97 1254,97 1254,179 936,179"/>
+			<TextLine id="eSc_line_936_97_1254_97_1254_179_936_179" custom="structure {type:default;}">
+				<Coords points="936,97 1254,97 1254,179 936,179"/>
+				<Baseline points="936,179 1254,179"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 4 גורי חיים
+= --3-------- 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_262_263_1104_263_1104_421_262_421" custom="structure {type:text;}">
+			<Coords points="262,263 1104,263 1104,421 262,421"/>
+			<TextLine id="eSc_line_262_263_1104_263_1104_421_262_421" custom="structure {type:default;}">
+				<Coords points="262,263 1104,263 1104,421 262,421"/>
+				<Baseline points="262,421 1104,421"/>
+				<TextEquiv>
+					<Unicode>בערב, בפכתש החולי, והלאה ‏ [מדור:רשימות סוף השבוע, חתום: הגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

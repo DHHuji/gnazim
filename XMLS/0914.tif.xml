@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0914.tif">
+		<TextRegion id="eSc_region_923_553_1257_553_1257_685_923_685" custom="structure {type:text;}">
+			<Coords points="923,553 1257,553 1257,685 923,685"/>
+			<TextLine id="eSc_line_923_553_1257_553_1257_685_923_685" custom="structure {type:default;}">
+				<Coords points="923,553 1257,553 1257,685 923,685"/>
+				<Baseline points="923,685 1257,685"/>
+				<TextEquiv>
+					<Unicode>במַעלה, גל' כרך כג,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_327_38_1239_38_1239_387_327_387" custom="structure {type:text;}">
+			<Coords points="327,38 1239,38 1239,387 327,387"/>
+			<TextLine id="eSc_line_327_38_1239_38_1239_387_327_387" custom="structure {type:default;}">
+				<Coords points="327,38 1239,38 1239,387 327,387"/>
+				<Baseline points="327,387 1239,387"/>
+				<TextEquiv>
+					<Unicode>גורי, ת&quot;ם(יעמר העם ויקדש את המעט[נקמנו את מותכם המר והב'[כי שוב עולה שיר *אנחנו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_382_384_857_384_857_634_382_634" custom="structure {type:text;}">
+			<Coords points="382,384 857,384 857,634 382,634"/>
+			<TextLine id="eSc_line_382_384_857_384_857_634_382_634" custom="structure {type:default;}">
+				<Coords points="382,384 857,384 857,634 382,634"/>
+				<Baseline points="382,634 857,634"/>
+				<TextEquiv>
+					<Unicode>)
+מ
+ת
+
+1
+
+ך
+
+*ע
+
+ש
+
+ו
+
+ר
+
+( .
+
+[שי
+רים]
+
+9-
+,
+
+ט
+
+בע&quot;
+
+ר
+ת
+
+ש
+
+י
+
+.
+
+ג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

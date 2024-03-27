@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1925.tif">
+		<TextRegion id="eSc_region_269_508_1051_508_1051_722_269_722" custom="structure {type:text;}">
+			<Coords points="269,508 1051,508 1051,722 269,722"/>
+			<TextLine id="eSc_line_269_508_1051_508_1051_722_269_722" custom="structure {type:default;}">
+				<Coords points="269,508 1051,508 1051,722 269,722"/>
+				<Baseline points="269,722 1051,722"/>
+				<TextEquiv>
+					<Unicode>בר,.כ-אדר הלפת )ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_488_232_831_232_831_306_488_306" custom="structure {type:text;}">
+			<Coords points="488,232 831,232 831,306 488,306"/>
+			<TextLine id="eSc_line_488_232_831_232_831_306_488_306" custom="structure {type:default;}">
+				<Coords points="488,232 831,232 831,306 488,306"/>
+				<Baseline points="488,306 831,306"/>
+				<TextEquiv>
+					<Unicode>הנאה בוד עאל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

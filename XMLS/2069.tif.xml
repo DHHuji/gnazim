@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2069.tif">
+		<TextRegion id="eSc_region_946_21_1203_21_1203_96_946_96" custom="structure {type:text;}">
+			<Coords points="946,21 1203,21 1203,96 946,96"/>
+			<TextLine id="eSc_line_946_21_1203_21_1203_96_946_96" custom="structure {type:default;}">
+				<Coords points="946,21 1203,21 1203,96 946,96"/>
+				<Baseline points="946,96 1203,96"/>
+				<TextEquiv>
+					<Unicode>ים גורי,חי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_54_475_1122_475_1122_696_54_696" custom="structure {type:text;}">
+			<Coords points="54,475 1122,475 1122,696 54,696"/>
+			<TextLine id="eSc_line_54_475_1122_475_1122_696_54_696" custom="structure {type:default;}">
+				<Coords points="54,475 1122,475 1122,696 54,696"/>
+				<Baseline points="54,696 1122,696"/>
+				<TextEquiv>
+					<Unicode>יריעטוה אהרונוה,ספרוה.יר ניסן הש&quot;ן0.4.1900עצמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_628_192_998_192_998_319_628_319" custom="structure {type:text;}">
+			<Coords points="628,192 998,192 998,319 628,319"/>
+			<TextLine id="eSc_line_628_192_998_192_998_319_628_319" custom="structure {type:default;}">
+				<Coords points="628,192 998,192 998,319 628,319"/>
+				<Baseline points="628,319 998,319"/>
+				<TextEquiv>
+					<Unicode>טיר המעלות
+נטיר\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

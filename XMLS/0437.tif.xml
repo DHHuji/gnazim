@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0437.tif">
+		<TextRegion id="eSc_region_926_110_1220_110_1220_185_926_185" custom="structure {type:text;}">
+			<Coords points="926,110 1220,110 1220,185 926,185"/>
+			<TextLine id="eSc_line_926_110_1220_110_1220_185_926_185" custom="structure {type:default;}">
+				<Coords points="926,110 1220,110 1220,185 926,185"/>
+				<Baseline points="926,185 1220,185"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;---=----=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_419_299_1113_299_1113_437_419_437" custom="structure {type:text;}">
+			<Coords points="419,299 1113,299 1113,437 419,437"/>
+			<TextLine id="eSc_line_419_299_1113_299_1113_437_419_437" custom="structure {type:default;}">
+				<Coords points="419,299 1113,299 1113,437 419,437"/>
+				<Baseline points="419,437 1113,437"/>
+				<TextEquiv>
+					<Unicode>בעקבות הטיהה עם פזיז עתאדהמרשימוה סוף השבול, חתום: ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_645_593_1239_593_1239_674_645_674" custom="structure {type:text;}">
+			<Coords points="645,593 1239,593 1239,674 645,674"/>
+			<TextLine id="eSc_line_645_593_1239_593_1239_674_645_674" custom="structure {type:default;}">
+				<Coords points="645,593 1239,593 1239,674 645,674"/>
+				<Baseline points="645,674 1239,674"/>
+				<TextEquiv>
+					<Unicode>למרחב,31.1.1969, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

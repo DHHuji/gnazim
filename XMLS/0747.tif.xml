@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0747.tif">
+		<TextRegion id="eSc_region_672_316_854_316_854_368_672_368" custom="structure {type:text;}">
+			<Coords points="672,316 854,316 854,368 672,368"/>
+			<TextLine id="eSc_line_672_316_854_316_854_368_672_368" custom="structure {type:default;}">
+				<Coords points="672,316 854,316 854,368 672,368"/>
+				<Baseline points="672,368 854,368"/>
+				<TextEquiv>
+					<Unicode>זה הסתיו זה הסתיו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_209_623_1050_623_1050_826_209_826" custom="structure {type:text;}">
+			<Coords points="209,623 1050,623 1050,826 209,826"/>
+			<TextLine id="eSc_line_209_623_1050_623_1050_826_209_826" custom="structure {type:default;}">
+				<Coords points="209,623 1050,623 1050,826 209,826"/>
+				<Baseline points="209,826 1050,826"/>
+				<TextEquiv>
+					<Unicode>בשקר, בסאון החסיבה הצעירה, 30.9.48, ע&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

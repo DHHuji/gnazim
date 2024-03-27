@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1621.tif">
+		<TextRegion id="eSc_region_857_16_1130_16_1130_104_857_104" custom="structure {type:text;}">
+			<Coords points="857,16 1130,16 1130,104 857,104"/>
+			<TextLine id="eSc_line_857_16_1130_16_1130_104_857_104" custom="structure {type:default;}">
+				<Coords points="857,16 1130,16 1130,104 857,104"/>
+				<Baseline points="857,104 1130,104"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_417_187_1140_187_1140_379_417_379" custom="structure {type:text;}">
+			<Coords points="417,187 1140,187 1140,379 417,379"/>
+			<TextLine id="eSc_line_417_187_1140_187_1140_379_417_379" custom="structure {type:default;}">
+				<Coords points="417,187 1140,187 1140,379 417,379"/>
+				<Baseline points="417,379 1140,379"/>
+				<TextEquiv>
+					<Unicode>(עכסיו כסהוא איננו,-)דברים עם כותו סל אמיר גלבע</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_244_521_1126_521_1126_729_244_729" custom="structure {type:text;}">
+			<Coords points="244,521 1126,521 1126,729 244,729"/>
+			<TextLine id="eSc_line_244_521_1126_521_1126_729_244_729" custom="structure {type:default;}">
+				<Coords points="244,521 1126,521 1126,729 244,729"/>
+				<Baseline points="244,729 1126,729"/>
+				<TextEquiv>
+					<Unicode>דבר.לכא.י אלול כלמד./7.9.169 עמסו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

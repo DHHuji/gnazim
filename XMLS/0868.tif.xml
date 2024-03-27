@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0868.tif">
+		<TextRegion id="eSc_region_910_93_1205_93_1205_171_910_171" custom="structure {type:text;}">
+			<Coords points="910,93 1205,93 1205,171 910,171"/>
+			<TextLine id="eSc_line_910_93_1205_93_1205_171_910_171" custom="structure {type:default;}">
+				<Coords points="910,93 1205,93 1205,171 910,171"/>
+				<Baseline points="910,171 1205,171"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_286_291_1075_291_1075_438_286_438" custom="structure {type:text;}">
+			<Coords points="286,291 1075,291 1075,438 286,438"/>
+			<TextLine id="eSc_line_286_291_1075_291_1075_438_286_438" custom="structure {type:default;}">
+				<Coords points="286,291 1075,291 1075,438 286,438"/>
+				<Baseline points="286,438 1075,438"/>
+				<TextEquiv>
+					<Unicode>&quot;יבול העתונות היומית סיום...&quot;(פה אופרים?) ( חתום חגי\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_307_597_971_597_971_676_307_676" custom="structure {type:text;}">
+			<Coords points="307,597 971,597 971,676 307,676"/>
+			<TextLine id="eSc_line_307_597_971_597_971_676_307_676" custom="structure {type:default;}">
+				<Coords points="307,597 971,597 971,676 307,676"/>
+				<Baseline points="307,676 971,676"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 17.12,1957, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

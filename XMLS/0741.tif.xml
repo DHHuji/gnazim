@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0741.tif">
+		<TextRegion id="eSc_region_1001_100_1232_100_1232_168_1001_168" custom="structure {type:text;}">
+			<Coords points="1001,100 1232,100 1232,168 1001,168"/>
+			<TextLine id="eSc_line_1001_100_1232_100_1232_168_1001_168" custom="structure {type:default;}">
+				<Coords points="1001,100 1232,100 1232,168 1001,168"/>
+				<Baseline points="1001,168 1232,168"/>
+				<TextEquiv>
+					<Unicode>גורי, היי6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_204_529_864_529_864_642_204_642" custom="structure {type:text;}">
+			<Coords points="204,529 864,529 864,642 204,642"/>
+			<TextLine id="eSc_line_204_529_864_529_864_642_204_642" custom="structure {type:default;}">
+				<Coords points="204,529 864,529 864,642 204,642"/>
+				<Baseline points="204,642 864,642"/>
+				<TextEquiv>
+					<Unicode>6/במחנה, גל' 80, 1.8.1950, עם ‏ 12</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_229_255_1076_255_1076_409_229_409" custom="structure {type:text;}">
+			<Coords points="229,255 1076,255 1076,409 229,409"/>
+			<TextLine id="eSc_line_229_255_1076_255_1076_409_229_409" custom="structure {type:default;}">
+				<Coords points="229,255 1076,255 1076,409 229,409"/>
+				<Baseline points="229,409 1076,409"/>
+				<TextEquiv>
+					<Unicode>--
+&quot;וחקז את ראשו בידת, וראטו -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

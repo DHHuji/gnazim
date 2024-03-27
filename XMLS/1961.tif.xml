@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1961.tif">
+		<TextRegion id="eSc_region_938_141_1161_141_1161_196_938_196" custom="structure {type:text;}">
+			<Coords points="938,141 1161,141 1161,196 938,196"/>
+			<TextLine id="eSc_line_938_141_1161_141_1161_196_938_196" custom="structure {type:default;}">
+				<Coords points="938,141 1161,141 1161,196 938,196"/>
+				<Baseline points="938,196 1161,196"/>
+				<TextEquiv>
+					<Unicode>גורי,ריים גורי,ריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_376_383_863_383_863_433_376_433" custom="structure {type:text;}">
+			<Coords points="376,383 863,383 863,433 376,433"/>
+			<TextLine id="eSc_line_376_383_863_383_863_433_376_433" custom="structure {type:default;}">
+				<Coords points="376,383 863,383 863,433 376,433"/>
+				<Baseline points="376,433 863,433"/>
+				<TextEquiv>
+					<Unicode>ררהוב, רפולימיקר, ררילר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

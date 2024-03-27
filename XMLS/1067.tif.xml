@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1067.tif">
+		<TextRegion id="eSc_region_958_107_1259_107_1259_183_958_183" custom="structure {type:text;}">
+			<Coords points="958,107 1259,107 1259,183 958,183"/>
+			<TextLine id="eSc_line_958_107_1259_107_1259_183_958_183" custom="structure {type:default;}">
+				<Coords points="958,107 1259,107 1259,183 958,183"/>
+				<Baseline points="958,183 1259,183"/>
+				<TextEquiv>
+					<Unicode>- גווי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_634_263_1040_263_1040_411_634_411" custom="structure {type:text;}">
+			<Coords points="634,263 1040,263 1040,411 634,411"/>
+			<TextLine id="eSc_line_634_263_1040_263_1040_411_634_411" custom="structure {type:default;}">
+				<Coords points="634,263 1040,263 1040,411 634,411"/>
+				<Baseline points="634,411 1040,411"/>
+				<TextEquiv>
+					<Unicode>לטן, משה דיין ?חתום. חגי.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_649_589_1240_589_1240_668_649_668" custom="structure {type:text;}">
+			<Coords points="649,589 1240,589 1240,668 649,668"/>
+			<TextLine id="eSc_line_649_589_1240_589_1240_668_649_668" custom="structure {type:default;}">
+				<Coords points="649,589 1240,589 1240,668 649,668"/>
+				<Baseline points="649,668 1240,668"/>
+				<TextEquiv>
+					<Unicode>צמ' 2
+טפו..ו;,
+יל
+למרחב, (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

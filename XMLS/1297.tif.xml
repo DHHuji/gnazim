@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1297.tif">
+		<TextRegion id="eSc_region_43_0_1252_0_1252_447_43_447" custom="structure {type:text;}">
+			<Coords points="43,0 1252,0 1252,447 43,447"/>
+			<TextLine id="eSc_line_43_0_1252_0_1252_447_43_447" custom="structure {type:default;}">
+				<Coords points="43,0 1252,0 1252,447 43,447"/>
+				<Baseline points="43,447 1252,447"/>
+				<TextEquiv>
+					<Unicode>גורי, חייםהפסמך האחרון (פול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_250_543_1042_543_1042_872_250_872" custom="structure {type:text;}">
+			<Coords points="250,543 1042,543 1042,872 250,872"/>
+			<TextLine id="eSc_line_250_543_1042_543_1042_872_250_872" custom="structure {type:default;}">
+				<Coords points="250,543 1042,543 1042,872 250,872"/>
+				<Baseline points="250,872 1042,872"/>
+				<TextEquiv>
+					<Unicode>למרחב, 27.7,1961, עס' 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

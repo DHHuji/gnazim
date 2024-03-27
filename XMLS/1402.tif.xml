@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1402.tif">
+		<TextRegion id="eSc_region_948_132_1172_132_1172_188_948_188" custom="structure {type:text;}">
+			<Coords points="948,132 1172,132 1172,188 948,188"/>
+			<TextLine id="eSc_line_948_132_1172_132_1172_188_948_188" custom="structure {type:default;}">
+				<Coords points="948,132 1172,132 1172,188 948,188"/>
+				<Baseline points="948,188 1172,188"/>
+				<TextEquiv>
+					<Unicode>גורי,ריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_422_436_774_436_774_491_422_491" custom="structure {type:text;}">
+			<Coords points="422,436 774,436 774,491 422,491"/>
+			<TextLine id="eSc_line_422_436_774_436_774_491_422_491" custom="structure {type:default;}">
+				<Coords points="422,436 774,436 774,491 422,491"/>
+				<Baseline points="422,491 774,491"/>
+				<TextEquiv>
+					<Unicode>וכריס, רזום:תגי|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_489_380_779_380_779_428_489_428" custom="structure {type:text;}">
+			<Coords points="489,380 779,380 779,428 489,428"/>
+			<TextLine id="eSc_line_489_380_779_380_779_428_489_428" custom="structure {type:default;}">
+				<Coords points="489,380 779,380 779,428 489,428"/>
+				<Baseline points="489,428 779,428"/>
+				<TextEquiv>
+					<Unicode>&quot;הבבטר-הרדק&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

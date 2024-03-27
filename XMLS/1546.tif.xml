@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1546.tif">
+		<TextRegion id="eSc_region_968_110_1255_110_1255_185_968_185" custom="structure {type:text;}">
+			<Coords points="968,110 1255,110 1255,185 968,185"/>
+			<TextLine id="eSc_line_968_110_1255_110_1255_185_968_185" custom="structure {type:default;}">
+				<Coords points="968,110 1255,110 1255,185 968,185"/>
+				<Baseline points="968,185 1255,185"/>
+				<TextEquiv>
+					<Unicode>גוריעג. חיים גוריעג. חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_286_285_1132_285_1132_524_286_524" custom="structure {type:text;}">
+			<Coords points="286,285 1132,285 1132,524 286,524"/>
+			<TextLine id="eSc_line_286_285_1132_285_1132_524_286_524" custom="structure {type:default;}">
+				<Coords points="286,285 1132,285 1132,524 286,524"/>
+				<Baseline points="286,524 1132,524"/>
+				<TextEquiv>
+					<Unicode>הספר, הגבינות, היין, האוייב ‏ !בעיר קסנה על הוף ההכלת [חתום:\. יציפ *\אצרי צי) ₪ - 0 יא</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

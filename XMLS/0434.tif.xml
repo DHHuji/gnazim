@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0434.tif">
+		<TextRegion id="eSc_region_987_159_1220_159_1220_224_987_224" custom="structure {type:text;}">
+			<Coords points="987,159 1220,159 1220,224 987,224"/>
+			<TextLine id="eSc_line_987_159_1220_159_1220_224_987_224" custom="structure {type:default;}">
+				<Coords points="987,159 1220,159 1220,224 987,224"/>
+				<Baseline points="987,224 1220,224"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_209_493_1191_493_1191_563_209_563" custom="structure {type:text;}">
+			<Coords points="209,493 1191,493 1191,563 209,563"/>
+			<TextLine id="eSc_line_209_493_1191_493_1191_563_209_563" custom="structure {type:default;}">
+				<Coords points="209,493 1191,493 1191,563 209,563"/>
+				<Baseline points="209,563 1191,563"/>
+				<TextEquiv>
+					<Unicode>רכר, רבר הסבוץ, כה ניסן תס&quot;ם,(11,4.80), למ&quot; 5/4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_661_299_1111_299_1111_356_661_356" custom="structure {type:text;}">
+			<Coords points="661,299 1111,299 1111,356 661,356"/>
+			<TextLine id="eSc_line_661_299_1111_299_1111_356_661_356" custom="structure {type:default;}">
+				<Coords points="661,299 1111,299 1111,356 661,356"/>
+				<Baseline points="661,356 1111,356"/>
+				<TextEquiv>
+					<Unicode>בץקבות הרק,דניתה האבודה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

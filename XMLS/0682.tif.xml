@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0682.tif">
+		<TextRegion id="eSc_region_855_122_1084_122_1084_187_855_187" custom="structure {type:text;}">
+			<Coords points="855,122 1084,122 1084,187 855,187"/>
+			<TextLine id="eSc_line_855_122_1084_122_1084_187_855_187" custom="structure {type:default;}">
+				<Coords points="855,122 1084,122 1084,187 855,187"/>
+				<Baseline points="855,187 1084,187"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_143_252_942_252_942_433_143_433" custom="structure {type:text;}">
+			<Coords points="143,252 942,252 942,433 143,433"/>
+			<TextLine id="eSc_line_143_252_942_252_942_433_143_433" custom="structure {type:default;}">
+				<Coords points="143,252 942,252 942,433 143,433"/>
+				<Baseline points="143,433 942,433"/>
+				<TextEquiv>
+					<Unicode>הקרכה מחודשסת (מרור רשימות סוף שבוץ)\ חתו ם הגו ר2- -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_424_599_1104_599_1104_672_424_672" custom="structure {type:text;}">
+			<Coords points="424,599 1104,599 1104,672 424,672"/>
+			<TextLine id="eSc_line_424_599_1104_599_1104_672_424_672" custom="structure {type:default;}">
+				<Coords points="424,599 1104,599 1104,672 424,672"/>
+				<Baseline points="424,672 1104,672"/>
+				<TextEquiv>
+					<Unicode>דגר, כח אייר תשל&quot;ה,(9.5.75),?ם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

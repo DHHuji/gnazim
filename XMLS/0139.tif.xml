@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0139.tif">
+		<TextRegion id="eSc_region_839_107_1159_107_1159_172_839_172" custom="structure {type:text;}">
+			<Coords points="839,107 1159,107 1159,172 839,172"/>
+			<TextLine id="eSc_line_839_107_1159_107_1159_172_839_172" custom="structure {type:default;}">
+				<Coords points="839,107 1159,107 1159,172 839,172"/>
+				<Baseline points="839,172 1159,172"/>
+				<TextEquiv>
+					<Unicode>גורין חיים 2-7 ה-א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_162_325_1212_325_1212_453_162_453" custom="structure {type:text;}">
+			<Coords points="162,325 1212,325 1212,453 162,453"/>
+			<TextLine id="eSc_line_162_325_1212_325_1212_453_162_453" custom="structure {type:default;}">
+				<Coords points="162,325 1212,325 1212,453 162,453"/>
+				<Baseline points="162,453 1212,453"/>
+				<TextEquiv>
+					<Unicode>ריון, משחתפים הנ&quot;ל, ם.יזהר, א,אמיר,ס,שפרה ועוד, , ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_129_607_1154_607_1154_673_129_673" custom="structure {type:text;}">
+			<Coords points="129,607 1154,607 1154,673 129,673"/>
+			<TextLine id="eSc_line_129_607_1154_607_1154_673_129_673" custom="structure {type:default;}">
+				<Coords points="129,607 1154,607 1154,673 129,673"/>
+				<Baseline points="129,673 1154,673"/>
+				<TextEquiv>
+					<Unicode>קסה, עגנה 6!, תוב סב, הורף, תשל&quot;ד, (1974), עם 48/5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

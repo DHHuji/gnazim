@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1808.tif">
+		<TextRegion id="eSc_region_250_0_1263_0_1263_872_250_872" custom="structure {type:text;}">
+			<Coords points="250,0 1263,0 1263,872 250,872"/>
+			<TextLine id="eSc_line_250_0_1263_0_1263_872_250_872" custom="structure {type:default;}">
+				<Coords points="250,0 1263,0 1263,872 250,872"/>
+				<Baseline points="250,872 1263,872"/>
+				<TextEquiv>
+					<Unicode>גורי, חייש מעריב, גורי, חיישמעריב,פביםמיכסף, ו6.7שמהותוושימה]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

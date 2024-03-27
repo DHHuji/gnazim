@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0691.tif">
+		<TextRegion id="eSc_region_936_130_1177_130_1177_202_936_202" custom="structure {type:text;}">
+			<Coords points="936,130 1177,130 1177,202 936,202"/>
+			<TextLine id="eSc_line_936_130_1177_130_1177_202_936_202" custom="structure {type:default;}">
+				<Coords points="936,130 1177,130 1177,202 936,202"/>
+				<Baseline points="936,202 1177,202"/>
+				<TextEquiv>
+					<Unicode>ים גורי,תיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_548_381_850_381_850_510_548_510" custom="structure {type:text;}">
+			<Coords points="548,381 850,381 850,510 548,510"/>
+			<TextLine id="eSc_line_548_381_850_381_850_510_548_510" custom="structure {type:default;}">
+				<Coords points="548,381 850,381 850,510 548,510"/>
+				<Baseline points="548,510 850,510"/>
+				<TextEquiv>
+					<Unicode>רררגל ורחרות[רסיבר|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_681_620_1278_620_1278_692_681_692" custom="structure {type:text;}">
+			<Coords points="681,620 1278,620 1278,692 681,692"/>
+			<TextLine id="eSc_line_681_620_1278_620_1278_692_681_692" custom="structure {type:default;}">
+				<Coords points="681,620 1278,620 1278,692 681,692"/>
+				<Baseline points="681,692 1278,692"/>
+				<TextEquiv>
+					<Unicode>פא,999
+לכרהב,כפ&quot;ח,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

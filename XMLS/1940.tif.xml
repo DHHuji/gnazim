@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1940.tif">
+		<TextRegion id="eSc_region_786_47_1012_47_1012_110_786_110" custom="structure {type:text;}">
+			<Coords points="786,47 1012,47 1012,110 786,110"/>
+			<TextLine id="eSc_line_786_47_1012_47_1012_110_786_110" custom="structure {type:default;}">
+				<Coords points="786,47 1012,47 1012,110 786,110"/>
+				<Baseline points="786,110 1012,110"/>
+				<TextEquiv>
+					<Unicode>חיים גורין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_310_522_1068_522_1068_586_310_586" custom="structure {type:text;}">
+			<Coords points="310,522 1068,522 1068,586 310,586"/>
+			<TextLine id="eSc_line_310_522_1068_522_1068_586_310_586" custom="structure {type:default;}">
+				<Coords points="310,522 1068,522 1068,586 310,586"/>
+				<Baseline points="310,586 1068,586"/>
+				<TextEquiv>
+					<Unicode>דבר, ה' טשון תשל&quot;ז,(29.10.70), עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_461_245_805_245_805_306_461_306" custom="structure {type:text;}">
+			<Coords points="461,245 805,245 805,306 461,306"/>
+			<TextLine id="eSc_line_461_245_805_245_805_306_461_306" custom="structure {type:default;}">
+				<Coords points="461,245 805,245 805,306 461,306"/>
+				<Baseline points="461,306 805,306"/>
+				<TextEquiv>
+					<Unicode>(פדור מה אוכרים)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

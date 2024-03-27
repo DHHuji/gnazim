@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0685.tif">
+		<TextRegion id="eSc_region_912_91_1218_91_1218_182_912_182" custom="structure {type:text;}">
+			<Coords points="912,91 1218,91 1218,182 912,182"/>
+			<TextLine id="eSc_line_912_91_1218_91_1218_182_912_182" custom="structure {type:default;}">
+				<Coords points="912,91 1218,91 1218,182 912,182"/>
+				<Baseline points="912,182 1218,182"/>
+				<TextEquiv>
+					<Unicode>גורי,. חיים 05-פבר גורי,. חיים
+2-5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_152_258_705_258_705_359_152_359" custom="structure {type:text;}">
+			<Coords points="152,258 705,258 705,359 152,359"/>
+			<TextLine id="eSc_line_152_258_705_258_705_359_152_359" custom="structure {type:default;}">
+				<Coords points="152,258 705,258 705,359 152,359"/>
+				<Baseline points="152,359 705,359"/>
+				<TextEquiv>
+					<Unicode>[מהוך &quot;הספר המשוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

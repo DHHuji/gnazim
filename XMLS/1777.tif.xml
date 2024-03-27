@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1777.tif">
+		<TextRegion id="eSc_region_911_93_1214_93_1214_175_911_175" custom="structure {type:text;}">
+			<Coords points="911,93 1214,93 1214,175 911,175"/>
+			<TextLine id="eSc_line_911_93_1214_93_1214_175_911_175" custom="structure {type:default;}">
+				<Coords points="911,93 1214,93 1214,175 911,175"/>
+				<Baseline points="911,175 1214,175"/>
+				<TextEquiv>
+					<Unicode>- גורי. חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_199_236_877_236_877_393_199_393" custom="structure {type:text;}">
+			<Coords points="199,236 877,236 877,393 199,393"/>
+			<TextLine id="eSc_line_199_236_877_236_877_393_199_393" custom="structure {type:default;}">
+				<Coords points="199,236 877,236 877,393 199,393"/>
+				<Baseline points="199,393 877,393"/>
+				<TextEquiv>
+					<Unicode>[על כיור בכרחבי סיני]מה פוכמרים ‎ ,7‏ חתום: ת-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_681_584_1211_584_1211_686_681_686" custom="structure {type:text;}">
+			<Coords points="681,584 1211,584 1211,686 681,686"/>
+			<TextLine id="eSc_line_681_584_1211_584_1211_686_681_686" custom="structure {type:default;}">
+				<Coords points="681,584 1211,584 1211,686 681,686"/>
+				<Baseline points="681,686 1211,686"/>
+				<TextEquiv>
+					<Unicode>דברו, 770, עמ'
+
+09</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

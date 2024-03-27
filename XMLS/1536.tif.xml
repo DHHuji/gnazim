@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1536.tif">
+		<TextRegion id="eSc_region_809_630_1252_630_1252_685_809_685" custom="structure {type:text;}">
+			<Coords points="809,630 1252,630 1252,685 809,685"/>
+			<TextLine id="eSc_line_809_630_1252_630_1252_685_809_685" custom="structure {type:default;}">
+				<Coords points="809,630 1252,630 1252,685 809,685"/>
+				<Baseline points="809,685 1252,685"/>
+				<TextEquiv>
+					<Unicode>לכרה17.9.1999,1,ככ. לכרה17.9.1999,1,ככ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_416_431_785_431_785_482_416_482" custom="structure {type:text;}">
+			<Coords points="416,431 785,431 785,482 416,482"/>
+			<TextLine id="eSc_line_416_431_785_431_785_482_416_482" custom="structure {type:default;}">
+				<Coords points="416,431 785,431 785,482 416,482"/>
+				<Baseline points="416,482 785,482"/>
+				<TextEquiv>
+					<Unicode>טוכרים,ית ומ חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

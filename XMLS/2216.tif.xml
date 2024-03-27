@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2216.tif">
+		<TextRegion id="eSc_region_908_97_1229_97_1229_171_908_171" custom="structure {type:text;}">
+			<Coords points="908,97 1229,97 1229,171 908,171"/>
+			<TextLine id="eSc_line_908_97_1229_97_1229_171_908_171" custom="structure {type:default;}">
+				<Coords points="908,97 1229,97 1229,171 908,171"/>
+				<Baseline points="908,171 1229,171"/>
+				<TextEquiv>
+					<Unicode>גורי חיים --ה-----2-----=-=ול. גורי חיים
+--ה-----2-----=-=ול.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_159_585_1203_585_1203_725_159_725" custom="structure {type:text;}">
+			<Coords points="159,585 1203,585 1203,725 159,725"/>
+			<TextLine id="eSc_line_159_585_1203_585_1203_725_159_725" custom="structure {type:default;}">
+				<Coords points="159,585 1203,585 1203,725 159,725"/>
+				<Baseline points="159,725 1203,725"/>
+				<TextEquiv>
+					<Unicode>במחנה,כוך כ&quot;ו,תשוי השל&quot;ב,ו20.9.7,גליון 3עמ' 3ו-כו\ :יק</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

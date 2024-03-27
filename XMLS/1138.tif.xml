@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1138.tif">
+		<TextRegion id="eSc_region_668_0_1238_0_1238_146_668_146" custom="structure {type:text;}">
+			<Coords points="668,0 1238,0 1238,146 668,146"/>
+			<TextLine id="eSc_line_668_0_1238_0_1238_146_668_146" custom="structure {type:default;}">
+				<Coords points="668,0 1238,0 1238,146 668,146"/>
+				<Baseline points="668,146 1238,146"/>
+				<TextEquiv>
+					<Unicode>ומ | ((20) ומ | ((20)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_420_664_970_664_970_840_420_840" custom="structure {type:text;}">
+			<Coords points="420,664 970,664 970,840 420,840"/>
+			<TextLine id="eSc_line_420_664_970_664_970_840_420_840" custom="structure {type:default;}">
+				<Coords points="420,664 970,664 970,840 420,840"/>
+				<Baseline points="420,840 970,840"/>
+				<TextEquiv>
+					<Unicode>/ 9 20 06 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

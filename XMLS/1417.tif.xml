@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1417.tif">
+		<TextRegion id="eSc_region_949_15_1219_15_1219_97_949_97" custom="structure {type:text;}">
+			<Coords points="949,15 1219,15 1219,97 949,97"/>
+			<TextLine id="eSc_line_949_15_1219_15_1219_97_949_97" custom="structure {type:default;}">
+				<Coords points="949,15 1219,15 1219,97 949,97"/>
+				<Baseline points="949,97 1219,97"/>
+				<TextEquiv>
+					<Unicode>וריברהריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_438_525_1215_525_1215_727_438_727" custom="structure {type:text;}">
+			<Coords points="438,525 1215,525 1215,727 438,727"/>
+			<TextLine id="eSc_line_438_525_1215_525_1215_727_438_727" custom="structure {type:default;}">
+				<Coords points="438,525 1215,525 1215,727 438,727"/>
+				<Baseline points="438,727 1215,727"/>
+				<TextEquiv>
+					<Unicode>דבר. ו אלור תלמד,3.9.!0%94 עמ[</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_515_183_1036_183_1036_253_515_253" custom="structure {type:text;}">
+			<Coords points="515,183 1036,183 1036,253 515,253"/>
+			<TextLine id="eSc_line_515_183_1036_183_1036_253_515_253" custom="structure {type:default;}">
+				<Coords points="515,183 1036,183 1036,253 515,253"/>
+				<Baseline points="515,253 1036,253"/>
+				<TextEquiv>
+					<Unicode>מה הנכסורר טממיר גדבע</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

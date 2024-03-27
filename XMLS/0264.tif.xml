@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0264.tif">
+		<TextRegion id="eSc_region_133_0_1028_0_1028_743_133_743" custom="structure {type:text;}">
+			<Coords points="133,0 1028,0 1028,743 133,743"/>
+			<TextLine id="eSc_line_133_0_1028_0_1028_743_133_743" custom="structure {type:default;}">
+				<Coords points="133,0 1028,0 1028,743 133,743"/>
+				<Baseline points="133,743 1028,743"/>
+				<TextEquiv>
+					<Unicode>גורי,חייס , גורי,חייס,באין מחלפות, על הגדרעל נתן אלתרמן,יצחק שדהגם על צמוס צוז,דבר.יד אייר ח0מס1!19.5.1!9809 עמ156 ₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

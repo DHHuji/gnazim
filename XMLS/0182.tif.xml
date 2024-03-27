@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0182.tif">
+		<TextRegion id="eSc_region_952_18_1208_18_1208_91_952_91" custom="structure {type:text;}">
+			<Coords points="952,18 1208,18 1208,91 952,91"/>
+			<TextLine id="eSc_line_952_18_1208_18_1208_91_952_91" custom="structure {type:default;}">
+				<Coords points="952,18 1208,18 1208,91 952,91"/>
+				<Baseline points="952,91 1208,91"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_392_543_1211_543_1211_740_392_740" custom="structure {type:text;}">
+			<Coords points="392,543 1211,543 1211,740 392,740"/>
+			<TextLine id="eSc_line_392_543_1211_543_1211_740_392_740" custom="structure {type:default;}">
+				<Coords points="392,543 1211,543 1211,740 392,740"/>
+				<Baseline points="392,740 1211,740"/>
+				<TextEquiv>
+					<Unicode>מעריב, כב סבס תסנאו6,2.1090 עמסו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_723_226_1008_226_1008_290_723_290" custom="structure {type:text;}">
+			<Coords points="723,226 1008,226 1008,290 723,290"/>
+			<TextLine id="eSc_line_723_226_1008_226_1008_290_723_290" custom="structure {type:default;}">
+				<Coords points="723,226 1008,226 1008,290 723,290"/>
+				<Baseline points="723,290 1008,290"/>
+				<TextEquiv>
+					<Unicode>העפה והסכה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

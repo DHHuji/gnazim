@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1805.tif">
+		<TextRegion id="eSc_region_907_58_1203_58_1203_137_907_137" custom="structure {type:text;}">
+			<Coords points="907,58 1203,58 1203,137 907,137"/>
+			<TextLine id="eSc_line_907_58_1203_58_1203_137_907_137" custom="structure {type:default;}">
+				<Coords points="907,58 1203,58 1203,137 907,137"/>
+				<Baseline points="907,137 1203,137"/>
+				<TextEquiv>
+					<Unicode>₪ גורי, חי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_489_340_962_340_962_480_489_480" custom="structure {type:text;}">
+			<Coords points="489,340 962,340 962,480 489,480"/>
+			<TextLine id="eSc_line_489_340_962_340_962_480_489_480" custom="structure {type:default;}">
+				<Coords points="489,340 962,340 962,480 489,480"/>
+				<Baseline points="489,480 962,480"/>
+				<TextEquiv>
+					<Unicode>5ניו של ז'אק סטרן(פול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_325_627_965_627_965_837_325_837" custom="structure {type:text;}">
+			<Coords points="325,627 965,627 965,837 325,837"/>
+			<TextLine id="eSc_line_325_627_965_627_965_837_325_837" custom="structure {type:default;}">
+				<Coords points="325,627 965,627 965,837 325,837"/>
+				<Baseline points="325,837 965,837"/>
+				<TextEquiv>
+					<Unicode>לסמרתב,30.6.10961 , עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

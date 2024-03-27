@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1824.tif">
+		<TextRegion id="eSc_region_867_94_1151_94_1151_166_867_166" custom="structure {type:text;}">
+			<Coords points="867,94 1151,94 1151,166 867,166"/>
+			<TextLine id="eSc_line_867_94_1151_94_1151_166_867_166" custom="structure {type:default;}">
+				<Coords points="867,94 1151,94 1151,166 867,166"/>
+				<Baseline points="867,166 1151,166"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים -1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_199_500_1184_500_1184_586_199_586" custom="structure {type:text;}">
+			<Coords points="199,500 1184,500 1184,586 199,586"/>
+			<TextLine id="eSc_line_199_500_1184_500_1184_586_199_586" custom="structure {type:default;}">
+				<Coords points="199,500 1184,500 1184,586 199,586"/>
+				<Baseline points="199,586 1184,586"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרות, ז' ארר השל&quot;ז, (15.2,77), עם&quot; 34/37</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_421_233_921_233_921_397_421_397" custom="structure {type:text;}">
+			<Coords points="421,233 921,233 921,397 421,397"/>
+			<TextLine id="eSc_line_421_233_921_233_921_397_421_397" custom="structure {type:default;}">
+				<Coords points="421,233 921,233 921,397 421,397"/>
+				<Baseline points="421,397 921,397"/>
+				<TextEquiv>
+					<Unicode>פצצות ומן
+5
+
+4 2%
+/ /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1593.tif">
+		<TextRegion id="eSc_region_911_101_1199_101_1199_175_911_175" custom="structure {type:text;}">
+			<Coords points="911,101 1199,101 1199,175 911,175"/>
+			<TextLine id="eSc_line_911_101_1199_101_1199_175_911_175" custom="structure {type:default;}">
+				<Coords points="911,101 1199,101 1199,175 911,175"/>
+				<Baseline points="911,175 1199,175"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_736_246_1071_246_1071_393_736_393" custom="structure {type:text;}">
+			<Coords points="736,246 1071,246 1071,393 736,393"/>
+			<TextLine id="eSc_line_736_246_1071_246_1071_393_736_393" custom="structure {type:default;}">
+				<Coords points="736,246 1071,246 1071,393 736,393"/>
+				<Baseline points="736,393 1071,393"/>
+				<TextEquiv>
+					<Unicode>עוד על &quot;אות&quot;חתום: חה-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_223_245_713_245_713_316_223_316" custom="structure {type:text;}">
+			<Coords points="223,245 713,245 713,316 223,316"/>
+			<TextLine id="eSc_line_223_245_713_245_713_316_223_316" custom="structure {type:default;}">
+				<Coords points="223,245 713,245 713,316 223,316"/>
+				<Baseline points="223,316 713,316"/>
+				<TextEquiv>
+					<Unicode>[|מדוור: מה אומוים ?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

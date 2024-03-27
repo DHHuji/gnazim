@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0311.tif">
+		<TextRegion id="eSc_region_952_107_1205_107_1205_173_952_173" custom="structure {type:text;}">
+			<Coords points="952,107 1205,107 1205,173 952,173"/>
+			<TextLine id="eSc_line_952_107_1205_107_1205_173_952_173" custom="structure {type:default;}">
+				<Coords points="952,107 1205,107 1205,173 952,173"/>
+				<Baseline points="952,173 1205,173"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_197_312_750_312_750_469_197_469" custom="structure {type:text;}">
+			<Coords points="197,312 750,312 750,469 197,469"/>
+			<TextLine id="eSc_line_197_312_750_312_750_469_197_469" custom="structure {type:default;}">
+				<Coords points="197,312 750,312 750,469 197,469"/>
+				<Baseline points="197,469 750,469"/>
+				<TextEquiv>
+					<Unicode>(םה אומרים?) חתוס חגי \)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_379_600_895_600_895_666_379_666" custom="structure {type:text;}">
+			<Coords points="379,600 895,600 895,666 379,666"/>
+			<TextLine id="eSc_line_379_600_895_600_895_666_379_666" custom="structure {type:default;}">
+				<Coords points="379,600 895,600 895,666 379,666"/>
+				<Baseline points="379,666 895,666"/>
+				<TextEquiv>
+					<Unicode>למרחב, 22.12.1957, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

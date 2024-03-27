@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1570.tif">
+		<TextRegion id="eSc_region_923_133_1171_133_1171_206_923_206" custom="structure {type:text;}">
+			<Coords points="923,133 1171,133 1171,206 923,206"/>
+			<TextLine id="eSc_line_923_133_1171_133_1171_206_923_206" custom="structure {type:default;}">
+				<Coords points="923,133 1171,133 1171,206 923,206"/>
+				<Baseline points="923,206 1171,206"/>
+				<TextEquiv>
+					<Unicode>גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_407_361_1027_361_1027_546_407_546" custom="structure {type:text;}">
+			<Coords points="407,361 1027,361 1027,546 407,546"/>
+			<TextLine id="eSc_line_407_361_1027_361_1027_546_407_546" custom="structure {type:default;}">
+				<Coords points="407,361 1027,361 1027,546 407,546"/>
+				<Baseline points="407,546 1027,546"/>
+				<TextEquiv>
+					<Unicode>פר עלות הסחרן;פם הופעת ספרו על חיים גוריהמבוא</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_310_660_1255_660_1255_850_310_850" custom="structure {type:text;}">
+			<Coords points="310,660 1255,660 1255,850 310,850"/>
+			<TextLine id="eSc_line_310_660_1255_660_1255_850_310_850" custom="structure {type:default;}">
+				<Coords points="310,660 1255,660 1255,850 310,850"/>
+				<Baseline points="310,850 1255,850"/>
+				<TextEquiv>
+					<Unicode>בפפער,במאון ההסיבה רצעירה,25.5.1950,עמ. 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1644.tif">
+		<TextRegion id="eSc_region_917_37_1184_37_1184_110_917_110" custom="structure {type:text;}">
+			<Coords points="917,37 1184,37 1184,110 917,110"/>
+			<TextLine id="eSc_line_917_37_1184_37_1184_110_917_110" custom="structure {type:default;}">
+				<Coords points="917,37 1184,37 1184,110 917,110"/>
+				<Baseline points="917,110 1184,110"/>
+				<TextEquiv>
+					<Unicode>גורי,חייס 1-ל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_317_541_1181_541_1181_795_317_795" custom="structure {type:text;}">
+			<Coords points="317,541 1181,541 1181,795 317,795"/>
+			<TextLine id="eSc_line_317_541_1181_541_1181_795_317_795" custom="structure {type:default;}">
+				<Coords points="317,541 1181,541 1181,795 317,795"/>
+				<Baseline points="317,795 1181,795"/>
+				<TextEquiv>
+					<Unicode>דבר,מסא,י&quot;ג ניסן השמ&quot;א,!7,4,8ועמ'</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_537_171_952_171_952_247_537_247" custom="structure {type:text;}">
+			<Coords points="537,171 952,171 952,247 537,247"/>
+			<TextLine id="eSc_line_537_171_952_171_952_247_537_247" custom="structure {type:default;}">
+				<Coords points="537,171 952,171 952,247 537,247"/>
+				<Baseline points="537,247 952,247"/>
+				<TextEquiv>
+					<Unicode>ץעל חול ולל קודס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

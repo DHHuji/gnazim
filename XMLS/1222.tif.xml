@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1222.tif">
+		<TextRegion id="eSc_region_108_0_1044_0_1044_740_108_740" custom="structure {type:text;}">
+			<Coords points="108,0 1044,0 1044,740 108,740"/>
+			<TextLine id="eSc_line_108_0_1044_0_1044_740_108_740" custom="structure {type:default;}">
+				<Coords points="108,0 1044,0 1044,740 108,740"/>
+				<Baseline points="108,740 1044,740"/>
+				<TextEquiv>
+					<Unicode>גורי,חייםס מי זה הדלי&quot; נרותח רבים? גורי,חייםסמי זה הדלי&quot; נרותח רבים?פמסיבה יומהולדת ללוין קיפניםס(חהום:ח-גי\.דבר. כא כסלו הפן 10.12.1080 עמף</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

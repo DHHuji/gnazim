@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1170.tif">
+		<TextRegion id="eSc_region_882_47_1129_47_1129_106_882_106" custom="structure {type:text;}">
+			<Coords points="882,47 1129,47 1129,106 882,106"/>
+			<TextLine id="eSc_line_882_47_1129_47_1129_106_882_106" custom="structure {type:default;}">
+				<Coords points="882,47 1129,47 1129,106 882,106"/>
+				<Baseline points="882,106 1129,106"/>
+				<TextEquiv>
+					<Unicode>גורי,.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_648_250_1042_250_1042_341_648_341" custom="structure {type:text;}">
+			<Coords points="648,250 1042,250 1042,341 648,341"/>
+			<TextLine id="eSc_line_648_250_1042_250_1042_341_648_341" custom="structure {type:default;}">
+				<Coords points="648,250 1042,250 1042,341 648,341"/>
+				<Baseline points="648,341 1042,341"/>
+				<TextEquiv>
+					<Unicode>י היצירה החשסובהיל ביאליק,ברנר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_343_242_660_242_660_342_343_342" custom="structure {type:text;}">
+			<Coords points="343,242 660,242 660,342 343,342"/>
+			<TextLine id="eSc_line_343_242_660_242_660_342_343_342" custom="structure {type:default;}">
+				<Coords points="343,242 660,242 660,342 343,342"/>
+				<Baseline points="343,342 660,342"/>
+				<TextEquiv>
+					<Unicode>ביותר-מיסאל
+אצג,אלתרפן 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

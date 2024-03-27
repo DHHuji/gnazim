@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1378.tif">
+		<TextRegion id="eSc_region_963_59_1236_59_1236_124_963_124" custom="structure {type:text;}">
+			<Coords points="963,59 1236,59 1236,124 963,124"/>
+			<TextLine id="eSc_line_963_59_1236_59_1236_124_963_124" custom="structure {type:default;}">
+				<Coords points="963,59 1236,59 1236,124 963,124"/>
+				<Baseline points="963,124 1236,124"/>
+				<TextEquiv>
+					<Unicode>. גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_101_240_1010_240_1010_344_101_344" custom="structure {type:text;}">
+			<Coords points="101,240 1010,240 1010,344 101,344"/>
+			<TextLine id="eSc_line_101_240_1010_240_1010_344_101_344" custom="structure {type:default;}">
+				<Coords points="101,240 1010,240 1010,344 101,344"/>
+				<Baseline points="101,344 1010,344"/>
+				<TextEquiv>
+					<Unicode>משאל דפים; חיים גורי: ראוי לסייע לבל פעולההמרבה תרבות עברית ויופי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_56_536_1229_536_1229_604_56_604" custom="structure {type:text;}">
+			<Coords points="56,536 1229,536 1229,604 56,604"/>
+			<TextLine id="eSc_line_56_536_1229_536_1229_604_56_604" custom="structure {type:default;}">
+				<Coords points="56,536 1229,536 1229,604 56,604"/>
+				<Baseline points="56,604 1229,604"/>
+				<TextEquiv>
+					<Unicode>דפיס,סנה יח,הוב סב,תשרי-השון תשל&quot;ד,(אוקס'-נוסם&quot; 73),עם 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

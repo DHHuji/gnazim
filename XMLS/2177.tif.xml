@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2177.tif">
+		<TextRegion id="eSc_region_959_112_1204_112_1204_184_959_184" custom="structure {type:text;}">
+			<Coords points="959,112 1204,112 1204,184 959,184"/>
+			<TextLine id="eSc_line_959_112_1204_112_1204_184_959_184" custom="structure {type:default;}">
+				<Coords points="959,112 1204,112 1204,184 959,184"/>
+				<Baseline points="959,184 1204,184"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס ---1----- גורי, חייס
+---1-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_329_491_1198_491_1198_569_329_569" custom="structure {type:text;}">
+			<Coords points="329,491 1198,491 1198,569 329,569"/>
+			<TextLine id="eSc_line_329_491_1198_491_1198_569_329_569" custom="structure {type:default;}">
+				<Coords points="329,491 1198,491 1198,569 329,569"/>
+				<Baseline points="329,569 1198,569"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרות, ערב פסח תסל ו,(2,)1.4.77מ497</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0113.tif">
+		<TextRegion id="eSc_region_875_95_1184_95_1184_168_875_168" custom="structure {type:text;}">
+			<Coords points="875,95 1184,95 1184,168 875,168"/>
+			<TextLine id="eSc_line_875_95_1184_95_1184_168_875_168" custom="structure {type:default;}">
+				<Coords points="875,95 1184,95 1184,168 875,168"/>
+				<Baseline points="875,168 1184,168"/>
+				<TextEquiv>
+					<Unicode>גורי היים == ר-+=---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_172_261_1083_261_1083_470_172_470" custom="structure {type:text;}">
+			<Coords points="172,261 1083,261 1083,470 172,470"/>
+			<TextLine id="eSc_line_172_261_1083_261_1083_470_172_470" custom="structure {type:default;}">
+				<Coords points="172,261 1083,261 1083,470 172,470"/>
+				<Baseline points="172,470 1083,470"/>
+				<TextEquiv>
+					<Unicode>אילו... ‏ ועל סכוו סל אריה אליאב:&quot;ארץ הצבי&quot;! .- - מראות גיחמה אומריט ?, חתום: ח-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_371_332_679_332_679_474_371_474" custom="structure {type:text;}">
+			<Coords points="371,332 679,332 679,474 371,474"/>
+			<TextLine id="eSc_line_371_332_679_332_679_474_371_474" custom="structure {type:default;}">
+				<Coords points="371,332 679,332 679,474 371,474"/>
+				<Baseline points="371,474 679,474"/>
+				<TextEquiv>
+					<Unicode>תום:
+
+ה-גי]
+
+מראות
+
+גיחתזי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

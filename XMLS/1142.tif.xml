@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1142.tif">
+		<TextRegion id="eSc_region_176_279_799_279_799_421_176_421" custom="structure {type:text;}">
+			<Coords points="176,279 799,279 799,421 176,421"/>
+			<TextLine id="eSc_line_176_279_799_279_799_421_176_421" custom="structure {type:default;}">
+				<Coords points="176,279 799,279 799,421 176,421"/>
+				<Baseline points="176,421 799,421"/>
+				<TextEquiv>
+					<Unicode>&quot;- - - הסגעים גמעשכים -(מה אומרים&quot;, חהום: הג )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_382_628_912_628_912_823_382_823" custom="structure {type:text;}">
+			<Coords points="382,628 912,628 912,823 382,823"/>
+			<TextLine id="eSc_line_382_628_912_628_912_823_382_823" custom="structure {type:default;}">
+				<Coords points="382,628 912,628 912,823 382,823"/>
+				<Baseline points="382,823 912,823"/>
+				<TextEquiv>
+					<Unicode>למרהב, ו13.3.60, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

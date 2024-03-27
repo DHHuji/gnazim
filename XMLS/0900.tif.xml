@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0900.tif">
+		<TextRegion id="eSc_region_0_0_1147_0_1147_760_0_760" custom="structure {type:text;}">
+			<Coords points="0,0 1147,0 1147,760 0,760"/>
+			<TextLine id="eSc_line_0_0_1147_0_1147_760_0_760" custom="structure {type:default;}">
+				<Coords points="0,0 1147,0 1147,760 0,760"/>
+				<Baseline points="0,760 1147,760"/>
+				<TextEquiv>
+					<Unicode>גורי.ו ב.חיים יחיאל דינור רהיקתר גורי.ו ב.חייםיחיאל דינור רהיקתרספרו של יסתיאל דינור פ.צסניל: &quot;הצופן:ארדבעהטולף הזה, גל 7061%4.יג חלרי תטחטטל טב 22756.1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

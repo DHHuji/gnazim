@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2090.tif">
+		<TextRegion id="eSc_region_949_117_1182_117_1182_182_949_182" custom="structure {type:text;}">
+			<Coords points="949,117 1182,117 1182,182 949,182"/>
+			<TextLine id="eSc_line_949_117_1182_117_1182_182_949_182" custom="structure {type:default;}">
+				<Coords points="949,117 1182,117 1182,182 949,182"/>
+				<Baseline points="949,182 1182,182"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_56_367_993_367_993_526_56_526" custom="structure {type:text;}">
+			<Coords points="56,367 993,367 993,526 56,526"/>
+			<TextLine id="eSc_line_56_367_993_367_993_526_56_526" custom="structure {type:default;}">
+				<Coords points="56,367 993,367 993,526 56,526"/>
+				<Baseline points="56,526 993,526"/>
+				<TextEquiv>
+					<Unicode>כלון אורחיס,-בתחנה הרכבת,- קוציס(מהוך הרחק מאלגרינה)|[שלשה סיריס (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_380_651_1234_651_1234_840_380_840" custom="structure {type:text;}">
+			<Coords points="380,651 1234,651 1234,840 380,840"/>
+			<TextLine id="eSc_line_380_651_1234_651_1234_840_380_840" custom="structure {type:default;}">
+				<Coords points="380,651 1234,651 1234,840 380,840"/>
+				<Baseline points="380,840 1234,840"/>
+				<TextEquiv>
+					<Unicode>רכר,סשא, י&quot; פבת השל&quot;ז, (31,12.76), עם&quot; דו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

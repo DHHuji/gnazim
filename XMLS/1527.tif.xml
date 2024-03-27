@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1527.tif">
+		<TextRegion id="eSc_region_710_629_1150_629_1150_699_710_699" custom="structure {type:text;}">
+			<Coords points="710,629 1150,629 1150,699 710,699"/>
+			<TextLine id="eSc_line_710_629_1150_629_1150_699_710_699" custom="structure {type:default;}">
+				<Coords points="710,629 1150,629 1150,699 710,699"/>
+				<Baseline points="710,699 1150,699"/>
+				<TextEquiv>
+					<Unicode>למרחב, !27.4.0, ע&quot; 2 למרחב, !27.4.0, ע&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_190_267_964_267_964_387_190_387" custom="structure {type:text;}">
+			<Coords points="190,267 964,267 964,387 190,387"/>
+			<TextLine id="eSc_line_190_267_964_267_964_387_190_387" custom="structure {type:default;}">
+				<Coords points="190,267 964,267 964,387 190,387"/>
+				<Baseline points="190,387 964,387"/>
+				<TextEquiv>
+					<Unicode>ס6יפור עכדי האלוהים ( על משפט -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

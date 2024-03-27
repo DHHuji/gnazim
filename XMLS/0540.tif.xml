@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0540.tif">
+		<TextRegion id="eSc_region_914_100_1197_100_1197_164_914_164" custom="structure {type:text;}">
+			<Coords points="914,100 1197,100 1197,164 914,164"/>
+			<TextLine id="eSc_line_914_100_1197_100_1197_164_914_164" custom="structure {type:default;}">
+				<Coords points="914,100 1197,100 1197,164 914,164"/>
+				<Baseline points="914,164 1197,164"/>
+				<TextEquiv>
+					<Unicode>גורין חיים =--1 = גורין חיים
+=--1 =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_364_299_687_299_687_460_364_460" custom="structure {type:text;}">
+			<Coords points="364,299 687,299 687,460 364,460"/>
+			<TextLine id="eSc_line_364_299_687_299_687_460_364_460" custom="structure {type:default;}">
+				<Coords points="364,299 687,299 687,460 364,460"/>
+				<Baseline points="364,460 687,460"/>
+				<TextEquiv>
+					<Unicode>(פה אופרים?)םס תגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

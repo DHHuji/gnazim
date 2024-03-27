@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0394.tif">
+		<TextRegion id="eSc_region_938_100_1256_100_1256_175_938_175" custom="structure {type:text;}">
+			<Coords points="938,100 1256,100 1256,175 938,175"/>
+			<TextLine id="eSc_line_938_100_1256_100_1256_175_938_175" custom="structure {type:default;}">
+				<Coords points="938,100 1256,100 1256,175 938,175"/>
+				<Baseline points="938,175 1256,175"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &gt;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_236_242_971_242_971_457_236_457" custom="structure {type:text;}">
+			<Coords points="236,242 971,242 971,457 236,457"/>
+			<TextLine id="eSc_line_236_242_971_242_971_457_236_457" custom="structure {type:default;}">
+				<Coords points="236,242 971,242 971,457 236,457"/>
+				<Baseline points="236,457 971,457"/>
+				<TextEquiv>
+					<Unicode>בלוד ‎ -.‏ צידה לדוך אווכה[רשימות, מדור: מה אופרים ?,חתום: ת-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_712_607_1224_607_1224_689_712_689" custom="structure {type:text;}">
+			<Coords points="712,607 1224,607 1224,689 712,689"/>
+			<TextLine id="eSc_line_712_607_1224_607_1224_689_712_689" custom="structure {type:default;}">
+				<Coords points="712,607 1224,607 1224,689 712,689"/>
+				<Baseline points="712,689 1224,689"/>
+				<TextEquiv>
+					<Unicode>דבו, 15.9.72, צמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2109.tif">
+		<TextRegion id="eSc_region_725_280_1072_280_1072_436_725_436" custom="structure {type:text;}">
+			<Coords points="725,280 1072,280 1072,436 725,436"/>
+			<TextLine id="eSc_line_725_280_1072_280_1072_436_725_436" custom="structure {type:default;}">
+				<Coords points="725,280 1072,280 1072,436 725,436"/>
+				<Baseline points="725,436 1072,436"/>
+				<TextEquiv>
+					<Unicode>שלום כתה א &quot; ההום. ח-גין שלום כתה א &quot;ההום. ח-גין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_243_280_711_280_711_364_243_364" custom="structure {type:text;}">
+			<Coords points="243,280 711,280 711,364 243,364"/>
+			<TextLine id="eSc_line_243_280_711_280_711_364_243_364" custom="structure {type:default;}">
+				<Coords points="243,280 711,280 711,364 243,364"/>
+				<Baseline points="243,364 711,364"/>
+				<TextEquiv>
+					<Unicode>[(מדוו. מה אומרים:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

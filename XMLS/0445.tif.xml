@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0445.tif">
+		<TextRegion id="eSc_region_872_53_1168_53_1168_132_872_132" custom="structure {type:text;}">
+			<Coords points="872,53 1168,53 1168,132 872,132"/>
+			<TextLine id="eSc_line_872_53_1168_53_1168_132_872_132" custom="structure {type:default;}">
+				<Coords points="872,53 1168,53 1168,132 872,132"/>
+				<Baseline points="872,132 1168,132"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_27_282_928_282_928_434_27_434" custom="structure {type:text;}">
+			<Coords points="27,282 928,282 928,434 27,434"/>
+			<TextLine id="eSc_line_27_282_928_282_928_434_27_434" custom="structure {type:default;}">
+				<Coords points="27,282 928,282 928,434 27,434"/>
+				<Baseline points="27,434 928,434"/>
+				<TextEquiv>
+					<Unicode>בפרוס יום עצסאותנו(מסחסבות היסים האלה) \חתום תגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_127_581_879_581_879_662_127_662" custom="structure {type:text;}">
+			<Coords points="127,581 879,581 879,662 127,662"/>
+			<TextLine id="eSc_line_127_581_879_581_879_662_127_662" custom="structure {type:default;}">
+				<Coords points="127,581 879,581 879,662 127,662"/>
+				<Baseline points="127,662 879,662"/>
+				<TextEquiv>
+					<Unicode>למרחב, משעא 13.4.1956, עס'* 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

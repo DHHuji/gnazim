@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0470.tif">
+		<TextRegion id="eSc_region_913_78_1227_78_1227_152_913_152" custom="structure {type:text;}">
+			<Coords points="913,78 1227,78 1227,152 913,152"/>
+			<TextLine id="eSc_line_913_78_1227_78_1227_152_913_152" custom="structure {type:default;}">
+				<Coords points="913,78 1227,78 1227,152 913,152"/>
+				<Baseline points="913,152 1227,152"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 4 == גורי חיים
+4 ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_281_266_1019_266_1019_467_281_467" custom="structure {type:text;}">
+			<Coords points="281,266 1019,266 1019,467 281,467"/>
+			<TextLine id="eSc_line_281_266_1019_266_1019_467_281_467" custom="structure {type:default;}">
+				<Coords points="281,266 1019,266 1019,467 281,467"/>
+				<Baseline points="281,467 1019,467"/>
+				<TextEquiv>
+					<Unicode>ברכה לדב סדן(דברים במסיבה שנערכה לכבודו)[ההום: הגי])</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

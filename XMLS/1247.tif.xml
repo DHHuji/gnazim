@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1247.tif">
+		<TextRegion id="eSc_region_982_104_1214_104_1214_169_982_169" custom="structure {type:text;}">
+			<Coords points="982,104 1214,104 1214,169 982,169"/>
+			<TextLine id="eSc_line_982_104_1214_104_1214_169_982_169" custom="structure {type:default;}">
+				<Coords points="982,104 1214,104 1214,169 982,169"/>
+				<Baseline points="982,169 1214,169"/>
+				<TextEquiv>
+					<Unicode>גורי'ן חייס =ידה-1 == גורי'ן חייס
+=ידה-1 ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_590_579_1248_579_1248_660_590_660" custom="structure {type:text;}">
+			<Coords points="590,579 1248,579 1248,660 590,660"/>
+			<TextLine id="eSc_line_590_579_1248_579_1248_660_590_660" custom="structure {type:default;}">
+				<Coords points="590,579 1248,579 1248,660 590,660"/>
+				<Baseline points="590,660 1248,660"/>
+				<TextEquiv>
+					<Unicode>דבר, ז שבס השל&quot;ו, (9.1.76), גם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

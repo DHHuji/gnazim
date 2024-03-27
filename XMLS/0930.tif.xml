@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0930.tif">
+		<TextRegion id="eSc_region_944_92_1238_92_1238_176_944_176" custom="structure {type:text;}">
+			<Coords points="944,92 1238,92 1238,176 944,176"/>
+			<TextLine id="eSc_line_944_92_1238_92_1238_176_944_176" custom="structure {type:default;}">
+				<Coords points="944,92 1238,92 1238,176 944,176"/>
+				<Baseline points="944,176 1238,176"/>
+				<TextEquiv>
+					<Unicode>גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_110_236_753_236_753_329_110_329" custom="structure {type:text;}">
+			<Coords points="110,236 753,236 753,329 110,329"/>
+			<TextLine id="eSc_line_110_236_753_236_753_329_110_329" custom="structure {type:default;}">
+				<Coords points="110,236 753,236 753,329 110,329"/>
+				<Baseline points="110,329 753,329"/>
+				<TextEquiv>
+					<Unicode>[מדוו: ושימות סוף השבוע,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_558_563_1212_563_1212_654_558_654" custom="structure {type:text;}">
+			<Coords points="558,563 1212,563 1212,654 558,654"/>
+			<TextLine id="eSc_line_558_563_1212_563_1212_654_558_654" custom="structure {type:default;}">
+				<Coords points="558,563 1212,563 1212,654 558,654"/>
+				<Baseline points="558,654 1212,654"/>
+				<TextEquiv>
+					<Unicode>למרחב, 17.10.1969, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

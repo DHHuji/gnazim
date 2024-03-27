@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0807.tif">
+		<TextRegion id="eSc_region_860_55_1163_55_1163_142_860_142" custom="structure {type:text;}">
+			<Coords points="860,55 1163,55 1163,142 860,142"/>
+			<TextLine id="eSc_line_860_55_1163_55_1163_142_860_142" custom="structure {type:default;}">
+				<Coords points="860,55 1163,55 1163,142 860,142"/>
+				<Baseline points="860,142 1163,142"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_16_275_927_275_927_466_16_466" custom="structure {type:text;}">
+			<Coords points="16,275 927,275 927,466 16,466"/>
+			<TextLine id="eSc_line_16_275_927_275_927_466_16_466" custom="structure {type:default;}">
+				<Coords points="16,275 927,275 927,466 16,466"/>
+				<Baseline points="16,466 927,466"/>
+				<TextEquiv>
+					<Unicode>חייליו סל ארגון מופלא (מה אומרים)( ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_173_625_820_625_820_844_173_844" custom="structure {type:text;}">
+			<Coords points="173,625 820,625 820,844 173,844"/>
+			<TextLine id="eSc_line_173_625_820_625_820_844_173_844" custom="structure {type:default;}">
+				<Coords points="173,625 820,625 820,844 173,844"/>
+				<Baseline points="173,844 820,844"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 22.7.1960; עפ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

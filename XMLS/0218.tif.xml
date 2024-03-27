@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0218.tif">
+		<TextRegion id="eSc_region_928_18_1197_18_1197_90_928_90" custom="structure {type:text;}">
+			<Coords points="928,18 1197,18 1197,90 928,90"/>
+			<TextLine id="eSc_line_928_18_1197_18_1197_90_928_90" custom="structure {type:default;}">
+				<Coords points="928,18 1197,18 1197,90 928,90"/>
+				<Baseline points="928,90 1197,90"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_71_590_1218_590_1218_817_71_817" custom="structure {type:text;}">
+			<Coords points="71,590 1218,590 1218,817 71,817"/>
+			<TextLine id="eSc_line_71_590_1218_590_1218_817_71_817" custom="structure {type:default;}">
+				<Coords points="71,590 1218,590 1218,817 71,817"/>
+				<Baseline points="71,817 1218,817"/>
+				<TextEquiv>
+					<Unicode>&quot; 3סן הוב'1, כרך ס&quot;ב, אביב תס&quot;כ, יס /מרץ 0ר-מבפנים, ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_433_348_968_348_968_419_433_419" custom="structure {type:text;}">
+			<Coords points="433,348 968,348 968,419 433,419"/>
+			<TextLine id="eSc_line_433_348_968_348_968_419_433_419" custom="structure {type:default;}">
+				<Coords points="433,348 968,348 968,419 433,419"/>
+				<Baseline points="433,419 968,419"/>
+				<TextEquiv>
+					<Unicode>&quot;מר נעסה פכפיו בלעדיו?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

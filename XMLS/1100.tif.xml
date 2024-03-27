@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1100.tif">
+		<TextRegion id="eSc_region_152_0_1144_0_1144_822_152_822" custom="structure {type:text;}">
+			<Coords points="152,0 1144,0 1144,822 152,822"/>
+			<TextLine id="eSc_line_152_0_1144_0_1144_822_152_822" custom="structure {type:default;}">
+				<Coords points="152,0 1144,0 1144,822 152,822"/>
+				<Baseline points="152,822 1144,822"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס לינת לילה גורי, חייסלינת לילהסיפור, סתוך &quot;החקירה&quot;מץריב,סירות,יב אבך תס&quot;מ,(25.7,80), למ&quot; ו3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1323.tif">
+		<TextRegion id="eSc_region_808_94_1082_94_1082_174_808_174" custom="structure {type:text;}">
+			<Coords points="808,94 1082,94 1082,174 808,174"/>
+			<TextLine id="eSc_line_808_94_1082_94_1082_174_808_174" custom="structure {type:default;}">
+				<Coords points="808,94 1082,94 1082,174 808,174"/>
+				<Baseline points="808,174 1082,174"/>
+				<TextEquiv>
+					<Unicode>ר י, חייב ר
+י, חייב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_625_624_1170_624_1170_703_625_703" custom="structure {type:text;}">
+			<Coords points="625,624 1170,624 1170,703 625,703"/>
+			<TextLine id="eSc_line_625_624_1170_624_1170_703_625_703" custom="structure {type:default;}">
+				<Coords points="625,624 1170,624 1170,703 625,703"/>
+				<Baseline points="625,703 1170,703"/>
+				<TextEquiv>
+					<Unicode>לכרהב,ר107,ר].יו, .רת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

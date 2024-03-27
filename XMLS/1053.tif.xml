@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1053.tif">
+		<TextRegion id="eSc_region_839_79_1135_79_1135_163_839_163" custom="structure {type:text;}">
+			<Coords points="839,79 1135,79 1135,163 839,163"/>
+			<TextLine id="eSc_line_839_79_1135_79_1135_163_839_163" custom="structure {type:default;}">
+				<Coords points="839,79 1135,79 1135,163 839,163"/>
+				<Baseline points="839,163 1135,163"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 7-7 ל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_107_233_1059_233_1059_391_107_391" custom="structure {type:text;}">
+			<Coords points="107,233 1059,233 1059,391 107,391"/>
+			<TextLine id="eSc_line_107_233_1059_233_1059_391_107_391" custom="structure {type:default;}">
+				<Coords points="107,233 1059,233 1059,391 107,391"/>
+				<Baseline points="107,391 1059,391"/>
+				<TextEquiv>
+					<Unicode>לאחר הרעש | [מדוו: רשימות סוף השבול,חתום: חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_481_557_1131_557_1131_646_481_646" custom="structure {type:text;}">
+			<Coords points="481,557 1131,557 1131,646 481,646"/>
+			<TextLine id="eSc_line_481_557_1131_557_1131_646_481_646" custom="structure {type:default;}">
+				<Coords points="481,557 1131,557 1131,646 481,646"/>
+				<Baseline points="481,646 1131,646"/>
+				<TextEquiv>
+					<Unicode>למרחב, 31.10.1969, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

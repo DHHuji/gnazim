@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0826.tif">
+		<TextRegion id="eSc_region_6_0_1195_0_1195_753_6_753" custom="structure {type:text;}">
+			<Coords points="6,0 1195,0 1195,753 6,753"/>
+			<TextLine id="eSc_line_6_0_1195_0_1195_753_6_753" custom="structure {type:default;}">
+				<Coords points="6,0 1195,0 1195,753 6,753"/>
+				<Baseline points="6,753 1195,753"/>
+				<TextEquiv>
+					<Unicode>ורי.חיים החלק האפל ורי.חייםהחלק האפלבמשורר לאמי(האהבה היתה מלים,-י. שיריםרות קרסון בלוס,יד כותבת יד,1080 עם !142.14</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

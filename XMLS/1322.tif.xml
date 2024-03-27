@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1322.tif">
+		<TextRegion id="eSc_region_890_63_1125_63_1125_125_890_125" custom="structure {type:text;}">
+			<Coords points="890,63 1125,63 1125,125 890,125"/>
+			<TextLine id="eSc_line_890_63_1125_63_1125_125_890_125" custom="structure {type:default;}">
+				<Coords points="890,63 1125,63 1125,125 890,125"/>
+				<Baseline points="890,125 1125,125"/>
+				<TextEquiv>
+					<Unicode>גורי חיים =---42-- גורי חיים
+=---42--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_404_340_879_340_879_396_404_396" custom="structure {type:text;}">
+			<Coords points="404,340 879,340 879,396 404,396"/>
+			<TextLine id="eSc_line_404_340_879_340_879_396_404_396" custom="structure {type:default;}">
+				<Coords points="404,340 879,340 879,396 404,396"/>
+				<Baseline points="404,396 879,396"/>
+				<TextEquiv>
+					<Unicode>מכפר מעסיות וכמוסר השכל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

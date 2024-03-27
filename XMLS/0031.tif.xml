@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0031.tif">
+		<TextRegion id="eSc_region_920_165_1220_165_1220_241_920_241" custom="structure {type:text;}">
+			<Coords points="920,165 1220,165 1220,241 920,241"/>
+			<TextLine id="eSc_line_920_165_1220_165_1220_241_920_241" custom="structure {type:default;}">
+				<Coords points="920,165 1220,165 1220,241 920,241"/>
+				<Baseline points="920,241 1220,241"/>
+				<TextEquiv>
+					<Unicode>גורי, החייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_49_247_1193_247_1193_393_49_393" custom="structure {type:text;}">
+			<Coords points="49,247 1193,247 1193,393 49,393"/>
+			<TextLine id="eSc_line_49_247_1193_247_1193_393_49_393" custom="structure {type:default;}">
+				<Coords points="49,247 1193,247 1193,393 49,393"/>
+				<Baseline points="49,393 1193,393"/>
+				<TextEquiv>
+					<Unicode>האדום והשחור מאת ח.גורילמרחב, משא לספרוה, אמנות וכקורה:א',19.1.62</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_206_443_1058_443_1058_520_206_520" custom="structure {type:text;}">
+			<Coords points="206,443 1058,443 1058,520 206,520"/>
+			<TextLine id="eSc_line_206_443_1058_443_1058_520_206_520" custom="structure {type:default;}">
+				<Coords points="206,443 1058,443 1058,520 206,520"/>
+				<Baseline points="206,520 1058,520"/>
+				<TextEquiv>
+					<Unicode>על &quot;סיפורה של לוחמת&quot; לגאולה כהן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

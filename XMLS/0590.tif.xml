@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0590.tif">
+		<TextRegion id="eSc_region_915_95_1234_95_1234_176_915_176" custom="structure {type:text;}">
+			<Coords points="915,95 1234,95 1234,176 915,176"/>
+			<TextLine id="eSc_line_915_95_1234_95_1234_176_915_176" custom="structure {type:default;}">
+				<Coords points="915,95 1234,95 1234,176 915,176"/>
+				<Baseline points="915,176 1234,176"/>
+				<TextEquiv>
+					<Unicode>גורי חיים |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_283_261_1081_261_1081_416_283_416" custom="structure {type:text;}">
+			<Coords points="283,261 1081,261 1081,416 283,416"/>
+			<TextLine id="eSc_line_283_261_1081_261_1081_416_283_416" custom="structure {type:default;}">
+				<Coords points="283,261 1081,261 1081,416 283,416"/>
+				<Baseline points="283,416 1081,416"/>
+				<TextEquiv>
+					<Unicode>דב ירוטללים ודבר ביירות ‏ ימדור:רשטימוה סוף העבועץ, ההום: הגור|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_558_567_1182_567_1182_653_558_653" custom="structure {type:text;}">
+			<Coords points="558,567 1182,567 1182,653 558,653"/>
+			<TextLine id="eSc_line_558_567_1182_567_1182_653_558_653" custom="structure {type:default;}">
+				<Coords points="558,567 1182,567 1182,653 558,653"/>
+				<Baseline points="558,653 1182,653"/>
+				<TextEquiv>
+					<Unicode>למוחב, 20.11.10670,עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

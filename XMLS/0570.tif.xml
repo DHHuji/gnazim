@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0570.tif">
+		<TextRegion id="eSc_region_900_185_1169_185_1169_257_900_257" custom="structure {type:text;}">
+			<Coords points="900,185 1169,185 1169,257 900,257"/>
+			<TextLine id="eSc_line_900_185_1169_185_1169_257_900_257" custom="structure {type:default;}">
+				<Coords points="900,185 1169,185 1169,257 900,257"/>
+				<Baseline points="900,257 1169,257"/>
+				<TextEquiv>
+					<Unicode>גורי הייסם =----1 == גורי הייסם
+=----1 ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_358_658_1165_658_1165_848_358_848" custom="structure {type:text;}">
+			<Coords points="358,658 1165,658 1165,848 358,848"/>
+			<TextLine id="eSc_line_358_658_1165_658_1165_848_358_848" custom="structure {type:default;}">
+				<Coords points="358,658 1165,658 1165,848 358,848"/>
+				<Baseline points="358,848 1165,848"/>
+				<TextEquiv>
+					<Unicode>דגבר,כ&quot;ב הפוז ה.ל&quot;ד,.17.7.77),ע5. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1904.tif">
+		<TextRegion id="eSc_region_850_59_1084_59_1084_125_850_125" custom="structure {type:text;}">
+			<Coords points="850,59 1084,59 1084,125 850,125"/>
+			<TextLine id="eSc_line_850_59_1084_59_1084_125_850_125" custom="structure {type:default;}">
+				<Coords points="850,59 1084,59 1084,125 850,125"/>
+				<Baseline points="850,125 1084,125"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס + ----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_3_244_789_244_789_413_3_413" custom="structure {type:text;}">
+			<Coords points="3,244 789,244 789,413 3,413"/>
+			<TextLine id="eSc_line_3_244_789_244_789_413_3_413" custom="structure {type:default;}">
+				<Coords points="3,244 789,244 789,413 3,413"/>
+				<Baseline points="3,413 789,413"/>
+				<TextEquiv>
+					<Unicode>ו שעקברי(פרור רשיפות סוף השבוץ) ( חתום חגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_312_535_1057_535_1057_601_312_601" custom="structure {type:text;}">
+			<Coords points="312,535 1057,535 1057,601 312,601"/>
+			<TextLine id="eSc_line_312_535_1057_535_1057_601_312_601" custom="structure {type:default;}">
+				<Coords points="312,535 1057,535 1057,601 312,601"/>
+				<Baseline points="312,601 1057,601"/>
+				<TextEquiv>
+					<Unicode>דבר, כו חשון תשל&quot;ז,(19.11.76), לפ&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

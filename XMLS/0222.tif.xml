@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0222.tif">
+		<TextRegion id="eSc_region_995_101_1272_101_1272_165_995_165" custom="structure {type:text;}">
+			<Coords points="995,101 1272,101 1272,165 995,165"/>
+			<TextLine id="eSc_line_995_101_1272_101_1272_165_995_165" custom="structure {type:default;}">
+				<Coords points="995,101 1272,101 1272,165 995,165"/>
+				<Baseline points="995,165 1272,165"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_422_552_944_552_944_618_422_618" custom="structure {type:text;}">
+			<Coords points="422,552 944,552 944,618 422,618"/>
+			<TextLine id="eSc_line_422_552_944_552_944_618_422_618" custom="structure {type:default;}">
+				<Coords points="422,552 944,552 944,618 422,618"/>
+				<Baseline points="422,618 944,618"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 1957ו.18.11, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_508_298_775_298_775_362_508_362" custom="structure {type:text;}">
+			<Coords points="508,298 775,298 775,362 508,362"/>
+			<TextLine id="eSc_line_508_298_775_298_775_362_508_362" custom="structure {type:default;}">
+				<Coords points="508,298 775,298 775,362 508,362"/>
+				<Baseline points="508,362 775,362"/>
+				<TextEquiv>
+					<Unicode>ם?)
+מרי
+או
+(מה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

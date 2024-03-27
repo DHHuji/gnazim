@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2042.tif">
+		<TextRegion id="eSc_region_928_7_1186_7_1186_82_928_82" custom="structure {type:text;}">
+			<Coords points="928,7 1186,7 1186,82 928,82"/>
+			<TextLine id="eSc_line_928_7_1186_7_1186_82_928_82" custom="structure {type:default;}">
+				<Coords points="928,7 1186,7 1186,82 928,82"/>
+				<Baseline points="928,82 1186,82"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_191_624_1183_624_1183_810_191_810" custom="structure {type:text;}">
+			<Coords points="191,624 1183,624 1183,810 191,810"/>
+			<TextLine id="eSc_line_191_624_1183_624_1183_810_191_810" custom="structure {type:default;}">
+				<Coords points="191,624 1183,624 1183,810 191,810"/>
+				<Baseline points="191,810 1183,810"/>
+				<TextEquiv>
+					<Unicode>קול ירושלים, יב אדר תשמז 9,3,!9097‏ על 56</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_420_264_1154_264_1154_375_420_375" custom="structure {type:text;}">
+			<Coords points="420,264 1154,264 1154,375 420,375"/>
+			<TextLine id="eSc_line_420_264_1154_264_1154_375_420_375" custom="structure {type:default;}">
+				<Coords points="420,264 1154,264 1154,375 420,375"/>
+				<Baseline points="420,375 1154,375"/>
+				<TextEquiv>
+					<Unicode>פסרייבמן
+( מדור: קראחי, קלעתהי, ראיתי\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

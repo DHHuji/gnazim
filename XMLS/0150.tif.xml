@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0150.tif">
+		<TextRegion id="eSc_region_949_88_1201_88_1201_152_949_152" custom="structure {type:text;}">
+			<Coords points="949,88 1201,88 1201,152 949,152"/>
+			<TextLine id="eSc_line_949_88_1201_88_1201_152_949_152" custom="structure {type:default;}">
+				<Coords points="949,88 1201,88 1201,152 949,152"/>
+				<Baseline points="949,152 1201,152"/>
+				<TextEquiv>
+					<Unicode>גורי, היים -----+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_483_263_994_263_994_417_483_417" custom="structure {type:text;}">
+			<Coords points="483,263 994,263 994,417 483,417"/>
+			<TextLine id="eSc_line_483_263_994_263_994_417_483_417" custom="structure {type:default;}">
+				<Coords points="483,263 994,263 994,417 483,417"/>
+				<Baseline points="483,417 994,417"/>
+				<TextEquiv>
+					<Unicode>האלפונים (מתוך בית היין)/ חהום ג'ורי )---ל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_520_560_1234_560_1234_625_520_625" custom="structure {type:text;}">
+			<Coords points="520,560 1234,560 1234,625 520,625"/>
+			<TextLine id="eSc_line_520_560_1234_560_1234_625_520_625" custom="structure {type:default;}">
+				<Coords points="520,560 1234,560 1234,625 520,625"/>
+				<Baseline points="520,625 1234,625"/>
+				<TextEquiv>
+					<Unicode>ז (77., 1) מ 14
+. עס
+דבר כה אדר תסל ו, י
+'ו -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

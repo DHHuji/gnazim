@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1335.tif">
+		<TextRegion id="eSc_region_655_7_1025_7_1025_206_655_206" custom="structure {type:text;}">
+			<Coords points="655,7 1025,7 1025,206 655,206"/>
+			<TextLine id="eSc_line_655_7_1025_7_1025_206_655_206" custom="structure {type:default;}">
+				<Coords points="655,7 1025,7 1025,206 655,206"/>
+				<Baseline points="655,206 1025,206"/>
+				<TextEquiv>
+					<Unicode>גורי חייס = גורי חייס
+=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_82_235_1077_235_1077_788_82_788" custom="structure {type:text;}">
+			<Coords points="82,235 1077,235 1077,788 82,788"/>
+			<TextLine id="eSc_line_82_235_1077_235_1077_788_82_788" custom="structure {type:default;}">
+				<Coords points="82,235 1077,235 1077,788 82,788"/>
+				<Baseline points="82,788 1077,788"/>
+				<TextEquiv>
+					<Unicode>- מעלות הצעקה( רסימה, מדור: מה אומרים, חתום: ה-גי (דבר, כה אייר חשל&quot;ד (17.5.74), עמ. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

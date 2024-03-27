@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0816.tif">
+		<TextRegion id="eSc_region_914_65_1150_65_1150_126_914_126" custom="structure {type:text;}">
+			<Coords points="914,65 1150,65 1150,126 914,126"/>
+			<TextLine id="eSc_line_914_65_1150_65_1150_126_914_126" custom="structure {type:default;}">
+				<Coords points="914,65 1150,65 1150,126 914,126"/>
+				<Baseline points="914,126 1150,126"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_210_335_967_335_967_467_210_467" custom="structure {type:text;}">
+			<Coords points="210,335 967,335 967,467 210,467"/>
+			<TextLine id="eSc_line_210_335_967_335_967_467_210_467" custom="structure {type:default;}">
+				<Coords points="210,335 967,335 967,467 210,467"/>
+				<Baseline points="210,467 967,467"/>
+				<TextEquiv>
+					<Unicode>היים עם כל הנוהיות? (תבן לעופריים)(חתום: חגי, מדור: מה אופרים, )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_698_658_1124_658_1124_722_698_722" custom="structure {type:text;}">
+			<Coords points="698,658 1124,658 1124,722 698,722"/>
+			<TextLine id="eSc_line_698_658_1124_658_1124_722_698_722" custom="structure {type:default;}">
+				<Coords points="698,658 1124,658 1124,722 698,722"/>
+				<Baseline points="698,722 1124,722"/>
+				<TextEquiv>
+					<Unicode>למרהחב, 20.1.00, עז 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0663.tif">
+		<TextRegion id="eSc_region_959_153_1200_153_1200_225_959_225" custom="structure {type:text;}">
+			<Coords points="959,153 1200,153 1200,225 959,225"/>
+			<TextLine id="eSc_line_959_153_1200_153_1200_225_959_225" custom="structure {type:default;}">
+				<Coords points="959,153 1200,153 1200,225 959,225"/>
+				<Baseline points="959,225 1200,225"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_304_399_853_399_853_531_304_531" custom="structure {type:text;}">
+			<Coords points="304,399 853,399 853,531 304,531"/>
+			<TextLine id="eSc_line_304_399_853_399_853_531_304_531" custom="structure {type:default;}">
+				<Coords points="304,399 853,399 853,531 304,531"/>
+				<Baseline points="304,531 853,531"/>
+				<TextEquiv>
+					<Unicode>- יריהריסכוריון כצעה ברסלבסכנ:הגי[כר אומריה,יתום:הגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_774_639_1279_639_1279_712_774_712" custom="structure {type:text;}">
+			<Coords points="774,639 1279,639 1279,712 774,712"/>
+			<TextLine id="eSc_line_774_639_1279_639_1279_712_774_712" custom="structure {type:default;}">
+				<Coords points="774,639 1279,639 1279,712 774,712"/>
+				<Baseline points="774,712 1279,712"/>
+				<TextEquiv>
+					<Unicode>לכרחב,10.7.1079,:מ. 0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

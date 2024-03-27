@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1959.tif">
+		<TextRegion id="eSc_region_838_121_1080_121_1080_194_838_194" custom="structure {type:text;}">
+			<Coords points="838,121 1080,121 1080,194 838,194"/>
+			<TextLine id="eSc_line_838_121_1080_121_1080_194_838_194" custom="structure {type:default;}">
+				<Coords points="838,121 1080,121 1080,194 838,194"/>
+				<Baseline points="838,194 1080,194"/>
+				<TextEquiv>
+					<Unicode>ויים גורי,ר ויים
+גורי,ר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_106_381_801_381_801_520_106_520" custom="structure {type:text;}">
+			<Coords points="106,381 801,381 801,520 106,520"/>
+			<TextLine id="eSc_line_106_381_801_381_801_520_106_520" custom="structure {type:default;}">
+				<Coords points="106,381 801,381 801,520 106,520"/>
+				<Baseline points="106,520 801,520"/>
+				<TextEquiv>
+					<Unicode>ררוב די:נגוף וג'ון פוופר דקלה| גלוי ה יקראליות,רת וכ:רגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

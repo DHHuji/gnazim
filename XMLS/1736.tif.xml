@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1736.tif">
+		<TextRegion id="eSc_region_816_35_1069_35_1069_96_816_96" custom="structure {type:text;}">
+			<Coords points="816,35 1069,35 1069,96 816,96"/>
+			<TextLine id="eSc_line_816_35_1069_35_1069_96_816_96" custom="structure {type:default;}">
+				<Coords points="816,35 1069,35 1069,96 816,96"/>
+				<Baseline points="816,96 1069,96"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_527_194_1010_194_1010_328_527_328" custom="structure {type:text;}">
+			<Coords points="527,194 1010,194 1010,328 527,328"/>
+			<TextLine id="eSc_line_527_194_1010_194_1010_328_527_328" custom="structure {type:default;}">
+				<Coords points="527,194 1010,194 1010,328 527,328"/>
+				<Baseline points="527,328 1010,328"/>
+				<TextEquiv>
+					<Unicode>צקבות אדםמשא.דבר. 2,10,108₪7על אכא קובנר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_682_482_955_482_955_536_682_536" custom="structure {type:text;}">
+			<Coords points="682,482 955,482 955,536 682,536"/>
+			<TextLine id="eSc_line_682_482_955_482_955_536_682_536" custom="structure {type:default;}">
+				<Coords points="682,482 955,482 955,536 682,536"/>
+				<Baseline points="682,536 955,536"/>
+				<TextEquiv>
+					<Unicode>קובנר/מצפלו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

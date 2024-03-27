@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0083.tif">
+		<TextRegion id="eSc_region_960_128_1214_128_1214_193_960_193" custom="structure {type:text;}">
+			<Coords points="960,128 1214,128 1214,193 960,193"/>
+			<TextLine id="eSc_line_960_128_1214_128_1214_193_960_193" custom="structure {type:default;}">
+				<Coords points="960,128 1214,128 1214,193 960,193"/>
+				<Baseline points="960,193 1214,193"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ----1---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_233_349_1149_349_1149_505_233_505" custom="structure {type:text;}">
+			<Coords points="233,349 1149,349 1149,505 233,505"/>
+			<TextLine id="eSc_line_233_349_1149_349_1149_505_233_505" custom="structure {type:default;}">
+				<Coords points="233,349 1149,349 1149,505 233,505"/>
+				<Baseline points="233,505 1149,505"/>
+				<TextEquiv>
+					<Unicode>אחוז בזה - וגס מזר אל תנח ידך (סה אומרים?)=( חתום תגי (--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_288_645_884_645_884_842_288_842" custom="structure {type:text;}">
+			<Coords points="288,645 884,645 884,842 288,842"/>
+			<TextLine id="eSc_line_288_645_884_645_884_842_288_842" custom="structure {type:default;}">
+				<Coords points="288,645 884,645 884,842 288,842"/>
+				<Baseline points="288,842 884,842"/>
+				<TextEquiv>
+					<Unicode>למרחהב, 6+8 11.11.1957, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

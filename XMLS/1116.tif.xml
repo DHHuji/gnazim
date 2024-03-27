@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1116.tif">
+		<TextRegion id="eSc_region_925_102_1227_102_1227_192_925_192" custom="structure {type:text;}">
+			<Coords points="925,102 1227,102 1227,192 925,192"/>
+			<TextLine id="eSc_line_925_102_1227_102_1227_192_925_192" custom="structure {type:default;}">
+				<Coords points="925,102 1227,102 1227,192 925,192"/>
+				<Baseline points="925,192 1227,192"/>
+				<TextEquiv>
+					<Unicode>גורי, חייב &lt;----2--- = גורי, חייב&lt;----2--- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_143_254_468_254_468_347_143_347" custom="structure {type:text;}">
+			<Coords points="143,254 468,254 468,347 143,347"/>
+			<TextLine id="eSc_line_143_254_468_254_468_347_143_347" custom="structure {type:default;}">
+				<Coords points="143,254 468,254 468,347 143,347"/>
+				<Baseline points="143,347 468,347"/>
+				<TextEquiv>
+					<Unicode>מה טומויפ?,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

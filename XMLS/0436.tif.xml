@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0436.tif">
+		<TextRegion id="eSc_region_996_16_1265_16_1265_96_996_96" custom="structure {type:text;}">
+			<Coords points="996,16 1265,16 1265,96 996,96"/>
+			<TextLine id="eSc_line_996_16_1265_16_1265_96_996_96" custom="structure {type:default;}">
+				<Coords points="996,16 1265,16 1265,96 996,96"/>
+				<Baseline points="996,96 1265,96"/>
+				<TextEquiv>
+					<Unicode>גורי,תייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_25_197_1081_197_1081_514_25_514" custom="structure {type:text;}">
+			<Coords points="25,197 1081,197 1081,514 25,514"/>
+			<TextLine id="eSc_line_25_197_1081_197_1081_514_25_514" custom="structure {type:default;}">
+				<Coords points="25,197 1081,197 1081,514 25,514"/>
+				<Baseline points="25,514 1081,514"/>
+				<TextEquiv>
+					<Unicode>בעקבוה הרקדנית נגארודה או:האילב&quot;(פרק מהוך &quot; מלהכה נכים&quot; -כפיית נאלי\215 7&quot; 9/6(</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_127_591_1258_591_1258_824_127_824" custom="structure {type:text;}">
+			<Coords points="127,591 1258,591 1258,824 127,824"/>
+			<TextLine id="eSc_line_127_591_1258_591_1258_824_127_824" custom="structure {type:default;}">
+				<Coords points="127,591 1258,591 1258,824 127,824"/>
+				<Baseline points="127,824 1258,824"/>
+				<TextEquiv>
+					<Unicode>ו&quot; -יורי
+9, ייון ל&quot;א,ניו
+הדטר,טסנה 2,29
+הדטר,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

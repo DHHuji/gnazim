@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1585.tif">
+		<TextRegion id="eSc_region_965_97_1179_97_1179_146_965_146" custom="structure {type:text;}">
+			<Coords points="965,97 1179,97 1179,146 965,146"/>
+			<TextLine id="eSc_line_965_97_1179_97_1179_146_965_146" custom="structure {type:default;}">
+				<Coords points="965,97 1179,97 1179,146 965,146"/>
+				<Baseline points="965,146 1179,146"/>
+				<TextEquiv>
+					<Unicode>₪ גורי, חיים ₪גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_677_350_852_350_852_391_677_391" custom="structure {type:text;}">
+			<Coords points="677,350 852,350 852,391 677,391"/>
+			<TextLine id="eSc_line_677_350_852_350_852_391_677_391" custom="structure {type:default;}">
+				<Coords points="677,350 852,350 852,391 677,391"/>
+				<Baseline points="677,391 852,391"/>
+				<TextEquiv>
+					<Unicode>העקטניות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

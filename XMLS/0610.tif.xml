@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0610.tif">
+		<TextRegion id="eSc_region_985_127_1220_127_1220_191_985_191" custom="structure {type:text;}">
+			<Coords points="985,127 1220,127 1220,191 985,191"/>
+			<TextLine id="eSc_line_985_127_1220_127_1220_191_985_191" custom="structure {type:default;}">
+				<Coords points="985,127 1220,127 1220,191 985,191"/>
+				<Baseline points="985,191 1220,191"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_277_347_1032_347_1032_512_277_512" custom="structure {type:text;}">
+			<Coords points="277,347 1032,347 1032,512 277,512"/>
+			<TextLine id="eSc_line_277_347_1032_347_1032_512_277_512" custom="structure {type:default;}">
+				<Coords points="277,347 1032,347 1032,512 277,512"/>
+				<Baseline points="277,512 1032,512"/>
+				<TextEquiv>
+					<Unicode>ד&quot;ר קרל קלאוברג וד&quot;ר % (מה אומרים?)תתו הג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_518_670_1012_670_1012_835_518_835" custom="structure {type:text;}">
+			<Coords points="518,670 1012,670 1012,835 518,835"/>
+			<TextLine id="eSc_line_518_670_1012_670_1012_835_518_835" custom="structure {type:default;}">
+				<Coords points="518,670 1012,670 1012,835 518,835"/>
+				<Baseline points="518,835 1012,835"/>
+				<TextEquiv>
+					<Unicode>למרחב, 3.10.1956, 4 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

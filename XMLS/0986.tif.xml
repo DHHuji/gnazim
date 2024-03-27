@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0986.tif">
+		<TextRegion id="eSc_region_913_24_1182_24_1182_105_913_105" custom="structure {type:text;}">
+			<Coords points="913,24 1182,24 1182,105 913,105"/>
+			<TextLine id="eSc_line_913_24_1182_24_1182_105_913_105" custom="structure {type:default;}">
+				<Coords points="913,24 1182,24 1182,105 913,105"/>
+				<Baseline points="913,105 1182,105"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_126_282_722_282_722_356_126_356" custom="structure {type:text;}">
+			<Coords points="126,282 722,282 722,356 126,356"/>
+			<TextLine id="eSc_line_126_282_722_282_722_356_126_356" custom="structure {type:default;}">
+				<Coords points="126,282 722,282 722,356 126,356"/>
+				<Baseline points="126,356 722,356"/>
+				<TextEquiv>
+					<Unicode>מדור:רסימות מביה היין.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_687_531_1175_531_1175_610_687_610" custom="structure {type:text;}">
+			<Coords points="687,531 1175,531 1175,610 687,610"/>
+			<TextLine id="eSc_line_687_531_1175_531_1175_610_687_610" custom="structure {type:default;}">
+				<Coords points="687,531 1175,531 1175,610 687,610"/>
+				<Baseline points="687,610 1175,610"/>
+				<TextEquiv>
+					<Unicode>#NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

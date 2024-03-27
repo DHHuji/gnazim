@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0876.tif">
+		<TextRegion id="eSc_region_656_310_924_310_924_360_656_360" custom="structure {type:text;}">
+			<Coords points="656,310 924,310 924,360 656,360"/>
+			<TextLine id="eSc_line_656_310_924_310_924_360_656_360" custom="structure {type:default;}">
+				<Coords points="656,310 924,310 924,360 656,360"/>
+				<Baseline points="656,360 924,360"/>
+				<TextEquiv>
+					<Unicode>יררות אירופה יררות אירופה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_306_291_627_291_627_380_306_380" custom="structure {type:text;}">
+			<Coords points="306,291 627,291 627,380 306,380"/>
+			<TextLine id="eSc_line_306_291_627_291_627_380_306_380" custom="structure {type:default;}">
+				<Coords points="306,291 627,291 627,380 306,380"/>
+				<Baseline points="306,380 627,380"/>
+				<TextEquiv>
+					<Unicode>( ממספס אי יככן)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

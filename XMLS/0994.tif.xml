@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0994.tif">
+		<TextRegion id="eSc_region_328_53_1242_53_1242_441_328_441" custom="structure {type:text;}">
+			<Coords points="328,53 1242,53 1242,441 328,441"/>
+			<TextLine id="eSc_line_328_53_1242_53_1242_441_328_441" custom="structure {type:default;}">
+				<Coords points="328,53 1242,53 1242,441 328,441"/>
+				<Baseline points="328,441 1242,441"/>
+				<TextEquiv>
+					<Unicode>יגורי, חייםהכלבים והדרך(פמתוןך &quot;הסיחה הסורית&quot;)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_114_559_1002_559_1002_878_114_878" custom="structure {type:text;}">
+			<Coords points="114,559 1002,559 1002,878 114,878"/>
+			<TextLine id="eSc_line_114_559_1002_559_1002_878_114_878" custom="structure {type:default;}">
+				<Coords points="114,559 1002,559 1002,878 114,878"/>
+				<Baseline points="114,878 1002,878"/>
+				<TextEquiv>
+					<Unicode>למרחב, מסא, 17.11.1961, עם' א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

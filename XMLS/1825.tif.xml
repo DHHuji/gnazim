@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1825.tif">
+		<TextRegion id="eSc_region_791_15_1035_15_1035_74_791_74" custom="structure {type:text;}">
+			<Coords points="791,15 1035,15 1035,74 791,74"/>
+			<TextLine id="eSc_line_791_15_1035_15_1035_74_791_74" custom="structure {type:default;}">
+				<Coords points="791,15 1035,15 1035,74 791,74"/>
+				<Baseline points="791,74 1035,74"/>
+				<TextEquiv>
+					<Unicode>גורי.סיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_127_201_751_201_751_285_127_285" custom="structure {type:text;}">
+			<Coords points="127,201 751,201 751,285 127,285"/>
+			<TextLine id="eSc_line_127_201_751_201_751_285_127_285" custom="structure {type:default;}">
+				<Coords points="127,201 751,201 751,285 127,285"/>
+				<Baseline points="127,285 751,285"/>
+				<TextEquiv>
+					<Unicode>. ,.- -- י -י [=ירו-הרן&quot; רפלר -ל ו&quot; כליה ו ו ותחות ננויי 2- י ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_708_202_951_202_951_286_708_286" custom="structure {type:text;}">
+			<Coords points="708,202 951,202 951,286 708,286"/>
+			<TextLine id="eSc_line_708_202_951_202_951_286_708_286" custom="structure {type:default;}">
+				<Coords points="708,202 951,202 951,286 708,286"/>
+				<Baseline points="708,286 951,286"/>
+				<TextEquiv>
+					<Unicode>פרדה ער ה:
+בנגב,-הנה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

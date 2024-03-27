@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2116.tif">
+		<TextRegion id="eSc_region_323_620_1241_620_1241_837_323_837" custom="structure {type:text;}">
+			<Coords points="323,620 1241,620 1241,837 323,837"/>
+			<TextLine id="eSc_line_323_620_1241_620_1241_837_323_837" custom="structure {type:default;}">
+				<Coords points="323,620 1241,620 1241,837 323,837"/>
+				<Baseline points="323,837 1241,837"/>
+				<TextEquiv>
+					<Unicode>דבר לילדים,כיך כו,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_480_354_748_354_748_497_480_497" custom="structure {type:text;}">
+			<Coords points="480,354 748,354 748,497 480,497"/>
+			<TextLine id="eSc_line_480_354_748_354_748_497_480_497" custom="structure {type:default;}">
+				<Coords points="480,354 748,354 748,497 480,497"/>
+				<Baseline points="480,497 748,497"/>
+				<TextEquiv>
+					<Unicode>סל&quot; עונות
+רשייר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

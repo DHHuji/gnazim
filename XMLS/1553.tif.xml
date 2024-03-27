@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1553.tif">
+		<TextRegion id="eSc_region_997_97_1233_97_1233_162_997_162" custom="structure {type:text;}">
+			<Coords points="997,97 1233,97 1233,162 997,162"/>
+			<TextLine id="eSc_line_997_97_1233_97_1233_162_997_162" custom="structure {type:default;}">
+				<Coords points="997,97 1233,97 1233,162 997,162"/>
+				<Baseline points="997,162 1233,162"/>
+				<TextEquiv>
+					<Unicode>גורי, ח'יים -=--+-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_122_252_1063_252_1063_419_122_419" custom="structure {type:text;}">
+			<Coords points="122,252 1063,252 1063,419 122,419"/>
+			<TextLine id="eSc_line_122_252_1063_252_1063_419_122_419" custom="structure {type:default;}">
+				<Coords points="122,252 1063,252 1063,419 122,419"/>
+				<Baseline points="122,419 1063,419"/>
+				<TextEquiv>
+					<Unicode>&quot;הספרות הסובייטית - כפרות של סוציאליזם ושלוס&quot;| דכרי הנ&quot;ל ואחריט |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_142_572_1165_572_1165_640_142_640" custom="structure {type:text;}">
+			<Coords points="142,572 1165,572 1165,640 142,640"/>
+			<TextLine id="eSc_line_142_572_1165_572_1165_640_142_640" custom="structure {type:default;}">
+				<Coords points="142,572 1165,572 1165,640 142,640"/>
+				<Baseline points="142,640 1165,640"/>
+				<TextEquiv>
+					<Unicode>על המ-מר, חשלשפפאא, ז הסון תשי&quot;ג,(26.10.52), עם 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

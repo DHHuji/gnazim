@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1972.tif">
+		<TextRegion id="eSc_region_862_253_999_253_999_339_862_339" custom="structure {type:text;}">
+			<Coords points="862,253 999,253 999,339 862,339"/>
+			<TextLine id="eSc_line_862_253_999_253_999_339_862_339" custom="structure {type:default;}">
+				<Coords points="862,253 999,253 999,339 862,339"/>
+				<Baseline points="862,339 999,339"/>
+				<TextEquiv>
+					<Unicode>הר&quot;ור ר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_786_557_1075_557_1075_603_786_603" custom="structure {type:text;}">
+			<Coords points="786,557 1075,557 1075,603 786,603"/>
+			<TextLine id="eSc_line_786_557_1075_557_1075_603_786_603" custom="structure {type:default;}">
+				<Coords points="786,557 1075,557 1075,603 786,603"/>
+				<Baseline points="786,603 1075,603"/>
+				<TextEquiv>
+					<Unicode>באמו/בגדו 0ברג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_483_557_771_557_771_758_483_758" custom="structure {type:text;}">
+			<Coords points="483,557 771,557 771,758 483,758"/>
+			<TextLine id="eSc_line_483_557_771_557_771_758_483_758" custom="structure {type:default;}">
+				<Coords points="483,557 771,557 771,758 483,758"/>
+				<Baseline points="483,758 771,758"/>
+				<TextEquiv>
+					<Unicode>ובכהיט לבתות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

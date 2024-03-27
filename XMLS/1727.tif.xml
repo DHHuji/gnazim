@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1727.tif">
+		<TextRegion id="eSc_region_825_55_1118_55_1118_134_825_134" custom="structure {type:text;}">
+			<Coords points="825,55 1118,55 1118,134 825,134"/>
+			<TextLine id="eSc_line_825_55_1118_55_1118_134_825_134" custom="structure {type:default;}">
+				<Coords points="825,55 1118,55 1118,134 825,134"/>
+				<Baseline points="825,134 1118,134"/>
+				<TextEquiv>
+					<Unicode>י גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_352_563_984_563_984_644_352_644" custom="structure {type:text;}">
+			<Coords points="352,563 984,563 984,644 352,644"/>
+			<TextLine id="eSc_line_352_563_984_563_984_644_352_644" custom="structure {type:default;}">
+				<Coords points="352,563 984,563 984,644 352,644"/>
+				<Baseline points="352,644 984,644"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 22.3.1956, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_553_257_879_257_879_414_553_414" custom="structure {type:text;}">
+			<Coords points="553,257 879,257 879,414 553,414"/>
+			<TextLine id="eSc_line_553_257_879_257_879_414_553_414" custom="structure {type:default;}">
+				<Coords points="553,257 879,257 879,414 553,414"/>
+				<Baseline points="553,414 879,414"/>
+				<TextEquiv>
+					<Unicode>עסק חליפין
+
+[חתום הגי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

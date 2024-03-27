@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1357.tif">
+		<TextRegion id="eSc_region_890_22_1153_22_1153_94_890_94" custom="structure {type:text;}">
+			<Coords points="890,22 1153,22 1153,94 890,94"/>
+			<TextLine id="eSc_line_890_22_1153_22_1153_94_890_94" custom="structure {type:default;}">
+				<Coords points="890,22 1153,22 1153,94 890,94"/>
+				<Baseline points="890,94 1153,94"/>
+				<TextEquiv>
+					<Unicode>גורי,ריים גורי,ריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_556_208_973_208_973_384_556_384" custom="structure {type:text;}">
+			<Coords points="556,208 973,208 973,384 556,384"/>
+			<TextLine id="eSc_line_556_208_973_208_973_384_556_384" custom="structure {type:default;}">
+				<Coords points="556,208 973,208 973,384 556,384"/>
+				<Baseline points="556,384 973,384"/>
+				<TextEquiv>
+					<Unicode>מקומיוה נמשבתמסהו איסי| סירים]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

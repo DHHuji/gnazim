@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1013.tif">
+		<TextRegion id="eSc_region_934_99_1219_99_1219_172_934_172" custom="structure {type:text;}">
+			<Coords points="934,99 1219,99 1219,172 934,172"/>
+			<TextLine id="eSc_line_934_99_1219_99_1219_172_934_172" custom="structure {type:default;}">
+				<Coords points="934,99 1219,99 1219,172 934,172"/>
+				<Baseline points="934,172 1219,172"/>
+				<TextEquiv>
+					<Unicode>גווי חיים &quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_330_263_1119_263_1119_410_330_410" custom="structure {type:text;}">
+			<Coords points="330,263 1119,263 1119,410 330,410"/>
+			<TextLine id="eSc_line_330_263_1119_263_1119_410_330_410" custom="structure {type:default;}">
+				<Coords points="330,263 1119,263 1119,410 330,410"/>
+				<Baseline points="330,410 1119,410"/>
+				<TextEquiv>
+					<Unicode>כמו טשיוים (סלוטה קסלים מהוך&quot;הספר המשוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_152_589_1242_589_1242_669_152_669" custom="structure {type:text;}">
+			<Coords points="152,589 1242,589 1242,669 152,669"/>
+			<TextLine id="eSc_line_152_589_1242_589_1242_669_152_669" custom="structure {type:default;}">
+				<Coords points="152,589 1242,589 1242,669 152,669"/>
+				<Baseline points="152,669 1242,669"/>
+				<TextEquiv>
+					<Unicode>קול העם, 27.9.1970,אלול חש&quot;ל,מס' 27,עמ' 18</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0898.tif">
+		<TextRegion id="eSc_region_992_107_1220_107_1220_171_992_171" custom="structure {type:text;}">
+			<Coords points="992,107 1220,107 1220,171 992,171"/>
+			<TextLine id="eSc_line_992_107_1220_107_1220_171_992_171" custom="structure {type:default;}">
+				<Coords points="992,107 1220,107 1220,171 992,171"/>
+				<Baseline points="992,171 1220,171"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_248_308_751_308_751_423_248_423" custom="structure {type:text;}">
+			<Coords points="248,308 751,308 751,423 248,423"/>
+			<TextLine id="eSc_line_248_308_751_308_751_423_248_423" custom="structure {type:default;}">
+				<Coords points="248,308 751,308 751,423 248,423"/>
+				<Baseline points="248,423 751,423"/>
+				<TextEquiv>
+					<Unicode>(מה אומרים?) (חתום חגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_362_582_876_582_876_648_362_648" custom="structure {type:text;}">
+			<Coords points="362,582 876,582 876,648 362,648"/>
+			<TextLine id="eSc_line_362_582_876_582_876_648_362_648" custom="structure {type:default;}">
+				<Coords points="362,582 876,582 876,648 362,648"/>
+				<Baseline points="362,648 876,648"/>
+				<TextEquiv>
+					<Unicode>לסרחב, 22.10,1957, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

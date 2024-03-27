@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0750.tif">
+		<TextRegion id="eSc_region_999_40_1261_40_1261_114_999_114" custom="structure {type:text;}">
+			<Coords points="999,40 1261,40 1261,114 999,114"/>
+			<TextLine id="eSc_line_999_40_1261_40_1261_114_999_114" custom="structure {type:default;}">
+				<Coords points="999,40 1261,40 1261,114 999,114"/>
+				<Baseline points="999,114 1261,114"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_333_546_1257_546_1257_715_333_715" custom="structure {type:text;}">
+			<Coords points="333,546 1257,546 1257,715 333,715"/>
+			<TextLine id="eSc_line_333_546_1257_546_1257_715_333_715" custom="structure {type:default;}">
+				<Coords points="333,546 1257,546 1257,715 333,715"/>
+				<Baseline points="333,715 1257,715"/>
+				<TextEquiv>
+					<Unicode>דבר.מסא.סואדר השמה.55</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_484_252_1051_252_1051_363_484_363" custom="structure {type:text;}">
+			<Coords points="484,252 1051,252 1051,363 484,363"/>
+			<TextLine id="eSc_line_484_252_1051_252_1051_363_484_363" custom="structure {type:default;}">
+				<Coords points="484,252 1051,252 1051,363 484,363"/>
+				<Baseline points="484,363 1051,363"/>
+				<TextEquiv>
+					<Unicode>זהב
+נהוך:&quot;להברוה אלול&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

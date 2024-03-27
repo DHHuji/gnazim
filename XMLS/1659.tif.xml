@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1659.tif">
+		<TextRegion id="eSc_region_665_294_933_294_933_367_665_367" custom="structure {type:text;}">
+			<Coords points="665,294 933,294 933,367 665,367"/>
+			<TextLine id="eSc_line_665_294_933_294_933_367_665_367" custom="structure {type:default;}">
+				<Coords points="665,294 933,294 933,367 665,367"/>
+				<Baseline points="665,367 933,367"/>
+				<TextEquiv>
+					<Unicode>על המחילה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_427_539_1067_539_1067_620_427_620" custom="structure {type:text;}">
+			<Coords points="427,539 1067,539 1067,620 427,620"/>
+			<TextLine id="eSc_line_427_539_1067_539_1067_620_427_620" custom="structure {type:default;}">
+				<Coords points="427,539 1067,539 1067,620 427,620"/>
+				<Baseline points="427,620 1067,620"/>
+				<TextEquiv>
+					<Unicode>לפרתכ, 1.12.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_296_292_635_292_635_373_296_373" custom="structure {type:text;}">
+			<Coords points="296,292 635,292 635,373 296,373"/>
+			<TextLine id="eSc_line_296_292_635_292_635_373_296_373" custom="structure {type:default;}">
+				<Coords points="296,292 635,292 635,373 296,373"/>
+				<Baseline points="296,373 635,373"/>
+				<TextEquiv>
+					<Unicode>ם?)
+י.
+ר
+אום
+ה
+(ס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

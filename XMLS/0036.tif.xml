@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0036.tif">
+		<TextRegion id="eSc_region_1008_57_1144_57_1144_129_1008_129" custom="structure {type:text;}">
+			<Coords points="1008,57 1144,57 1144,129 1008,129"/>
+			<TextLine id="eSc_line_1008_57_1144_57_1144_129_1008_129" custom="structure {type:default;}">
+				<Coords points="1008,57 1144,57 1144,129 1008,129"/>
+				<Baseline points="1008,129 1144,129"/>
+				<TextEquiv>
+					<Unicode>ג'ורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_151_582_1111_582_1111_697_151_697" custom="structure {type:text;}">
+			<Coords points="151,582 1111,582 1111,697 151,697"/>
+			<TextLine id="eSc_line_151_582_1111_582_1111_697_151_697" custom="structure {type:default;}">
+				<Coords points="151,582 1111,582 1111,697 151,697"/>
+				<Baseline points="151,697 1111,697"/>
+				<TextEquiv>
+					<Unicode>עחים, גל&quot; 27, שנה סניה, כ&quot; בניסן תש&quot;ה, 29.4.48עמ&quot; 2-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_626_316_893_316_893_371_626_371" custom="structure {type:text;}">
+			<Coords points="626,316 893,316 893,371 626,371"/>
+			<TextLine id="eSc_line_626_316_893_316_893_371_626_371" custom="structure {type:default;}">
+				<Coords points="626,316 893,316 893,371 626,371"/>
+				<Baseline points="626,371 893,371"/>
+				<TextEquiv>
+					<Unicode>אדמת ביה-קשת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

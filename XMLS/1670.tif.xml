@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1670.tif">
+		<TextRegion id="eSc_region_60_0_986_0_986_726_60_726" custom="structure {type:text;}">
+			<Coords points="60,0 986,0 986,726 60,726"/>
+			<TextLine id="eSc_line_60_0_986_0_986_726_60_726" custom="structure {type:default;}">
+				<Coords points="60,0 986,0 986,726 60,726"/>
+				<Baseline points="60,726 986,726"/>
+				<TextEquiv>
+					<Unicode>גוריר,בחייס . ד רויכ לור גוריר,בחייס. ד רויכ לורעל הקטאסיכגיטיקה, :</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

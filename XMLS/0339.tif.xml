@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0339.tif">
+		<TextRegion id="eSc_region_891_92_1180_92_1180_165_891_165" custom="structure {type:text;}">
+			<Coords points="891,92 1180,92 1180,165 891,165"/>
+			<TextLine id="eSc_line_891_92_1180_92_1180_165_891_165" custom="structure {type:default;}">
+				<Coords points="891,92 1180,92 1180,165 891,165"/>
+				<Baseline points="891,165 1180,165"/>
+				<TextEquiv>
+					<Unicode>גורי חייסם 747</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_511_283_1049_283_1049_424_511_424" custom="structure {type:text;}">
+			<Coords points="511,283 1049,283 1049,424 511,424"/>
+			<TextLine id="eSc_line_511_283_1049_283_1049_424_511_424" custom="structure {type:default;}">
+				<Coords points="511,283 1049,283 1049,424 511,424"/>
+				<Baseline points="511,424 1049,424"/>
+				<TextEquiv>
+					<Unicode>בין הביצה ובין האבן&quot;דפים ירושלמיים&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_278_558_1231_558_1231_639_278_639" custom="structure {type:text;}">
+			<Coords points="278,558 1231,558 1231,639 278,639"/>
+			<TextLine id="eSc_line_278_558_1231_558_1231_639_278_639" custom="structure {type:default;}">
+				<Coords points="278,558 1231,558 1231,639 278,639"/>
+				<Baseline points="278,639 1231,639"/>
+				<TextEquiv>
+					<Unicode>מעריב, ספרא וסייפא, 0.9.1050, עמ* 27</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1012.tif">
+		<TextRegion id="eSc_region_920_42_1189_42_1189_123_920_123" custom="structure {type:text;}">
+			<Coords points="920,42 1189,42 1189,123 920,123"/>
+			<TextLine id="eSc_line_920_42_1189_42_1189_123_920_123" custom="structure {type:default;}">
+				<Coords points="920,42 1189,42 1189,123 920,123"/>
+				<Baseline points="920,123 1189,123"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_229_546_1185_546_1185_747_229_747" custom="structure {type:text;}">
+			<Coords points="229,546 1185,546 1185,747 229,747"/>
+			<TextLine id="eSc_line_229_546_1185_546_1185_747_229_747" custom="structure {type:default;}">
+				<Coords points="229,546 1185,546 1185,747 229,747"/>
+				<Baseline points="229,747 1185,747"/>
+				<TextEquiv>
+					<Unicode>הארץ, מוסף, ז ניסן תעמה,.20,3,108₪9 עמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_438_297_1034_297_1034_372_438_372" custom="structure {type:text;}">
+			<Coords points="438,297 1034,297 1034,372 438,372"/>
+			<TextLine id="eSc_line_438_297_1034_297_1034_372_438_372" custom="structure {type:default;}">
+				<Coords points="438,297 1034,297 1034,372 438,372"/>
+				<Baseline points="438,372 1034,372"/>
+				<TextEquiv>
+					<Unicode>כמו בקרב, כמו באהבה...</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

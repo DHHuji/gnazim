@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1487.tif">
+		<TextRegion id="eSc_region_932_132_1174_132_1174_204_932_204" custom="structure {type:text;}">
+			<Coords points="932,132 1174,132 1174,204 932,204"/>
+			<TextLine id="eSc_line_932_132_1174_132_1174_204_932_204" custom="structure {type:default;}">
+				<Coords points="932,132 1174,132 1174,204 932,204"/>
+				<Baseline points="932,204 1174,204"/>
+				<TextEquiv>
+					<Unicode>גורי,רייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_383_390_871_390_871_520_383_520" custom="structure {type:text;}">
+			<Coords points="383,390 871,390 871,520 383,520"/>
+			<TextLine id="eSc_line_383_390_871_390_871_520_383_520" custom="structure {type:default;}">
+				<Coords points="383,390 871,390 871,520 383,520"/>
+				<Baseline points="383,520 871,520"/>
+				<TextEquiv>
+					<Unicode>''כביב-רנדורה&quot;[כה מוכרים, ום:חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_769_631_1277_631_1277_704_769_704" custom="structure {type:text;}">
+			<Coords points="769,631 1277,631 1277,704 769,704"/>
+			<TextLine id="eSc_line_769_631_1277_631_1277_704_769_704" custom="structure {type:default;}">
+				<Coords points="769,631 1277,631 1277,704 769,704"/>
+				<Baseline points="769,704 1277,704"/>
+				<TextEquiv>
+					<Unicode>לנרהב,פסיסן.י,רה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

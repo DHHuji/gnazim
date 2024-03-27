@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2039.tif">
+		<TextRegion id="eSc_region_136_0_1247_0_1247_834_136_834" custom="structure {type:text;}">
+			<Coords points="136,0 1247,0 1247,834 136,834"/>
+			<TextLine id="eSc_line_136_0_1247_0_1247_834_136_834" custom="structure {type:default;}">
+				<Coords points="136,0 1247,0 1247,834 136,834"/>
+				<Baseline points="136,834 1247,834"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים שחר ישיר, מהוך &quot;הספר הפשוגע&quot; גורי, חייםשחר ישיר, מהוך &quot;הספר הפשוגע&quot;קול העכ, ‏ גליון מס' !,2.4.1970, עמ'</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2212.tif">
+		<TextRegion id="eSc_region_950_78_1229_78_1229_152_950_152" custom="structure {type:text;}">
+			<Coords points="950,78 1229,78 1229,152 950,152"/>
+			<TextLine id="eSc_line_950_78_1229_78_1229_152_950_152" custom="structure {type:default;}">
+				<Coords points="950,78 1229,78 1229,152 950,152"/>
+				<Baseline points="950,152 1229,152"/>
+				<TextEquiv>
+					<Unicode>גורי חיים -- 3-ה =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_140_227_985_227_985_441_140_441" custom="structure {type:text;}">
+			<Coords points="140,227 985,227 985,441 140,441"/>
+			<TextLine id="eSc_line_140_227_985_227_985_441_140_441" custom="structure {type:default;}">
+				<Coords points="140,227 985,227 985,441 140,441"/>
+				<Baseline points="140,441 985,441"/>
+				<TextEquiv>
+					<Unicode>תודה לבת-מרים [על יוכבד בת-מריםעם קבלת &quot;פוס ישראל לספרות&quot;][חתום: ח.ג.]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_199_595_1192_595_1192_684_199_684" custom="structure {type:text;}">
+			<Coords points="199,595 1192,595 1192,684 199,684"/>
+			<TextLine id="eSc_line_199_595_1192_595_1192_684_199_684" custom="structure {type:default;}">
+				<Coords points="199,595 1192,595 1192,684 199,684"/>
+				<Baseline points="199,684 1192,684"/>
+				<TextEquiv>
+					<Unicode>דבר, משסא לספרות,אמנות וציון,21.4.709, עְמ*</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

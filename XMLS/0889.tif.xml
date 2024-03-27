@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0889.tif">
+		<TextRegion id="eSc_region_838_357_977_357_977_402_838_402" custom="structure {type:text;}">
+			<Coords points="838,357 977,357 977,402 838,402"/>
+			<TextLine id="eSc_line_838_357_977_357_977_402_838_402" custom="structure {type:default;}">
+				<Coords points="838,357 977,357 977,402 838,402"/>
+				<Baseline points="838,402 977,402"/>
+				<TextEquiv>
+					<Unicode>יים יומ ייםיומ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_695_357_833_357_833_401_695_401" custom="structure {type:text;}">
+			<Coords points="695,357 833,357 833,401 695,401"/>
+			<TextLine id="eSc_line_695_357_833_357_833_401_695_401" custom="structure {type:default;}">
+				<Coords points="695,357 833,357 833,401 695,401"/>
+				<Baseline points="695,401 833,401"/>
+				<TextEquiv>
+					<Unicode>בונציה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

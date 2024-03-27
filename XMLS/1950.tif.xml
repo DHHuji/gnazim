@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1950.tif">
+		<TextRegion id="eSc_region_779_75_1026_75_1026_156_779_156" custom="structure {type:text;}">
+			<Coords points="779,75 1026,75 1026,156 779,156"/>
+			<TextLine id="eSc_line_779_75_1026_75_1026_156_779_156" custom="structure {type:default;}">
+				<Coords points="779,75 1026,75 1026,156 779,156"/>
+				<Baseline points="779,156 1026,156"/>
+				<TextEquiv>
+					<Unicode>ג ורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_330_353_707_353_707_495_330_495" custom="structure {type:text;}">
+			<Coords points="330,353 707,353 707,495 330,495"/>
+			<TextLine id="eSc_line_330_353_707_353_707_495_330_495" custom="structure {type:default;}">
+				<Coords points="330,353 707,353 707,495 330,495"/>
+				<Baseline points="330,495 707,495"/>
+				<TextEquiv>
+					<Unicode>רביב נהברי[כיר הזום:רדגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_581_588_1098_588_1098_670_581_670" custom="structure {type:text;}">
+			<Coords points="581,588 1098,588 1098,670 581,670"/>
+			<TextLine id="eSc_line_581_588_1098_588_1098_670_581_670" custom="structure {type:default;}">
+				<Coords points="581,588 1098,588 1098,670 581,670"/>
+				<Baseline points="581,670 1098,670"/>
+				<TextEquiv>
+					<Unicode>לנרהב,0.1.190,כר. 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

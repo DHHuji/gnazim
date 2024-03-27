@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0811.tif">
+		<TextRegion id="eSc_region_918_106_1210_106_1210_181_918_181" custom="structure {type:text;}">
+			<Coords points="918,106 1210,106 1210,181 918,181"/>
+			<TextLine id="eSc_line_918_106_1210_106_1210_181_918_181" custom="structure {type:default;}">
+				<Coords points="918,106 1210,106 1210,181 918,181"/>
+				<Baseline points="918,181 1210,181"/>
+				<TextEquiv>
+					<Unicode>גורי חייס #NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_210_291_949_291_949_501_210_501" custom="structure {type:text;}">
+			<Coords points="210,291 949,291 949,501 210,501"/>
+			<TextLine id="eSc_line_210_291_949_291_949_501_210_501" custom="structure {type:default;}">
+				<Coords points="210,291 949,291 949,501 210,501"/>
+				<Baseline points="210,501 949,501"/>
+				<TextEquiv>
+					<Unicode>חיים גורי משיב לד&quot;ו דוד לאזוי'על מכהבו הגלוי של דוד לטזרבקשסשר ליהונתן גפן]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_280_617_1203_617_1203_697_280_697" custom="structure {type:text;}">
+			<Coords points="280,617 1203,617 1203,697 280,697"/>
+			<TextLine id="eSc_line_280_617_1203_617_1203_697_280_697" custom="structure {type:default;}">
+				<Coords points="280,617 1203,617 1203,697 280,697"/>
+				<Baseline points="280,697 1203,697"/>
+				<TextEquiv>
+					<Unicode>מעריב, על ספרות ואמנות, 7.1.72 עמ'33</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

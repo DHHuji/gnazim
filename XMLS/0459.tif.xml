@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0459.tif">
+		<TextRegion id="eSc_region_186_543_1113_543_1113_799_186_799" custom="structure {type:text;}">
+			<Coords points="186,543 1113,543 1113,799 186,799"/>
+			<TextLine id="eSc_line_186_543_1113_543_1113_799_186_799" custom="structure {type:default;}">
+				<Coords points="186,543 1113,543 1113,799 186,799"/>
+				<Baseline points="186,799 1113,799"/>
+				<TextEquiv>
+					<Unicode>דבר,כ&quot;ד ‏ סיון תשמ&quot;א,ו20.6.1%8 עמ274</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_570_253_887_253_887_439_570_439" custom="structure {type:text;}">
+			<Coords points="570,253 887,253 887,439 570,439"/>
+			<TextLine id="eSc_line_570_253_887_253_887_439_570_439" custom="structure {type:default;}">
+				<Coords points="570,253 887,253 887,439 570,439"/>
+				<Baseline points="570,439 887,439"/>
+				<TextEquiv>
+					<Unicode>ברברוסהת
+
+חתחתהום: הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

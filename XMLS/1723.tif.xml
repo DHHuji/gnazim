@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1723.tif">
+		<TextRegion id="eSc_region_264_9_1140_9_1140_840_264_840" custom="structure {type:text;}">
+			<Coords points="264,9 1140,9 1140,840 264,840"/>
+			<TextLine id="eSc_line_264_9_1140_9_1140_840_264_840" custom="structure {type:default;}">
+				<Coords points="264,9 1140,9 1140,840 264,840"/>
+				<Baseline points="264,840 1140,840"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס ץעמוד מתהוןך &quot;קיסקת השו%ולד&quot; גורי, חייסץעמוד מתהוןך &quot;קיסקת השו%ולד&quot;(מדור קמוד 6)צפור הגפט, 25,3.65, עם* 8</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

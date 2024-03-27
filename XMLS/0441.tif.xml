@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0441.tif">
+		<TextRegion id="eSc_region_957_15_1221_15_1221_88_957_88" custom="structure {type:text;}">
+			<Coords points="957,15 1221,15 1221,88 957,88"/>
+			<TextLine id="eSc_line_957_15_1221_15_1221_88_957_88" custom="structure {type:default;}">
+				<Coords points="957,15 1221,15 1221,88 957,88"/>
+				<Baseline points="957,88 1221,88"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים =ןהה--1--=- גורי,חיים
+=ןהה--1--=-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_70_565_1217_565_1217_817_70_817" custom="structure {type:text;}">
+			<Coords points="70,565 1217,565 1217,817 70,817"/>
+			<TextLine id="eSc_line_70_565_1217_565_1217_817_70_817" custom="structure {type:default;}">
+				<Coords points="70,565 1217,565 1217,817 70,817"/>
+				<Baseline points="70,817 1217,817"/>
+				<TextEquiv>
+					<Unicode>הרטר,ניודיורי, כנה 60,גל7 ה', כ&quot;ז כסלו &quot;אהשמ6 ץע 70/69</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

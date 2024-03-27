@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1356.tif">
+		<TextRegion id="eSc_region_1_0_1254_0_1254_490_1_490" custom="structure {type:text;}">
+			<Coords points="1,0 1254,0 1254,490 1,490"/>
+			<TextLine id="eSc_line_1_0_1254_0_1254_490_1_490" custom="structure {type:default;}">
+				<Coords points="1,0 1254,0 1254,490 1,490"/>
+				<Baseline points="1,490 1254,490"/>
+				<TextEquiv>
+					<Unicode>מקום סוב באמצעגסם על אלתרמן נתן,אריה לובה אליאב,ברנר י.ח.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_72_507_1249_507_1249_901_72_901" custom="structure {type:text;}">
+			<Coords points="72,507 1249,507 1249,901 72,901"/>
+			<TextLine id="eSc_line_72_507_1249_507_1249_901_72_901" custom="structure {type:default;}">
+				<Coords points="72,507 1249,507 1249,901 72,901"/>
+				<Baseline points="72,901 1249,901"/>
+				<TextEquiv>
+					<Unicode>כל העיר י&quot;ס,כס סבת תשמג,4.!,1985! עמ 15</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

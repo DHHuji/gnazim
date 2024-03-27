@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1089.tif">
+		<TextRegion id="eSc_region_853_115_1125_115_1125_212_853_212" custom="structure {type:text;}">
+			<Coords points="853,115 1125,115 1125,212 853,212"/>
+			<TextLine id="eSc_line_853_115_1125_115_1125_212_853_212" custom="structure {type:default;}">
+				<Coords points="853,115 1125,115 1125,212 853,212"/>
+				<Baseline points="853,212 1125,212"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים #NAME? גורי, חיים
+=--4-- ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_116_587_1155_587_1155_859_116_859" custom="structure {type:text;}">
+			<Coords points="116,587 1155,587 1155,859 116,859"/>
+			<TextLine id="eSc_line_116_587_1155_587_1155_859_116_859" custom="structure {type:default;}">
+				<Coords points="116,587 1155,587 1155,859 116,859"/>
+				<Baseline points="116,859 1155,859"/>
+				<TextEquiv>
+					<Unicode>.חיים אהל, סקר לשירה הצקירה, 88 פ&quot;א הסל&quot;ג, עמ&quot; 54</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2130.tif">
+		<TextRegion id="eSc_region_746_602_1237_602_1237_673_746_673" custom="structure {type:text;}">
+			<Coords points="746,602 1237,602 1237,673 746,673"/>
+			<TextLine id="eSc_line_746_602_1237_602_1237_673_746_673" custom="structure {type:default;}">
+				<Coords points="746,602 1237,602 1237,673 746,673"/>
+				<Baseline points="746,673 1237,673"/>
+				<TextEquiv>
+					<Unicode>לכרהב, 2,1.0.1997. לכרהב, 2,1.0.1997.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_322_363_845_363_845_494_322_494" custom="structure {type:text;}">
+			<Coords points="322,363 845,363 845,494 322,494"/>
+			<TextLine id="eSc_line_322_363_845_363_845_494_322_494" custom="structure {type:default;}">
+				<Coords points="322,363 845,363 845,494 322,494"/>
+				<Baseline points="322,494 845,494"/>
+				<TextEquiv>
+					<Unicode>'כרח לרמך ככ רני הכים[נרכליכרוה פו9 השבוען |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

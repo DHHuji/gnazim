@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0225.tif">
+		<TextRegion id="eSc_region_196_335_906_335_906_498_196_498" custom="structure {type:text;}">
+			<Coords points="196,335 906,335 906,498 196,498"/>
+			<TextLine id="eSc_line_196_335_906_335_906_498_196_498" custom="structure {type:default;}">
+				<Coords points="196,335 906,335 906,498 196,498"/>
+				<Baseline points="196,498 906,498"/>
+				<TextEquiv>
+					<Unicode>ארבצץה במונית אחת בלבד(פה אופרים?) ] חתום הגי ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_452_643_1093_643_1093_855_452_855" custom="structure {type:text;}">
+			<Coords points="452,643 1093,643 1093,855 452,855"/>
+			<TextLine id="eSc_line_452_643_1093_643_1093_855_452_855" custom="structure {type:default;}">
+				<Coords points="452,643 1093,643 1093,855 452,855"/>
+				<Baseline points="452,855 1093,855"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 20,1.1956, לפ' 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

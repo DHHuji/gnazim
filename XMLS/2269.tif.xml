@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2269.tif">
+		<TextRegion id="eSc_region_910_66_1144_66_1144_131_910_131" custom="structure {type:text;}">
+			<Coords points="910,66 1144,66 1144,131 910,131"/>
+			<TextLine id="eSc_line_910_66_1144_66_1144_131_910_131" custom="structure {type:default;}">
+				<Coords points="910,66 1144,66 1144,131 910,131"/>
+				<Baseline points="910,131 1144,131"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_351_536_1050_536_1050_607_351_607" custom="structure {type:text;}">
+			<Coords points="351,536 1050,536 1050,607 351,607"/>
+			<TextLine id="eSc_line_351_536_1050_536_1050_607_351_607" custom="structure {type:default;}">
+				<Coords points="351,536 1050,536 1050,607 351,607"/>
+				<Baseline points="351,607 1050,607"/>
+				<TextEquiv>
+					<Unicode>ס&quot;?:.,,105.8.(0סש&quot;מ,תּוו₪ססור,ב.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_766_204_1038_204_1038_258_766_258" custom="structure {type:text;}">
+			<Coords points="766,204 1038,204 1038,258 766,258"/>
+			<TextLine id="eSc_line_766_204_1038_204_1038_258_766_258" custom="structure {type:default;}">
+				<Coords points="766,204 1038,204 1038,258 766,258"/>
+				<Baseline points="766,258 1038,258"/>
+				<TextEquiv>
+					<Unicode>תרבות הדיבור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

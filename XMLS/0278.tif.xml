@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0278.tif">
+		<TextRegion id="eSc_region_863_108_1099_108_1099_173_863_173" custom="structure {type:text;}">
+			<Coords points="863,108 1099,108 1099,173 863,173"/>
+			<TextLine id="eSc_line_863_108_1099_108_1099_173_863_173" custom="structure {type:default;}">
+				<Coords points="863,108 1099,108 1099,173 863,173"/>
+				<Baseline points="863,173 1099,173"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_212_236_929_236_929_404_212_404" custom="structure {type:text;}">
+			<Coords points="212,236 929,236 929,404 212,404"/>
+			<TextLine id="eSc_line_212_236_929_236_929_404_212_404" custom="structure {type:default;}">
+				<Coords points="212,236 929,236 929,404 212,404"/>
+				<Baseline points="212,404 929,404"/>
+				<TextEquiv>
+					<Unicode>בבית השכן (מדור רשימות סוף הטבוץ)(חחוט הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_409_583_1110_583_1110_652_409_652" custom="structure {type:text;}">
+			<Coords points="409,583 1110,583 1110,652 409,652"/>
+			<TextLine id="eSc_line_409_583_1110_583_1110_652_409_652" custom="structure {type:default;}">
+				<Coords points="409,583 1110,583 1110,652 409,652"/>
+				<Baseline points="409,652 1110,652"/>
+				<TextEquiv>
+					<Unicode>רבר, ב' שבט תשל&quot;ז,(21,1,77), עפ&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

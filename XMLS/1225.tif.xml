@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1225.tif">
+		<TextRegion id="eSc_region_959_12_1231_12_1231_92_959_92" custom="structure {type:text;}">
+			<Coords points="959,12 1231,12 1231,92 959,92"/>
+			<TextLine id="eSc_line_959_12_1231_12_1231_92_959_92" custom="structure {type:default;}">
+				<Coords points="959,12 1231,12 1231,92 959,92"/>
+				<Baseline points="959,92 1231,92"/>
+				<TextEquiv>
+					<Unicode>בגןנרי,חייס בגןנרי,חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_42_576_1227_576_1227_841_42_841" custom="structure {type:text;}">
+			<Coords points="42,576 1227,576 1227,841 42,841"/>
+			<TextLine id="eSc_line_42_576_1227_576_1227_841_42_841" custom="structure {type:default;}">
+				<Coords points="42,576 1227,576 1227,841 42,841"/>
+				<Baseline points="42,841 1227,841"/>
+				<TextEquiv>
+					<Unicode>הדאר,ניו-יורק, לסנת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

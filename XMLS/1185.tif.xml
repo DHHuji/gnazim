@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1185.tif">
+		<TextRegion id="eSc_region_786_58_1108_58_1108_143_786_143" custom="structure {type:text;}">
+			<Coords points="786,58 1108,58 1108,143 786,143"/>
+			<TextLine id="eSc_line_786_58_1108_58_1108_143_786_143" custom="structure {type:default;}">
+				<Coords points="786,58 1108,58 1108,143 786,143"/>
+				<Baseline points="786,143 1108,143"/>
+				<TextEquiv>
+					<Unicode>גור* חיים 2 ---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_203_287_840_287_840_544_203_544" custom="structure {type:text;}">
+			<Coords points="203,287 840,287 840,544 203,544"/>
+			<TextLine id="eSc_line_203_287_840_287_840_544_203_544" custom="structure {type:default;}">
+				<Coords points="203,287 840,287 840,544 203,544"/>
+				<Baseline points="203,544 840,544"/>
+				<TextEquiv>
+					<Unicode>מודעת ברכה (חתום הגור)(סרסיפות סוף סבול)כ&quot; 5 25</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_375_568_909_568_909_648_375_648" custom="structure {type:text;}">
+			<Coords points="375,568 909,568 909,648 375,648"/>
+			<TextLine id="eSc_line_375_568_909_568_909_648_375_648" custom="structure {type:default;}">
+				<Coords points="375,568 909,568 909,648 375,648"/>
+				<Baseline points="375,648 909,648"/>
+				<TextEquiv>
+					<Unicode>לפרחב,פסא, 5.8.1960</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

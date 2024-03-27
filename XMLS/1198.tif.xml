@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1198.tif">
+		<TextRegion id="eSc_region_924_145_1173_145_1173_225_924_225" custom="structure {type:text;}">
+			<Coords points="924,145 1173,145 1173,225 924,225"/>
+			<TextLine id="eSc_line_924_145_1173_145_1173_225_924_225" custom="structure {type:default;}">
+				<Coords points="924,145 1173,145 1173,225 924,225"/>
+				<Baseline points="924,225 1173,225"/>
+				<TextEquiv>
+					<Unicode>₪ גורי,ריים ₪
+
+גורי,ריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_377_413_872_413_872_550_377_550" custom="structure {type:text;}">
+			<Coords points="377,413 872,413 872,550 377,550"/>
+			<TextLine id="eSc_line_377_413_872_413_872_550_377_550" custom="structure {type:default;}">
+				<Coords points="377,413 872,413 872,550 377,550"/>
+				<Baseline points="377,550 872,550"/>
+				<TextEquiv>
+					<Unicode>דרי זכיר ורסופריבוכר מוכרים,רתוב:רגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

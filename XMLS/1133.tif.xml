@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1133.tif">
+		<TextRegion id="eSc_region_844_62_1075_62_1075_126_844_126" custom="structure {type:text;}">
+			<Coords points="844,62 1075,62 1075,126 844,126"/>
+			<TextLine id="eSc_line_844_62_1075_62_1075_126_844_126" custom="structure {type:default;}">
+				<Coords points="844,62 1075,62 1075,126 844,126"/>
+				<Baseline points="844,126 1075,126"/>
+				<TextEquiv>
+					<Unicode>גורין חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_193_508_1068_508_1068_577_193_577" custom="structure {type:text;}">
+			<Coords points="193,508 1068,508 1068,577 193,577"/>
+			<TextLine id="eSc_line_193_508_1068_508_1068_577_193_577" custom="structure {type:default;}">
+				<Coords points="193,508 1068,508 1068,577 193,577"/>
+				<Baseline points="193,577 1068,577"/>
+				<TextEquiv>
+					<Unicode>,.מער'ב,ספרוה, יד ארר הסלל&quot;ז,(4.3.77), עם&quot; 39</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_400_191_764_191_764_256_400_256" custom="structure {type:text;}">
+			<Coords points="400,191 764,191 764,256 400,256"/>
+			<TextLine id="eSc_line_400_191_764_191_764_256_400_256" custom="structure {type:default;}">
+				<Coords points="400,191 764,191 764,256 400,256"/>
+				<Baseline points="400,256 764,256"/>
+				<TextEquiv>
+					<Unicode>(פתוך &quot;בית היין&quot;)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

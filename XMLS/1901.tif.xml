@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1901.tif">
+		<TextRegion id="eSc_region_889_124_1131_124_1131_195_889_195" custom="structure {type:text;}">
+			<Coords points="889,124 1131,124 1131,195 889,195"/>
+			<TextLine id="eSc_line_889_124_1131_124_1131_195_889_195" custom="structure {type:default;}">
+				<Coords points="889,124 1131,124 1131,195 889,195"/>
+				<Baseline points="889,195 1131,195"/>
+				<TextEquiv>
+					<Unicode>גורי, רי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_355_496_1061_496_1061_582_355_582" custom="structure {type:text;}">
+			<Coords points="355,496 1061,496 1061,582 355,582"/>
+			<TextLine id="eSc_line_355_496_1061_496_1061_582_355_582" custom="structure {type:default;}">
+				<Coords points="355,496 1061,496 1061,582 355,582"/>
+				<Baseline points="355,582 1061,582"/>
+				<TextEquiv>
+					<Unicode>.דבר,יר הקרי תט'ם,(5.10.79), לט 20</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_398_255_1002_255_1002_394_398_394" custom="structure {type:text;}">
+			<Coords points="398,255 1002,255 1002,394 398,394"/>
+			<TextLine id="eSc_line_398_255_1002_255_1002_394_398_394" custom="structure {type:default;}">
+				<Coords points="398,255 1002,255 1002,394 398,394"/>
+				<Baseline points="398,394 1002,394"/>
+				<TextEquiv>
+					<Unicode>קולוה מהביעה
+
+(פדור רשיפוה סוף</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1407.tif">
+		<TextRegion id="eSc_region_662_305_799_305_799_350_662_350" custom="structure {type:text;}">
+			<Coords points="662,305 799,305 799,350 662,350"/>
+			<TextLine id="eSc_line_662_305_799_305_799_350_662_350" custom="structure {type:default;}">
+				<Coords points="662,305 799,305 799,350 662,350"/>
+				<Baseline points="662,350 799,350"/>
+				<TextEquiv>
+					<Unicode>&quot;משפחת &quot;משפחת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_518_300_737_300_737_397_518_397" custom="structure {type:text;}">
+			<Coords points="518,300 737,300 737,397 518,397"/>
+			<TextLine id="eSc_line_518_300_737_300_737_397_518_397" custom="structure {type:default;}">
+				<Coords points="518,300 737,300 737,397 518,397"/>
+				<Baseline points="518,397 737,397"/>
+				<TextEquiv>
+					<Unicode>ופחה הארכסה&quot;אופרים?, חו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

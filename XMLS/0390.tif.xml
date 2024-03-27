@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0390.tif">
+		<TextRegion id="eSc_region_832_127_1233_127_1233_235_832_235" custom="structure {type:text;}">
+			<Coords points="832,127 1233,127 1233,235 832,235"/>
+			<TextLine id="eSc_line_832_127_1233_127_1233_235_832_235" custom="structure {type:default;}">
+				<Coords points="832,127 1233,127 1233,235 832,235"/>
+				<Baseline points="832,235 1233,235"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_506_1250_506_1250_653_0_653" custom="structure {type:text;}">
+			<Coords points="0,506 1250,506 1250,653 0,653"/>
+			<TextLine id="eSc_line_0_506_1250_506_1250_653_0_653" custom="structure {type:default;}">
+				<Coords points="0,506 1250,506 1250,653 0,653"/>
+				<Baseline points="0,653 1250,653"/>
+				<TextEquiv>
+					<Unicode>אוורות, ירושלי., שגה ב, חוב' יא, אדר תשי&quot;געמ' 15/9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_404_216_806_216_806_401_404_401" custom="structure {type:text;}">
+			<Coords points="404,216 806,216 806,401 404,401"/>
+			<TextLine id="eSc_line_404_216_806_216_806_401_404_401" custom="structure {type:default;}">
+				<Coords points="404,216 806,216 806,401 404,401"/>
+				<Baseline points="404,401 806,401"/>
+				<TextEquiv>
+					<Unicode>בכנום הרביעי
+
+[שיי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1406.tif">
+		<TextRegion id="eSc_region_974_133_1230_133_1230_181_974_181" custom="structure {type:text;}">
+			<Coords points="974,133 1230,133 1230,181 974,181"/>
+			<TextLine id="eSc_line_974_133_1230_133_1230_181_974_181" custom="structure {type:default;}">
+				<Coords points="974,133 1230,133 1230,181 974,181"/>
+				<Baseline points="974,181 1230,181"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 07-ינו גורי, חיים1-7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_733_383_878_383_878_425_733_425" custom="structure {type:text;}">
+			<Coords points="733,383 878,383 878,425 733,425"/>
+			<TextLine id="eSc_line_733_383_878_383_878_425_733_425" custom="structure {type:default;}">
+				<Coords points="733,383 878,383 878,425 733,425"/>
+				<Baseline points="733,425 878,425"/>
+				<TextEquiv>
+					<Unicode>המלחמה;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

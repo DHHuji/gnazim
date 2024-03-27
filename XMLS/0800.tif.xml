@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0800.tif">
+		<TextRegion id="eSc_region_119_0_1224_0_1224_768_119_768" custom="structure {type:text;}">
+			<Coords points="119,0 1224,0 1224,768 119,768"/>
+			<TextLine id="eSc_line_119_0_1224_0_1224_768_119_768" custom="structure {type:default;}">
+				<Coords points="119,0 1224,0 1224,768 119,768"/>
+				<Baseline points="119,768 1224,768"/>
+				<TextEquiv>
+					<Unicode>על וני ניכר, הן]ם. ה 6 אכת על וניניכר, הן]ם. ה 6 אכתאדר 9% ה-5ן. 14.79.1069</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

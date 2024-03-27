@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2271.tif">
+		<TextRegion id="eSc_region_737_77_1016_77_1016_139_737_139" custom="structure {type:text;}">
+			<Coords points="737,77 1016,77 1016,139 737,139"/>
+			<TextLine id="eSc_line_737_77_1016_77_1016_139_737_139" custom="structure {type:default;}">
+				<Coords points="737,77 1016,77 1016,139 737,139"/>
+				<Baseline points="737,139 1016,139"/>
+				<TextEquiv>
+					<Unicode>רוי גודי, חתינ רויגודי, חתינחיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_580_297_830_297_830_438_580_438" custom="structure {type:text;}">
+			<Coords points="580,297 830,297 830,438 580,438"/>
+			<TextLine id="eSc_line_580_297_830_297_830_438_580_438" custom="structure {type:default;}">
+				<Coords points="580,297 830,297 830,438 580,438"/>
+				<Baseline points="580,438 830,438"/>
+				<TextEquiv>
+					<Unicode>וו של ראסד
+
+חגור )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

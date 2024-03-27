@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0696.tif">
+		<TextRegion id="eSc_region_950_23_1187_23_1187_92_950_92" custom="structure {type:text;}">
+			<Coords points="950,23 1187,23 1187,92 950,92"/>
+			<TextLine id="eSc_line_950_23_1187_23_1187_92_950_92" custom="structure {type:default;}">
+				<Coords points="950,23 1187,23 1187,92 950,92"/>
+				<Baseline points="950,92 1187,92"/>
+				<TextEquiv>
+					<Unicode>וורי. .חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_451_500_1174_500_1174_721_451_721" custom="structure {type:text;}">
+			<Coords points="451,500 1174,500 1174,721 451,721"/>
+			<TextLine id="eSc_line_451_500_1174_500_1174_721_451_721" custom="structure {type:default;}">
+				<Coords points="451,500 1174,500 1174,721 451,721"/>
+				<Baseline points="451,721 1174,721"/>
+				<TextEquiv>
+					<Unicode>6 פנם:1ר צדר 4 כרכרופספו,.יגבר. ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_382_223_978_223_978_290_382_290" custom="structure {type:text;}">
+			<Coords points="382,223 978,223 978,290 382,290"/>
+			<TextLine id="eSc_line_382_223_978_223_978_290_382_290" custom="structure {type:default;}">
+				<Coords points="382,223 978,223 978,290 382,290"/>
+				<Baseline points="382,290 978,290"/>
+				<TextEquiv>
+					<Unicode>נכן,- תובלנוה ככד,- על בות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

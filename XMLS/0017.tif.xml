@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0017.tif">
+		<TextRegion id="eSc_region_934_94_1230_94_1230_178_934_178" custom="structure {type:text;}">
+			<Coords points="934,94 1230,94 1230,178 934,178"/>
+			<TextLine id="eSc_line_934_94_1230_94_1230_178_934_178" custom="structure {type:default;}">
+				<Coords points="934,94 1230,94 1230,178 934,178"/>
+				<Baseline points="934,178 1230,178"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;&gt;-ה--2- = גורי חיים
+&lt;&gt;-ה--2- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_299_264_1102_264_1102_419_299_419" custom="structure {type:text;}">
+			<Coords points="299,264 1102,264 1102,419 299,419"/>
+			<TextLine id="eSc_line_299_264_1102_264_1102_419_299_419" custom="structure {type:default;}">
+				<Coords points="299,264 1102,264 1102,419 299,419"/>
+				<Baseline points="299,419 1102,419"/>
+				<TextEquiv>
+					<Unicode>אברהם שלונסקי ו&quot;הכליון המוסרי&quot;[מדור: מה אומרים + ההום: הגי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

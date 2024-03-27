@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1794.tif">
+		<TextRegion id="eSc_region_90_282_732_282_732_499_90_499" custom="structure {type:text;}">
+			<Coords points="90,282 732,282 732,499 90,499"/>
+			<TextLine id="eSc_line_90_282_732_282_732_499_90_499" custom="structure {type:default;}">
+				<Coords points="90,282 732,282 732,499 90,499"/>
+				<Baseline points="90,499 732,499"/>
+				<TextEquiv>
+					<Unicode>יס-פרנם ‏ (פרסיפות סוף-טסבוע)( זתום הגור (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_273_547_999_547_999_634_273_634" custom="structure {type:text;}">
+			<Coords points="273,547 999,547 999,634 273,634"/>
+			<TextLine id="eSc_line_273_547_999_547_999_634_273_634" custom="structure {type:default;}">
+				<Coords points="273,547 999,547 999,634 273,634"/>
+				<Baseline points="273,634 999,634"/>
+				<TextEquiv>
+					<Unicode>4 ₪
+8, עם
+71 .
+] מש1958
+רחבן
+לפרו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

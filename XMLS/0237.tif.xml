@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0237.tif">
+		<TextRegion id="eSc_region_893_68_1149_68_1149_129_893_129" custom="structure {type:text;}">
+			<Coords points="893,68 1149,68 1149,129 893,129"/>
+			<TextLine id="eSc_line_893_68_1149_68_1149_129_893_129" custom="structure {type:default;}">
+				<Coords points="893,68 1149,68 1149,129 893,129"/>
+				<Baseline points="893,129 1149,129"/>
+				<TextEquiv>
+					<Unicode>גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_735_661_1142_661_1142_723_735_723" custom="structure {type:text;}">
+			<Coords points="735,661 1142,661 1142,723 735,723"/>
+			<TextLine id="eSc_line_735_661_1142_661_1142_723_735_723" custom="structure {type:default;}">
+				<Coords points="735,661 1142,661 1142,723 735,723"/>
+				<Baseline points="735,723 1142,723"/>
+				<TextEquiv>
+					<Unicode>למרחב, מעשא, 1.5.506,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_610_322_938_322_938_375_610_375" custom="structure {type:text;}">
+			<Coords points="610,322 938,322 938,375 610,375"/>
+			<TextLine id="eSc_line_610_322_938_322_938_375_610_375" custom="structure {type:default;}">
+				<Coords points="610,322 938,322 938,375 610,375"/>
+				<Baseline points="610,375 938,375"/>
+				<TextEquiv>
+					<Unicode>ארץ שבעת המינים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

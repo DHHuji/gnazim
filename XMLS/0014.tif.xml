@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0014.tif">
+		<TextRegion id="eSc_region_985_92_1247_92_1247_180_985_180" custom="structure {type:text;}">
+			<Coords points="985,92 1247,92 1247,180 985,180"/>
+			<TextLine id="eSc_line_985_92_1247_92_1247_180_985_180" custom="structure {type:default;}">
+				<Coords points="985,92 1247,92 1247,180 985,180"/>
+				<Baseline points="985,180 1247,180"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסם ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_520_317_1037_317_1037_546_520_546" custom="structure {type:text;}">
+			<Coords points="520,317 1037,317 1037,546 520,546"/>
+			<TextLine id="eSc_line_520_317_1037_317_1037_546_520_546" custom="structure {type:default;}">
+				<Coords points="520,317 1037,317 1037,546 520,546"/>
+				<Baseline points="520,546 1037,546"/>
+				<TextEquiv>
+					<Unicode>אבררם ארץ-קרוזשה,- הארנקהמ יי0 מתוס -7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_211_609_710_609_710_848_211_848" custom="structure {type:text;}">
+			<Coords points="211,609 710,609 710,848 211,848"/>
+			<TextLine id="eSc_line_211_609_710_609_710_848_211_848" custom="structure {type:default;}">
+				<Coords points="211,609 710,609 710,848 211,848"/>
+				<Baseline points="211,848 710,848"/>
+				<TextEquiv>
+					<Unicode>למרחב, 2.!.1956, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

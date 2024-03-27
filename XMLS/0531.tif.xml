@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0531.tif">
+		<TextRegion id="eSc_region_914_90_1239_90_1239_171_914_171" custom="structure {type:text;}">
+			<Coords points="914,90 1239,90 1239,171 914,171"/>
+			<TextLine id="eSc_line_914_90_1239_90_1239_171_914_171" custom="structure {type:default;}">
+				<Coords points="914,90 1239,90 1239,171 914,171"/>
+				<Baseline points="914,171 1239,171"/>
+				<TextEquiv>
+					<Unicode>גור חיי ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_385_310_1131_310_1131_475_385_475" custom="structure {type:text;}">
+			<Coords points="385,310 1131,310 1131,475 385,475"/>
+			<TextLine id="eSc_line_385_310_1131_310_1131_475_385_475" custom="structure {type:default;}">
+				<Coords points="385,310 1131,310 1131,475 385,475"/>
+				<Baseline points="385,475 1131,475"/>
+				<TextEquiv>
+					<Unicode>הגסס.- האביב (םה אומרים?)ובל חגי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_224_637_944_637_944_850_224_850" custom="structure {type:text;}">
+			<Coords points="224,637 944,637 944,850 224,850"/>
+			<TextLine id="eSc_line_224_637_944_637_944_850_224_850" custom="structure {type:default;}">
+				<Coords points="224,637 944,637 944,850 224,850"/>
+				<Baseline points="224,850 944,850"/>
+				<TextEquiv>
+					<Unicode>למרחב,אט 26.10.1961, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

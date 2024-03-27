@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1882.tif">
+		<TextRegion id="eSc_region_929_130_1172_130_1172_202_929_202" custom="structure {type:text;}">
+			<Coords points="929,130 1172,130 1172,202 929,202"/>
+			<TextLine id="eSc_line_929_130_1172_130_1172_202_929_202" custom="structure {type:default;}">
+				<Coords points="929,130 1172,130 1172,202 929,202"/>
+				<Baseline points="929,202 1172,202"/>
+				<TextEquiv>
+					<Unicode>גבורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_289_378_983_378_983_506_289_506" custom="structure {type:text;}">
+			<Coords points="289,378 983,378 983,506 289,506"/>
+			<TextLine id="eSc_line_289_378_983_378_983_506_289_506" custom="structure {type:default;}">
+				<Coords points="289,378 983,378 983,506 289,506"/>
+				<Baseline points="289,506 983,506"/>
+				<TextEquiv>
+					<Unicode>&gt; רווצפת יולר כן הקגוים[נדרור:נילרוגיררכיבר,ר.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_769_636_1282_636_1282_708_769_708" custom="structure {type:text;}">
+			<Coords points="769,636 1282,636 1282,708 769,708"/>
+			<TextLine id="eSc_line_769_636_1282_636_1282_708_769_708" custom="structure {type:default;}">
+				<Coords points="769,636 1282,636 1282,708 769,708"/>
+				<Baseline points="769,708 1282,708"/>
+				<TextEquiv>
+					<Unicode>ללרחב,977י.1.!:,ע0. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

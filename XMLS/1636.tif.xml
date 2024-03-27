@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1636.tif">
+		<TextRegion id="eSc_region_788_85_1027_85_1027_158_788_158" custom="structure {type:text;}">
+			<Coords points="788,85 1027,85 1027,158 788,158"/>
+			<TextLine id="eSc_line_788_85_1027_85_1027_158_788_158" custom="structure {type:default;}">
+				<Coords points="788,85 1027,85 1027,158 788,158"/>
+				<Baseline points="788,158 1027,158"/>
+				<TextEquiv>
+					<Unicode>גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_150_332_680_332_680_464_150_464" custom="structure {type:text;}">
+			<Coords points="150,332 680,332 680,464 150,464"/>
+			<TextLine id="eSc_line_150_332_680_332_680_464_150_464" custom="structure {type:default;}">
+				<Coords points="150,332 680,332 680,464 150,464"/>
+				<Baseline points="150,464 680,464"/>
+				<TextEquiv>
+					<Unicode>.ל הבנר וליד רהניקערורון([נר :וכריב,רהום:חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_625_593_1110_593_1110_666_625_666" custom="structure {type:text;}">
+			<Coords points="625,593 1110,593 1110,666 625,666"/>
+			<TextLine id="eSc_line_625_593_1110_593_1110_666_625_666" custom="structure {type:default;}">
+				<Coords points="625,593 1110,593 1110,666 625,666"/>
+				<Baseline points="625,666 1110,666"/>
+				<TextEquiv>
+					<Unicode>לכרהב,7.1959.-7,ע3. 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0512.tif">
+		<TextRegion id="eSc_region_953_99_1264_99_1264_177_953_177" custom="structure {type:text;}">
+			<Coords points="953,99 1264,99 1264,177 953,177"/>
+			<TextLine id="eSc_line_953_99_1264_99_1264_177_953_177" custom="structure {type:default;}">
+				<Coords points="953,99 1264,99 1264,177 953,177"/>
+				<Baseline points="953,177 1264,177"/>
+				<TextEquiv>
+					<Unicode>גורי חכקים רהה --=-ר.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_529_244_1038_244_1038_389_529_389" custom="structure {type:text;}">
+			<Coords points="529,244 1038,244 1038,389 529,389"/>
+			<TextLine id="eSc_line_529_244_1038_244_1038_389_529_389" custom="structure {type:default;}">
+				<Coords points="529,244 1038,244 1038,389 529,389"/>
+				<Baseline points="529,389 1038,389"/>
+				<TextEquiv>
+					<Unicode>רגילוי דעת  ‎ -:‏ סנהשל משה סנה] [מדור:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_64_251_631_251_631_391_64_391" custom="structure {type:text;}">
+			<Coords points="64,251 631,251 631,391 64,391"/>
+			<TextLine id="eSc_line_64_251_631_251_631_391_64_391" custom="structure {type:default;}">
+				<Coords points="64,251 631,251 631,391 64,391"/>
+				<Baseline points="64,391 631,391"/>
+				<TextEquiv>
+					<Unicode>סנה שכבה ‏ [לזכוו
+
+רוו: וסימות סנף השבוע]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

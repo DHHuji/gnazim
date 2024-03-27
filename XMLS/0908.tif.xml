@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0908.tif">
+		<TextRegion id="eSc_region_931_59_1181_59_1181_137_931_137" custom="structure {type:text;}">
+			<Coords points="931,59 1181,59 1181,137 931,137"/>
+			<TextLine id="eSc_line_931_59_1181_59_1181_137_931_137" custom="structure {type:default;}">
+				<Coords points="931,59 1181,59 1181,137 931,137"/>
+				<Baseline points="931,137 1181,137"/>
+				<TextEquiv>
+					<Unicode>י גורי, הייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_136_316_972_316_972_435_136_435" custom="structure {type:text;}">
+			<Coords points="136,316 972,316 972,435 136,435"/>
+			<TextLine id="eSc_line_136_316_972_316_972_435_136_435" custom="structure {type:default;}">
+				<Coords points="136,316 972,316 972,435 136,435"/>
+				<Baseline points="136,435 972,435"/>
+				<TextEquiv>
+					<Unicode>( פה אומרים?, חתום: הגי)ילך או לא ילךן?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_555_627_1115_627_1115_849_555_849" custom="structure {type:text;}">
+			<Coords points="555,627 1115,627 1115,849 555,849"/>
+			<TextLine id="eSc_line_555_627_1115_627_1115_849_555_849" custom="structure {type:default;}">
+				<Coords points="555,627 1115,627 1115,849 555,849"/>
+				<Baseline points="555,849 1115,849"/>
+				<TextEquiv>
+					<Unicode>למרחב, 1!.6.56!, ע&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

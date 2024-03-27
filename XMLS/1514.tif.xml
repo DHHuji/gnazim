@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1514.tif">
+		<TextRegion id="eSc_region_854_57_1158_57_1158_148_854_148" custom="structure {type:text;}">
+			<Coords points="854,57 1158,57 1158,148 854,148"/>
+			<TextLine id="eSc_line_854_57_1158_57_1158_148_854_148" custom="structure {type:default;}">
+				<Coords points="854,57 1158,57 1158,148 854,148"/>
+				<Baseline points="854,148 1158,148"/>
+				<TextEquiv>
+					<Unicode>גורי, חהיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_221_248_917_248_917_426_221_426" custom="structure {type:text;}">
+			<Coords points="221,248 917,248 917,426 221,426"/>
+			<TextLine id="eSc_line_221_248_917_248_917_426_221_426" custom="structure {type:default;}">
+				<Coords points="221,248 917,248 917,426 221,426"/>
+				<Baseline points="221,426 917,426"/>
+				<TextEquiv>
+					<Unicode>סידרו אותנו ‏ (סה אופרים?)(חתום חגי (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_160_598_779_598_779_689_160_689" custom="structure {type:text;}">
+			<Coords points="160,598 779,598 779,689 160,689"/>
+			<TextLine id="eSc_line_160_598_779_598_779_689_160_689" custom="structure {type:default;}">
+				<Coords points="160,598 779,598 779,689 160,689"/>
+				<Baseline points="160,689 779,689"/>
+				<TextEquiv>
+					<Unicode>לפרחב,20.5.1960, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

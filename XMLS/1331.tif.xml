@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1331.tif">
+		<TextRegion id="eSc_region_12_46_1253_46_1253_813_12_813" custom="structure {type:text;}">
+			<Coords points="12,46 1253,46 1253,813 12,813"/>
+			<TextLine id="eSc_line_12_46_1253_46_1253_813_12_813" custom="structure {type:default;}">
+				<Coords points="12,46 1253,46 1253,813 12,813"/>
+				<Baseline points="12,813 1253,813"/>
+				<TextEquiv>
+					<Unicode>גורי, חים מעל ההריסות גורי, חיםמעל ההריסות[טיי]9&quot; + הג 6דבר הפוקלת, שנה כ&quot;ז, חוב'10, חשון תשכ&quot;ב(אוקטוכר 19681), עמ.338</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

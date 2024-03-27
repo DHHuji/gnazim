@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0980.tif">
+		<TextRegion id="eSc_region_873_69_1127_69_1127_133_873_133" custom="structure {type:text;}">
+			<Coords points="873,69 1127,69 1127,133 873,133"/>
+			<TextLine id="eSc_line_873_69_1127_69_1127_133_873_133" custom="structure {type:default;}">
+				<Coords points="873,69 1127,69 1127,133 873,133"/>
+				<Baseline points="873,133 1127,133"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים ----+---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_138_498_1160_498_1160_569_138_569" custom="structure {type:text;}">
+			<Coords points="138,498 1160,498 1160,569 138,569"/>
+			<TextLine id="eSc_line_138_498_1160_498_1160_569_138_569" custom="structure {type:default;}">
+				<Coords points="138,498 1160,498 1160,569 138,569"/>
+				<Baseline points="138,569 1160,569"/>
+				<TextEquiv>
+					<Unicode>- . 2 / . כ 94הדואר,סנה 27, גל&quot; יס, תח&quot; אדר א7 השל&quot;ח,עמ&quot; 391/29</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_405_203_937_203_937_262_405_262" custom="structure {type:text;}">
+			<Coords points="405,203 937,203 937,262 405,262"/>
+			<TextLine id="eSc_line_405_203_937_203_937_262_405_262" custom="structure {type:default;}">
+				<Coords points="405,203 937,203 937,262 405,262"/>
+				<Baseline points="405,262 937,262"/>
+				<TextEquiv>
+					<Unicode>&quot;כי סלום לא יהיר לעכפרינוּ&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

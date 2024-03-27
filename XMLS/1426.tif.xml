@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1426.tif">
+		<TextRegion id="eSc_region_914_105_1162_105_1162_185_914_185" custom="structure {type:text;}">
+			<Coords points="914,105 1162,105 1162,185 914,185"/>
+			<TextLine id="eSc_line_914_105_1162_105_1162_185_914_185" custom="structure {type:default;}">
+				<Coords points="914,105 1162,105 1162,185 914,185"/>
+				<Baseline points="914,185 1162,185"/>
+				<TextEquiv>
+					<Unicode>גורי,דייה 1-2 15</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_390_373_1157_373_1157_527_390_527" custom="structure {type:text;}">
+			<Coords points="390,373 1157,373 1157,527 390,527"/>
+			<TextLine id="eSc_line_390_373_1157_373_1157_527_390_527" custom="structure {type:default;}">
+				<Coords points="390,373 1157,373 1157,527 390,527"/>
+				<Baseline points="390,527 1157,527"/>
+				<TextEquiv>
+					<Unicode>וווכו על נטלשר דיין[כקוך ה'רלוגטר&quot; 'סוף)) [נה :וכרי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_115_450_490_450_490_525_115_525" custom="structure {type:text;}">
+			<Coords points="115,450 490,450 490,525 115,525"/>
+			<TextLine id="eSc_line_115_450_490_450_490_525_115_525" custom="structure {type:default;}">
+				<Coords points="115,450 490,450 490,525 115,525"/>
+				<Baseline points="115,525 490,525"/>
+				<TextEquiv>
+					<Unicode>- יריי
+:וכריבם,-ה ום:רגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

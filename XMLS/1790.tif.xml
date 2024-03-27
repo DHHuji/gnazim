@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1790.tif">
+		<TextRegion id="eSc_region_854_65_1081_65_1081_130_854_130" custom="structure {type:text;}">
+			<Coords points="854,65 1081,65 1081,130 854,130"/>
+			<TextLine id="eSc_line_854_65_1081_65_1081_130_854_130" custom="structure {type:default;}">
+				<Coords points="854,65 1081,65 1081,130 854,130"/>
+				<Baseline points="854,130 1081,130"/>
+				<TextEquiv>
+					<Unicode>גורי, היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_140_472_1140_472_1140_540_140_540" custom="structure {type:text;}">
+			<Coords points="140,472 1140,472 1140,540 140,540"/>
+			<TextLine id="eSc_line_140_472_1140_472_1140_540_140_540" custom="structure {type:default;}">
+				<Coords points="140,472 1140,472 1140,540 140,540"/>
+				<Baseline points="140,540 1140,540"/>
+				<TextEquiv>
+					<Unicode>סעריב, רברה ספרות,מוסף רה&quot;ש תשל&quot;ו,(5.9.75), עם 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_455_248_1021_248_1021_368_455_368" custom="structure {type:text;}">
+			<Coords points="455,248 1021,248 1021,368 455,368"/>
+			<TextLine id="eSc_line_455_248_1021_248_1021_368_455_368" custom="structure {type:default;}">
+				<Coords points="455,248 1021,248 1021,368 455,368"/>
+				<Baseline points="455,368 1021,368"/>
+				<TextEquiv>
+					<Unicode>חר* 6+ ))
+לק</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

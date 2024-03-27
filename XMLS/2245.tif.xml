@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2245.tif">
+		<TextRegion id="eSc_region_985_0_1250_0_1250_79_985_79" custom="structure {type:text;}">
+			<Coords points="985,0 1250,0 1250,79 985,79"/>
+			<TextLine id="eSc_line_985_0_1250_0_1250_79_985_79" custom="structure {type:default;}">
+				<Coords points="985,0 1250,0 1250,79 985,79"/>
+				<Baseline points="985,79 1250,79"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_45_647_1218_647_1218_832_45_832" custom="structure {type:text;}">
+			<Coords points="45,647 1218,647 1218,832 45,832"/>
+			<TextLine id="eSc_line_45_647_1218_647_1218_832_45_832" custom="structure {type:default;}">
+				<Coords points="45,647 1218,647 1218,832 45,832"/>
+				<Baseline points="45,832 1218,832"/>
+				<TextEquiv>
+					<Unicode>ידיעות אחרונות ג כסלו תסמג,19.1!!.1982 עמ 20,9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1118.tif">
+		<TextRegion id="eSc_region_935_132_1171_132_1171_204_935_204" custom="structure {type:text;}">
+			<Coords points="935,132 1171,132 1171,204 935,204"/>
+			<TextLine id="eSc_line_935_132_1171_132_1171_204_935_204" custom="structure {type:default;}">
+				<Coords points="935,132 1171,132 1171,204 935,204"/>
+				<Baseline points="935,204 1171,204"/>
+				<TextEquiv>
+					<Unicode>גורי היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_385_397_873_397_873_527_385_527" custom="structure {type:text;}">
+			<Coords points="385,397 873,397 873,527 385,527"/>
+			<TextLine id="eSc_line_385_397_873_397_873_527_385_527" custom="structure {type:default;}">
+				<Coords points="385,397 873,397 873,527 385,527"/>
+				<Baseline points="385,527 873,527"/>
+				<TextEquiv>
+					<Unicode>לכוי כרכבתה הגבגודית[נר אוכרים,ד, וכ:רגיי ן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_771_630_1277_630_1277_703_771_703" custom="structure {type:text;}">
+			<Coords points="771,630 1277,630 1277,703 771,703"/>
+			<TextLine id="eSc_line_771_630_1277_630_1277_703_771_703" custom="structure {type:default;}">
+				<Coords points="771,630 1277,630 1277,703 771,703"/>
+				<Baseline points="771,703 1277,703"/>
+				<TextEquiv>
+					<Unicode>לכרחב,9הרו.14.7,לה.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

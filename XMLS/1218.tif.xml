@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1218.tif">
+		<TextRegion id="eSc_region_773_33_1074_33_1074_120_773_120" custom="structure {type:text;}">
+			<Coords points="773,33 1074,33 1074,120 773,120"/>
+			<TextLine id="eSc_line_773_33_1074_33_1074_120_773_120" custom="structure {type:default;}">
+				<Coords points="773,33 1074,33 1074,120 773,120"/>
+				<Baseline points="773,120 1074,120"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_221_214_863_214_863_445_221_445" custom="structure {type:text;}">
+			<Coords points="221,214 863,214 863,445 221,445"/>
+			<TextLine id="eSc_line_221_214_863_214_863_445_221_445" custom="structure {type:default;}">
+				<Coords points="221,214 863,214 863,445 221,445"/>
+				<Baseline points="221,445 863,445"/>
+				<TextEquiv>
+					<Unicode>סמ* אתה?(סרור רשימות סוף השסבוע)( חתום תגור )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_190_580_1071_580_1071_671_190_671" custom="structure {type:text;}">
+			<Coords points="190,580 1071,580 1071,671 190,671"/>
+			<TextLine id="eSc_line_190_580_1071_580_1071_671_190_671" custom="structure {type:default;}">
+				<Coords points="190,580 1071,580 1071,671 190,671"/>
+				<Baseline points="190,671 1071,671"/>
+				<TextEquiv>
+					<Unicode>מ'2
+09,ע
+7.
+7.
+(6
+&quot;ו,
+ל
+ז תס
+ו
+'
+ת
+יא
+ר,
+ב
+.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

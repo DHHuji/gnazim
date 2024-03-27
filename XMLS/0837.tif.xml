@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0837.tif">
+		<TextRegion id="eSc_region_957_39_1099_39_1099_137_957_137" custom="structure {type:text;}">
+			<Coords points="957,39 1099,39 1099,137 957,137"/>
+			<TextLine id="eSc_line_957_39_1099_39_1099_137_957_137" custom="structure {type:default;}">
+				<Coords points="957,39 1099,39 1099,137 957,137"/>
+				<Baseline points="957,137 1099,137"/>
+				<TextEquiv>
+					<Unicode>&gt; |ר,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_488_296_750_296_750_519_488_519" custom="structure {type:text;}">
+			<Coords points="488,296 750,296 750,519 488,519"/>
+			<TextLine id="eSc_line_488_296_750_296_750_519_488_519" custom="structure {type:default;}">
+				<Coords points="488,296 750,296 750,519 488,519"/>
+				<Baseline points="488,519 750,519"/>
+				<TextEquiv>
+					<Unicode>כ [9. יסן9 (4 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_509_598_1260_598_1260_832_509_832" custom="structure {type:text;}">
+			<Coords points="509,598 1260,598 1260,832 509,832"/>
+			<TextLine id="eSc_line_509_598_1260_598_1260_832_509_832" custom="structure {type:default;}">
+				<Coords points="509,598 1260,598 1260,832 509,832"/>
+				<Baseline points="509,832 1260,832"/>
+				<TextEquiv>
+					<Unicode>|כתק, ל 1 יג &quot;5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1762.tif">
+		<TextRegion id="eSc_region_932_89_1167_89_1167_153_932_153" custom="structure {type:text;}">
+			<Coords points="932,89 1167,89 1167,153 932,153"/>
+			<TextLine id="eSc_line_932_89_1167_89_1167_153_932_153" custom="structure {type:default;}">
+				<Coords points="932,89 1167,89 1167,153 932,153"/>
+				<Baseline points="932,153 1167,153"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_133_518_1098_518_1098_585_133_585" custom="structure {type:text;}">
+			<Coords points="133,518 1098,518 1098,585 133,585"/>
+			<TextLine id="eSc_line_133_518_1098_518_1098_585_133_585" custom="structure {type:default;}">
+				<Coords points="133,518 1098,518 1098,585 133,585"/>
+				<Baseline points="133,585 1098,585"/>
+				<TextEquiv>
+					<Unicode>מעריב,ס.רות,כס אלול תשל&quot;ח,(1.10.78), עמ&quot; 38/37</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_626_227_1038_227_1038_281_626_281" custom="structure {type:text;}">
+			<Coords points="626,227 1038,227 1038,281 626,281"/>
+			<TextLine id="eSc_line_626_227_1038_227_1038_281_626_281" custom="structure {type:default;}">
+				<Coords points="626,227 1038,227 1038,281 626,281"/>
+				<Baseline points="626,281 1038,281"/>
+				<TextEquiv>
+					<Unicode>פאת סדה כאובת אבנים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

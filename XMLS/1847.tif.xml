@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1847.tif">
+		<TextRegion id="eSc_region_63_214_988_214_988_398_63_398" custom="structure {type:text;}">
+			<Coords points="63,214 988,214 988,398 63,398"/>
+			<TextLine id="eSc_line_63_214_988_214_988_398_63_398" custom="structure {type:default;}">
+				<Coords points="63,214 988,214 988,398 63,398"/>
+				<Baseline points="63,398 988,398"/>
+				<TextEquiv>
+					<Unicode>פרקיס מוידויי חצות; על העירום והםרכזמוכיר את /.זוספן,אצקג,ב.ציטרמן,א.אלתרמן7 שר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_160_534_1127_534_1127_598_160_598" custom="structure {type:text;}">
+			<Coords points="160,534 1127,534 1127,598 160,598"/>
+			<TextLine id="eSc_line_160_534_1127_534_1127_598_160_598" custom="structure {type:default;}">
+				<Coords points="160,534 1127,534 1127,598 160,598"/>
+				<Baseline points="160,598 1127,598"/>
+				<TextEquiv>
+					<Unicode>פעריב,ספרות, י כסלו תשל&quot;ו,(14.1!.75), עם 38,35</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

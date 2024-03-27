@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1450.tif">
+		<TextRegion id="eSc_region_862_67_1140_67_1140_133_862_133" custom="structure {type:text;}">
+			<Coords points="862,67 1140,67 1140,133 862,133"/>
+			<TextLine id="eSc_line_862_67_1140_67_1140_133_862_133" custom="structure {type:default;}">
+				<Coords points="862,67 1140,67 1140,133 862,133"/>
+				<Baseline points="862,133 1140,133"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_193_610_1196_610_1196_815_193_815" custom="structure {type:text;}">
+			<Coords points="193,610 1196,610 1196,815 193,815"/>
+			<TextLine id="eSc_line_193_610_1196_610_1196_815_193_815" custom="structure {type:default;}">
+				<Coords points="193,610 1196,610 1196,815 193,815"/>
+				<Baseline points="193,815 1196,815"/>
+				<TextEquiv>
+					<Unicode>דבר, פשא, גל 22, יג סיון תשל&quot;ה,(23.5.75), עמ 2110</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_202_276_906_276_906_438_202_438" custom="structure {type:text;}">
+			<Coords points="202,276 906,276 906,438 202,438"/>
+			<TextLine id="eSc_line_202_276_906_276_906_438_202_438" custom="structure {type:default;}">
+				<Coords points="202,276 906,276 906,438 202,438"/>
+				<Baseline points="202,438 906,438"/>
+				<TextEquiv>
+					<Unicode>נימת אהבתן
+
+( על עורא ווסמן, שנתייס לפוחי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

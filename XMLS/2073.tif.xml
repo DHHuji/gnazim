@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2073.tif">
+		<TextRegion id="eSc_region_813_66_1058_66_1058_138_813_138" custom="structure {type:text;}">
+			<Coords points="813,66 1058,66 1058,138 813,138"/>
+			<TextLine id="eSc_line_813_66_1058_66_1058_138_813_138" custom="structure {type:default;}">
+				<Coords points="813,66 1058,66 1058,138 813,138"/>
+				<Baseline points="813,138 1058,138"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים .1 ה-א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_221_313_891_313_891_446_221_446" custom="structure {type:text;}">
+			<Coords points="221,313 891,313 891,446 221,446"/>
+			<TextLine id="eSc_line_221_313_891_313_891_446_221_446" custom="structure {type:default;}">
+				<Coords points="221,313 891,313 891,446 221,446"/>
+				<Baseline points="221,446 891,446"/>
+				<TextEquiv>
+					<Unicode>סיר לוחסי רפלס&quot;ה| כתחבו:גורי והפר| ( חתום:הגורן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_152_554_1119_554_1119_628_152_628" custom="structure {type:text;}">
+			<Coords points="152,554 1119,554 1119,628 152,628"/>
+			<TextLine id="eSc_line_152_554_1119_554_1119_628_152_628" custom="structure {type:default;}">
+				<Coords points="152,554 1119,554 1119,628 152,628"/>
+				<Baseline points="152,628 1119,628"/>
+				<TextEquiv>
+					<Unicode>בשער, בסאון ההסיבה הצעירה,13.10.1949,עם. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

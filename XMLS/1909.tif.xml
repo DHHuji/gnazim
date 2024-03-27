@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1909.tif">
+		<TextRegion id="eSc_region_793_50_1100_50_1100_138_793_138" custom="structure {type:text;}">
+			<Coords points="793,50 1100,50 1100,138 793,138"/>
+			<TextLine id="eSc_line_793_50_1100_50_1100_138_793_138" custom="structure {type:default;}">
+				<Coords points="793,50 1100,50 1100,138 793,138"/>
+				<Baseline points="793,138 1100,138"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים &lt;=-2----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_479_250_857_250_857_425_479_425" custom="structure {type:text;}">
+			<Coords points="479,250 857,250 857,425 479,425"/>
+			<TextLine id="eSc_line_479_250_857_250_857_425_479_425" custom="structure {type:default;}">
+				<Coords points="479,250 857,250 857,425 479,425"/>
+				<Baseline points="479,425 857,425"/>
+				<TextEquiv>
+					<Unicode>&quot;קוני מאיילנד&quot;חתום חגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_318_577_967_577_967_665_318_665" custom="structure {type:text;}">
+			<Coords points="318,577 967,577 967,665 318,665"/>
+			<TextLine id="eSc_line_318_577_967_577_967_665_318_665" custom="structure {type:default;}">
+				<Coords points="318,577 967,577 967,665 318,665"/>
+				<Baseline points="318,665 967,665"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 16.6.1960; צמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

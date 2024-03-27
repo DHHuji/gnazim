@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0140.tif">
+		<TextRegion id="eSc_region_903_73_1137_73_1137_135_903_135" custom="structure {type:text;}">
+			<Coords points="903,73 1137,73 1137,135 903,135"/>
+			<TextLine id="eSc_line_903_73_1137_73_1137_135_903_135" custom="structure {type:default;}">
+				<Coords points="903,73 1137,73 1137,135 903,135"/>
+				<Baseline points="903,135 1137,135"/>
+				<TextEquiv>
+					<Unicode>גורי חהחיים 7-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_490_347_932_347_932_482_490_482" custom="structure {type:text;}">
+			<Coords points="490,347 932,347 932,482 490,482"/>
+			<TextLine id="eSc_line_490_347_932_347_932_482_490_482" custom="structure {type:default;}">
+				<Coords points="490,347 932,347 932,482 490,482"/>
+				<Baseline points="490,482 932,482"/>
+				<TextEquiv>
+					<Unicode>&quot;אל הספס על העצים...&quot;חההום: &quot;גי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_68_338_477_338_477_423_68_423" custom="structure {type:text;}">
+			<Coords points="68,338 477,338 477,423 68,423"/>
+			<TextLine id="eSc_line_68_338_477_338_477_423_68_423" custom="structure {type:default;}">
+				<Coords points="68,338 477,338 477,423 68,423"/>
+				<Baseline points="68,423 477,423"/>
+				<TextEquiv>
+					<Unicode>( פדור: מה אומרים?,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

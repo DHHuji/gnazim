@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1343.tif">
+		<TextRegion id="eSc_region_898_87_1216_87_1216_161_898_161" custom="structure {type:text;}">
+			<Coords points="898,87 1216,87 1216,161 898,161"/>
+			<TextLine id="eSc_line_898_87_1216_87_1216_161_898_161" custom="structure {type:default;}">
+				<Coords points="898,87 1216,87 1216,161 898,161"/>
+				<Baseline points="898,161 1216,161"/>
+				<TextEquiv>
+					<Unicode>י גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_62_238_1087_238_1087_379_62_379" custom="structure {type:text;}">
+			<Coords points="62,238 1087,238 1087,379 62,379"/>
+			<TextLine id="eSc_line_62_238_1087_238_1087_379_62_379" custom="structure {type:default;}">
+				<Coords points="62,238 1087,238 1087,379 62,379"/>
+				<Baseline points="62,379 1087,379"/>
+				<TextEquiv>
+					<Unicode>סריוןיצבאאשהוקרייר שבישהמעויום [טלתהו:&quot;בפאלתרמן:נהןשלירול( ש[ע</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_652_555_1030_555_1030_633_652_633" custom="structure {type:text;}">
+			<Coords points="652,555 1030,555 1030,633 652,633"/>
+			<TextLine id="eSc_line_652_555_1030_555_1030_633_652_633" custom="structure {type:default;}">
+				<Coords points="652,555 1030,555 1030,633 652,633"/>
+				<Baseline points="652,633 1030,633"/>
+				<TextEquiv>
+					<Unicode>ו9.2.7ו,עמי כו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

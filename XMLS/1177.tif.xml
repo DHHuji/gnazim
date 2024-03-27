@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1177.tif">
+		<TextRegion id="eSc_region_766_60_1126_60_1126_149_766_149" custom="structure {type:text;}">
+			<Coords points="766,60 1126,60 1126,149 766,149"/>
+			<TextLine id="eSc_line_766_60_1126_60_1126_149_766_149" custom="structure {type:default;}">
+				<Coords points="766,60 1126,60 1126,149 766,149"/>
+				<Baseline points="766,149 1126,149"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_298_275_805_275_805_453_298_453" custom="structure {type:text;}">
+			<Coords points="298,275 805,275 805,453 298,453"/>
+			<TextLine id="eSc_line_298_275_805_275_805_453_298_453" custom="structure {type:default;}">
+				<Coords points="298,275 805,275 805,453 298,453"/>
+				<Baseline points="298,453 805,453"/>
+				<TextEquiv>
+					<Unicode>ספה סווים הצבריש?( חתום תחגור )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_75_577_827_577_827_670_75_670" custom="structure {type:text;}">
+			<Coords points="75,577 827,577 827,670 75,670"/>
+			<TextLine id="eSc_line_75_577_827_577_827_670_75_670" custom="structure {type:default;}">
+				<Coords points="75,577 827,577 827,670 75,670"/>
+				<Baseline points="75,670 827,670"/>
+				<TextEquiv>
+					<Unicode>לפרחב, ממג 5.10.10558, עם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

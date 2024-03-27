@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0707.tif">
+		<TextRegion id="eSc_region_929_65_1166_65_1166_128_929_128" custom="structure {type:text;}">
+			<Coords points="929,65 1166,65 1166,128 929,128"/>
+			<TextLine id="eSc_line_929_65_1166_65_1166_128_929_128" custom="structure {type:default;}">
+				<Coords points="929,65 1166,65 1166,128 929,128"/>
+				<Baseline points="929,128 1166,128"/>
+				<TextEquiv>
+					<Unicode>גורי חיים -----2---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_343_478_343_478_450_0_450" custom="structure {type:text;}">
+			<Coords points="0,343 478,343 478,450 0,450"/>
+			<TextLine id="eSc_line_0_343_478_343_478_450_0_450" custom="structure {type:default;}">
+				<Coords points="0,343 478,343 478,450 0,450"/>
+				<Baseline points="0,450 478,450"/>
+				<TextEquiv>
+					<Unicode>-(מר אופריס&quot;?, חתוס: הגי-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_507_360_956_360_956_419_507_419" custom="structure {type:text;}">
+			<Coords points="507,360 956,360 956,419 507,419"/>
+			<TextLine id="eSc_line_507_360_956_360_956_419_507_419" custom="structure {type:default;}">
+				<Coords points="507,360 956,360 956,419 507,419"/>
+				<Baseline points="507,419 956,419"/>
+				<TextEquiv>
+					<Unicode>ואולי בכל זאת כקה?...</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

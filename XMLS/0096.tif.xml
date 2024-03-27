@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0096.tif">
+		<TextRegion id="eSc_region_880_65_1117_65_1117_127_880_127" custom="structure {type:text;}">
+			<Coords points="880,65 1117,65 1117,127 880,127"/>
+			<TextLine id="eSc_line_880_65_1117_65_1117_127_880_127" custom="structure {type:default;}">
+				<Coords points="880,65 1117,65 1117,127 880,127"/>
+				<Baseline points="880,127 1117,127"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_228_338_972_338_972_461_228_461" custom="structure {type:text;}">
+			<Coords points="228,338 972,338 972,461 228,461"/>
+			<TextLine id="eSc_line_228_338_972_338_972_461_228_461" custom="structure {type:default;}">
+				<Coords points="228,338 972,338 972,461 228,461"/>
+				<Baseline points="228,461 972,461"/>
+				<TextEquiv>
+					<Unicode>&quot;... אהת עשרה שנה עברו מאז קד הנה&quot;(&quot;מה אומרים?, חתום: הג )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_697_632_1111_632_1111_696_697_696" custom="structure {type:text;}">
+			<Coords points="697,632 1111,632 1111,696 697,696"/>
+			<TextLine id="eSc_line_697_632_1111_632_1111_696_697_696" custom="structure {type:default;}">
+				<Coords points="697,632 1111,632 1111,696 697,696"/>
+				<Baseline points="697,696 1111,696"/>
+				<TextEquiv>
+					<Unicode>למרחב, 9.7.56, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

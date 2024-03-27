@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2025.tif">
+		<TextRegion id="eSc_region_719_0_1183_0_1183_215_719_215" custom="structure {type:text;}">
+			<Coords points="719,0 1183,0 1183,215 719,215"/>
+			<TextLine id="eSc_line_719_0_1183_0_1183_215_719_215" custom="structure {type:default;}">
+				<Coords points="719,0 1183,0 1183,215 719,215"/>
+				<Baseline points="719,215 1183,215"/>
+				<TextEquiv>
+					<Unicode>. גורי, תיים .
+
+גורי, תיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_6_181_948_181_948_829_6_829" custom="structure {type:text;}">
+			<Coords points="6,181 948,181 948,829 6,829"/>
+			<TextLine id="eSc_line_6_181_948_181_948_829_6_829" custom="structure {type:default;}">
+				<Coords points="6,181 948,181 948,829 6,829"/>
+				<Baseline points="6,829 948,829"/>
+				<TextEquiv>
+					<Unicode>--סבריסם ונפוצות | חתום הגור77לפרחב, 27.5.1960, עס' 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

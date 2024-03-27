@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0059.tif">
+		<TextRegion id="eSc_region_916_128_1165_128_1165_208_916_208" custom="structure {type:text;}">
+			<Coords points="916,128 1165,128 1165,208 916,208"/>
+			<TextLine id="eSc_line_916_128_1165_128_1165_208_916_208" custom="structure {type:default;}">
+				<Coords points="916,128 1165,128 1165,208 916,208"/>
+				<Baseline points="916,208 1165,208"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים ----!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_552_357_817_357_817_492_552_492" custom="structure {type:text;}">
+			<Coords points="552,357 817,357 817,492 552,492"/>
+			<TextLine id="eSc_line_552_357_817_357_817_492_552_492" custom="structure {type:default;}">
+				<Coords points="552,357 817,357 817,492 552,492"/>
+				<Baseline points="552,492 817,492"/>
+				<TextEquiv>
+					<Unicode>אור הלילה[מנהי האור:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_731_619_1248_619_1248_698_731_698" custom="structure {type:text;}">
+			<Coords points="731,619 1248,619 1248,698 731,698"/>
+			<TextLine id="eSc_line_731_619_1248_619_1248_698_731_698" custom="structure {type:default;}">
+				<Coords points="731,619 1248,619 1248,698 731,698"/>
+				<Baseline points="731,698 1248,698"/>
+				<TextEquiv>
+					<Unicode>לכנרחב,1.1757. 2.,1. 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

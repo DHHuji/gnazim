@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0954.tif">
+		<TextRegion id="eSc_region_893_110_1171_110_1171_221_893_221" custom="structure {type:text;}">
+			<Coords points="893,110 1171,110 1171,221 893,221"/>
+			<TextLine id="eSc_line_893_110_1171_110_1171_221_893_221" custom="structure {type:default;}">
+				<Coords points="893,110 1171,110 1171,221 893,221"/>
+				<Baseline points="893,221 1171,221"/>
+				<TextEquiv>
+					<Unicode>גורי, חוים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_480_246_1046_246_1046_448_480_448" custom="structure {type:text;}">
+			<Coords points="480,246 1046,246 1046,448 480,448"/>
+			<TextLine id="eSc_line_480_246_1046_246_1046_448_480_448" custom="structure {type:default;}">
+				<Coords points="480,246 1046,246 1046,448 480,448"/>
+				<Baseline points="480,448 1046,448"/>
+				<TextEquiv>
+					<Unicode>כדורסל' פומון, חתום ח-גד* /'\ |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_465_587_1245_587_1245_892_465_892" custom="structure {type:text;}">
+			<Coords points="465,587 1245,587 1245,892 465,892"/>
+			<TextLine id="eSc_line_465_587_1245_587_1245_892_465_892" custom="structure {type:default;}">
+				<Coords points="465,587 1245,587 1245,892 465,892"/>
+				<Baseline points="465,892 1245,892"/>
+				<TextEquiv>
+					<Unicode>דבר, כז המוז השל&quot;ס,|79 22.0), צמ27</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

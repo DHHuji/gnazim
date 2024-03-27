@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0767.tif">
+		<TextRegion id="eSc_region_797_83_1102_83_1102_170_797_170" custom="structure {type:text;}">
+			<Coords points="797,83 1102,83 1102,170 797,170"/>
+			<TextLine id="eSc_line_797_83_1102_83_1102_170_797_170" custom="structure {type:default;}">
+				<Coords points="797,83 1102,83 1102,170 797,170"/>
+				<Baseline points="797,170 1102,170"/>
+				<TextEquiv>
+					<Unicode>גורי חיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_219_317_869_317_869_527_219_527" custom="structure {type:text;}">
+			<Coords points="219,317 869,317 869,527 219,527"/>
+			<TextLine id="eSc_line_219_317_869_317_869_527_219_527" custom="structure {type:default;}">
+				<Coords points="219,317 869,317 869,527 219,527"/>
+				<Baseline points="219,527 869,527"/>
+				<TextEquiv>
+					<Unicode>הזפן החוש (פהּ אופרים?)יו[חתום חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_186_604_834_604_834_843_186_843" custom="structure {type:text;}">
+			<Coords points="186,604 834,604 834,843 186,843"/>
+			<TextLine id="eSc_line_186_604_834_604_834_843_186_843" custom="structure {type:default;}">
+				<Coords points="186,604 834,604 834,843 186,843"/>
+				<Baseline points="186,843 834,843"/>
+				<TextEquiv>
+					<Unicode>לסרחב, 28.6.1960, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2174.tif">
+		<TextRegion id="eSc_region_820_34_1130_34_1130_122_820_122" custom="structure {type:text;}">
+			<Coords points="820,34 1130,34 1130,122 820,122"/>
+			<TextLine id="eSc_line_820_34_1130_34_1130_122_820_122" custom="structure {type:default;}">
+				<Coords points="820,34 1130,34 1130,122 820,122"/>
+				<Baseline points="820,122 1130,122"/>
+				<TextEquiv>
+					<Unicode>גוחי, חהיים =---+---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_32_215_916_215_916_402_32_402" custom="structure {type:text;}">
+			<Coords points="32,215 916,215 916,402 32,402"/>
+			<TextLine id="eSc_line_32_215_916_215_916_402_32_402" custom="structure {type:default;}">
+				<Coords points="32,215 916,215 916,402 32,402"/>
+				<Baseline points="32,402 916,402"/>
+				<TextEquiv>
+					<Unicode>הסעון ולוח היסים(מרסיפות סוף הסבוע)| חתום הגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_242_562_889_562_889_650_242_650" custom="structure {type:text;}">
+			<Coords points="242,562 889,562 889,650 242,650"/>
+			<TextLine id="eSc_line_242_562_889_562_889_650_242_650" custom="structure {type:default;}">
+				<Coords points="242,562 889,562 889,650 242,650"/>
+				<Baseline points="242,650 889,650"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 6.10.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

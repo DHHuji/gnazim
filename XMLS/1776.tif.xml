@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1776.tif">
+		<TextRegion id="eSc_region_753_97_1047_97_1047_181_753_181" custom="structure {type:text;}">
+			<Coords points="753,97 1047,97 1047,181 753,181"/>
+			<TextLine id="eSc_line_753_97_1047_97_1047_181_753_181" custom="structure {type:default;}">
+				<Coords points="753,97 1047,97 1047,181 753,181"/>
+				<Baseline points="753,181 1047,181"/>
+				<TextEquiv>
+					<Unicode>י גוריצ היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_68_274_1052_274_1052_430_68_430" custom="structure {type:text;}">
+			<Coords points="68,274 1052,274 1052,430 68,430"/>
+			<TextLine id="eSc_line_68_274_1052_274_1052_430_68_430" custom="structure {type:default;}">
+				<Coords points="68,274 1052,274 1052,430 68,430"/>
+				<Baseline points="68,430 1052,430"/>
+				<TextEquiv>
+					<Unicode>רד פגיסות| רסיםה, מדור: מה אומרים, התום: ה-גי [₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_217_542_1146_542_1146_632_217_632" custom="structure {type:text;}">
+			<Coords points="217,542 1146,542 1146,632 217,632"/>
+			<TextLine id="eSc_line_217_542_1146_542_1146_632_217_632" custom="structure {type:default;}">
+				<Coords points="217,542 1146,542 1146,632 217,632"/>
+				<Baseline points="217,632 1146,632"/>
+				<TextEquiv>
+					<Unicode>דבר, כג טבס תטל&quot;ד, (15,2,74), עמ. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

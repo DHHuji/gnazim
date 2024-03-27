@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0047.tif">
+		<TextRegion id="eSc_region_981_128_1209_128_1209_193_981_193" custom="structure {type:text;}">
+			<Coords points="981,128 1209,128 1209,193 981,193"/>
+			<TextLine id="eSc_line_981_128_1209_128_1209_193_981_193" custom="structure {type:default;}">
+				<Coords points="981,128 1209,128 1209,193 981,193"/>
+				<Baseline points="981,193 1209,193"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים --+--- גורי, חיים
+--+---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_225_554_1227_554_1227_622_225_622" custom="structure {type:text;}">
+			<Coords points="225,554 1227,554 1227,622 225,622"/>
+			<TextLine id="eSc_line_225_554_1227_554_1227_622_225_622" custom="structure {type:default;}">
+				<Coords points="225,554 1227,554 1227,622 225,622"/>
+				<Baseline points="225,622 1227,622"/>
+				<TextEquiv>
+					<Unicode>חיים אהל, שער לסירה הצ;ירה, ת&quot;א תשל&quot;ג, עם&quot; 60/59</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

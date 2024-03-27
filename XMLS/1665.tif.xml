@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1665.tif">
+		<TextRegion id="eSc_region_958_97_1186_97_1186_161_958_161" custom="structure {type:text;}">
+			<Coords points="958,97 1186,97 1186,161 958,161"/>
+			<TextLine id="eSc_line_958_97_1186_97_1186_161_958_161" custom="structure {type:default;}">
+				<Coords points="958,97 1186,97 1186,161 958,161"/>
+				<Baseline points="958,161 1186,161"/>
+				<TextEquiv>
+					<Unicode>גורי, הי 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_407_345_1004_345_1004_516_407_516" custom="structure {type:text;}">
+			<Coords points="407,345 1004,345 1004,516 407,516"/>
+			<TextLine id="eSc_line_407_345_1004_345_1004_516_407_516" custom="structure {type:default;}">
+				<Coords points="407,345 1004,345 1004,516 407,516"/>
+				<Baseline points="407,516 1004,516"/>
+				<TextEquiv>
+					<Unicode>קל הנייסראליות ועל רנה דקארט&lt;&lt; יוו% חתום א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_244_664_738_664_738_838_244_838" custom="structure {type:text;}">
+			<Coords points="244,664 738,664 738,838 244,838"/>
+			<TextLine id="eSc_line_244_664_738_664_738_838_244_838" custom="structure {type:default;}">
+				<Coords points="244,664 738,664 738,838 244,838"/>
+				<Baseline points="244,838 738,838"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 7.11.1957, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

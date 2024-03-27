@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0401.tif">
+		<TextRegion id="eSc_region_916_122_1157_122_1157_195_916_195" custom="structure {type:text;}">
+			<Coords points="916,122 1157,122 1157,195 916,195"/>
+			<TextLine id="eSc_line_916_122_1157_122_1157_195_916_195" custom="structure {type:default;}">
+				<Coords points="916,122 1157,122 1157,195 916,195"/>
+				<Baseline points="916,195 1157,195"/>
+				<TextEquiv>
+					<Unicode>גורי,ה 1-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_276_372_946_372_946_500_276_500" custom="structure {type:text;}">
+			<Coords points="276,372 946,372 946,500 276,500"/>
+			<TextLine id="eSc_line_276_372_946_372_946_500_276_500" custom="structure {type:default;}">
+				<Coords points="276,372 946,372 946,500 276,500"/>
+				<Baseline points="276,500 946,500"/>
+				<TextEquiv>
+					<Unicode>בפדבר רודר רכ2כנ:וה[רכיכפות כסוף הנבוק, ה וב:דגור!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_778_609_1266_609_1266_682_778_682" custom="structure {type:text;}">
+			<Coords points="778,609 1266,609 1266,682 778,682"/>
+			<TextLine id="eSc_line_778_609_1266_609_1266_682_778_682" custom="structure {type:default;}">
+				<Coords points="778,609 1266,609 1266,682 778,682"/>
+				<Baseline points="778,682 1266,682"/>
+				<TextEquiv>
+					<Unicode>למרחב,7.09.1979,ע0. כ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

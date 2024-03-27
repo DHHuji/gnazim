@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0896.tif">
+		<TextRegion id="eSc_region_959_0_1255_0_1255_94_959_94" custom="structure {type:text;}">
+			<Coords points="959,0 1255,0 1255,94 959,94"/>
+			<TextLine id="eSc_line_959_0_1255_0_1255_94_959_94" custom="structure {type:default;}">
+				<Coords points="959,0 1255,0 1255,94 959,94"/>
+				<Baseline points="959,94 1255,94"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_372_469_1250_469_1250_742_372_742" custom="structure {type:text;}">
+			<Coords points="372,469 1250,469 1250,742 372,742"/>
+			<TextLine id="eSc_line_372_469_1250_469_1250_742_372_742" custom="structure {type:default;}">
+				<Coords points="372,469 1250,469 1250,742 372,742"/>
+				<Baseline points="372,742 1250,742"/>
+				<TextEquiv>
+					<Unicode>,יח המוז תשמב,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_906_131_1119_131_1119_318_906_318" custom="structure {type:text;}">
+			<Coords points="906,131 1119,131 1119,318 906,318"/>
+			<TextLine id="eSc_line_906_131_1119_131_1119_318_906_318" custom="structure {type:default;}">
+				<Coords points="906,131 1119,131 1119,318 906,318"/>
+				<Baseline points="906,318 1119,318"/>
+				<TextEquiv>
+					<Unicode>יותחר
+
+בפעלות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

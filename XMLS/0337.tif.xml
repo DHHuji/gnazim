@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0337.tif">
+		<TextRegion id="eSc_region_883_94_1122_94_1122_159_883_159" custom="structure {type:text;}">
+			<Coords points="883,94 1122,94 1122,159 883,159"/>
+			<TextLine id="eSc_line_883_94_1122_94_1122_159_883_159" custom="structure {type:default;}">
+				<Coords points="883,94 1122,94 1122,159 883,159"/>
+				<Baseline points="883,159 1122,159"/>
+				<TextEquiv>
+					<Unicode>גור*י, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_132_309_910_309_910_488_132_488" custom="structure {type:text;}">
+			<Coords points="132,309 910,309 910,488 132,488"/>
+			<TextLine id="eSc_line_132_309_910_309_910_488_132_488" custom="structure {type:default;}">
+				<Coords points="132,309 910,309 910,488 132,488"/>
+				<Baseline points="132,488 910,488"/>
+				<TextEquiv>
+					<Unicode>בין אניורין ביוואן לולאדיסלאב גומולקה-( חחום חגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_312_631_809_631_809_829_312_829" custom="structure {type:text;}">
+			<Coords points="312,631 809,631 809,829 312,829"/>
+			<TextLine id="eSc_line_312_631_809_631_809_829_312_829" custom="structure {type:default;}">
+				<Coords points="312,631 809,631 809,829 312,829"/>
+				<Baseline points="312,829 809,829"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 3.9.1957!, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2084.tif">
+		<TextRegion id="eSc_region_839_130_1240_130_1240_200_839_200" custom="structure {type:text;}">
+			<Coords points="839,130 1240,130 1240,200 839,200"/>
+			<TextLine id="eSc_line_839_130_1240_130_1240_200_839_200" custom="structure {type:default;}">
+				<Coords points="839,130 1240,130 1240,200 839,200"/>
+				<Baseline points="839,200 1240,200"/>
+				<TextEquiv>
+					<Unicode>גורי, תחים גורי, תחים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_412_555_1016_555_1016_666_412_666" custom="structure {type:text;}">
+			<Coords points="412,555 1016,555 1016,666 412,666"/>
+			<TextLine id="eSc_line_412_555_1016_555_1016_666_412_666" custom="structure {type:default;}">
+				<Coords points="412,555 1016,555 1016,666 412,666"/>
+				<Baseline points="412,666 1016,666"/>
+				<TextEquiv>
+					<Unicode>ירושלים, שנה ה, חוב'תשייז (אפריל 1957),</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

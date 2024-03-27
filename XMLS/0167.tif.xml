@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0167.tif">
+		<TextRegion id="eSc_region_988_108_1222_108_1222_173_988_173" custom="structure {type:text;}">
+			<Coords points="988,108 1222,108 1222,173 988,173"/>
+			<TextLine id="eSc_line_988_108_1222_108_1222_173_988_173" custom="structure {type:default;}">
+				<Coords points="988,108 1222,108 1222,173 988,173"/>
+				<Baseline points="988,173 1222,173"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_382_306_967_306_967_492_382_492" custom="structure {type:text;}">
+			<Coords points="382,306 967,306 967,492 382,492"/>
+			<TextLine id="eSc_line_382_306_967_306_967_492_382_492" custom="structure {type:default;}">
+				<Coords points="382,306 967,306 967,492 382,492"/>
+				<Baseline points="382,492 967,492"/>
+				<TextEquiv>
+					<Unicode>(מדרור רשימות סוף השבוק)חתום חגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_412_653_1132_653_1132_834_412_834" custom="structure {type:text;}">
+			<Coords points="412,653 1132,653 1132,834 412,834"/>
+			<TextLine id="eSc_line_412_653_1132_653_1132_834_412_834" custom="structure {type:default;}">
+				<Coords points="412,653 1132,653 1132,834 412,834"/>
+				<Baseline points="412,834 1132,834"/>
+				<TextEquiv>
+					<Unicode>דבר, טו אלול הפל&quot;ו,(2,)10.9,76ם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

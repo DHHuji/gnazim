@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1568.tif">
+		<TextRegion id="eSc_region_932_69_1224_69_1224_142_932_142" custom="structure {type:text;}">
+			<Coords points="932,69 1224,69 1224,142 932,142"/>
+			<TextLine id="eSc_line_932_69_1224_69_1224_142_932_142" custom="structure {type:default;}">
+				<Coords points="932,69 1224,69 1224,142 932,142"/>
+				<Baseline points="932,142 1224,142"/>
+				<TextEquiv>
+					<Unicode>גורי חיים -=---=---=--י גורי חיים
+-=---=---=--י</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_31_254_797_254_797_401_31_401" custom="structure {type:text;}">
+			<Coords points="31,254 797,254 797,401 31,401"/>
+			<TextLine id="eSc_line_31_254_797_254_797_401_31_401" custom="structure {type:default;}">
+				<Coords points="31,254 797,254 797,401 31,401"/>
+				<Baseline points="31,401 797,401"/>
+				<TextEquiv>
+					<Unicode>[על בעית חינוך אזוחי המדינה]מה אומרים ?, חתום: ח-גי])</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

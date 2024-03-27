@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0442.tif">
+		<TextRegion id="eSc_region_956_40_1245_40_1245_111_956_111" custom="structure {type:text;}">
+			<Coords points="956,40 1245,40 1245,111 956,111"/>
+			<TextLine id="eSc_line_956_40_1245_40_1245_111_956_111" custom="structure {type:default;}">
+				<Coords points="956,40 1245,40 1245,111 956,111"/>
+				<Baseline points="956,111 1245,111"/>
+				<TextEquiv>
+					<Unicode>גורי ז[]יורם #NAME? גורי ז[]יורם=--ה---2-------2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_423_244_880_244_880_314_423_314" custom="structure {type:text;}">
+			<Coords points="423,244 880,244 880,314 423,314"/>
+			<TextLine id="eSc_line_423_244_880_244_880_314_423_314" custom="structure {type:default;}">
+				<Coords points="423,244 880,244 880,314 423,314"/>
+				<Baseline points="423,314 880,314"/>
+				<TextEquiv>
+					<Unicode>ובגטונת
+
+ות
+
+ו
+
+ת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

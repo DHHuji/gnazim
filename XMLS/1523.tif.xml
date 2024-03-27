@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1523.tif">
+		<TextRegion id="eSc_region_142_296_1128_296_1128_440_142_440" custom="structure {type:text;}">
+			<Coords points="142,296 1128,296 1128,440 142,440"/>
+			<TextLine id="eSc_line_142_296_1128_296_1128_440_142_440" custom="structure {type:default;}">
+				<Coords points="142,296 1128,296 1128,440 142,440"/>
+				<Baseline points="142,440 1128,440"/>
+				<TextEquiv>
+					<Unicode>סימפוזיון נבאילת(רסימה, סדרור: פה אומרים?, חהום: ה-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_348_539_1221_539_1221_626_348_626" custom="structure {type:text;}">
+			<Coords points="348,539 1221,539 1221,626 348,626"/>
+			<TextLine id="eSc_line_348_539_1221_539_1221_626_348_626" custom="structure {type:default;}">
+				<Coords points="348,539 1221,539 1221,626 348,626"/>
+				<Baseline points="348,626 1221,626"/>
+				<TextEquiv>
+					<Unicode>דבר, יר אדר תסל&quot;ר (8.3.74), צם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

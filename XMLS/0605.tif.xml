@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0605.tif">
+		<TextRegion id="eSc_region_899_65_1278_65_1278_154_899_154" custom="structure {type:text;}">
+			<Coords points="899,65 1278,65 1278,154 899,154"/>
+			<TextLine id="eSc_line_899_65_1278_65_1278_154_899_154" custom="structure {type:default;}">
+				<Coords points="899,65 1278,65 1278,154 899,154"/>
+				<Baseline points="899,154 1278,154"/>
+				<TextEquiv>
+					<Unicode>גורי, חיט גררד, וט גורי, חיט
+גררד, וט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_155_1253_155_1253_677_0_677" custom="structure {type:text;}">
+			<Coords points="0,155 1253,155 1253,677 0,677"/>
+			<TextLine id="eSc_line_0_155_1253_155_1253_677_0_677" custom="structure {type:default;}">
+				<Coords points="0,155 1253,155 1253,677 0,677"/>
+				<Baseline points="0,677 1253,677"/>
+				<TextEquiv>
+					<Unicode>דרפים ממחוור נשר[ארן הקודש]בדרך עברנו בעיר שחורה](הנח להם]ג'א טעותיות יהיו, לא אותיות](כאשר הלכו נשר ונשר אחד קאחריה(שי רים]הדאר, טנה נד, גל' ט, כ בטבת תשל&quot;ה (6.1.75פמ' 135</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

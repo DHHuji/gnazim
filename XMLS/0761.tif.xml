@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0761.tif">
+		<TextRegion id="eSc_region_916_100_1208_100_1208_177_916_177" custom="structure {type:text;}">
+			<Coords points="916,100 1208,100 1208,177 916,177"/>
+			<TextLine id="eSc_line_916_100_1208_100_1208_177_916_177" custom="structure {type:default;}">
+				<Coords points="916,100 1208,100 1208,177 916,177"/>
+				<Baseline points="916,177 1208,177"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_364_267_1152_267_1152_417_364_417" custom="structure {type:text;}">
+			<Coords points="364,267 1152,267 1152,417 364,417"/>
+			<TextLine id="eSc_line_364_267_1152_267_1152_417_364_417" custom="structure {type:default;}">
+				<Coords points="364,267 1152,267 1152,417 364,417"/>
+				<Baseline points="364,417 1152,417"/>
+				<TextEquiv>
+					<Unicode>תוך ספוו:ה [קטע מון המגיפהכו :\ ל יים&quot;)&quot;דפים ירושלמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_149_576_1228_576_1228_657_149_657" custom="structure {type:text;}">
+			<Coords points="149,576 1228,576 1228,657 149,657"/>
+			<TextLine id="eSc_line_149_576_1228_576_1228_657_149_657" custom="structure {type:default;}">
+				<Coords points="149,576 1228,576 1228,657 149,657"/>
+				<Baseline points="149,657 1228,657"/>
+				<TextEquiv>
+					<Unicode>דבו, דבר לספרות ולאמנות, 23.8.1968, עמ' 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

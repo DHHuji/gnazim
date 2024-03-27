@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1611.tif">
+		<TextRegion id="eSc_region_661_10_858_10_858_57_661_57" custom="structure {type:text;}">
+			<Coords points="661,10 858,10 858,57 661,57"/>
+			<TextLine id="eSc_line_661_10_858_10_858_57_661_57" custom="structure {type:default;}">
+				<Coords points="661,10 858,10 858,57 661,57"/>
+				<Baseline points="661,57 858,57"/>
+				<TextEquiv>
+					<Unicode>גורי,תייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_602_240_834_240_834_327_602_327" custom="structure {type:text;}">
+			<Coords points="602,240 834,240 834,327 602,327"/>
+			<TextLine id="eSc_line_602_240_834_240_834_327_602_327" custom="structure {type:default;}">
+				<Coords points="602,240 834,240 834,327 602,327"/>
+				<Baseline points="602,327 834,327"/>
+				<TextEquiv>
+					<Unicode>על דוססוייב(מילאל.סבול</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_256_493_611_493_611_673_256_673" custom="structure {type:text;}">
+			<Coords points="256,493 611,493 611,673 256,673"/>
+			<TextLine id="eSc_line_256_493_611_493_611_673_256_673" custom="structure {type:default;}">
+				<Coords points="256,493 611,493 611,673 256,673"/>
+				<Baseline points="256,673 611,673"/>
+				<TextEquiv>
+					<Unicode>העמו20.6.!996ע162</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

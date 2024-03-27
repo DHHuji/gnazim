@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1653.tif">
+		<TextRegion id="eSc_region_959_99_1261_99_1261_174_959_174" custom="structure {type:text;}">
+			<Coords points="959,99 1261,99 1261,174 959,174"/>
+			<TextLine id="eSc_line_959_99_1261_99_1261_174_959_174" custom="structure {type:default;}">
+				<Coords points="959,99 1261,99 1261,174 959,174"/>
+				<Baseline points="959,174 1261,174"/>
+				<TextEquiv>
+					<Unicode>גורי חיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_252_271_736_271_736_413_252_413" custom="structure {type:text;}">
+			<Coords points="252,271 736,271 736,413 252,413"/>
+			<TextLine id="eSc_line_252_271_736_271_736_413_252_413" custom="structure {type:default;}">
+				<Coords points="252,271 736,271 736,413 252,413"/>
+				<Baseline points="252,413 736,413"/>
+				<TextEquiv>
+					<Unicode>יחה בקפה  ‎ -.‏ יריחורסימות סוף הטבוע]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_741_266_1169_266_1169_404_741_404" custom="structure {type:text;}">
+			<Coords points="741,266 1169,266 1169,404 741,404"/>
+			<TextLine id="eSc_line_741_266_1169_266_1169_404_741_404" custom="structure {type:default;}">
+				<Coords points="741,266 1169,266 1169,404 741,404"/>
+				<Baseline points="741,404 1169,404"/>
+				<TextEquiv>
+					<Unicode>על הירושר  ‎ -.‏ ש
+
+לאצחר זמן ‏ [מדור:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2171.tif">
+		<TextRegion id="eSc_region_748_253_1027_253_1027_314_748_314" custom="structure {type:text;}">
+			<Coords points="748,253 1027,253 1027,314 748,314"/>
+			<TextLine id="eSc_line_748_253_1027_253_1027_314_748_314" custom="structure {type:default;}">
+				<Coords points="748,253 1027,253 1027,314 748,314"/>
+				<Baseline points="748,314 1027,314"/>
+				<TextEquiv>
+					<Unicode>הפעה הכנענית</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_199_524_1109_524_1109_774_199_774" custom="structure {type:text;}">
+			<Coords points="199,524 1109,524 1109,774 199,774"/>
+			<TextLine id="eSc_line_199_524_1109_524_1109_774_199_774" custom="structure {type:default;}">
+				<Coords points="199,524 1109,524 1109,774 199,774"/>
+				<Baseline points="199,774 1109,774"/>
+				<TextEquiv>
+					<Unicode>י תספ&quot;א,24,0,800), עמ&quot; ורמעריב,ספרות, יד תער ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_460_341_821_341_821_410_460_410" custom="structure {type:text;}">
+			<Coords points="460,341 821,341 821,410 460,410"/>
+			<TextLine id="eSc_line_460_341_821_341_821_410_460_410" custom="structure {type:default;}">
+				<Coords points="460,341 821,341 821,410 460,410"/>
+				<Baseline points="460,410 821,410"/>
+				<TextEquiv>
+					<Unicode>גס קל יונתן רתול</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

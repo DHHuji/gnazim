@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0300.tif">
+		<TextRegion id="eSc_region_962_106_1251_106_1251_179_962_179" custom="structure {type:text;}">
+			<Coords points="962,106 1251,106 1251,179 962,179"/>
+			<TextLine id="eSc_line_962_106_1251_106_1251_179_962_179" custom="structure {type:default;}">
+				<Coords points="962,106 1251,106 1251,179 962,179"/>
+				<Baseline points="962,179 1251,179"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס -=------4--- = גורי, חייס
+-=------4--- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_381_249_1148_249_1148_396_381_396" custom="structure {type:text;}">
+			<Coords points="381,249 1148,249 1148,396 381,396"/>
+			<TextLine id="eSc_line_381_249_1148_249_1148_396_381_396" custom="structure {type:default;}">
+				<Coords points="381,249 1148,249 1148,396 381,396"/>
+				<Baseline points="381,396 1148,396"/>
+				<TextEquiv>
+					<Unicode>בדון לשילה [מדוו: רסימות סוףהשבוע, חתום: תגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

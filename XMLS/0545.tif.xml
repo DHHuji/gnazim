@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0545.tif">
+		<TextRegion id="eSc_region_922_99_1219_99_1219_181_922_181" custom="structure {type:text;}">
+			<Coords points="922,99 1219,99 1219,181 922,181"/>
+			<TextLine id="eSc_line_922_99_1219_99_1219_181_922_181" custom="structure {type:default;}">
+				<Coords points="922,99 1219,99 1219,181 922,181"/>
+				<Baseline points="922,181 1219,181"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_136_268_1090_268_1090_408_136_408" custom="structure {type:text;}">
+			<Coords points="136,268 1090,268 1090,408 136,408"/>
+			<TextLine id="eSc_line_136_268_1090_268_1090_408_136_408" custom="structure {type:default;}">
+				<Coords points="136,268 1090,268 1090,408 136,408"/>
+				<Baseline points="136,408 1090,408"/>
+				<TextEquiv>
+					<Unicode>דברים שנאמרו בפגישה סופריש לבריים עםסופרים ערביים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_62_564_1189_564_1189_652_62_652" custom="structure {type:text;}">
+			<Coords points="62,564 1189,564 1189,652 62,652"/>
+			<TextLine id="eSc_line_62_564_1189_564_1189_652_62_652" custom="structure {type:default;}">
+				<Coords points="62,564 1189,564 1189,652 62,652"/>
+				<Baseline points="62,652 1189,652"/>
+				<TextEquiv>
+					<Unicode>דף, ארר ב תש&quot;ל, מרץ 19:0,גליון ל&quot;ד,עמ'0י-ו1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

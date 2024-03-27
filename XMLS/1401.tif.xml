@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1401.tif">
+		<TextRegion id="eSc_region_807_72_1144_72_1144_159_807_159" custom="structure {type:text;}">
+			<Coords points="807,72 1144,72 1144,159 807,159"/>
+			<TextLine id="eSc_line_807_72_1144_72_1144_159_807_159" custom="structure {type:default;}">
+				<Coords points="807,72 1144,72 1144,159 807,159"/>
+				<Baseline points="807,159 1144,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_440_312_1165_312_1165_478_440_478" custom="structure {type:text;}">
+			<Coords points="440,312 1165,312 1165,478 440,478"/>
+			<TextLine id="eSc_line_440_312_1165_312_1165_478_440_478" custom="structure {type:default;}">
+				<Coords points="440,312 1165,312 1165,478 440,478"/>
+				<Baseline points="440,478 1165,478"/>
+				<TextEquiv>
+					<Unicode>הפמסתחיתה &quot;הירטאן&quot; וסלת-הלחס( חתום הג ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_174_618_795_618_795_855_174_855" custom="structure {type:text;}">
+			<Coords points="174,618 795,618 795,855 174,855"/>
+			<TextLine id="eSc_line_174_618_795_618_795_855_174_855" custom="structure {type:default;}">
+				<Coords points="174,618 795,618 795,855 174,855"/>
+				<Baseline points="174,855 795,855"/>
+				<TextEquiv>
+					<Unicode>למרחב, 2.3.1956, עם' 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

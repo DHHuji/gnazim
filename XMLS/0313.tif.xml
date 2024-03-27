@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0313.tif">
+		<TextRegion id="eSc_region_907_90_1246_90_1246_182_907_182" custom="structure {type:text;}">
+			<Coords points="907,90 1246,90 1246,182 907,182"/>
+			<TextLine id="eSc_line_907_90_1246_90_1246_182_907_182" custom="structure {type:default;}">
+				<Coords points="907,90 1246,90 1246,182 907,182"/>
+				<Baseline points="907,182 1246,182"/>
+				<TextEquiv>
+					<Unicode>גוורי,. תיים 04-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_684_257_1157_257_1157_417_684_417" custom="structure {type:text;}">
+			<Coords points="684,257 1157,257 1157,417 684,417"/>
+			<TextLine id="eSc_line_684_257_1157_257_1157_417_684_417" custom="structure {type:default;}">
+				<Coords points="684,257 1157,257 1157,417 684,417"/>
+				<Baseline points="684,417 1157,417"/>
+				<TextEquiv>
+					<Unicode>בזיות המחלוקתרשימות סוף השבוע,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_327_256_698_256_698_421_327_421" custom="structure {type:text;}">
+			<Coords points="327,256 698,256 698,421 327,421"/>
+			<TextLine id="eSc_line_327_256_698_256_698_421_327_421" custom="structure {type:default;}">
+				<Coords points="327,256 698,256 698,421 327,421"/>
+				<Baseline points="327,421 698,421"/>
+				<TextEquiv>
+					<Unicode>ולידה [מדור:
+חתום: הגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

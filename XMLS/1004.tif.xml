@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1004.tif">
+		<TextRegion id="eSc_region_953_114_1247_114_1247_196_953_196" custom="structure {type:text;}">
+			<Coords points="953,114 1247,114 1247,196 953,196"/>
+			<TextLine id="eSc_line_953_114_1247_114_1247_196_953_196" custom="structure {type:default;}">
+				<Coords points="953,114 1247,114 1247,196 953,196"/>
+				<Baseline points="953,196 1247,196"/>
+				<TextEquiv>
+					<Unicode>גורי הייט == הידיד גורי הייט
+== הידיד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_241_304_992_304_992_459_241_459" custom="structure {type:text;}">
+			<Coords points="241,304 992,304 992,459 241,459"/>
+			<TextLine id="eSc_line_241_304_992_304_992_459_241_459" custom="structure {type:default;}">
+				<Coords points="241,304 992,304 992,459 241,459"/>
+				<Baseline points="241,459 992,459"/>
+				<TextEquiv>
+					<Unicode>כמה מלים על בנימיןהמיטשים שנר לבניביןגלטי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

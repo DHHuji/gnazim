@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0549.tif">
+		<TextRegion id="eSc_region_971_65_1208_65_1208_127_971_127" custom="structure {type:text;}">
+			<Coords points="971,65 1208,65 1208,127 971,127"/>
+			<TextLine id="eSc_line_971_65_1208_65_1208_127_971_127" custom="structure {type:default;}">
+				<Coords points="971,65 1208,65 1208,127 971,127"/>
+				<Baseline points="971,127 1208,127"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים =--1 ----- גורי, חיים
+=--1 -----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_567_339_1038_339_1038_396_567_396" custom="structure {type:text;}">
+			<Coords points="567,339 1038,339 1038,396 567,396"/>
+			<TextLine id="eSc_line_567_339_1038_339_1038_396_567_396" custom="structure {type:default;}">
+				<Coords points="567,339 1038,339 1038,396 567,396"/>
+				<Baseline points="567,396 1038,396"/>
+				<TextEquiv>
+					<Unicode>&quot;ה-גל האדום מעל פאריםס&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

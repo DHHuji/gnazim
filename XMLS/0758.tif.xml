@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0758.tif">
+		<TextRegion id="eSc_region_880_41_1124_41_1124_97_880_97" custom="structure {type:text;}">
+			<Coords points="880,41 1124,41 1124,97 880,97"/>
+			<TextLine id="eSc_line_880_41_1124_41_1124_97_880_97" custom="structure {type:default;}">
+				<Coords points="880,41 1124,41 1124,97 880,97"/>
+				<Baseline points="880,97 1124,97"/>
+				<TextEquiv>
+					<Unicode>גורי,.תייתםח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_372_500_717_500_717_709_372_709" custom="structure {type:text;}">
+			<Coords points="372,500 717,500 717,709 372,709"/>
+			<TextLine id="eSc_line_372_500_717_500_717_709_372_709" custom="structure {type:default;}">
+				<Coords points="372,500 717,500 717,709 372,709"/>
+				<Baseline points="372,709 717,709"/>
+				<TextEquiv>
+					<Unicode>35.5.1983 עמון</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_579_228_792_228_792_319_579_319" custom="structure {type:text;}">
+			<Coords points="579,228 792,228 792,319 579,319"/>
+			<TextLine id="eSc_line_579_228_792_228_792_319_579_319" custom="structure {type:default;}">
+				<Coords points="579,228 792,228 792,319 579,319"/>
+				<Baseline points="579,319 792,319"/>
+				<TextEquiv>
+					<Unicode>צפוני
+
+(חתום:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

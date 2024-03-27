@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1052.tif">
+		<TextRegion id="eSc_region_881_18_1142_18_1142_91_881_91" custom="structure {type:text;}">
+			<Coords points="881,18 1142,18 1142,91 881,91"/>
+			<TextLine id="eSc_line_881_18_1142_18_1142_91_881_91" custom="structure {type:default;}">
+				<Coords points="881,18 1142,18 1142,91 881,91"/>
+				<Baseline points="881,91 1142,91"/>
+				<TextEquiv>
+					<Unicode>גוריבחיים גוריבחיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_445_196_988_196_988_306_445_306" custom="structure {type:text;}">
+			<Coords points="445,196 988,196 988,306 445,306"/>
+			<TextLine id="eSc_line_445_196_988_196_988_306_445_306" custom="structure {type:default;}">
+				<Coords points="445,196 988,196 988,306 445,306"/>
+				<Baseline points="445,306 988,306"/>
+				<TextEquiv>
+					<Unicode>לאהר הכונדיאררתהום: חגור.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

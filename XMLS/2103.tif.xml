@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2103.tif">
+		<TextRegion id="eSc_region_934_146_1160_146_1160_202_934_202" custom="structure {type:text;}">
+			<Coords points="934,146 1160,146 1160,202 934,202"/>
+			<TextLine id="eSc_line_934_146_1160_146_1160_202_934_202" custom="structure {type:default;}">
+				<Coords points="934,146 1160,146 1160,202 934,202"/>
+				<Baseline points="934,202 1160,202"/>
+				<TextEquiv>
+					<Unicode>גורי,דריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_827_636_1269_636_1269_692_827_692" custom="structure {type:text;}">
+			<Coords points="827,636 1269,636 1269,692 827,692"/>
+			<TextLine id="eSc_line_827_636_1269_636_1269_692_827_692" custom="structure {type:default;}">
+				<Coords points="827,636 1269,636 1269,692 827,692"/>
+				<Baseline points="827,692 1269,692"/>
+				<TextEquiv>
+					<Unicode>לכרהב,09.2,1057ן,ככ.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_499_395_766_395_766_441_499_441" custom="structure {type:text;}">
+			<Coords points="499,395 766,395 766,441 499,441"/>
+			<TextLine id="eSc_line_499_395_766_395_766_441_499_441" custom="structure {type:default;}">
+				<Coords points="499,395 766,395 766,441 499,441"/>
+				<Baseline points="499,441 766,441"/>
+				<TextEquiv>
+					<Unicode>&quot;כפכר-ליכוד&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

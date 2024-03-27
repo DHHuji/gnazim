@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2006.tif">
+		<TextRegion id="eSc_region_821_71_1126_71_1126_158_821_158" custom="structure {type:text;}">
+			<Coords points="821,71 1126,71 1126,158 821,158"/>
+			<TextLine id="eSc_line_821_71_1126_71_1126_158_821_158" custom="structure {type:default;}">
+				<Coords points="821,71 1126,71 1126,158 821,158"/>
+				<Baseline points="821,158 1126,158"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ---7-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_400_293_887_293_887_442_400_442" custom="structure {type:text;}">
+			<Coords points="400,293 887,293 887,442 400,442"/>
+			<TextLine id="eSc_line_400_293_887_293_887_442_400_442" custom="structure {type:default;}">
+				<Coords points="400,293 887,293 887,442 400,442"/>
+				<Baseline points="400,442 887,442"/>
+				<TextEquiv>
+					<Unicode>&quot;השאלות האחרו נות&quot;(מול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_184_558_863_558_863_646_184_646" custom="structure {type:text;}">
+			<Coords points="184,558 863,558 863,646 184,646"/>
+			<TextLine id="eSc_line_184_558_863_558_863_646_184_646" custom="structure {type:default;}">
+				<Coords points="184,558 863,558 863,646 184,646"/>
+				<Baseline points="184,646 863,646"/>
+				<TextEquiv>
+					<Unicode>למרח ב, 25.7.1961, עם' 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

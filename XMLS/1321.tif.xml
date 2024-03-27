@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1321.tif">
+		<TextRegion id="eSc_region_881_5_1107_5_1107_69_881_69" custom="structure {type:text;}">
+			<Coords points="881,5 1107,5 1107,69 881,69"/>
+			<TextLine id="eSc_line_881_5_1107_5_1107_69_881_69" custom="structure {type:default;}">
+				<Coords points="881,5 1107,5 1107,69 881,69"/>
+				<Baseline points="881,69 1107,69"/>
+				<TextEquiv>
+					<Unicode>, חייס גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_514_229_946_229_946_391_514_391" custom="structure {type:text;}">
+			<Coords points="514,229 946,229 946,391 514,391"/>
+			<TextLine id="eSc_line_514_229_946_229_946_391_514_391" custom="structure {type:default;}">
+				<Coords points="514,229 946,229 946,391 514,391"/>
+				<Baseline points="514,391 946,391"/>
+				<TextEquiv>
+					<Unicode>מספר ברכות לראט השנה₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_228_522_723_522_723_714_228_714" custom="structure {type:text;}">
+			<Coords points="228,522 723,522 723,714 228,714"/>
+			<TextLine id="eSc_line_228_522_723_522_723_714_228_714" custom="structure {type:default;}">
+				<Coords points="228,522 723,522 723,714 228,714"/>
+				<Baseline points="228,714 723,714"/>
+				<TextEquiv>
+					<Unicode>למרחב, 25.9.1957, עמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

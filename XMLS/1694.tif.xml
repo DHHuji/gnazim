@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1694.tif">
+		<TextRegion id="eSc_region_870_3_1131_3_1131_77_870_77" custom="structure {type:text;}">
+			<Coords points="870,3 1131,3 1131,77 870,77"/>
+			<TextLine id="eSc_line_870_3_1131_3_1131_77_870_77" custom="structure {type:default;}">
+				<Coords points="870,3 1131,3 1131,77 870,77"/>
+				<Baseline points="870,77 1131,77"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_433_220_1121_220_1121_340_433_340" custom="structure {type:text;}">
+			<Coords points="433,220 1121,220 1121,340 433,340"/>
+			<TextLine id="eSc_line_433_220_1121_220_1121_340_433_340" custom="structure {type:default;}">
+				<Coords points="433,220 1121,220 1121,340 433,340"/>
+				<Baseline points="433,340 1121,340"/>
+				<TextEquiv>
+					<Unicode>על הסיר ועל הכלאגם על מיים לנסקי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1675.tif">
+		<TextRegion id="eSc_region_321_30_1219_30_1219_514_321_514" custom="structure {type:text;}">
+			<Coords points="321,30 1219,30 1219,514 321,514"/>
+			<TextLine id="eSc_line_321_30_1219_30_1219_514_321_514" custom="structure {type:default;}">
+				<Coords points="321,30 1219,30 1219,514 321,514"/>
+				<Baseline points="321,514 1219,514"/>
+				<TextEquiv>
+					<Unicode>גורי, חייםעל ספונסניות וקבלת אורחיס(הרהורי סוף שבוק)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_342_528_1009_528_1009_876_342_876" custom="structure {type:text;}">
+			<Coords points="342,528 1009,528 1009,876 342,876"/>
+			<TextLine id="eSc_line_342_528_1009_528_1009_876_342_876" custom="structure {type:default;}">
+				<Coords points="342,528 1009,528 1009,876 342,876"/>
+				<Baseline points="342,876 1009,876"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 21.12,1956, עמ&quot; 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

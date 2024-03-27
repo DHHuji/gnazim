@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0422.tif">
+		<TextRegion id="eSc_region_921_81_1245_81_1245_163_921_163" custom="structure {type:text;}">
+			<Coords points="921,81 1245,81 1245,163 921,163"/>
+			<TextLine id="eSc_line_921_81_1245_81_1245_163_921_163" custom="structure {type:default;}">
+				<Coords points="921,81 1245,81 1245,163 921,163"/>
+				<Baseline points="921,163 1245,163"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_311_248_1087_248_1087_460_311_460" custom="structure {type:text;}">
+			<Coords points="311,248 1087,248 1087,460 311,460"/>
+			<TextLine id="eSc_line_311_248_1087_248_1087_460_311_460" custom="structure {type:default;}">
+				<Coords points="311,248 1087,248 1087,460 311,460"/>
+				<Baseline points="311,460 1087,460"/>
+				<TextEquiv>
+					<Unicode>ב&quot;ספלנדיד באר&quot; [מדור: רשימותסוף השבוע, חתום: הגור](+א69 3-כ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_667_595_1191_595_1191_684_667_684" custom="structure {type:text;}">
+			<Coords points="667,595 1191,595 1191,684 667,684"/>
+			<TextLine id="eSc_line_667_595_1191_595_1191_684_667_684" custom="structure {type:default;}">
+				<Coords points="667,595 1191,595 1191,684 667,684"/>
+				<Baseline points="667,684 1191,684"/>
+				<TextEquiv>
+					<Unicode>דבר, 30.7.71, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1676.tif">
+		<TextRegion id="eSc_region_980_640_1218_640_1218_707_980_707" custom="structure {type:text;}">
+			<Coords points="980,640 1218,640 1218,707 980,707"/>
+			<TextLine id="eSc_line_980_640_1218_640_1218_707_980_707" custom="structure {type:default;}">
+				<Coords points="980,640 1218,640 1218,707 980,707"/>
+				<Baseline points="980,707 1218,707"/>
+				<TextEquiv>
+					<Unicode>צמה, ערי צמה, ערי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_144_1195_144_1195_364_0_364" custom="structure {type:text;}">
+			<Coords points="0,144 1195,144 1195,364 0,364"/>
+			<TextLine id="eSc_line_0_144_1195_144_1195_364_0_364" custom="structure {type:default;}">
+				<Coords points="0,144 1195,144 1195,364 0,364"/>
+				<Baseline points="0,364 1195,364"/>
+				<TextEquiv>
+					<Unicode>- &quot;הבפרות וקררייה&quot; [הקרח חיררת ווהייי , - י - 20-לכמרחב, מעא לספרות, אמנותה וכקורת:א',02ה/,0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

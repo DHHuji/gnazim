@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1120.tif">
+		<TextRegion id="eSc_region_920_95_1154_95_1154_159_920_159" custom="structure {type:text;}">
+			<Coords points="920,95 1154,95 1154,159 920,159"/>
+			<TextLine id="eSc_line_920_95_1154_95_1154_159_920_159" custom="structure {type:default;}">
+				<Coords points="920,95 1154,95 1154,159 920,159"/>
+				<Baseline points="920,159 1154,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חייש -ח-+.----=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_208_255_976_255_976_434_208_434" custom="structure {type:text;}">
+			<Coords points="208,255 976,255 976,434 208,434"/>
+			<TextLine id="eSc_line_208_255_976_255_976_434_208_434" custom="structure {type:default;}">
+				<Coords points="208,255 976,255 976,434 208,434"/>
+				<Baseline points="208,434 976,434"/>
+				<TextEquiv>
+					<Unicode>(&quot;לפגי שניס, בסוף שירת דבורה...&quot;.--)7(&quot;איגני רץ...&quot; ) [פגי סיריס )--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_106_611_970_611_970_681_106_681" custom="structure {type:text;}">
+			<Coords points="106,611 970,611 970,681 106,681"/>
+			<TextLine id="eSc_line_106_611_970_611_970_681_106_681" custom="structure {type:default;}">
+				<Coords points="106,611 970,611 970,681 106,681"/>
+				<Baseline points="106,681 970,681"/>
+				<TextEquiv>
+					<Unicode>דבר, מוסף לספרות ולאמנות, 3.7.1959, עם&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

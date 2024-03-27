@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0879.tif">
+		<TextRegion id="eSc_region_920_104_1221_104_1221_186_920_186" custom="structure {type:text;}">
+			<Coords points="920,104 1221,104 1221,186 920,186"/>
+			<TextLine id="eSc_line_920_104_1221_104_1221_186_920_186" custom="structure {type:default;}">
+				<Coords points="920,104 1221,104 1221,186 920,186"/>
+				<Baseline points="920,186 1221,186"/>
+				<TextEquiv>
+					<Unicode>יים 05-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_234_290_960_290_960_446_234_446" custom="structure {type:text;}">
+			<Coords points="234,290 960,290 960,446 234,446"/>
+			<TextLine id="eSc_line_234_290_960_290_960_446_234_446" custom="structure {type:default;}">
+				<Coords points="234,290 960,290 960,446 234,446"/>
+				<Baseline points="234,446 960,446"/>
+				<TextEquiv>
+					<Unicode>₪וס בעזה ‏ [מדור:: ושימות סוףהשבולק, םת :ן תהום: תחגוי:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_639_575_1215_575_1215_662_639_662" custom="structure {type:text;}">
+			<Coords points="639,575 1215,575 1215,662 639,662"/>
+			<TextLine id="eSc_line_639_575_1215_575_1215_662_639_662" custom="structure {type:default;}">
+				<Coords points="639,575 1215,575 1215,662 639,662"/>
+				<Baseline points="639,662 1215,662"/>
+				<TextEquiv>
+					<Unicode>למרחב,
+
+ודבו.ק
+
+עצמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

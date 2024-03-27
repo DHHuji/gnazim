@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1652.tif">
+		<TextRegion id="eSc_region_881_55_1156_55_1156_118_881_118" custom="structure {type:text;}">
+			<Coords points="881,55 1156,55 1156,118 881,118"/>
+			<TextLine id="eSc_line_881_55_1156_55_1156_118_881_118" custom="structure {type:default;}">
+				<Coords points="881,55 1156,55 1156,118 881,118"/>
+				<Baseline points="881,118 1156,118"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_290_227_947_227_947_293_290_293" custom="structure {type:text;}">
+			<Coords points="290,227 947,227 947,293 290,293"/>
+			<TextLine id="eSc_line_290_227_947_227_947_293_290_293" custom="structure {type:default;}">
+				<Coords points="290,227 947,227 947,293 290,293"/>
+				<Baseline points="290,293 947,293"/>
+				<TextEquiv>
+					<Unicode>ץעל יין ועל סירים (ביקור ביקב ג)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_410_481_925_481_925_545_410_545" custom="structure {type:text;}">
+			<Coords points="410,481 925,481 925,545 410,545"/>
+			<TextLine id="eSc_line_410_481_925_481_925_545_410_545" custom="structure {type:default;}">
+				<Coords points="410,481 925,481 925,545 410,545"/>
+				<Baseline points="410,545 925,545"/>
+				<TextEquiv>
+					<Unicode>למפרחב, 26.10.1956, עם&quot; 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

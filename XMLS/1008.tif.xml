@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1008.tif">
+		<TextRegion id="eSc_region_734_94_986_94_986_158_734_158" custom="structure {type:text;}">
+			<Coords points="734,94 986,94 986,158 734,158"/>
+			<TextLine id="eSc_line_734_94_986_94_986_158_734_158" custom="structure {type:default;}">
+				<Coords points="734,94 986,94 986,158 734,158"/>
+				<Baseline points="734,158 986,158"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים -1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_341_603_1020_603_1020_808_341_808" custom="structure {type:text;}">
+			<Coords points="341,603 1020,603 1020,808 341,808"/>
+			<TextLine id="eSc_line_341_603_1020_603_1020_808_341_808" custom="structure {type:default;}">
+				<Coords points="341,603 1020,603 1020,808 341,808"/>
+				<Baseline points="341,808 1020,808"/>
+				<TextEquiv>
+					<Unicode>דבר, כח אדר הסל&quot;ז,(18.3,77),עמ&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_427_292_776_292_776_441_427_441" custom="structure {type:text;}">
+			<Coords points="427,292 776,292 776,441 427,441"/>
+			<TextLine id="eSc_line_427_292_776_292_776_441_427_441" custom="structure {type:default;}">
+				<Coords points="427,292 776,292 776,441 427,441"/>
+				<Baseline points="427,441 776,441"/>
+				<TextEquiv>
+					<Unicode>(מרור מה אומרים)
+
+0) 0 =[</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

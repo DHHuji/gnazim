@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1892.tif">
+		<TextRegion id="eSc_region_882_86_1171_86_1171_161_882_161" custom="structure {type:text;}">
+			<Coords points="882,86 1171,86 1171,161 882,161"/>
+			<TextLine id="eSc_line_882_86_1171_86_1171_161_882_161" custom="structure {type:default;}">
+				<Coords points="882,86 1171,86 1171,161 882,161"/>
+				<Baseline points="882,161 1171,161"/>
+				<TextEquiv>
+					<Unicode>גווי חיים + גווי חיים
++</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_193_222_654_222_654_306_193_306" custom="structure {type:text;}">
+			<Coords points="193,222 654,222 654,306 193,306"/>
+			<TextLine id="eSc_line_193_222_654_222_654_306_193_306" custom="structure {type:default;}">
+				<Coords points="193,222 654,222 654,306 193,306"/>
+				<Baseline points="193,306 654,306"/>
+				<TextEquiv>
+					<Unicode>רשימוה סוף השבוע]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

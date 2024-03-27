@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1476.tif">
+		<TextRegion id="eSc_region_638_201_777_201_777_267_638_267" custom="structure {type:text;}">
+			<Coords points="638,201 777,201 777,267 638,267"/>
+			<TextLine id="eSc_line_638_201_777_201_777_267_638_267" custom="structure {type:default;}">
+				<Coords points="638,201 777,201 777,267 638,267"/>
+				<Baseline points="638,267 777,267"/>
+				<TextEquiv>
+					<Unicode>[פיר]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_555_85_1142_85_1142_143_555_143" custom="structure {type:text;}">
+			<Coords points="555,85 1142,85 1142,143 555,143"/>
+			<TextLine id="eSc_line_555_85_1142_85_1142_143_555_143" custom="structure {type:default;}">
+				<Coords points="555,85 1142,85 1142,143 555,143"/>
+				<Baseline points="555,143 1142,143"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים, מסורר סותף</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_196_201_444_201_444_266_196_266" custom="structure {type:text;}">
+			<Coords points="196,201 444,201 444,266 196,266"/>
+			<TextLine id="eSc_line_196_201_444_201_444_266_196_266" custom="structure {type:default;}">
+				<Coords points="196,201 444,201 444,266 196,266"/>
+				<Baseline points="196,266 444,266"/>
+				<TextEquiv>
+					<Unicode>הגור-הפר]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

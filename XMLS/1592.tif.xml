@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1592.tif">
+		<TextRegion id="eSc_region_830_81_1063_81_1063_147_830_147" custom="structure {type:text;}">
+			<Coords points="830,81 1063,81 1063,147 830,147"/>
+			<TextLine id="eSc_line_830_81_1063_81_1063_147_830_147" custom="structure {type:default;}">
+				<Coords points="830,81 1063,81 1063,147 830,147"/>
+				<Baseline points="830,147 1063,147"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_340_556_1041_556_1041_622_340_622" custom="structure {type:text;}">
+			<Coords points="340,556 1041,556 1041,622 340,622"/>
+			<TextLine id="eSc_line_340_556_1041_556_1041_622_340_622" custom="structure {type:default;}">
+				<Coords points="340,556 1041,556 1041,622 340,622"/>
+				<Baseline points="340,622 1041,622"/>
+				<TextEquiv>
+					<Unicode>דרבר, יז אדר וועל&quot;ה,(28,2.75), עס 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_304_278_775_278_775_343_304_343" custom="structure {type:text;}">
+			<Coords points="304,278 775,278 775,343 304,343"/>
+			<TextLine id="eSc_line_304_278_775_278_775_343_304_343" custom="structure {type:default;}">
+				<Coords points="304,278 775,278 775,343 304,343"/>
+				<Baseline points="304,343 775,343"/>
+				<TextEquiv>
+					<Unicode>(מרור רשיםוה סוף שבוע)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

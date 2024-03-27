@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1363.tif">
+		<TextRegion id="eSc_region_0_144_1245_144_1245_916_0_916" custom="structure {type:text;}">
+			<Coords points="0,144 1245,144 1245,916 0,916"/>
+			<TextLine id="eSc_line_0_144_1245_144_1245_916_0_916" custom="structure {type:default;}">
+				<Coords points="0,144 1245,144 1245,916 0,916"/>
+				<Baseline points="0,916 1245,916"/>
+				<TextEquiv>
+					<Unicode>גורי,ג חיים &quot; סראוה גיהזי &quot; גורי,ג חיים&quot; סראוה גיהזי &quot;(סרור: ספרים חדשים עיון ראשון]מעריב,ספרות ואסנוה,כ&quot;ס המוז השל&quot;ר,(19.7.74),עם.36</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0821.tif">
+		<TextRegion id="eSc_region_275_16_1251_16_1251_854_275_854" custom="structure {type:text;}">
+			<Coords points="275,16 1251,16 1251,854 275,854"/>
+			<TextLine id="eSc_line_275_16_1251_16_1251_854_275_854" custom="structure {type:default;}">
+				<Coords points="275,16 1251,16 1251,854 275,854"/>
+				<Baseline points="275,854 1251,854"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים חכמת המסכן ‏ [מדור: מה אוכרים?, גורי, חייםחכמת המסכן ‏ [מדור: מה אוכרים?,חתום: חגין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

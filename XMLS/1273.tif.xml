@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1273.tif">
+		<TextRegion id="eSc_region_855_70_1140_70_1140_144_855_144" custom="structure {type:text;}">
+			<Coords points="855,70 1140,70 1140,144 855,144"/>
+			<TextLine id="eSc_line_855_70_1140_70_1140_144_855_144" custom="structure {type:default;}">
+				<Coords points="855,70 1140,70 1140,144 855,144"/>
+				<Baseline points="855,144 1140,144"/>
+				<TextEquiv>
+					<Unicode>ר- גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_402_216_1044_216_1044_427_402_427" custom="structure {type:text;}">
+			<Coords points="402,216 1044,216 1044,427 402,427"/>
+			<TextLine id="eSc_line_402_216_1044_216_1044_427_402_427" custom="structure {type:default;}">
+				<Coords points="402,216 1044,216 1044,427 402,427"/>
+				<Baseline points="402,427 1044,427"/>
+				<TextEquiv>
+					<Unicode>המלך ו&quot;היהודי הפלשתינאי&quot;[מדור: רשלימות סוף השבוע,הגור&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_277_290_864_290_864_366_277_366" custom="structure {type:text;}">
+			<Coords points="277,290 864,290 864,366 277,366"/>
+			<TextLine id="eSc_line_277_290_864_290_864_366_277_366" custom="structure {type:default;}">
+				<Coords points="277,290 864,290 864,366 277,366"/>
+				<Baseline points="277,366 864,366"/>
+				<TextEquiv>
+					<Unicode>5%
+
+ו
+
+1
+
+רשימלות סוף ר! , מתום:
+
+1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

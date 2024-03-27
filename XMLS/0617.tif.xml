@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0617.tif">
+		<TextRegion id="eSc_region_267_0_1203_0_1203_777_267_777" custom="structure {type:text;}">
+			<Coords points="267,0 1203,0 1203,777 267,777"/>
+			<TextLine id="eSc_line_267_0_1203_0_1203_777_267_777" custom="structure {type:default;}">
+				<Coords points="267,0 1203,0 1203,777 267,777"/>
+				<Baseline points="267,777 1203,777"/>
+				<TextEquiv>
+					<Unicode>הררך והמליס (חתוס:ה-גי) הררך והמליס(חתוס:ה-גי)דבר. סז אב העשמו1!986.ת.ו2עמ 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

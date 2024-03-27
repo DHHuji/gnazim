@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1208.tif">
+		<TextRegion id="eSc_region_913_105_1147_105_1147_169_913_169" custom="structure {type:text;}">
+			<Coords points="913,105 1147,105 1147,169 913,169"/>
+			<TextLine id="eSc_line_913_105_1147_105_1147_169_913_169" custom="structure {type:default;}">
+				<Coords points="913,105 1147,105 1147,169 913,169"/>
+				<Baseline points="913,169 1147,169"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_405_556_1225_556_1225_622_405_622" custom="structure {type:text;}">
+			<Coords points="405,556 1225,556 1225,622 405,622"/>
+			<TextLine id="eSc_line_405_556_1225_556_1225_622_405_622" custom="structure {type:default;}">
+				<Coords points="405,556 1225,556 1225,622 405,622"/>
+				<Baseline points="405,622 1225,622"/>
+				<TextEquiv>
+					<Unicode>מעריב, י&quot;ב באב תסל&quot;ג, כ0.8.197ו, ץם&quot; 5ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_547_262_958_262_958_321_547_321" custom="structure {type:text;}">
+			<Coords points="547,262 958,262 958,321 547,321"/>
+			<TextLine id="eSc_line_547_262_958_262_958_321_547_321" custom="structure {type:default;}">
+				<Coords points="547,262 958,262 958,321 547,321"/>
+				<Baseline points="547,321 958,321"/>
+				<TextEquiv>
+					<Unicode>&quot;מהנהו של משה שמיר&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

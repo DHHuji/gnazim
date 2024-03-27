@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0611.tif">
+		<TextRegion id="eSc_region_332_38_1204_38_1204_912_332_912" custom="structure {type:text;}">
+			<Coords points="332,38 1204,38 1204,912 332,912"/>
+			<TextLine id="eSc_line_332_38_1204_38_1204_912_332_912" custom="structure {type:default;}">
+				<Coords points="332,38 1204,38 1204,912 332,912"/>
+				<Baseline points="332,912 1204,912"/>
+				<TextEquiv>
+					<Unicode>. גורי, חיים .גורי, חייםד&quot;ר רוברט סרבציוס(פול תא הזכוכית)לסרהב; 15.8.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

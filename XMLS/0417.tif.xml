@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0417.tif">
+		<TextRegion id="eSc_region_1002_97_1275_97_1275_162_1002_162" custom="structure {type:text;}">
+			<Coords points="1002,97 1275,97 1275,162 1002,162"/>
+			<TextLine id="eSc_line_1002_97_1275_97_1275_162_1002_162" custom="structure {type:default;}">
+				<Coords points="1002,97 1275,97 1275,162 1002,162"/>
+				<Baseline points="1002,162 1275,162"/>
+				<TextEquiv>
+					<Unicode>גורין היים --הה-=1-ה=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_294_227_782_227_782_387_294_387" custom="structure {type:text;}">
+			<Coords points="294,227 782,227 782,387 294,387"/>
+			<TextLine id="eSc_line_294_227_782_227_782_387_294_387" custom="structure {type:default;}">
+				<Coords points="294,227 782,227 782,387 294,387"/>
+				<Baseline points="294,387 782,387"/>
+				<TextEquiv>
+					<Unicode>(סרור רשיםסות סוף הסבוע)] חתום הגור \----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_594_549_1269_549_1269_616_594_616" custom="structure {type:text;}">
+			<Coords points="594,549 1269,549 1269,616 594,616"/>
+			<TextLine id="eSc_line_594_549_1269_549_1269_616_594_616" custom="structure {type:default;}">
+				<Coords points="594,549 1269,549 1269,616 594,616"/>
+				<Baseline points="594,616 1269,616"/>
+				<TextEquiv>
+					<Unicode>יבר, וז תשרי תשל&quot;ו,(2.9.75!),עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

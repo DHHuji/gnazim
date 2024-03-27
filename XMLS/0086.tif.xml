@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0086.tif">
+		<TextRegion id="eSc_region_963_26_1197_26_1197_98_963_98" custom="structure {type:text;}">
+			<Coords points="963,26 1197,26 1197,98 963,98"/>
+			<TextLine id="eSc_line_963_26_1197_26_1197_98_963_98" custom="structure {type:default;}">
+				<Coords points="963,26 1197,26 1197,98 963,98"/>
+				<Baseline points="963,98 1197,98"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים --7---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_157_275_1112_275_1112_383_157_383" custom="structure {type:text;}">
+			<Coords points="157,275 1112,275 1112,383 157,383"/>
+			<TextLine id="eSc_line_157_275_1112_275_1112_383_157_383" custom="structure {type:default;}">
+				<Coords points="157,275 1112,275 1112,383 157,383"/>
+				<Baseline points="157,383 1112,383"/>
+				<TextEquiv>
+					<Unicode>(רב סיה בשאלה-העקרב&quot;ת שנערך ביני לבין כפה פרעי,סלוט פגיטות נפררות בעמ אחרוגה)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_432_576_1192_576_1192_815_432_815" custom="structure {type:text;}">
+			<Coords points="432,576 1192,576 1192,815 432,815"/>
+			<TextLine id="eSc_line_432_576_1192_576_1192_815_432_815" custom="structure {type:default;}">
+				<Coords points="432,576 1192,576 1192,815 432,815"/>
+				<Baseline points="432,815 1192,815"/>
+				<TextEquiv>
+					<Unicode>רבר, כ&quot;ז כסלו תשס&quot;א, 5.12.80, עס&quot; 17</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

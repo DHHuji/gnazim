@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1583.tif">
+		<TextRegion id="eSc_region_158_0_1139_0_1139_717_158_717" custom="structure {type:text;}">
+			<Coords points="158,0 1139,0 1139,717 158,717"/>
+			<TextLine id="eSc_line_158_0_1139_0_1139_717_158_717" custom="structure {type:default;}">
+				<Coords points="158,0 1139,0 1139,717 158,717"/>
+				<Baseline points="158,717 1139,717"/>
+				<TextEquiv>
+					<Unicode>ירת ד טל הגבטוניתף ירתד טל הגבטוניתף0 0 י :ח-יּ י'חהום:ח-גי\וִ סברופ9ו!.9.י7 עמ/יד אלול תסכלות .</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

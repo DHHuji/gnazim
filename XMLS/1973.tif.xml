@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1973.tif">
+		<TextRegion id="eSc_region_928_4_1178_4_1178_68_928_68" custom="structure {type:text;}">
+			<Coords points="928,4 1178,4 1178,68 928,68"/>
+			<TextLine id="eSc_line_928_4_1178_4_1178_68_928_68" custom="structure {type:default;}">
+				<Coords points="928,4 1178,4 1178,68 928,68"/>
+				<Baseline points="928,68 1178,68"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_541_538_1172_538_1172_736_541_736" custom="structure {type:text;}">
+			<Coords points="541,538 1172,538 1172,736 541,736"/>
+			<TextLine id="eSc_line_541_538_1172_538_1172_736_541_736" custom="structure {type:default;}">
+				<Coords points="541,538 1172,538 1172,736 541,736"/>
+				<Baseline points="541,736 1172,736"/>
+				<TextEquiv>
+					<Unicode>וחיצטוה אהרונותדורוויום הלצראות,נן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_777_265_1026_265_1026_373_777_373" custom="structure {type:text;}">
+			<Coords points="777,265 1026,265 1026,373 777,373"/>
+			<TextLine id="eSc_line_777_265_1026_265_1026_373_777_373" custom="structure {type:default;}">
+				<Coords points="777,265 1026,265 1026,373 777,373"/>
+				<Baseline points="777,373 1026,373"/>
+				<TextEquiv>
+					<Unicode>-
+יוה -
+₪0 \רדר
+1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

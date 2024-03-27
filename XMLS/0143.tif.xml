@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0143.tif">
+		<TextRegion id="eSc_region_979_30_1223_30_1223_91_979_91" custom="structure {type:text;}">
+			<Coords points="979,30 1223,30 1223,91 979,91"/>
+			<TextLine id="eSc_line_979_30_1223_30_1223_91_979_91" custom="structure {type:default;}">
+				<Coords points="979,30 1223,30 1223,91 979,91"/>
+				<Baseline points="979,91 1223,91"/>
+				<TextEquiv>
+					<Unicode>גורי.,. חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_506_538_1205_538_1205_667_506_667" custom="structure {type:text;}">
+			<Coords points="506,538 1205,538 1205,667 506,667"/>
+			<TextLine id="eSc_line_506_538_1205_538_1205_667_506_667" custom="structure {type:default;}">
+				<Coords points="506,538 1205,538 1205,667 506,667"/>
+				<Baseline points="506,667 1205,667"/>
+				<TextEquiv>
+					<Unicode>מפו0060.הלמו1980יון הסיגדבר.01</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_733_191_1044_191_1044_249_733_249" custom="structure {type:text;}">
+			<Coords points="733,191 1044,191 1044,249 733,249"/>
+			<TextLine id="eSc_line_733_191_1044_191_1044_249_733_249" custom="structure {type:default;}">
+				<Coords points="733,191 1044,191 1044,249 733,249"/>
+				<Baseline points="733,249 1044,249"/>
+				<TextEquiv>
+					<Unicode>אלבוס האלמונים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

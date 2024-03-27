@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0727.tif">
+		<TextRegion id="eSc_region_889_14_1148_14_1148_89_889_89" custom="structure {type:text;}">
+			<Coords points="889,14 1148,14 1148,89 889,89"/>
+			<TextLine id="eSc_line_889_14_1148_14_1148_89_889_89" custom="structure {type:default;}">
+				<Coords points="889,14 1148,14 1148,89 889,89"/>
+				<Baseline points="889,89 1148,89"/>
+				<TextEquiv>
+					<Unicode>4 ורי,חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_92_512_1165_512_1165_714_92_714" custom="structure {type:text;}">
+			<Coords points="92,512 1165,512 1165,714 92,714"/>
+			<TextLine id="eSc_line_92_512_1165_512_1165_714_92_714" custom="structure {type:default;}">
+				<Coords points="92,512 1165,512 1165,714 92,714"/>
+				<Baseline points="92,714 1165,714"/>
+				<TextEquiv>
+					<Unicode>דבר.דבר השבוץק.יב אדר תט&quot;ן9.5.!090 עמ24.25</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_478_142_992_142_992_215_478_215" custom="structure {type:text;}">
+			<Coords points="478,142 992,142 992,215 478,215"/>
+			<TextLine id="eSc_line_478_142_992_142_992_215_478_215" custom="structure {type:default;}">
+				<Coords points="478,142 992,142 992,215 478,215"/>
+				<Baseline points="478,215 992,215"/>
+				<TextEquiv>
+					<Unicode>&quot;וכל הצולם צד אחד!&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

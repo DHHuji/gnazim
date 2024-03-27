@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2208.tif">
+		<TextRegion id="eSc_region_798_62_1101_62_1101_149_798_149" custom="structure {type:text;}">
+			<Coords points="798,62 1101,62 1101,149 798,149"/>
+			<TextLine id="eSc_line_798_62_1101_62_1101_149_798_149" custom="structure {type:default;}">
+				<Coords points="798,62 1101,62 1101,149 798,149"/>
+				<Baseline points="798,149 1101,149"/>
+				<TextEquiv>
+					<Unicode>י, חייםס גור ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_110_546_759_546_759_636_110_636" custom="structure {type:text;}">
+			<Coords points="110,546 759,546 759,636 110,636"/>
+			<TextLine id="eSc_line_110_546_759_546_759_636_110_636" custom="structure {type:default;}">
+				<Coords points="110,546 759,546 759,636 110,636"/>
+				<Baseline points="110,636 759,636"/>
+				<TextEquiv>
+					<Unicode>לפמרחב, 16.5.1961, עמם' 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_218_302_672_302_672_390_218_390" custom="structure {type:text;}">
+			<Coords points="218,302 672,302 672,390 218,390"/>
+			<TextLine id="eSc_line_218_302_672_302_672_390_218_390" custom="structure {type:default;}">
+				<Coords points="218,302 672,302 672,390 218,390"/>
+				<Baseline points="218,390 672,390"/>
+				<TextEquiv>
+					<Unicode>(מול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

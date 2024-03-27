@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1011.tif">
+		<TextRegion id="eSc_region_948_129_1172_129_1172_179_948_179" custom="structure {type:text;}">
+			<Coords points="948,129 1172,129 1172,179 948,179"/>
+			<TextLine id="eSc_line_948_129_1172_129_1172_179_948_179" custom="structure {type:default;}">
+				<Coords points="948,129 1172,129 1172,179 948,179"/>
+				<Baseline points="948,179 1172,179"/>
+				<TextEquiv>
+					<Unicode>גורי, חייא</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_277_517_737_517_737_601_277_601" custom="structure {type:text;}">
+			<Coords points="277,517 737,517 737,601 277,601"/>
+			<TextLine id="eSc_line_277_517_737_517_737_601_277_601" custom="structure {type:default;}">
+				<Coords points="277,517 737,517 737,601 277,601"/>
+				<Baseline points="277,601 737,601"/>
+				<TextEquiv>
+					<Unicode>₪תשל&quot;ו, (23.7.76),עם&quot; 21</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_910_546_1162_546_1162_589_910_589" custom="structure {type:text;}">
+			<Coords points="910,546 1162,546 1162,589 910,589"/>
+			<TextLine id="eSc_line_910_546_1162_546_1162_589_910_589" custom="structure {type:default;}">
+				<Coords points="910,546 1162,546 1162,589 910,589"/>
+				<Baseline points="910,589 1162,589"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרות,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

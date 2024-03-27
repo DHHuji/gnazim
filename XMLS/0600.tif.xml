@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0600.tif">
+		<TextRegion id="eSc_region_814_23_1075_23_1075_97_814_97" custom="structure {type:text;}">
+			<Coords points="814,23 1075,23 1075,97 814,97"/>
+			<TextLine id="eSc_line_814_23_1075_23_1075_97_814_97" custom="structure {type:default;}">
+				<Coords points="814,23 1075,23 1075,97 814,97"/>
+				<Baseline points="814,97 1075,97"/>
+				<TextEquiv>
+					<Unicode>ורי,חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_249_503_1070_503_1070_574_249_574" custom="structure {type:text;}">
+			<Coords points="249,503 1070,503 1070,574 249,574"/>
+			<TextLine id="eSc_line_249_503_1070_503_1070_574_249_574" custom="structure {type:default;}">
+				<Coords points="249,503 1070,503 1070,574 249,574"/>
+				<Baseline points="249,574 1070,574"/>
+				<TextEquiv>
+					<Unicode>דבר. כז הסרי תהשמת 20.%0,10787עמ7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_405_224_893_224_893_341_405_341" custom="structure {type:text;}">
+			<Coords points="405,224 893,224 893,341 405,341"/>
+			<TextLine id="eSc_line_405_224_893_224_893_341_405_341" custom="structure {type:default;}">
+				<Coords points="405,224 893,224 893,341 405,341"/>
+				<Baseline points="405,341 893,341"/>
+				<TextEquiv>
+					<Unicode>דניאל בגוב האוהדים
+(חתום:ת-גי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

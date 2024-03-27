@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1168.tif">
+		<TextRegion id="eSc_region_778_71_1076_71_1076_153_778_153" custom="structure {type:text;}">
+			<Coords points="778,71 1076,71 1076,153 778,153"/>
+			<TextLine id="eSc_line_778_71_1076_71_1076_153_778_153" custom="structure {type:default;}">
+				<Coords points="778,71 1076,71 1076,153 778,153"/>
+				<Baseline points="778,153 1076,153"/>
+				<TextEquiv>
+					<Unicode>היים גורי, :</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_119_245_1019_245_1019_395_119_395" custom="structure {type:text;}">
+			<Coords points="119,245 1019,245 1019,395 119,395"/>
+			<TextLine id="eSc_line_119_245_1019_245_1019_395_119_395" custom="structure {type:default;}">
+				<Coords points="119,245 1019,245 1019,395 119,395"/>
+				<Baseline points="119,395 1019,395"/>
+				<TextEquiv>
+					<Unicode>מה התרתחעש למעשה בהיפה בטותו היום +ולטע טתוך&quot;הספר הכלוגע&quot;|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_352_542_1071_542_1071_630_352_630" custom="structure {type:text;}">
+			<Coords points="352,542 1071,542 1071,630 352,630"/>
+			<TextLine id="eSc_line_352_542_1071_542_1071_630_352_630" custom="structure {type:default;}">
+				<Coords points="352,542 1071,542 1071,630 352,630"/>
+				<Baseline points="352,630 1071,630"/>
+				<TextEquiv>
+					<Unicode>.
+ומרהב, 2
+כמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

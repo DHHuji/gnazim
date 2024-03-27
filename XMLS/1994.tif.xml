@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1994.tif">
+		<TextRegion id="eSc_region_94_0_1099_0_1099_798_94_798" custom="structure {type:text;}">
+			<Coords points="94,0 1099,0 1099,798 94,798"/>
+			<TextLine id="eSc_line_94_0_1099_0_1099_798_94_798" custom="structure {type:default;}">
+				<Coords points="94,0 1099,0 1099,798 94,798"/>
+				<Baseline points="94,798 1099,798"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים רעשימות סוף הסכוע; הפחלוקת גורי, חייםרעשימות סוף הסכוע; הפחלוקתחתום הגורדבר, ה' אדר תט&quot;ם,(22,2,80), עס&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

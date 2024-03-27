@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1577.tif">
+		<TextRegion id="eSc_region_0_5_1251_5_1251_493_0_493" custom="structure {type:text;}">
+			<Coords points="0,5 1251,5 1251,493 0,493"/>
+			<TextLine id="eSc_line_0_5_1251_5_1251_493_0_493" custom="structure {type:default;}">
+				<Coords points="0,5 1251,5 1251,493 0,493"/>
+				<Baseline points="0,493 1251,493"/>
+				<TextEquiv>
+					<Unicode>גורי חייםעוות (פה אופרים?) 1 וס 0-3.-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_227_494_1014_494_1014_887_227_887" custom="structure {type:text;}">
+			<Coords points="227,494 1014,494 1014,887 227,887"/>
+			<TextLine id="eSc_line_227_494_1014_494_1014_887_227_887" custom="structure {type:default;}">
+				<Coords points="227,494 1014,494 1014,887 227,887"/>
+				<Baseline points="227,887 1014,887"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 25.3.1956, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

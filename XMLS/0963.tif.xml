@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0963.tif">
+		<TextRegion id="eSc_region_864_101_1187_101_1187_180_864_180" custom="structure {type:text;}">
+			<Coords points="864,101 1187,101 1187,180 864,180"/>
+			<TextLine id="eSc_line_864_101_1187_101_1187_180_864_180" custom="structure {type:default;}">
+				<Coords points="864,101 1187,101 1187,180 864,180"/>
+				<Baseline points="864,180 1187,180"/>
+				<TextEquiv>
+					<Unicode>- גורי, חי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_392_301_922_301_922_441_392_441" custom="structure {type:text;}">
+			<Coords points="392,301 922,301 922,441 392,441"/>
+			<TextLine id="eSc_line_392_301_922_301_922_441_392_441" custom="structure {type:default;}">
+				<Coords points="392,301 922,301 922,441 392,441"/>
+				<Baseline points="392,441 922,441"/>
+				<TextEquiv>
+					<Unicode>כופם סל תפוחי ארפה(מול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_311_667_925_667_925_841_311_841" custom="structure {type:text;}">
+			<Coords points="311,667 925,667 925,841 311,841"/>
+			<TextLine id="eSc_line_311_667_925_667_925_841_311_841" custom="structure {type:default;}">
+				<Coords points="311,667 925,667 925,841 311,841"/>
+				<Baseline points="311,841 925,841"/>
+				<TextEquiv>
+					<Unicode>9, עס' 2
+לפרחב, 9 ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

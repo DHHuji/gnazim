@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1386.tif">
+		<TextRegion id="eSc_region_248_85_1214_85_1214_825_248_825" custom="structure {type:text;}">
+			<Coords points="248,85 1214,85 1214,825 248,825"/>
+			<TextLine id="eSc_line_248_85_1214_85_1214_825_248_825" custom="structure {type:default;}">
+				<Coords points="248,85 1214,85 1214,825 248,825"/>
+				<Baseline points="248,825 1214,825"/>
+				<TextEquiv>
+					<Unicode>מ.הו גל מ.הוגלההררהיותהבו-זפנית(ההוס: הגין פדור: כה אופריב?]יבר,כ&quot;ד סיוןתבל&quot;ר,ובל.ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

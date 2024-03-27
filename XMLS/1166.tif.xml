@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1166.tif">
+		<TextRegion id="eSc_region_557_0_1281_0_1281_302_557_302" custom="structure {type:text;}">
+			<Coords points="557,0 1281,0 1281,302 557,302"/>
+			<TextLine id="eSc_line_557_0_1281_0_1281_302_557_302" custom="structure {type:default;}">
+				<Coords points="557,0 1281,0 1281,302 557,302"/>
+				<Baseline points="557,302 1281,302"/>
+				<TextEquiv>
+					<Unicode>גורי.חייםמה הייהם עוסלסיס כלטקדינו&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_374_483_1263_483_1263_770_374_770" custom="structure {type:text;}">
+			<Coords points="374,483 1263,483 1263,770 374,770"/>
+			<TextLine id="eSc_line_374_483_1263_483_1263_770_374_770" custom="structure {type:default;}">
+				<Coords points="374,483 1263,483 1263,770 374,770"/>
+				<Baseline points="374,770 1263,770"/>
+				<TextEquiv>
+					<Unicode>דבר.ט תחשרי הלכו, 24.0.1955 עמ19</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

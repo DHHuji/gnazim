@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1044.tif">
+		<TextRegion id="eSc_region_874_82_1147_82_1147_156_874_156" custom="structure {type:text;}">
+			<Coords points="874,82 1147,82 1147,156 874,156"/>
+			<TextLine id="eSc_line_874_82_1147_82_1147_156_874_156" custom="structure {type:default;}">
+				<Coords points="874,82 1147,82 1147,156 874,156"/>
+				<Baseline points="874,156 1147,156"/>
+				<TextEquiv>
+					<Unicode>גורי, היים #NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_67_201_961_201_961_350_67_350" custom="structure {type:text;}">
+			<Coords points="67,201 961,201 961,350 67,350"/>
+			<TextLine id="eSc_line_67_201_961_201_961_350_67_350" custom="structure {type:default;}">
+				<Coords points="67,201 961,201 961,350 67,350"/>
+				<Baseline points="67,350 961,350"/>
+				<TextEquiv>
+					<Unicode>לאור הברק (אות לאות] (על &quot;ישראל הפניה&quot;והמפברוה]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_499_400_1143_400_1143_479_499_479" custom="structure {type:text;}">
+			<Coords points="499,400 1143,400 1143,479 499,479"/>
+			<TextLine id="eSc_line_499_400_1143_400_1143_479_499_479" custom="structure {type:default;}">
+				<Coords points="499,400 1143,400 1143,479 499,479"/>
+				<Baseline points="499,479 1143,479"/>
+				<TextEquiv>
+					<Unicode>, 1
+צם
+הטי&quot;ב,
+ו,
+גליון 2
+משא,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

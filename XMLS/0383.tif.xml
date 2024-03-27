@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0383.tif">
+		<TextRegion id="eSc_region_826_94_1190_94_1190_158_826_158" custom="structure {type:text;}">
+			<Coords points="826,94 1190,94 1190,158 826,158"/>
+			<TextLine id="eSc_line_826_94_1190_94_1190_158_826_158" custom="structure {type:default;}">
+				<Coords points="826,94 1190,94 1190,158 826,158"/>
+				<Baseline points="826,158 1190,158"/>
+				<TextEquiv>
+					<Unicode>גוריון, דרור גוריון, דרור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_671_624_1107_624_1107_687_671_687" custom="structure {type:text;}">
+			<Coords points="671,624 1107,624 1107,687 671,687"/>
+			<TextLine id="eSc_line_671_624_1107_624_1107_687_671_687" custom="structure {type:default;}">
+				<Coords points="671,624 1107,624 1107,687 671,687"/>
+				<Baseline points="671,687 1107,687"/>
+				<TextEquiv>
+					<Unicode>החרות,24.10.1959,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

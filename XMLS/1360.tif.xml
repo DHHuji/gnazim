@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1360.tif">
+		<TextRegion id="eSc_region_918_94_1214_94_1214_175_918_175" custom="structure {type:text;}">
+			<Coords points="918,94 1214,94 1214,175 918,175"/>
+			<TextLine id="eSc_line_918_94_1214_94_1214_175_918_175" custom="structure {type:default;}">
+				<Coords points="918,94 1214,94 1214,175 918,175"/>
+				<Baseline points="918,175 1214,175"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 07-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_207_261_1062_261_1062_416_207_416" custom="structure {type:text;}">
+			<Coords points="207,261 1062,261 1062,416 207,416"/>
+			<TextLine id="eSc_line_207_261_1062_261_1062_416_207_416" custom="structure {type:default;}">
+				<Coords points="207,261 1062,261 1062,416 207,416"/>
+				<Baseline points="207,416 1062,416"/>
+				<TextEquiv>
+					<Unicode>מראה ליד הגשו [מדור. רטימות סוףהשבוע, חתום. חגורן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_792_583_1186_583_1186_672_792_672" custom="structure {type:text;}">
+			<Coords points="792,583 1186,583 1186,672 792,672"/>
+			<TextLine id="eSc_line_792_583_1186_583_1186_672_792_672" custom="structure {type:default;}">
+				<Coords points="792,583 1186,583 1186,672 792,672"/>
+				<Baseline points="792,672 1186,672"/>
+				<TextEquiv>
+					<Unicode>דבו, 6.8.71,עמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

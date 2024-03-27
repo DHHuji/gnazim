@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0917.tif">
+		<TextRegion id="eSc_region_931_79_1229_79_1229_160_931_160" custom="structure {type:text;}">
+			<Coords points="931,79 1229,79 1229,160 931,160"/>
+			<TextLine id="eSc_line_931_79_1229_79_1229_160_931_160" custom="structure {type:default;}">
+				<Coords points="931,79 1229,79 1229,160 931,160"/>
+				<Baseline points="931,160 1229,160"/>
+				<TextEquiv>
+					<Unicode>גורי, הי* 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_482_299_984_299_984_439_482_439" custom="structure {type:text;}">
+			<Coords points="482,299 984,299 984,439 482,439"/>
+			<TextLine id="eSc_line_482_299_984_299_984_439_482_439" custom="structure {type:default;}">
+				<Coords points="482,299 984,299 984,439 482,439"/>
+				<Baseline points="482,439 984,439"/>
+				<TextEquiv>
+					<Unicode>י*צחק נחמה ססלוניקי(מול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_321_605_961_605_961_686_321_686" custom="structure {type:text;}">
+			<Coords points="321,605 961,605 961,686 321,686"/>
+			<TextLine id="eSc_line_321_605_961_605_961_686_321_686" custom="structure {type:default;}">
+				<Coords points="321,605 961,605 961,686 321,686"/>
+				<Baseline points="321,686 961,686"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 23.5.1961, עם' 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

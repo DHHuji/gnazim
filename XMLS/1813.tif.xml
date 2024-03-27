@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1813.tif">
+		<TextRegion id="eSc_region_94_0_1035_0_1035_727_94_727" custom="structure {type:text;}">
+			<Coords points="94,0 1035,0 1035,727 94,727"/>
+			<TextLine id="eSc_line_94_0_1035_0_1035_727_94_727" custom="structure {type:default;}">
+				<Coords points="94,0 1035,0 1035,727 94,727"/>
+				<Baseline points="94,727 1035,727"/>
+				<TextEquiv>
+					<Unicode>גוריבתיים פסטיבל הסורה: החרפ וההתתסרות גוריבתייםפסטיבל הסורה: החרפ וההתתסרות1.4₪41</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

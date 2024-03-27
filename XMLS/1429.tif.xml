@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1429.tif">
+		<TextRegion id="eSc_region_928_98_1235_98_1235_189_928_189" custom="structure {type:text;}">
+			<Coords points="928,98 1235,98 1235,189 928,189"/>
+			<TextLine id="eSc_line_928_98_1235_98_1235_189_928_189" custom="structure {type:default;}">
+				<Coords points="928,98 1235,98 1235,189 928,189"/>
+				<Baseline points="928,189 1235,189"/>
+				<TextEquiv>
+					<Unicode>גוורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_240_277_1103_277_1103_445_240_445" custom="structure {type:text;}">
+			<Coords points="240,277 1103,277 1103,445 240,445"/>
+			<TextLine id="eSc_line_240_277_1103_277_1103_445_240_445" custom="structure {type:default;}">
+				<Coords points="240,277 1103,277 1103,445 240,445"/>
+				<Baseline points="240,445 1103,445"/>
+				<TextEquiv>
+					<Unicode>נבואת למורסין ‏ [מדור: מרשימות סוףהטבוע, ‏ חהום: חגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_644_587_1252_587_1252_683_644_683" custom="structure {type:text;}">
+			<Coords points="644,587 1252,587 1252,683 644,683"/>
+			<TextLine id="eSc_line_644_587_1252_587_1252_683_644_683" custom="structure {type:default;}">
+				<Coords points="644,587 1252,587 1252,683 644,683"/>
+				<Baseline points="644,683 1252,683"/>
+				<TextEquiv>
+					<Unicode>למרחב, 7.0.1969, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

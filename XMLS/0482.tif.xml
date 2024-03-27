@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0482.tif">
+		<TextRegion id="eSc_region_814_104_1115_104_1115_190_814_190" custom="structure {type:text;}">
+			<Coords points="814,104 1115,104 1115,190 814,190"/>
+			<TextLine id="eSc_line_814_104_1115_104_1115_190_814_190" custom="structure {type:default;}">
+				<Coords points="814,104 1115,104 1115,190 814,190"/>
+				<Baseline points="814,190 1115,190"/>
+				<TextEquiv>
+					<Unicode>גורי יים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_232_609_876_609_876_693_232_693" custom="structure {type:text;}">
+			<Coords points="232,609 876,609 876,693 232,693"/>
+			<TextLine id="eSc_line_232_609_876_609_876_693_232_693" custom="structure {type:default;}">
+				<Coords points="232,609 876,609 876,693 232,693"/>
+				<Baseline points="232,693 876,693"/>
+				<TextEquiv>
+					<Unicode>לפרתחב, 25.9.1956, עם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_495_343_1033_343_1033_422_495_422" custom="structure {type:text;}">
+			<Coords points="495,343 1033,343 1033,422 495,422"/>
+			<TextLine id="eSc_line_495_343_1033_343_1033_422_495_422" custom="structure {type:default;}">
+				<Coords points="495,343 1033,343 1033,422 495,422"/>
+				<Baseline points="495,422 1033,422"/>
+				<TextEquiv>
+					<Unicode>בטסולי הימים הנוראי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

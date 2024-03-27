@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1836.tif">
+		<TextRegion id="eSc_region_912_51_1151_51_1151_113_912_113" custom="structure {type:text;}">
+			<Coords points="912,51 1151,51 1151,113 912,113"/>
+			<TextLine id="eSc_line_912_51_1151_51_1151_113_912_113" custom="structure {type:default;}">
+				<Coords points="912,51 1151,51 1151,113 912,113"/>
+				<Baseline points="912,113 1151,113"/>
+				<TextEquiv>
+					<Unicode>גורי, היים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_157_573_1145_573_1145_682_157_682" custom="structure {type:text;}">
+			<Coords points="157,573 1145,573 1145,682 157,682"/>
+			<TextLine id="eSc_line_157_573_1145_573_1145_682_157_682" custom="structure {type:default;}">
+				<Coords points="157,573 1145,573 1145,682 157,682"/>
+				<Baseline points="157,682 1145,682"/>
+				<TextEquiv>
+					<Unicode>קתים, גל' 22, שנה ראשונה, י&quot;ד באדר הש&quot;ז, 6.3.47עס&quot; 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_99_329_923_329_923_441_99_441" custom="structure {type:text;}">
+			<Coords points="99,329 923,329 923,441 99,441"/>
+			<TextLine id="eSc_line_99_329_923_329_923_441_99_441" custom="structure {type:default;}">
+				<Coords points="99,329 923,329 923,441 99,441"/>
+				<Baseline points="99,441 923,441"/>
+				<TextEquiv>
+					<Unicode>בדרכים; א. שרידה. - ב. פגישה. - ב. קינת
+המליס שיר -)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

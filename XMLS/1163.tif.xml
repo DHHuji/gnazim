@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1163.tif">
+		<TextRegion id="eSc_region_890_77_1118_77_1118_142_890_142" custom="structure {type:text;}">
+			<Coords points="890,77 1118,77 1118,142 890,142"/>
+			<TextLine id="eSc_line_890_77_1118_77_1118_142_890_142" custom="structure {type:default;}">
+				<Coords points="890,77 1118,77 1118,142 890,142"/>
+				<Baseline points="890,142 1118,142"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 7+</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_362_625_1101_625_1101_691_362_691" custom="structure {type:text;}">
+			<Coords points="362,625 1101,625 1101,691 362,691"/>
+			<TextLine id="eSc_line_362_625_1101_625_1101_691_362_691" custom="structure {type:default;}">
+				<Coords points="362,625 1101,625 1101,691 362,691"/>
+				<Baseline points="362,691 1101,691"/>
+				<TextEquiv>
+					<Unicode>דגר, כד כסלו תשל&quot;ו,(28.11.75), עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_303_280_790_280_790_459_303_459" custom="structure {type:text;}">
+			<Coords points="303,280 790,280 790,459 303,459"/>
+			<TextLine id="eSc_line_303_280_790_280_790_459_303_459" custom="structure {type:default;}">
+				<Coords points="303,280 790,280 790,459 303,459"/>
+				<Baseline points="303,459 790,459"/>
+				<TextEquiv>
+					<Unicode>(פדרור רשימות סוף השבוע)
+
+ו הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1820.tif">
+		<TextRegion id="eSc_region_319_0_1208_0_1208_770_319_770" custom="structure {type:text;}">
+			<Coords points="319,0 1208,0 1208,770 319,770"/>
+			<TextLine id="eSc_line_319_0_1208_0_1208_770_319_770" custom="structure {type:default;}">
+				<Coords points="319,0 1208,0 1208,770 319,770"/>
+				<Baseline points="319,770 1208,770"/>
+				<TextEquiv>
+					<Unicode>י נוריבחיים ינוריבחיים23 ם:הגור8 | חהוםס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

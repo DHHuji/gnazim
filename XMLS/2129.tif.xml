@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2129.tif">
+		<TextRegion id="eSc_region_858_80_1241_80_1241_192_858_192" custom="structure {type:text;}">
+			<Coords points="858,80 1241,80 1241,192 858,192"/>
+			<TextLine id="eSc_line_858_80_1241_80_1241_192_858_192" custom="structure {type:default;}">
+				<Coords points="858,80 1241,80 1241,192 858,192"/>
+				<Baseline points="858,192 1241,192"/>
+				<TextEquiv>
+					<Unicode>גורד, חיט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_248_201_1126_201_1126_403_248_403" custom="structure {type:text;}">
+			<Coords points="248,201 1126,201 1126,403 248,403"/>
+			<TextLine id="eSc_line_248_201_1126_201_1126_403_248_403" custom="structure {type:default;}">
+				<Coords points="248,201 1126,201 1126,403 248,403"/>
+				<Baseline points="248,403 1126,403"/>
+				<TextEquiv>
+					<Unicode>0 שנות יציוה לטברהם שלונסקי[חהוט: .ג.]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_5_505_1216_505_1216_693_5_693" custom="structure {type:text;}">
+			<Coords points="5,505 1216,505 1216,693 5,693"/>
+			<TextLine id="eSc_line_5_505_1216_505_1216_693_5_693" custom="structure {type:default;}">
+				<Coords points="5,505 1216,505 1216,693 5,693"/>
+				<Baseline points="5,693 1216,693"/>
+				<TextEquiv>
+					<Unicode>למרחב, שבועון, כרך ג, גל'
+
+,8%</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

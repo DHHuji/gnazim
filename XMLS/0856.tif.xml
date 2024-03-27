@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0856.tif">
+		<TextRegion id="eSc_region_62_0_1206_0_1206_761_62_761" custom="structure {type:text;}">
+			<Coords points="62,0 1206,0 1206,761 62,761"/>
+			<TextLine id="eSc_line_62_0_1206_0_1206_761_62_761" custom="structure {type:default;}">
+				<Coords points="62,0 1206,0 1206,761 62,761"/>
+				<Baseline points="62,761 1206,761"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים חטלטבונות מאוחרים גורי.חייםחטלטבונות מאוחריםבמה קוים לדמוהו,- כנסה הרומאנטיקה,-אהרונה,- נמשורר דאומימעריב.ספרות,ה סיון קטחז 9וו. ובר לט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

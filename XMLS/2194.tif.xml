@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2194.tif">
+		<TextRegion id="eSc_region_868_0_1128_0_1128_67_868_67" custom="structure {type:text;}">
+			<Coords points="868,0 1128,0 1128,67 868,67"/>
+			<TextLine id="eSc_line_868_0_1128_0_1128_67_868_67" custom="structure {type:default;}">
+				<Coords points="868,0 1128,0 1128,67 868,67"/>
+				<Baseline points="868,67 1128,67"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_278_521_992_521_992_732_278_732" custom="structure {type:text;}">
+			<Coords points="278,521 992,521 992,732 278,732"/>
+			<TextLine id="eSc_line_278_521_992_521_992_732_278_732" custom="structure {type:default;}">
+				<Coords points="278,521 992,521 992,732 278,732"/>
+				<Baseline points="278,732 992,732"/>
+				<TextEquiv>
+					<Unicode>יא כסלו השמו,0535!.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_666_218_1026_218_1026_287_666_287" custom="structure {type:text;}">
+			<Coords points="666,218 1026,218 1026,287 666,287"/>
+			<TextLine id="eSc_line_666_218_1026_218_1026_287_666_287" custom="structure {type:default;}">
+				<Coords points="666,218 1026,218 1026,287 666,287"/>
+				<Baseline points="666,287 1026,287"/>
+				<TextEquiv>
+					<Unicode>שרטוס של סתיו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

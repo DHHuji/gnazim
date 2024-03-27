@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0922.tif">
+		<TextRegion id="eSc_region_904_99_1196_99_1196_179_904_179" custom="structure {type:text;}">
+			<Coords points="904,99 1196,99 1196,179 904,179"/>
+			<TextLine id="eSc_line_904_99_1196_99_1196_179_904_179" custom="structure {type:default;}">
+				<Coords points="904,99 1196,99 1196,179 904,179"/>
+				<Baseline points="904,179 1196,179"/>
+				<TextEquiv>
+					<Unicode>י חיים גור ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_274_297_1011_297_1011_470_274_470" custom="structure {type:text;}">
+			<Coords points="274,297 1011,297 1011,470 274,470"/>
+			<TextLine id="eSc_line_274_297_1011_297_1011_470_274_470" custom="structure {type:default;}">
+				<Coords points="274,297 1011,297 1011,470 274,470"/>
+				<Baseline points="274,470 1011,470"/>
+				<TextEquiv>
+					<Unicode>ירושלים ורופי; (פה אופרים?)\ חתום חגי (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_402_627_1065_627_1065_850_402_850" custom="structure {type:text;}">
+			<Coords points="402,627 1065,627 1065,850 402,850"/>
+			<TextLine id="eSc_line_402_627_1065_627_1065_850_402_850" custom="structure {type:default;}">
+				<Coords points="402,627 1065,627 1065,850 402,850"/>
+				<Baseline points="402,850 1065,850"/>
+				<TextEquiv>
+					<Unicode>לפרתכב, 16.10.1961, עפ' א</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

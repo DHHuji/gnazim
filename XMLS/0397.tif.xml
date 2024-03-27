@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0397.tif">
+		<TextRegion id="eSc_region_146_63_1265_63_1265_896_146_896" custom="structure {type:text;}">
+			<Coords points="146,63 1265,63 1265,896 146,896"/>
+			<TextLine id="eSc_line_146_63_1265_63_1265_896_146_896" custom="structure {type:default;}">
+				<Coords points="146,63 1265,63 1265,896 146,896"/>
+				<Baseline points="146,896 1265,896"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים בלילה ] טיר ( גורי, חייםבלילה ] טיר (הדאר,שנה ל א יו יוו ץ ג ,0 כסלו תחטסל&quot;ו,עם 9,סנה 5,ג &quot; ,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

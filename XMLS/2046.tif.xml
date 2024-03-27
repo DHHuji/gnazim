@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2046.tif">
+		<TextRegion id="eSc_region_596_222_1038_222_1038_426_596_426" custom="structure {type:text;}">
+			<Coords points="596,222 1038,222 1038,426 596,426"/>
+			<TextLine id="eSc_line_596_222_1038_222_1038_426_596_426" custom="structure {type:default;}">
+				<Coords points="596,222 1038,222 1038,426 596,426"/>
+				<Baseline points="596,426 1038,426"/>
+				<TextEquiv>
+					<Unicode>שיחה בירוטלים אכרילה המוזוה שיחה בירוטליםאכרילה המוזוהחהום: הגי]וו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_541_535_1133_535_1133_615_541_615" custom="structure {type:text;}">
+			<Coords points="541,535 1133,535 1133,615 541,615"/>
+			<TextLine id="eSc_line_541_535_1133_535_1133_615_541_615" custom="structure {type:default;}">
+				<Coords points="541,535 1133,535 1133,615 541,615"/>
+				<Baseline points="541,615 1133,615"/>
+				<TextEquiv>
+					<Unicode>למרחב, 1.2.1970, עמ* 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

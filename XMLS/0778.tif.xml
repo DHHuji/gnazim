@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0778.tif">
+		<TextRegion id="eSc_region_260_350_1221_350_1221_502_260_502" custom="structure {type:text;}">
+			<Coords points="260,350 1221,350 1221,502 260,502"/>
+			<TextLine id="eSc_line_260_350_1221_350_1221_502_260_502" custom="structure {type:default;}">
+				<Coords points="260,350 1221,350 1221,502 260,502"/>
+				<Baseline points="260,502 1221,502"/>
+				<TextEquiv>
+					<Unicode>הזכנה[ רציםה, מדור: מה אומרים, חתום: ה-ג]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_345_590_1243_590_1243_685_345_685" custom="structure {type:text;}">
+			<Coords points="345,590 1243,590 1243,685 345,685"/>
+			<TextLine id="eSc_line_345_590_1243_590_1243_685_345_685" custom="structure {type:default;}">
+				<Coords points="345,590 1243,590 1243,685 345,685"/>
+				<Baseline points="345,685 1243,685"/>
+				<TextEquiv>
+					<Unicode>1 \
+רבר, סז פבס ת&quot;חל&quot;ד (8.2.74), סמ. 15</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

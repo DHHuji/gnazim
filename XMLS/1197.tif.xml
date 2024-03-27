@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1197.tif">
+		<TextRegion id="eSc_region_843_91_1159_91_1159_165_843_165" custom="structure {type:text;}">
+			<Coords points="843,91 1159,91 1159,165 843,165"/>
+			<TextLine id="eSc_line_843_91_1159_91_1159_165_843_165" custom="structure {type:default;}">
+				<Coords points="843,91 1159,91 1159,165 843,165"/>
+				<Baseline points="843,165 1159,165"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_423_252_879_252_879_394_423_394" custom="structure {type:text;}">
+			<Coords points="423,252 879,252 879,394 423,394"/>
+			<TextLine id="eSc_line_423_252_879_252_879_394_423_394" custom="structure {type:default;}">
+				<Coords points="423,252 879,252 879,394 423,394"/>
+				<Baseline points="423,394 879,394"/>
+				<TextEquiv>
+					<Unicode>מזבח ומסך [מדור:הטבוע, חתום: חגו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_136_259_520_259_520_398_136_398" custom="structure {type:text;}">
+			<Coords points="136,259 520,259 520,398 136,398"/>
+			<TextLine id="eSc_line_136_259_520_259_520_398_136_398" custom="structure {type:default;}">
+				<Coords points="136,259 520,259 520,398 136,398"/>
+				<Baseline points="136,398 520,398"/>
+				<TextEquiv>
+					<Unicode>יוו: רשימות סוף
+תגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0097.tif">
+		<TextRegion id="eSc_region_840_14_1268_14_1268_230_840_230" custom="structure {type:text;}">
+			<Coords points="840,14 1268,14 1268,230 840,230"/>
+			<TextLine id="eSc_line_840_14_1268_14_1268_230_840_230" custom="structure {type:default;}">
+				<Coords points="840,14 1268,14 1268,230 840,230"/>
+				<Baseline points="840,230 1268,230"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים --=- 2-ה גורי, חיים
+--=- 2-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_140_236_1012_236_1012_871_140_871" custom="structure {type:text;}">
+			<Coords points="140,236 1012,236 1012,871 140,871"/>
+			<TextLine id="eSc_line_140_236_1012_236_1012_871_140_871" custom="structure {type:default;}">
+				<Coords points="140,236 1012,236 1012,871 140,871"/>
+				<Baseline points="140,871 1012,871"/>
+				<TextEquiv>
+					<Unicode>&quot;אי-נעימות&quot;(פה אומרים?) חתום הג )למרתב, 9.6.1960, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

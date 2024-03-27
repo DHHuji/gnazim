@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0119.tif">
+		<TextRegion id="eSc_region_978_147_1247_147_1247_228_978_228" custom="structure {type:text;}">
+			<Coords points="978,147 1247,147 1247,228 978,228"/>
+			<TextLine id="eSc_line_978_147_1247_147_1247_228_978_228" custom="structure {type:default;}">
+				<Coords points="978,147 1247,147 1247,228 978,228"/>
+				<Baseline points="978,228 1247,228"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ---+---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_101_274_1079_274_1079_493_101_493" custom="structure {type:text;}">
+			<Coords points="101,274 1079,274 1079,493 101,493"/>
+			<TextLine id="eSc_line_101_274_1079_274_1079_493_101_493" custom="structure {type:default;}">
+				<Coords points="101,274 1079,274 1079,493 101,493"/>
+				<Baseline points="101,493 1079,493"/>
+				<TextEquiv>
+					<Unicode>&quot;אילו הייהת ראש ממשלה(3)אבא אבן: &quot;אני מוכשר יותר להיוה ראש תמפלה מאסרמועספד לראשות הממשלה&quot; - שיחה צ0 הייס גור*</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_465_571_1240_571_1240_822_465_822" custom="structure {type:text;}">
+			<Coords points="465,571 1240,571 1240,822 465,822"/>
+			<TextLine id="eSc_line_465_571_1240_571_1240_822_465_822" custom="structure {type:default;}">
+				<Coords points="465,571 1240,571 1240,822 465,822"/>
+				<Baseline points="465,822 1240,822"/>
+				<TextEquiv>
+					<Unicode>דכר, כח תטרי הס&quot;ס,(19.10.79), למ&quot; 14</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

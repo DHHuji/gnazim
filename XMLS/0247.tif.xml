@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0247.tif">
+		<TextRegion id="eSc_region_918_135_1194_135_1194_199_918_199" custom="structure {type:text;}">
+			<Coords points="918,135 1194,135 1194,199 918,199"/>
+			<TextLine id="eSc_line_918_135_1194_135_1194_199_918_199" custom="structure {type:default;}">
+				<Coords points="918,135 1194,135 1194,199 918,199"/>
+				<Baseline points="918,199 1194,199"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסם ---+-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_473_634_1227_634_1227_698_473_698" custom="structure {type:text;}">
+			<Coords points="473,634 1227,634 1227,698 473,698"/>
+			<TextLine id="eSc_line_473_634_1227_634_1227_698_473_698" custom="structure {type:default;}">
+				<Coords points="473,634 1227,634 1227,698 473,698"/>
+				<Baseline points="473,698 1227,698"/>
+				<TextEquiv>
+					<Unicode>הארץ, כט אלול השל&quot;ו,(24.9.76),עם&quot; 17</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_412_339_944_339_944_399_412_399" custom="structure {type:text;}">
+			<Coords points="412,339 944,339 944,399 412,399"/>
+			<TextLine id="eSc_line_412_339_944_339_944_399_412_399" custom="structure {type:default;}">
+				<Coords points="412,339 944,339 944,399 412,399"/>
+				<Baseline points="412,399 944,399"/>
+				<TextEquiv>
+					<Unicode>אשרי השלמים, אבוי לקרועים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

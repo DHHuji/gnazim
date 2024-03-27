@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0144.tif">
+		<TextRegion id="eSc_region_685_333_890_333_890_389_685_389" custom="structure {type:text;}">
+			<Coords points="685,333 890,333 890,389 685,389"/>
+			<TextLine id="eSc_line_685_333_890_333_890_389_685_389" custom="structure {type:default;}">
+				<Coords points="685,333 890,333 890,389 685,389"/>
+				<Baseline points="685,389 890,389"/>
+				<TextEquiv>
+					<Unicode>אלבר קאמי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_643_632_1158_632_1158_703_643_703" custom="structure {type:text;}">
+			<Coords points="643,632 1158,632 1158,703 643,703"/>
+			<TextLine id="eSc_line_643_632_1158_632_1158_703_643_703" custom="structure {type:default;}">
+				<Coords points="643,632 1158,632 1158,703 643,703"/>
+				<Baseline points="643,703 1158,703"/>
+				<TextEquiv>
+					<Unicode>למרהב, משא, 8.1.60, ע' 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_395_313_676_313_676_418_395_418" custom="structure {type:text;}">
+			<Coords points="395,313 676,313 676,418 395,418"/>
+			<TextLine id="eSc_line_395_313_676_313_676_418_395_418" custom="structure {type:default;}">
+				<Coords points="395,313 676,313 676,418 395,418"/>
+				<Baseline points="395,418 676,418"/>
+				<TextEquiv>
+					<Unicode>(החוס: 9-ג-)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

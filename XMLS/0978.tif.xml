@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0978.tif">
+		<TextRegion id="eSc_region_852_99_1121_99_1121_172_852_172" custom="structure {type:text;}">
+			<Coords points="852,99 1121,99 1121,172 852,172"/>
+			<TextLine id="eSc_line_852_99_1121_99_1121_172_852_172" custom="structure {type:default;}">
+				<Coords points="852,99 1121,99 1121,172 852,172"/>
+				<Baseline points="852,172 1121,172"/>
+				<TextEquiv>
+					<Unicode>גורי, היים 1-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_19_216_961_216_961_304_19_304" custom="structure {type:text;}">
+			<Coords points="19,216 961,216 961,304 19,304"/>
+			<TextLine id="eSc_line_19_216_961_216_961_304_19_304" custom="structure {type:default;}">
+				<Coords points="19,216 961,216 961,304 19,304"/>
+				<Baseline points="19,304 961,304"/>
+				<TextEquiv>
+					<Unicode>&quot;כי יש עת לסחול&quot; [אות לאות] [ההום: ה.ג. ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_334_351_1117_351_1117_432_334_432" custom="structure {type:text;}">
+			<Coords points="334,351 1117,351 1117,432 334,432"/>
+			<TextLine id="eSc_line_334_351_1117_351_1117_432_334_432" custom="structure {type:default;}">
+				<Coords points="334,351 1117,351 1117,432 334,432"/>
+				<Baseline points="334,432 1117,432"/>
+				<TextEquiv>
+					<Unicode>ם' !1
+8, ע
+ופ8.9.
+353, תשי&quot;א,
+ל
+משא, ג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1861.tif">
+		<TextRegion id="eSc_region_851_79_1187_79_1187_168_851_168" custom="structure {type:text;}">
+			<Coords points="851,79 1187,79 1187,168 851,168"/>
+			<TextLine id="eSc_line_851_79_1187_79_1187_168_851_168" custom="structure {type:default;}">
+				<Coords points="851,79 1187,79 1187,168 851,168"/>
+				<Baseline points="851,168 1187,168"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_93_365_923_365_923_453_93_453" custom="structure {type:text;}">
+			<Coords points="93,365 923,365 923,453 93,453"/>
+			<TextLine id="eSc_line_93_365_923_365_923_453_93_453" custom="structure {type:default;}">
+				<Coords points="93,365 923,365 923,453 93,453"/>
+				<Baseline points="93,453 923,453"/>
+				<TextEquiv>
+					<Unicode>&quot;הצוו המוהלס&quot; (סול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_301_591_949_591_949_678_301_678" custom="structure {type:text;}">
+			<Coords points="301,591 949,591 949,678 301,678"/>
+			<TextLine id="eSc_line_301_591_949_591_949_678_301_678" custom="structure {type:default;}">
+				<Coords points="301,591 949,591 949,678 301,678"/>
+				<Baseline points="301,678 949,678"/>
+				<TextEquiv>
+					<Unicode>לפרחתב, 213.7.1961, עם' 9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

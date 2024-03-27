@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0667.tif">
+		<TextRegion id="eSc_region_887_83_1146_83_1146_148_887_148" custom="structure {type:text;}">
+			<Coords points="887,83 1146,83 1146,148 887,148"/>
+			<TextLine id="eSc_line_887_83_1146_83_1146_148_887_148" custom="structure {type:default;}">
+				<Coords points="887,83 1146,83 1146,148 887,148"/>
+				<Baseline points="887,148 1146,148"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים -7--2----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_43_238_933_238_933_392_43_392" custom="structure {type:text;}">
+			<Coords points="43,238 933,238 933,392 43,392"/>
+			<TextLine id="eSc_line_43_238_933_238_933_392_43_392" custom="structure {type:default;}">
+				<Coords points="43,238 933,238 933,392 43,392"/>
+				<Baseline points="43,392 933,392"/>
+				<TextEquiv>
+					<Unicode>הייתי סוםק רגליים בוכות(היים גורי בסיחה גלויית-לב עם אברהס שטלונסקיסנפסר השבו?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_16_611_995_611_995_682_16_682" custom="structure {type:text;}">
+			<Coords points="16,611 995,611 995,682 16,682"/>
+			<TextLine id="eSc_line_16_611_995_611_995_682_16_682" custom="structure {type:default;}">
+				<Coords points="16,611 995,611 995,682 16,682"/>
+				<Baseline points="16,682 995,682"/>
+				<TextEquiv>
+					<Unicode>במתחנה, גל 26,כא אייר תשל&quot;ג, 23,5,1973, עמ 20,14</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

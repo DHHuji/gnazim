@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0513.tif">
+		<TextRegion id="eSc_region_926_98_1227_98_1227_180_926_180" custom="structure {type:text;}">
+			<Coords points="926,98 1227,98 1227,180 926,180"/>
+			<TextLine id="eSc_line_926_98_1227_98_1227_180_926_180" custom="structure {type:default;}">
+				<Coords points="926,98 1227,98 1227,180 926,180"/>
+				<Baseline points="926,180 1227,180"/>
+				<TextEquiv>
+					<Unicode>גורי חיים #NAME?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_63_260_1146_260_1146_483_63_483" custom="structure {type:text;}">
+			<Coords points="63,260 1146,260 1146,483 63,483"/>
+			<TextLine id="eSc_line_63_260_1146_260_1146_483_63_483" custom="structure {type:default;}">
+				<Coords points="63,260 1146,260 1146,483 63,483"/>
+				<Baseline points="63,483 1146,483"/>
+				<TextEquiv>
+					<Unicode>. ןהגינוי [גינוי אגודת הסופרים את דן מייון!ך . .. י.- יוסיפון .-סונטה | מדור: מה גאומוים,חהום: ה-גי|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_647_614_1197_614_1197_708_647_708" custom="structure {type:text;}">
+			<Coords points="647,614 1197,614 1197,708 647,708"/>
+			<TextLine id="eSc_line_647_614_1197_614_1197_708_647_708" custom="structure {type:default;}">
+				<Coords points="647,614 1197,614 1197,708 647,708"/>
+				<Baseline points="647,708 1197,708"/>
+				<TextEquiv>
+					<Unicode>דבר, 21.10.71, עמי 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

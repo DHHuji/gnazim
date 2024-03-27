@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2277.tif">
+		<TextRegion id="eSc_region_0_0_1222_0_1222_735_0_735" custom="structure {type:text;}">
+			<Coords points="0,0 1222,0 1222,735 0,735"/>
+			<TextLine id="eSc_line_0_0_1222_0_1222_735_0_735" custom="structure {type:default;}">
+				<Coords points="0,0 1222,0 1222,735 0,735"/>
+				<Baseline points="0,735 1222,735"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים, עוזר יוסף הנה מוסלות טליתותינו גורי,חיים, עוזר יוסףהנה מוסלות טליתותינויוסף עוזר משורר סחזר בתצטובר, בטיחוהת מפגלצ עםחייס גוריאפיריון,ג&quot;79!6! הורף1990.1959 עמ9-7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1098.tif">
+		<TextRegion id="eSc_region_968_68_1202_68_1202_130_968_130" custom="structure {type:text;}">
+			<Coords points="968,68 1202,68 1202,130 968,130"/>
+			<TextLine id="eSc_line_968_68_1202_68_1202_130_968_130" custom="structure {type:default;}">
+				<Coords points="968,68 1202,68 1202,130 968,130"/>
+				<Baseline points="968,130 1202,130"/>
+				<TextEquiv>
+					<Unicode>גורי חיים |-------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_452_340_958_340_958_475_452_475" custom="structure {type:text;}">
+			<Coords points="452,340 958,340 958,475 452,475"/>
+			<TextLine id="eSc_line_452_340_958_340_958_475_452_475" custom="structure {type:default;}">
+				<Coords points="452,340 958,340 958,475 452,475"/>
+				<Baseline points="452,475 958,475"/>
+				<TextEquiv>
+					<Unicode>לילו הארוך של רקונגרס(מה אומרים?, חחום: 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_725_663_1155_663_1155_742_725_742" custom="structure {type:text;}">
+			<Coords points="725,663 1155,663 1155,742 725,742"/>
+			<TextLine id="eSc_line_725_663_1155_663_1155_742_725_742" custom="structure {type:default;}">
+				<Coords points="725,663 1155,663 1155,742 725,742"/>
+				<Baseline points="725,742 1155,742"/>
+				<TextEquiv>
+					<Unicode>למרטכי %סנו.2ו, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

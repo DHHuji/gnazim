@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1693.tif">
+		<TextRegion id="eSc_region_872_84_1143_84_1143_157_872_157" custom="structure {type:text;}">
+			<Coords points="872,84 1143,84 1143,157 872,157"/>
+			<TextLine id="eSc_line_872_84_1143_84_1143_157_872_157" custom="structure {type:default;}">
+				<Coords points="872,84 1143,84 1143,157 872,157"/>
+				<Baseline points="872,157 1143,157"/>
+				<TextEquiv>
+					<Unicode>גורי, היים =--1 ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_81_201_1091_201_1091_288_81_288" custom="structure {type:text;}">
+			<Coords points="81,201 1091,201 1091,288 81,288"/>
+			<TextLine id="eSc_line_81_201_1091_201_1091_288_81_288" custom="structure {type:default;}">
+				<Coords points="81,201 1091,201 1091,288 81,288"/>
+				<Baseline points="81,288 1091,288"/>
+				<TextEquiv>
+					<Unicode>פל השיר והמפפס (סכתב לםערכת) [על משפם פראג]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_418_336_1138_336_1138_461_418_461" custom="structure {type:text;}">
+			<Coords points="418,336 1138,336 1138,461 418,461"/>
+			<TextLine id="eSc_line_418_336_1138_336_1138_461_418_461" custom="structure {type:default;}">
+				<Coords points="418,336 1138,336 1138,461 418,461"/>
+				<Baseline points="418,461 1138,461"/>
+				<TextEquiv>
+					<Unicode>סשא, גליון 36, תפי&quot;ג, עם' 2, 8
+3 9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

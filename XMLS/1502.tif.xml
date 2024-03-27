@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1502.tif">
+		<TextRegion id="eSc_region_380_367_937_367_937_498_380_498" custom="structure {type:text;}">
+			<Coords points="380,367 937,367 937,498 380,498"/>
+			<TextLine id="eSc_line_380_367_937_367_937_498_380_498" custom="structure {type:default;}">
+				<Coords points="380,367 937,367 937,498 380,498"/>
+				<Baseline points="380,498 937,498"/>
+				<TextEquiv>
+					<Unicode>סונסר על אפה של קליאופסרה(סה אומרים?, חתום: ג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_571_660_1116_660_1116_832_571_832" custom="structure {type:text;}">
+			<Coords points="571,660 1116,660 1116,832 571,832"/>
+			<TextLine id="eSc_line_571_660_1116_660_1116_832_571_832" custom="structure {type:default;}">
+				<Coords points="571,660 1116,660 1116,832 571,832"/>
+				<Baseline points="571,832 1116,832"/>
+				<TextEquiv>
+					<Unicode>למרחב, (7.8.60ו, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

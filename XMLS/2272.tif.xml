@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2272.tif">
+		<TextRegion id="eSc_region_811_0_1142_0_1142_88_811_88" custom="structure {type:text;}">
+			<Coords points="811,0 1142,0 1142,88 811,88"/>
+			<TextLine id="eSc_line_811_0_1142_0_1142_88_811_88" custom="structure {type:default;}">
+				<Coords points="811,0 1142,0 1142,88 811,88"/>
+				<Baseline points="811,88 1142,88"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 1-0 ------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_608_201_988_201_988_348_608_348" custom="structure {type:text;}">
+			<Coords points="608,201 988,201 988,348 608,348"/>
+			<TextLine id="eSc_line_608_201_988_201_988_348_608_348" custom="structure {type:default;}">
+				<Coords points="608,201 988,201 988,348 608,348"/>
+				<Baseline points="608,348 988,348"/>
+				<TextEquiv>
+					<Unicode>תס&quot;ת - תשט&quot;ז(פה אומרים?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_131_527_778_527_778_614_131_614" custom="structure {type:text;}">
+			<Coords points="131,527 778,527 778,614 131,614"/>
+			<TextLine id="eSc_line_131_527_778_527_778_614_131_614" custom="structure {type:default;}">
+				<Coords points="131,527 778,527 778,614 131,614"/>
+				<Baseline points="131,614 778,614"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 16.4.1956, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

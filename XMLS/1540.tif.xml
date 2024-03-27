@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1540.tif">
+		<TextRegion id="eSc_region_765_71_1117_71_1117_149_765_149" custom="structure {type:text;}">
+			<Coords points="765,71 1117,71 1117,149 765,149"/>
+			<TextLine id="eSc_line_765_71_1117_71_1117_149_765_149" custom="structure {type:default;}">
+				<Coords points="765,71 1117,71 1117,149 765,149"/>
+				<Baseline points="765,149 1117,149"/>
+				<TextEquiv>
+					<Unicode>גורי חיים == .החדה גורי חיים
+== .החדה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_137_289_796_289_796_469_137_469" custom="structure {type:text;}">
+			<Coords points="137,289 796,289 796,469 137,469"/>
+			<TextLine id="eSc_line_137_289_796_289_796_469_137_469" custom="structure {type:default;}">
+				<Coords points="137,289 796,289 796,469 137,469"/>
+				<Baseline points="137,469 796,469"/>
+				<TextEquiv>
+					<Unicode>ספור עד 40 (מה אומרים)| חתום פגי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0500.tif">
+		<TextRegion id="eSc_region_960_134_1204_134_1204_206_960_206" custom="structure {type:text;}">
+			<Coords points="960,134 1204,134 1204,206 960,206"/>
+			<TextLine id="eSc_line_960_134_1204_134_1204_206_960_206" custom="structure {type:default;}">
+				<Coords points="960,134 1204,134 1204,206 960,206"/>
+				<Baseline points="960,206 1204,206"/>
+				<TextEquiv>
+					<Unicode>גורי,דריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_392_383_902_383_902_514_392_514" custom="structure {type:text;}">
+			<Coords points="392,383 902,383 902,514 392,514"/>
+			<TextLine id="eSc_line_392_383_902_383_902_514_392_514" custom="structure {type:default;}">
+				<Coords points="392,383 902,383 902,514 392,514"/>
+				<Baseline points="392,514 902,514"/>
+				<TextEquiv>
+					<Unicode>&quot;רגבורים וראודיריב&quot;[כר אופרים,ר ום:חגי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_778_642_1267_642_1267_713_778_713" custom="structure {type:text;}">
+			<Coords points="778,642 1267,642 1267,713 778,713"/>
+			<TextLine id="eSc_line_778_642_1267_642_1267_713_778_713" custom="structure {type:default;}">
+				<Coords points="778,642 1267,642 1267,713 778,713"/>
+				<Baseline points="778,713 1267,713"/>
+				<TextEquiv>
+					<Unicode>ללרהב,1..1759,טכ. 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1839.tif">
+		<TextRegion id="eSc_region_941_94_1243_94_1243_178_941_178" custom="structure {type:text;}">
+			<Coords points="941,94 1243,94 1243,178 941,178"/>
+			<TextLine id="eSc_line_941_94_1243_94_1243_178_941_178" custom="structure {type:default;}">
+				<Coords points="941,94 1243,94 1243,178 941,178"/>
+				<Baseline points="941,178 1243,178"/>
+				<TextEquiv>
+					<Unicode>גורי חיים דיה .==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_286_237_1088_237_1088_396_286_396" custom="structure {type:text;}">
+			<Coords points="286,237 1088,237 1088,396 286,396"/>
+			<TextLine id="eSc_line_286_237_1088_237_1088_396_286_396" custom="structure {type:default;}">
+				<Coords points="286,237 1088,237 1088,396 286,396"/>
+				<Baseline points="286,396 1088,396"/>
+				<TextEquiv>
+					<Unicode>פרידמן או &quot;שיטת הדחילק&quot;[מדור: מה אומרים?, חתום: חהגי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_563_584_1214_584_1214_673_563_673" custom="structure {type:text;}">
+			<Coords points="563,584 1214,584 1214,673 563,673"/>
+			<TextLine id="eSc_line_563_584_1214_584_1214_673_563_673" custom="structure {type:default;}">
+				<Coords points="563,584 1214,584 1214,673 563,673"/>
+				<Baseline points="563,673 1214,673"/>
+				<TextEquiv>
+					<Unicode>למרחב, 19.12.1969, עקמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

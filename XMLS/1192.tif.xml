@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1192.tif">
+		<TextRegion id="eSc_region_958_149_1195_149_1195_221_958_221" custom="structure {type:text;}">
+			<Coords points="958,149 1195,149 1195,221 958,221"/>
+			<TextLine id="eSc_line_958_149_1195_149_1195_221_958_221" custom="structure {type:default;}">
+				<Coords points="958,149 1195,149 1195,221 958,221"/>
+				<Baseline points="958,221 1195,221"/>
+				<TextEquiv>
+					<Unicode>הורר,פיים הורר,פיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_317_362_1008_362_1008_490_317_490" custom="structure {type:text;}">
+			<Coords points="317,362 1008,362 1008,490 317,490"/>
+			<TextLine id="eSc_line_317_362_1008_362_1008_490_317_490" custom="structure {type:default;}">
+				<Coords points="317,362 1008,362 1008,490 317,490"/>
+				<Baseline points="317,490 1008,490"/>
+				<TextEquiv>
+					<Unicode>בווולוג, ולרבדיל - דיאלוג[פרכיכ.ה כוף דבבופ,ר ו0: הגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

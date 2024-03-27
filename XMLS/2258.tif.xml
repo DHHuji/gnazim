@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2258.tif">
+		<TextRegion id="eSc_region_960_88_1196_88_1196_152_960_152" custom="structure {type:text;}">
+			<Coords points="960,88 1196,88 1196,152 960,152"/>
+			<TextLine id="eSc_line_960_88_1196_88_1196_152_960_152" custom="structure {type:default;}">
+				<Coords points="960,88 1196,88 1196,152 960,152"/>
+				<Baseline points="960,152 1196,152"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס -ר*-- = גורי, חייס
+-ר*-- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_162_582_1168_582_1168_650_162_650" custom="structure {type:text;}">
+			<Coords points="162,582 1168,582 1168,650 162,650"/>
+			<TextLine id="eSc_line_162_582_1168_582_1168_650_162_650" custom="structure {type:default;}">
+				<Coords points="162,582 1168,582 1168,650 162,650"/>
+				<Baseline points="162,650 1168,650"/>
+				<TextEquiv>
+					<Unicode>היים אהל, שער לשירה הצקירה, ת&quot;א תשל&quot;ג, עם&quot; 53/48</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

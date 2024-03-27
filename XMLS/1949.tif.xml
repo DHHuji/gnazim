@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1949.tif">
+		<TextRegion id="eSc_region_929_104_1241_104_1241_179_929_179" custom="structure {type:text;}">
+			<Coords points="929,104 1241,104 1241,179 929,179"/>
+			<TextLine id="eSc_line_929_104_1241_104_1241_179_929_179" custom="structure {type:default;}">
+				<Coords points="929,104 1241,104 1241,179 929,179"/>
+				<Baseline points="929,179 1241,179"/>
+				<TextEquiv>
+					<Unicode>גווי חיים 05-פבר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_61_591_1235_591_1235_670_61_670" custom="structure {type:text;}">
+			<Coords points="61,591 1235,591 1235,670 61,670"/>
+			<TextLine id="eSc_line_61_591_1235_591_1235_670_61_670" custom="structure {type:default;}">
+				<Coords points="61,591 1235,591 1235,670 61,670"/>
+				<Baseline points="61,670 1235,670"/>
+				<TextEquiv>
+					<Unicode>בור .למוחב,משא לספרות, אכפנות ובקורת, 9.9.1909ו1,עמ' ב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_469_289_1135_289_1135_364_469_364" custom="structure {type:text;}">
+			<Coords points="469,289 1135,289 1135,364 469,364"/>
+			<TextLine id="eSc_line_469_289_1135_289_1135_364_469_364" custom="structure {type:default;}">
+				<Coords points="469,289 1135,289 1135,364 469,364"/>
+				<Baseline points="469,364 1135,364"/>
+				<TextEquiv>
+					<Unicode>ראשי פרקים לרשימה עתונאית</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

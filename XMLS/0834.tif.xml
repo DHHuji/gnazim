@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0834.tif">
+		<TextRegion id="eSc_region_906_119_1162_119_1162_185_906_185" custom="structure {type:text;}">
+			<Coords points="906,119 1162,119 1162,185 906,185"/>
+			<TextLine id="eSc_line_906_119_1162_119_1162_185_906_185" custom="structure {type:default;}">
+				<Coords points="906,119 1162,119 1162,185 906,185"/>
+				<Baseline points="906,185 1162,185"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים -1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_478_643_1113_643_1113_822_478_822" custom="structure {type:text;}">
+			<Coords points="478,643 1113,643 1113,822 478,822"/>
+			<TextLine id="eSc_line_478_643_1113_643_1113_822_478_822" custom="structure {type:default;}">
+				<Coords points="478,643 1113,643 1113,822 478,822"/>
+				<Baseline points="478,822 1113,822"/>
+				<TextEquiv>
+					<Unicode>טשדפות, גל (ב, סתיו תשל&quot;ר, עפ 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_261_298_805_298_805_416_261_416" custom="structure {type:text;}">
+			<Coords points="261,298 805,298 805,416 261,416"/>
+			<TextLine id="eSc_line_261_298_805_298_805_416_261_416" custom="structure {type:default;}">
+				<Coords points="261,298 805,298 805,416 261,416"/>
+				<Baseline points="261,416 805,416"/>
+				<TextEquiv>
+					<Unicode>( ראת אור &quot;דבר&quot; 10.8.73 \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

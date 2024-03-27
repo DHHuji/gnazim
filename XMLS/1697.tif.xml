@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1697.tif">
+		<TextRegion id="eSc_region_958_133_1192_133_1192_205_958_205" custom="structure {type:text;}">
+			<Coords points="958,133 1192,133 1192,205 958,205"/>
+			<TextLine id="eSc_line_958_133_1192_133_1192_205_958_205" custom="structure {type:default;}">
+				<Coords points="958,133 1192,133 1192,205 958,205"/>
+				<Baseline points="958,205 1192,205"/>
+				<TextEquiv>
+					<Unicode>ב יי גורין רייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_670_356_1030_356_1030_503_670_503" custom="structure {type:text;}">
+			<Coords points="670,356 1030,356 1030,503 670,503"/>
+			<TextLine id="eSc_line_670_356_1030_356_1030_503_670_503" custom="structure {type:default;}">
+				<Coords points="670,356 1030,356 1030,503 670,503"/>
+				<Baseline points="670,503 1030,503"/>
+				<TextEquiv>
+					<Unicode>על השמחה והמסורתַָ &lt; 5 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_444_624_906_624_906_697_444_697" custom="structure {type:text;}">
+			<Coords points="444,624 906,624 906,697 444,697"/>
+			<TextLine id="eSc_line_444_624_906_624_906_697_444_697" custom="structure {type:default;}">
+				<Coords points="444,624 906,624 906,697 444,697"/>
+				<Baseline points="444,697 906,697"/>
+				<TextEquiv>
+					<Unicode>דבר, 13.8,1954, עמ&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

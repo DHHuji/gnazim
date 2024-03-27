@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1524.tif">
+		<TextRegion id="eSc_region_852_49_1140_49_1140_120_852_120" custom="structure {type:text;}">
+			<Coords points="852,49 1140,49 1140,120 852,120"/>
+			<TextLine id="eSc_line_852_49_1140_49_1140_120_852_120" custom="structure {type:default;}">
+				<Coords points="852,49 1140,49 1140,120 852,120"/>
+				<Baseline points="852,120 1140,120"/>
+				<TextEquiv>
+					<Unicode>, ס גורי היי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_513_248_793_248_793_383_513_383" custom="structure {type:text;}">
+			<Coords points="513,248 793,248 793,383 513,383"/>
+			<TextLine id="eSc_line_513_248_793_248_793_383_513_383" custom="structure {type:default;}">
+				<Coords points="513,248 793,248 793,383 513,383"/>
+				<Baseline points="513,383 793,383"/>
+				<TextEquiv>
+					<Unicode>וניה הבלתיאופרים?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_668_254_928_254_928_377_668_377" custom="structure {type:text;}">
+			<Coords points="668,254 928,254 928,377 668,377"/>
+			<TextLine id="eSc_line_668_254_928_254_928_377_668_377" custom="structure {type:default;}">
+				<Coords points="668,254 928,254 928,377 668,377"/>
+				<Baseline points="668,377 928,377"/>
+				<TextEquiv>
+					<Unicode>הסיספוניה
+(פה אוסר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

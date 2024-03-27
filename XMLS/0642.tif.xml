@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0642.tif">
+		<TextRegion id="eSc_region_234_0_1217_0_1217_761_234_761" custom="structure {type:text;}">
+			<Coords points="234,0 1217,0 1217,761 234,761"/>
+			<TextLine id="eSc_line_234_0_1217_0_1217_761_234_761" custom="structure {type:default;}">
+				<Coords points="234,0 1217,0 1217,761 234,761"/>
+				<Baseline points="234,761 1217,761"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים רוי,אהבת ארץ- ישראל גורי.חייםרוי,אהבת ארץ- ישראלדבר.ח אלול תסמו086ו2,0,1ועמ 16</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0076.tif">
+		<TextRegion id="eSc_region_878_57_1123_57_1123_135_878_135" custom="structure {type:text;}">
+			<Coords points="878,57 1123,57 1123,135 878,135"/>
+			<TextLine id="eSc_line_878_57_1123_57_1123_135_878_135" custom="structure {type:default;}">
+				<Coords points="878,57 1123,57 1123,135 878,135"/>
+				<Baseline points="878,135 1123,135"/>
+				<TextEquiv>
+					<Unicode>גורי היים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_35_332_919_332_919_448_35_448" custom="structure {type:text;}">
+			<Coords points="35,332 919,332 919,448 35,448"/>
+			<TextLine id="eSc_line_35_332_919_332_919_448_35_448" custom="structure {type:default;}">
+				<Coords points="35,332 919,332 919,448 35,448"/>
+				<Baseline points="35,448 919,448"/>
+				<TextEquiv>
+					<Unicode>אזררר , - הנאשפת ב אומרים?, חתום: הג</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_541_631_1118_631_1118_837_541_837" custom="structure {type:text;}">
+			<Coords points="541,631 1118,631 1118,837 541,837"/>
+			<TextLine id="eSc_line_541_631_1118_631_1118_837_541_837" custom="structure {type:default;}">
+				<Coords points="541,631 1118,631 1118,837 541,837"/>
+				<Baseline points="541,837 1118,837"/>
+				<TextEquiv>
+					<Unicode>למרחב, !10.1.6, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1564.tif">
+		<TextRegion id="eSc_region_924_65_1172_65_1172_126_924_126" custom="structure {type:text;}">
+			<Coords points="924,65 1172,65 1172,126 924,126"/>
+			<TextLine id="eSc_line_924_65_1172_65_1172_126_924_126" custom="structure {type:default;}">
+				<Coords points="924,65 1172,65 1172,126 924,126"/>
+				<Baseline points="924,126 1172,126"/>
+				<TextEquiv>
+					<Unicode>גורי תחיים -=-ה-----. גורי תחיים
+-=-ה-----.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_433_343_950_343_950_395_433_395" custom="structure {type:text;}">
+			<Coords points="433,343 950,343 950,395 433,395"/>
+			<TextLine id="eSc_line_433_343_950_343_950_395_433_395" custom="structure {type:default;}">
+				<Coords points="433,343 950,343 950,395 433,395"/>
+				<Baseline points="433,395 950,395"/>
+				<TextEquiv>
+					<Unicode>עבר והווה - וכסיור בניידת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

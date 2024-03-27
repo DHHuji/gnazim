@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1167.tif">
+		<TextRegion id="eSc_region_866_87_1149_87_1149_164_866_164" custom="structure {type:text;}">
+			<Coords points="866,87 1149,87 1149,164 866,164"/>
+			<TextLine id="eSc_line_866_87_1149_87_1149_164_866_164" custom="structure {type:default;}">
+				<Coords points="866,87 1149,87 1149,164 866,164"/>
+				<Baseline points="866,164 1149,164"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים אפר-72</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_74_255_1072_255_1072_476_74_476" custom="structure {type:text;}">
+			<Coords points="74,255 1072,255 1072,476 74,476"/>
+			<TextLine id="eSc_line_74_255_1072_255_1072_476_74_476" custom="structure {type:default;}">
+				<Coords points="74,255 1072,255 1072,476 74,476"/>
+				<Baseline points="74,476 1072,476"/>
+				<TextEquiv>
+					<Unicode>| - סו 8 י :ו ם יסועל המפגס ין ה כוי היו דיי וו פרים: חגיהצובים, ‏ חרום (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_569_1139_569_1139_654_0_654" custom="structure {type:text;}">
+			<Coords points="0,569 1139,569 1139,654 0,654"/>
+			<TextLine id="eSc_line_0_569_1139_569_1139_654_0_654" custom="structure {type:default;}">
+				<Coords points="0,569 1139,569 1139,654 0,654"/>
+				<Baseline points="0,654 1139,654"/>
+				<TextEquiv>
+					<Unicode>למרחב, משא לספרות,אמנות ובקווה, לסל!.19.12,עמ' :</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

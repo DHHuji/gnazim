@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2127.tif">
+		<TextRegion id="eSc_region_896_28_1181_28_1181_117_896_117" custom="structure {type:text;}">
+			<Coords points="896,28 1181,28 1181,117 896,117"/>
+			<TextLine id="eSc_line_896_28_1181_28_1181_117_896_117" custom="structure {type:default;}">
+				<Coords points="896,28 1181,28 1181,117 896,117"/>
+				<Baseline points="896,117 1181,117"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים == גורי, חיים
+==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_4_157_1274_157_1274_427_4_427" custom="structure {type:text;}">
+			<Coords points="4,157 1274,157 1274,427 4,427"/>
+			<TextLine id="eSc_line_4_157_1274_157_1274_427_4_427" custom="structure {type:default;}">
+				<Coords points="4,157 1274,157 1274,427 4,427"/>
+				<Baseline points="4,427 1274,427"/>
+				<TextEquiv>
+					<Unicode>ושה סירים רשוסים על-פי הזכרוןלכ 5 ב 2 -או)צימשא, גליון 50-49, תשי&quot;ג, עם' 4בת + 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

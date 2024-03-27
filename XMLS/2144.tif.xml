@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2144.tif">
+		<TextRegion id="eSc_region_966_100_1256_100_1256_174_966_174" custom="structure {type:text;}">
+			<Coords points="966,100 1256,100 1256,174 966,174"/>
+			<TextLine id="eSc_line_966_100_1256_100_1256_174_966_174" custom="structure {type:default;}">
+				<Coords points="966,100 1256,100 1256,174 966,174"/>
+				<Baseline points="966,174 1256,174"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_47_613_1227_613_1227_694_47_694" custom="structure {type:text;}">
+			<Coords points="47,613 1227,613 1227,694 47,694"/>
+			<TextLine id="eSc_line_47_613_1227_613_1227_694_47_694" custom="structure {type:default;}">
+				<Coords points="47,613 1227,613 1227,694 47,694"/>
+				<Baseline points="47,694 1227,694"/>
+				<TextEquiv>
+					<Unicode>הדואר,סנה 50,חטון תשל&quot;ב,אוק.ו7,תוב'מ&quot;א,עכ'750</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_536_264_1148_264_1148_412_536_412" custom="structure {type:text;}">
+			<Coords points="536,264 1148,264 1148,412 536,412"/>
+			<TextLine id="eSc_line_536_264_1148_264_1148_412_536_412" custom="structure {type:default;}">
+				<Coords points="536,264 1148,264 1148,412 536,412"/>
+				<Baseline points="536,412 1148,412"/>
+				<TextEquiv>
+					<Unicode>5 שנים לדוד בן-גוויון
+
+[לסעים!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

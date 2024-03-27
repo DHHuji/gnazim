@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0282.tif">
+		<TextRegion id="eSc_region_925_80_1239_80_1239_180_925_180" custom="structure {type:text;}">
+			<Coords points="925,80 1239,80 1239,180 925,180"/>
+			<TextLine id="eSc_line_925_80_1239_80_1239_180_925_180" custom="structure {type:default;}">
+				<Coords points="925,80 1239,80 1239,180 925,180"/>
+				<Baseline points="925,180 1239,180"/>
+				<TextEquiv>
+					<Unicode>גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_12_243_1106_243_1106_353_12_353" custom="structure {type:text;}">
+			<Coords points="12,243 1106,243 1106,353 12,353"/>
+			<TextLine id="eSc_line_12_243_1106_243_1106_353_12_353" custom="structure {type:default;}">
+				<Coords points="12,243 1106,243 1106,353 12,353"/>
+				<Baseline points="12,353 1106,353"/>
+				<TextEquiv>
+					<Unicode>בדוך אל יעקב [ספור, מתוך &quot;הספר המטוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_547_588_1210_588_1210_845_547_845" custom="structure {type:text;}">
+			<Coords points="547,588 1210,588 1210,845 547,845"/>
+			<TextLine id="eSc_line_547_588_1210_588_1210_845_547_845" custom="structure {type:default;}">
+				<Coords points="547,588 1210,588 1210,845 547,845"/>
+				<Baseline points="547,845 1210,845"/>
+				<TextEquiv>
+					<Unicode>מעריב, 31.1.1969, צלמ' 18</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

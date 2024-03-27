@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1965.tif">
+		<TextRegion id="eSc_region_894_100_1195_100_1195_186_894_186" custom="structure {type:text;}">
+			<Coords points="894,100 1195,100 1195,186 894,186"/>
+			<TextLine id="eSc_line_894_100_1195_100_1195_186_894_186" custom="structure {type:default;}">
+				<Coords points="894,100 1195,100 1195,186 894,186"/>
+				<Baseline points="894,186 1195,186"/>
+				<TextEquiv>
+					<Unicode>גורי,. חיים 2-ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_17_563_1236_563_1236_653_17_653" custom="structure {type:text;}">
+			<Coords points="17,563 1236,563 1236,653 17,653"/>
+			<TextLine id="eSc_line_17_563_1236_563_1236_653_17_653" custom="structure {type:default;}">
+				<Coords points="17,563 1236,563 1236,653 17,653"/>
+				<Baseline points="17,653 1236,653"/>
+				<TextEquiv>
+					<Unicode>ידיצעות אחרונות, ספרות ואמנות, 6.9.1968, עמ' ו2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_176_297_934_297_934_458_176_458" custom="structure {type:text;}">
+			<Coords points="176,297 934,297 934,458 176,458"/>
+			<TextLine id="eSc_line_176_297_934_297_934_458_176_458" custom="structure {type:default;}">
+				<Coords points="176,297 934,297 934,458 176,458"/>
+				<Baseline points="176,458 934,458"/>
+				<TextEquiv>
+					<Unicode>ריח המולדת [ספור מתוך &quot;דפים
+יוושלמיים&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

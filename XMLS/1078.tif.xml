@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1078.tif">
+		<TextRegion id="eSc_region_844_80_1179_80_1179_167_844_167" custom="structure {type:text;}">
+			<Coords points="844,80 1179,80 1179,167 844,167"/>
+			<TextLine id="eSc_line_844_80_1179_80_1179_167_844_167" custom="structure {type:default;}">
+				<Coords points="844,80 1179,80 1179,167 844,167"/>
+				<Baseline points="844,167 1179,167"/>
+				<TextEquiv>
+					<Unicode>גורי החיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_182_301_887_301_887_484_182_484" custom="structure {type:text;}">
+			<Coords points="182,301 887,301 887,484 182,484"/>
+			<TextLine id="eSc_line_182_301_887_301_887_484_182_484" custom="structure {type:default;}">
+				<Coords points="182,301 887,301 887,484 182,484"/>
+				<Baseline points="182,484 887,484"/>
+				<TextEquiv>
+					<Unicode>לוסי, איקימו וה- 198 0 00.(פה גומרים?) ( חתוס הגי \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_478_609_913_609_913_694_478_694" custom="structure {type:text;}">
+			<Coords points="478,609 913,609 913,694 478,694"/>
+			<TextLine id="eSc_line_478_609_913_609_913_694_478_694" custom="structure {type:default;}">
+				<Coords points="478,609 913,609 913,694 478,694"/>
+				<Baseline points="478,694 913,694"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 8.3.1956</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

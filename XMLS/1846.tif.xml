@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1846.tif">
+		<TextRegion id="eSc_region_935_129_1162_129_1162_193_935_193" custom="structure {type:text;}">
+			<Coords points="935,129 1162,129 1162,193 935,193"/>
+			<TextLine id="eSc_line_935_129_1162_129_1162_193_935_193" custom="structure {type:default;}">
+				<Coords points="935,129 1162,129 1162,193 935,193"/>
+				<Baseline points="935,193 1162,193"/>
+				<TextEquiv>
+					<Unicode>ורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_278_549_1241_549_1241_633_278_633" custom="structure {type:text;}">
+			<Coords points="278,549 1241,549 1241,633 278,633"/>
+			<TextLine id="eSc_line_278_549_1241_549_1241_633_278_633" custom="structure {type:default;}">
+				<Coords points="278,549 1241,549 1241,633 278,633"/>
+				<Baseline points="278,633 1241,633"/>
+				<TextEquiv>
+					<Unicode>על המסמר,ספרות,ג&quot; חשסון תסל&quot;ס, (4.11.78), קמ&quot; 6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_667_333_959_333_959_389_667_389" custom="structure {type:text;}">
+			<Coords points="667,333 959,333 959,389 667,389"/>
+			<TextLine id="eSc_line_667_333_959_333_959_389_667_389" custom="structure {type:default;}">
+				<Coords points="667,333 959,333 959,389 667,389"/>
+				<Baseline points="667,389 959,389"/>
+				<TextEquiv>
+					<Unicode>חפילת הכופרים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

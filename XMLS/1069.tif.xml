@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1069.tif">
+		<TextRegion id="eSc_region_785_52_1074_52_1074_126_785_126" custom="structure {type:text;}">
+			<Coords points="785,52 1074,52 1074,126 785,126"/>
+			<TextLine id="eSc_line_785_52_1074_52_1074_126_785_126" custom="structure {type:default;}">
+				<Coords points="785,52 1074,52 1074,126 785,126"/>
+				<Baseline points="785,126 1074,126"/>
+				<TextEquiv>
+					<Unicode>גווי היים &gt;----2------1 גווי היים
+&gt;----2------1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_331_216_996_216_996_365_331_365" custom="structure {type:text;}">
+			<Coords points="331,216 996,216 996,365 331,365"/>
+			<TextLine id="eSc_line_331_216_996_216_996_365_331_365" custom="structure {type:default;}">
+				<Coords points="331,216 996,216 996,365 331,365"/>
+				<Baseline points="331,365 996,365"/>
+				<TextEquiv>
+					<Unicode>הלב שבמזוח ‎ -.‏ השנה שעבוה(מדוו: מה אומרים ?, חתום:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0596.tif">
+		<TextRegion id="eSc_region_1010_661_1156_661_1156_725_1010_725" custom="structure {type:text;}">
+			<Coords points="1010,661 1156,661 1156,725 1010,725"/>
+			<TextLine id="eSc_line_1010_661_1156_661_1156_725_1010_725" custom="structure {type:default;}">
+				<Coords points="1010,661 1156,661 1156,725 1010,725"/>
+				<Baseline points="1010,725 1156,725"/>
+				<TextEquiv>
+					<Unicode>למרחב,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_484_344_969_344_969_473_484_473" custom="structure {type:text;}">
+			<Coords points="484,344 969,344 969,473 484,473"/>
+			<TextLine id="eSc_line_484_344_969_344_969_473_484_473" custom="structure {type:default;}">
+				<Coords points="484,344 969,344 969,473 484,473"/>
+				<Baseline points="484,473 969,473"/>
+				<TextEquiv>
+					<Unicode>דמו על הנכריכ אומרים?, חתום: חגי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_724_666_1006_666_1006_733_724_733" custom="structure {type:text;}">
+			<Coords points="724,666 1006,666 1006,733 724,733"/>
+			<TextLine id="eSc_line_724_666_1006_666_1006_733_724_733" custom="structure {type:default;}">
+				<Coords points="724,666 1006,666 1006,733 724,733"/>
+				<Baseline points="724,733 1006,733"/>
+				<TextEquiv>
+					<Unicode>71, ע' כ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

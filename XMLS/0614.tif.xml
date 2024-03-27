@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0614.tif">
+		<TextRegion id="eSc_region_934_98_1227_98_1227_175_934_175" custom="structure {type:text;}">
+			<Coords points="934,98 1227,98 1227,175 934,175"/>
+			<TextLine id="eSc_line_934_98_1227_98_1227_175_934_175" custom="structure {type:default;}">
+				<Coords points="934,98 1227,98 1227,175 934,175"/>
+				<Baseline points="934,175 1227,175"/>
+				<TextEquiv>
+					<Unicode>גווי חיים #NAME? גווי חיים
+=-7--1-----ש</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_173_571_1251_571_1251_651_173_651" custom="structure {type:text;}">
+			<Coords points="173,571 1251,571 1251,651 173,651"/>
+			<TextLine id="eSc_line_173_571_1251_571_1251_651_173_651" custom="structure {type:default;}">
+				<Coords points="173,571 1251,571 1251,651 173,651"/>
+				<Baseline points="173,651 1251,651"/>
+				<TextEquiv>
+					<Unicode>מבפניס, כרך ל', תטכ&quot;ח, תהוב' 3, עמ'240-ו24</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0117.tif">
+		<TextRegion id="eSc_region_896_194_1166_194_1166_267_896_267" custom="structure {type:text;}">
+			<Coords points="896,194 1166,194 1166,267 896,267"/>
+			<TextLine id="eSc_line_896_194_1166_194_1166_267_896_267" custom="structure {type:default;}">
+				<Coords points="896,194 1166,194 1166,267 896,267"/>
+				<Baseline points="896,267 1166,267"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 7 ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_10_372_999_372_999_515_10_515" custom="structure {type:text;}">
+			<Coords points="10,372 999,372 999,515 10,515"/>
+			<TextLine id="eSc_line_10_372_999_372_999_515_10_515" custom="structure {type:default;}">
+				<Coords points="10,372 999,372 999,515 10,515"/>
+				<Baseline points="10,515 999,515"/>
+				<TextEquiv>
+					<Unicode>אילו הייח אתה... (ואריאציוה על הנושא)(ההוס: הגור,פדור: רלשיסות סוף הטשבוע)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_393_654_1161_654_1161_831_393_831" custom="structure {type:text;}">
+			<Coords points="393,654 1161,654 1161,831 393,831"/>
+			<TextLine id="eSc_line_393_654_1161_654_1161_831_393_831" custom="structure {type:default;}">
+				<Coords points="393,654 1161,654 1161,831 393,831"/>
+				<Baseline points="393,831 1161,831"/>
+				<TextEquiv>
+					<Unicode>דבר,ג' אדר תשל&quot;ה,(14.2.75),עם. ₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

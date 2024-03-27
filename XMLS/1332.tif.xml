@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1332.tif">
+		<TextRegion id="eSc_region_984_127_1218_127_1218_193_984_193" custom="structure {type:text;}">
+			<Coords points="984,127 1218,127 1218,193 984,193"/>
+			<TextLine id="eSc_line_984_127_1218_127_1218_193_984_193" custom="structure {type:default;}">
+				<Coords points="984,127 1218,127 1218,193 984,193"/>
+				<Baseline points="984,193 1218,193"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_211_316_677_316_677_486_211_486" custom="structure {type:text;}">
+			<Coords points="211,316 677,316 677,486 211,486"/>
+			<TextLine id="eSc_line_211_316_677_316_677_486_211_486" custom="structure {type:default;}">
+				<Coords points="211,316 677,316 677,486 211,486"/>
+				<Baseline points="211,486 677,486"/>
+				<TextEquiv>
+					<Unicode>(מרור רשיםות סוף שבוץ)3 -חתום הגור (?&gt;--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_509_621_1167_621_1167_690_509_690" custom="structure {type:text;}">
+			<Coords points="509,621 1167,621 1167,690 509,690"/>
+			<TextLine id="eSc_line_509_621_1167_621_1167_690_509_690" custom="structure {type:default;}">
+				<Coords points="509,621 1167,621 1167,690 509,690"/>
+				<Baseline points="509,690 1167,690"/>
+				<TextEquiv>
+					<Unicode>ובר, כו סבס תסל&quot;ה,(7.2.75),עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

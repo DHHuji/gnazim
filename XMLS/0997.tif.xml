@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0997.tif">
+		<TextRegion id="eSc_region_922_84_1220_84_1220_166_922_166" custom="structure {type:text;}">
+			<Coords points="922,84 1220,84 1220,166 922,166"/>
+			<TextLine id="eSc_line_922_84_1220_84_1220_166_922_166" custom="structure {type:default;}">
+				<Coords points="922,84 1220,84 1220,166 922,166"/>
+				<Baseline points="922,166 1220,166"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 02-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_192_250_1141_250_1141_404_192_404" custom="structure {type:text;}">
+			<Coords points="192,250 1141,250 1141,404 192,404"/>
+			<TextLine id="eSc_line_192_250_1141_250_1141_404_192_404" custom="structure {type:default;}">
+				<Coords points="192,250 1141,250 1141,404 192,404"/>
+				<Baseline points="192,404 1141,404"/>
+				<TextEquiv>
+					<Unicode>כללי המסחק ‏ [מדור: רשימות סוף השבוע,חתום: הגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_668_569_1238_569_1238_658_668_658" custom="structure {type:text;}">
+			<Coords points="668,569 1238,569 1238,658 668,658"/>
+			<TextLine id="eSc_line_668_569_1238_569_1238_658_668_658" custom="structure {type:default;}">
+				<Coords points="668,569 1238,569 1238,658 668,658"/>
+				<Baseline points="668,658 1238,658"/>
+				<TextEquiv>
+					<Unicode>למרחב, 4.9.1970,עמ* 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0451.tif">
+		<TextRegion id="eSc_region_880_93_1150_93_1150_168_880_168" custom="structure {type:text;}">
+			<Coords points="880,93 1150,93 1150,168 880,168"/>
+			<TextLine id="eSc_line_880_93_1150_93_1150_168_880_168" custom="structure {type:default;}">
+				<Coords points="880,93 1150,93 1150,168 880,168"/>
+				<Baseline points="880,168 1150,168"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_503_348_1147_348_1147_498_503_498" custom="structure {type:text;}">
+			<Coords points="503,348 1147,348 1147,498 503,498"/>
+			<TextLine id="eSc_line_503_348_1147_348_1147_498_503_498" custom="structure {type:default;}">
+				<Coords points="503,348 1147,348 1147,498 503,498"/>
+				<Baseline points="503,498 1147,498"/>
+				<TextEquiv>
+					<Unicode>ו 1פסתשי&quot;ב,8,א, גליוןספא,תיוות .21.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_658_212_1031_212_1031_299_658_299" custom="structure {type:text;}">
+			<Coords points="658,212 1031,212 1031,299 658,299"/>
+			<TextLine id="eSc_line_658_212_1031_212_1031_299_658_299" custom="structure {type:default;}">
+				<Coords points="658,212 1031,212 1031,299 658,299"/>
+				<Baseline points="658,299 1031,299"/>
+				<TextEquiv>
+					<Unicode>בקצה הפיר [שיר]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1162.tif">
+		<TextRegion id="eSc_region_644_393_832_393_832_455_644_455" custom="structure {type:text;}">
+			<Coords points="644,393 832,393 832,455 644,455"/>
+			<TextLine id="eSc_line_644_393_832_393_832_455_644_455" custom="structure {type:default;}">
+				<Coords points="644,393 832,393 832,455 644,455"/>
+				<Baseline points="644,455 832,455"/>
+				<TextEquiv>
+					<Unicode>י&quot;פר צאצקר י&quot;פר צאצקר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_484_453_740_453_740_522_484_522" custom="structure {type:text;}">
+			<Coords points="484,453 740,453 740,522 484,522"/>
+			<TextLine id="eSc_line_484_453_740_453_740_522_484_522" custom="structure {type:default;}">
+				<Coords points="484,453 740,453 740,522 484,522"/>
+				<Baseline points="484,522 740,522"/>
+				<TextEquiv>
+					<Unicode>(גתופותגי.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

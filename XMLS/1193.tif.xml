@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1193.tif">
+		<TextRegion id="eSc_region_871_19_1127_19_1127_87_871_87" custom="structure {type:text;}">
+			<Coords points="871,19 1127,19 1127,87 871,87"/>
+			<TextLine id="eSc_line_871_19_1127_19_1127_87_871_87" custom="structure {type:default;}">
+				<Coords points="871,19 1127,19 1127,87 871,87"/>
+				<Baseline points="871,87 1127,87"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_564_208_1018_208_1018_363_564_363" custom="structure {type:text;}">
+			<Coords points="564,208 1018,208 1018,363 564,363"/>
+			<TextLine id="eSc_line_564_208_1018_208_1018_363_564_363" custom="structure {type:default;}">
+				<Coords points="564,208 1018,208 1018,363 564,363"/>
+				<Baseline points="564,363 1018,363"/>
+				<TextEquiv>
+					<Unicode>המוקד והשרשרתח(חתום: חגור)גםס על נעמי פרנקל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_435_529_989_529_989_739_435_739" custom="structure {type:text;}">
+			<Coords points="435,529 989,529 989,739 435,739"/>
+			<TextLine id="eSc_line_435_529_989_529_989_739_435_739" custom="structure {type:default;}">
+				<Coords points="435,529 989,529 989,739 435,739"/>
+				<Baseline points="435,739 989,739"/>
+				<TextEquiv>
+					<Unicode>יס אלול העמה,5.9,1985</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

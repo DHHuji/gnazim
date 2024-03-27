@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1075.tif">
+		<TextRegion id="eSc_region_937_102_1226_102_1226_176_937_176" custom="structure {type:text;}">
+			<Coords points="937,102 1226,102 1226,176 937,176"/>
+			<TextLine id="eSc_line_937_102_1226_102_1226_176_937_176" custom="structure {type:default;}">
+				<Coords points="937,102 1226,102 1226,176 937,176"/>
+				<Baseline points="937,176 1226,176"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_232_267_1098_267_1098_418_232_418" custom="structure {type:text;}">
+			<Coords points="232,267 1098,267 1098,418 232,418"/>
+			<TextLine id="eSc_line_232_267_1098_267_1098_418_232_418" custom="structure {type:default;}">
+				<Coords points="232,267 1098,267 1098,418 232,418"/>
+				<Baseline points="232,418 1098,418"/>
+				<TextEquiv>
+					<Unicode>&quot;לריות בענינים&quot; [על יהדות ארה&quot;ג][(מדור: מה אומריס ?]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_686_614_1197_614_1197_694_686_694" custom="structure {type:text;}">
+			<Coords points="686,614 1197,614 1197,694 686,694"/>
+			<TextLine id="eSc_line_686_614_1197_614_1197_694_686_694" custom="structure {type:default;}">
+				<Coords points="686,614 1197,614 1197,694 686,694"/>
+				<Baseline points="686,694 1197,694"/>
+				<TextEquiv>
+					<Unicode>דבר, 21.7.72, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

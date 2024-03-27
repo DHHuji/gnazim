@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0705.tif">
+		<TextRegion id="eSc_region_1012_110_1239_110_1239_167_1012_167" custom="structure {type:text;}">
+			<Coords points="1012,110 1239,110 1239,167 1012,167"/>
+			<TextLine id="eSc_line_1012_110_1239_110_1239_167_1012_167" custom="structure {type:default;}">
+				<Coords points="1012,110 1239,110 1239,167 1012,167"/>
+				<Baseline points="1012,167 1239,167"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים &lt;=---+---- גורי, חיים
+&lt;=---+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_588_283_1050_283_1050_336_588_336" custom="structure {type:text;}">
+			<Coords points="588,283 1050,283 1050,336 588,336"/>
+			<TextLine id="eSc_line_588_283_1050_283_1050_336_588_336" custom="structure {type:default;}">
+				<Coords points="588,283 1050,283 1050,336 588,336"/>
+				<Baseline points="588,336 1050,336"/>
+				<TextEquiv>
+					<Unicode>התרגלץוה,- מנורת אלאדין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

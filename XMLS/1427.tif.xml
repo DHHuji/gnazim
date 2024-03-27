@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1427.tif">
+		<TextRegion id="eSc_region_911_122_1157_122_1157_195_911_195" custom="structure {type:text;}">
+			<Coords points="911,122 1157,122 1157,195 911,195"/>
+			<TextLine id="eSc_line_911_122_1157_122_1157_195_911_195" custom="structure {type:default;}">
+				<Coords points="911,122 1157,122 1157,195 911,195"/>
+				<Baseline points="911,195 1157,195"/>
+				<TextEquiv>
+					<Unicode>גורי,היים =---1-----.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_297_631_1257_631_1257_704_297_704" custom="structure {type:text;}">
+			<Coords points="297,631 1257,631 1257,704 297,704"/>
+			<TextLine id="eSc_line_297_631_1257_631_1257_704_297_704" custom="structure {type:default;}">
+				<Coords points="297,631 1257,631 1257,704 297,704"/>
+				<Baseline points="297,704 1257,704"/>
+				<TextEquiv>
+					<Unicode>בטפר, בסאון ההסיבה הצעירה,09,13.10.1949. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_457_368_922_368_922_498_457_498" custom="structure {type:text;}">
+			<Coords points="457,368 922,368 922,498 457,498"/>
+			<TextLine id="eSc_line_457_368_922_368_922_498_457_498" custom="structure {type:default;}">
+				<Coords points="457,368 922,368 922,498 457,498"/>
+				<Baseline points="457,498 922,498"/>
+				<TextEquiv>
+					<Unicode>נאסנים ובוסחים
+( עס הכנוס הסלישי\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

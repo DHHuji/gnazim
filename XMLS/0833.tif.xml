@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0833.tif">
+		<TextRegion id="eSc_region_707_57_1203_57_1203_204_707_204" custom="structure {type:text;}">
+			<Coords points="707,57 1203,57 1203,204 707,204"/>
+			<TextLine id="eSc_line_707_57_1203_57_1203_204_707_204" custom="structure {type:default;}">
+				<Coords points="707,57 1203,57 1203,204 707,204"/>
+				<Baseline points="707,204 1203,204"/>
+				<TextEquiv>
+					<Unicode>הגי [י, 9 הגי [י, 9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_405_210_775_210_775_408_405_408" custom="structure {type:text;}">
+			<Coords points="405,210 775,210 775,408 405,408"/>
+			<TextLine id="eSc_line_405_210_775_210_775_408_405_408" custom="structure {type:default;}">
+				<Coords points="405,210 775,210 775,408 405,408"/>
+				<Baseline points="405,408 775,408"/>
+				<TextEquiv>
+					<Unicode>טס מגטוןשי -המ[פזמון ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

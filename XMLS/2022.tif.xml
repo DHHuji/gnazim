@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2022.tif">
+		<TextRegion id="eSc_region_897_82_1149_82_1149_143_897_143" custom="structure {type:text;}">
+			<Coords points="897,82 1149,82 1149,143 897,143"/>
+			<TextLine id="eSc_line_897_82_1149_82_1149_143_897_143" custom="structure {type:default;}">
+				<Coords points="897,82 1149,82 1149,143 897,143"/>
+				<Baseline points="897,143 1149,143"/>
+				<TextEquiv>
+					<Unicode>גורי חתהיים --הה--1ההה---- גורי חתהיים
+--הה--1ההה----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_308_335_937_335_937_453_308_453" custom="structure {type:text;}">
+			<Coords points="308,335 937,335 937,453 308,453"/>
+			<TextLine id="eSc_line_308_335_937_335_937_453_308_453" custom="structure {type:default;}">
+				<Coords points="308,335 937,335 937,453 308,453"/>
+				<Baseline points="308,453 937,453"/>
+				<TextEquiv>
+					<Unicode>סבעיס איף מהוך עלושה מיייונים[מדור: פה אוכרים?, חתום: הגו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

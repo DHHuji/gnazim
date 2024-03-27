@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0740.tif">
+		<TextRegion id="eSc_region_915_72_1148_72_1148_136_915_136" custom="structure {type:text;}">
+			<Coords points="915,72 1148,72 1148,136 915,136"/>
+			<TextLine id="eSc_line_915_72_1148_72_1148_136_915_136" custom="structure {type:default;}">
+				<Coords points="915,72 1148,72 1148,136 915,136"/>
+				<Baseline points="915,136 1148,136"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ---.---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_162_341_854_341_854_409_162_409" custom="structure {type:text;}">
+			<Coords points="162,341 854,341 854,409 162,409"/>
+			<TextLine id="eSc_line_162_341_854_341_854_409_162_409" custom="structure {type:default;}">
+				<Coords points="162,341 854,341 854,409 162,409"/>
+				<Baseline points="162,409 854,409"/>
+				<TextEquiv>
+					<Unicode>(מדור רשימות סוף שבוק, חתוס הגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_502_639_1181_639_1181_839_502_839" custom="structure {type:text;}">
+			<Coords points="502,639 1181,639 1181,839 502,839"/>
+			<TextLine id="eSc_line_502_639_1181_639_1181_839_502_839" custom="structure {type:default;}">
+				<Coords points="502,639 1181,639 1181,839 502,839"/>
+				<Baseline points="502,839 1181,839"/>
+				<TextEquiv>
+					<Unicode>דבר, י ארר תשל&quot;ה,(21.2.75), עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

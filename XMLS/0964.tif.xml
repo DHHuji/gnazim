@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0964.tif">
+		<TextRegion id="eSc_region_868_89_1192_89_1192_168_868_168" custom="structure {type:text;}">
+			<Coords points="868,89 1192,89 1192,168 868,168"/>
+			<TextLine id="eSc_line_868_89_1192_89_1192_168_868_168" custom="structure {type:default;}">
+				<Coords points="868,89 1192,89 1192,168 868,168"/>
+				<Baseline points="868,168 1192,168"/>
+				<TextEquiv>
+					<Unicode>י גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_130_327_928_327_928_494_130_494" custom="structure {type:text;}">
+			<Coords points="130,327 928,327 928,494 130,494"/>
+			<TextLine id="eSc_line_130_327_928_327_928_494_130_494" custom="structure {type:default;}">
+				<Coords points="130,327 928,327 928,494 130,494"/>
+				<Baseline points="130,494 928,494"/>
+				<TextEquiv>
+					<Unicode>&quot;כוכב האפר&quot; (מול תא הזכוכית)ורלדברי צסביק ‏(ירברי ץיצסרי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_442_596_1031_596_1031_675_442_675" custom="structure {type:text;}">
+			<Coords points="442,596 1031,596 1031,675 442,675"/>
+			<TextLine id="eSc_line_442_596_1031_596_1031_675_442_675" custom="structure {type:default;}">
+				<Coords points="442,596 1031,596 1031,675 442,675"/>
+				<Baseline points="442,675 1031,675"/>
+				<TextEquiv>
+					<Unicode>לפמרחב,8.6.1961, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0572.tif">
+		<TextRegion id="eSc_region_941_103_1232_103_1232_179_941_179" custom="structure {type:text;}">
+			<Coords points="941,103 1232,103 1232,179 941,179"/>
+			<TextLine id="eSc_line_941_103_1232_103_1232_179_941_179" custom="structure {type:default;}">
+				<Coords points="941,103 1232,103 1232,179 941,179"/>
+				<Baseline points="941,179 1232,179"/>
+				<TextEquiv>
+					<Unicode>גווי חיים 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_585_272_1102_272_1102_419_585_419" custom="structure {type:text;}">
+			<Coords points="585,272 1102,272 1102,419 585,419"/>
+			<TextLine id="eSc_line_585_272_1102_272_1102_419_585_419" custom="structure {type:default;}">
+				<Coords points="585,272 1102,272 1102,419 585,419"/>
+				<Baseline points="585,419 1102,419"/>
+				<TextEquiv>
+					<Unicode>דו&quot;ח קסוקע, סגינהוריאומרים, ‏ חתום: חגי]-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_580_592_1203_592_1203_674_580_674" custom="structure {type:text;}">
+			<Coords points="580,592 1203,592 1203,674 580,674"/>
+			<TextLine id="eSc_line_580_592_1203_592_1203_674_580_674" custom="structure {type:default;}">
+				<Coords points="580,592 1203,592 1203,674 580,674"/>
+				<Baseline points="580,674 1203,674"/>
+				<TextEquiv>
+					<Unicode>למרהב, 21.2.1969, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

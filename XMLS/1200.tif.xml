@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1200.tif">
+		<TextRegion id="eSc_region_324_0_1184_0_1184_747_324_747" custom="structure {type:text;}">
+			<Coords points="324,0 1184,0 1184,747 324,747"/>
+			<TextLine id="eSc_line_324_0_1184_0_1184_747_324_747" custom="structure {type:default;}">
+				<Coords points="324,0 1184,0 1184,747 324,747"/>
+				<Baseline points="324,747 1184,747"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים פזכרה גורי.חייםפזכרה&lt;וון</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

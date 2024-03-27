@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1061.tif">
+		<TextRegion id="eSc_region_952_79_1284_79_1284_202_952_202" custom="structure {type:text;}">
+			<Coords points="952,79 1284,79 1284,202 952,202"/>
+			<TextLine id="eSc_line_952_79_1284_79_1284_202_952_202" custom="structure {type:default;}">
+				<Coords points="952,79 1284,79 1284,202 952,202"/>
+				<Baseline points="952,202 1284,202"/>
+				<TextEquiv>
+					<Unicode>גווי חיים &lt;----4=---- גווי חיים
+&lt;----4=----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_65_221_1035_221_1035_417_65_417" custom="structure {type:text;}">
+			<Coords points="65,221 1035,221 1035,417 65,417"/>
+			<TextLine id="eSc_line_65_221_1035_221_1035_417_65_417" custom="structure {type:default;}">
+				<Coords points="65,221 1035,221 1035,417 65,417"/>
+				<Baseline points="65,417 1035,417"/>
+				<TextEquiv>
+					<Unicode>לאחר שנתיים ‏ [על המסורר נתן אלתיכן][מדור: מה אוכרים? ‏ חתום: ה-גין|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

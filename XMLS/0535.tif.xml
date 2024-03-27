@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0535.tif">
+		<TextRegion id="eSc_region_8_0_1217_0_1217_441_8_441" custom="structure {type:text;}">
+			<Coords points="8,0 1217,0 1217,441 8,441"/>
+			<TextLine id="eSc_line_8_0_1217_0_1217_441_8_441" custom="structure {type:default;}">
+				<Coords points="8,0 1217,0 1217,441 8,441"/>
+				<Baseline points="8,441 1217,441"/>
+				<TextEquiv>
+					<Unicode>זהלר, נעמיזר?סהרה-רורור הטטרוני*טמלרהאב.,3,/אלתררי,יהודת.היל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_5_470_1214_470_1214_787_5_787" custom="structure {type:text;}">
+			<Coords points="5,470 1214,470 1214,787 5,787"/>
+			<TextLine id="eSc_line_5_470_1214_470_1214_787_5_787" custom="structure {type:default;}">
+				<Coords points="5,470 1214,470 1214,787 5,787"/>
+				<Baseline points="5,787 1214,787"/>
+				<TextEquiv>
+					<Unicode>לר
+ו
+- 2
+רפון. ל
+לה הי -
+6 0 כו
+ורי - 2
+/ %
+בטא</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

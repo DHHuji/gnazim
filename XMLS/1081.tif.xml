@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1081.tif">
+		<TextRegion id="eSc_region_846_126_1259_126_1259_225_846_225" custom="structure {type:text;}">
+			<Coords points="846,126 1259,126 1259,225 846,225"/>
+			<TextLine id="eSc_line_846_126_1259_126_1259_225_846_225" custom="structure {type:default;}">
+				<Coords points="846,126 1259,126 1259,225 846,225"/>
+				<Baseline points="846,225 1259,225"/>
+				<TextEquiv>
+					<Unicode>גורי, חים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_59_557_1232_557_1232_691_59_691" custom="structure {type:text;}">
+			<Coords points="59,557 1232,557 1232,691 59,691"/>
+			<TextLine id="eSc_line_59_557_1232_557_1232_691_59_691" custom="structure {type:default;}">
+				<Coords points="59,557 1232,557 1232,691 59,691"/>
+				<Baseline points="59,691 1232,691"/>
+				<TextEquiv>
+					<Unicode>רבר, דרבר השבוע, חוב' 23, ב בסיון תשיזיר(3.6.54), עמ' 8</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_335_295_871_295_871_384_335_384" custom="structure {type:text;}">
+			<Coords points="335,295 871,295 871,384 335,384"/>
+			<TextLine id="eSc_line_335_295_871_295_871_384_335_384" custom="structure {type:default;}">
+				<Coords points="335,295 871,295 871,384 335,384"/>
+				<Baseline points="335,384 871,384"/>
+				<TextEquiv>
+					<Unicode>יות)
+( רשימות פוריז</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1746.tif">
+		<TextRegion id="eSc_region_0_314_1278_314_1278_893_0_893" custom="structure {type:text;}">
+			<Coords points="0,314 1278,314 1278,893 0,893"/>
+			<TextLine id="eSc_line_0_314_1278_314_1278_893_0_893" custom="structure {type:default;}">
+				<Coords points="0,314 1278,314 1278,893 0,893"/>
+				<Baseline points="0,893 1278,893"/>
+				<TextEquiv>
+					<Unicode>הכרכיב הרייר בקירת ביאליק: נירה כס ארבכה כל יתחסם לקירת ביאליק [02:א. הכיר,ה. גורי, הכרכיב הרייר בקירת ביאליק:נירה כס ארבכה כל יתחסם לקירת ביאליק [02:א. הכיר,ה. גורי,דב רלפי,מהי כגד, רכנר:טידה צוריה,דה וכר:א.ז. |לכרחב,נטא,039,94.7.1259. 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

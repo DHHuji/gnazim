@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0241.tif">
+		<TextRegion id="eSc_region_992_126_1219_126_1219_190_992_190" custom="structure {type:text;}">
+			<Coords points="992,126 1219,126 1219,190 992,190"/>
+			<TextLine id="eSc_line_992_126_1219_126_1219_190_992_190" custom="structure {type:default;}">
+				<Coords points="992,126 1219,126 1219,190 992,190"/>
+				<Baseline points="992,190 1219,190"/>
+				<TextEquiv>
+					<Unicode>גורי, הייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_385_324_852_324_852_494_385_494" custom="structure {type:text;}">
+			<Coords points="385,324 852,324 852,494 385,494"/>
+			<TextLine id="eSc_line_385_324_852_324_852_494_385_494" custom="structure {type:default;}">
+				<Coords points="385,324 852,324 852,494 385,494"/>
+				<Baseline points="385,494 852,494"/>
+				<TextEquiv>
+					<Unicode>(מדור רסימות סוף סבות)] חתום חור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_502_644_1197_644_1197_841_502_841" custom="structure {type:text;}">
+			<Coords points="502,644 1197,644 1197,841 502,841"/>
+			<TextLine id="eSc_line_502_644_1197_644_1197_841_502_841" custom="structure {type:default;}">
+				<Coords points="502,644 1197,644 1197,841 502,841"/>
+				<Baseline points="502,841 1197,841"/>
+				<TextEquiv>
+					<Unicode>רבר, יא המוז תסל&quot;ה,(20.6.75),עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

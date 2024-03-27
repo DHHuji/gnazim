@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0351.tif">
+		<TextRegion id="eSc_region_971_107_1212_107_1212_179_971_179" custom="structure {type:text;}">
+			<Coords points="971,107 1212,107 1212,179 971,179"/>
+			<TextLine id="eSc_line_971_107_1212_107_1212_179_971_179" custom="structure {type:default;}">
+				<Coords points="971,107 1212,107 1212,179 971,179"/>
+				<Baseline points="971,179 1212,179"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים = ----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_171_241_1023_241_1023_378_171_378" custom="structure {type:text;}">
+			<Coords points="171,241 1023,241 1023,378 171,378"/>
+			<TextLine id="eSc_line_171_241_1023_241_1023_378_171_378" custom="structure {type:default;}">
+				<Coords points="171,241 1023,241 1023,378 171,378"/>
+				<Baseline points="171,378 1023,378"/>
+				<TextEquiv>
+					<Unicode>בין סמר לאלון מורה(מדור רסימות סוף שבוע, חתוס חגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_489_513_1163_513_1163_586_489_586" custom="structure {type:text;}">
+			<Coords points="489,513 1163,513 1163,586 489,586"/>
+			<TextLine id="eSc_line_489_513_1163_513_1163_586_489_586" custom="structure {type:default;}">
+				<Coords points="489,513 1163,513 1163,586 489,586"/>
+				<Baseline points="489,586 1163,586"/>
+				<TextEquiv>
+					<Unicode>דבר,יב חסשון תש&quot;ם,(2.11,79),עמ27</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

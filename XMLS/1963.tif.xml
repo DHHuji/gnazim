@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1963.tif">
+		<TextRegion id="eSc_region_803_51_1157_51_1157_130_803_130" custom="structure {type:text;}">
+			<Coords points="803,51 1157,51 1157,130 803,130"/>
+			<TextLine id="eSc_line_803_51_1157_51_1157_130_803_130" custom="structure {type:default;}">
+				<Coords points="803,51 1157,51 1157,130 803,130"/>
+				<Baseline points="803,130 1157,130"/>
+				<TextEquiv>
+					<Unicode>4 גורי, תי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_66_294_864_294_864_457_66_457" custom="structure {type:text;}">
+			<Coords points="66,294 864,294 864,457 66,457"/>
+			<TextLine id="eSc_line_66_294_864_294_864_457_66_457" custom="structure {type:default;}">
+				<Coords points="66,294 864,294 864,457 66,457"/>
+				<Baseline points="66,457 864,457"/>
+				<TextEquiv>
+					<Unicode>ם?)₪רמה או(סהיל. .%ללמל&quot; בה&quot;רופ הגדתגיתום-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_90_579_867_579_867_662_90_662" custom="structure {type:text;}">
+			<Coords points="90,579 867,579 867,662 90,662"/>
+			<TextLine id="eSc_line_90_579_867_579_867_662_90_662" custom="structure {type:default;}">
+				<Coords points="90,579 867,579 867,662 90,662"/>
+				<Baseline points="90,662 867,662"/>
+				<TextEquiv>
+					<Unicode>לפרחב, משא, 21.7.1960, עם% 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

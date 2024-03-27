@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0273.tif">
+		<TextRegion id="eSc_region_881_75_1218_75_1218_198_881_198" custom="structure {type:text;}">
+			<Coords points="881,75 1218,75 1218,198 881,198"/>
+			<TextLine id="eSc_line_881_75_1218_75_1218_198_881_198" custom="structure {type:default;}">
+				<Coords points="881,75 1218,75 1218,198 881,198"/>
+				<Baseline points="881,198 1218,198"/>
+				<TextEquiv>
+					<Unicode>גורי חיים &lt;=----4------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_49_220_1013_220_1013_481_49_481" custom="structure {type:text;}">
+			<Coords points="49,220 1013,220 1013,481 49,481"/>
+			<TextLine id="eSc_line_49_220_1013_220_1013_481_49_481" custom="structure {type:default;}">
+				<Coords points="49,220 1013,220 1013,481 49,481"/>
+				<Baseline points="49,481 1013,481"/>
+				<TextEquiv>
+					<Unicode>בטאזני הדחפור [על הריסות בתיםואתרים עתיקים] [מדור: מה אומרים +,חתום: חה-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_450_586_1191_586_1191_869_450_869" custom="structure {type:text;}">
+			<Coords points="450,586 1191,586 1191,869 450,869"/>
+			<TextLine id="eSc_line_450_586_1191_586_1191_869_450_869" custom="structure {type:default;}">
+				<Coords points="450,586 1191,586 1191,869 450,869"/>
+				<Baseline points="450,869 1191,869"/>
+				<TextEquiv>
+					<Unicode>ההאא - דבר, 14.7.72, עמ' 2
+
+ש</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

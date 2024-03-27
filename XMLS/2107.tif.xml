@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2107.tif">
+		<TextRegion id="eSc_region_957_109_1252_109_1252_196_957_196" custom="structure {type:text;}">
+			<Coords points="957,109 1252,109 1252,196 957,196"/>
+			<TextLine id="eSc_line_957_109_1252_109_1252_196_957_196" custom="structure {type:default;}">
+				<Coords points="957,109 1252,109 1252,196 957,196"/>
+				<Baseline points="957,196 1252,196"/>
+				<TextEquiv>
+					<Unicode>גורי חיים #NAME? גורי חיים
+----2------ ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_782_266_1178_266_1178_420_782_420" custom="structure {type:text;}">
+			<Coords points="782,266 1178,266 1178,420 782,420"/>
+			<TextLine id="eSc_line_782_266_1178_266_1178_420_782_420" custom="structure {type:default;}">
+				<Coords points="782,266 1178,266 1178,420 782,420"/>
+				<Baseline points="782,420 1178,420"/>
+				<TextEquiv>
+					<Unicode>השלהבת והארזיםחתום: הגורז</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

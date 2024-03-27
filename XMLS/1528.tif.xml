@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1528.tif">
+		<TextRegion id="eSc_region_825_9_1088_9_1088_81_825_81" custom="structure {type:text;}">
+			<Coords points="825,9 1088,9 1088,81 825,81"/>
+			<TextLine id="eSc_line_825_9_1088_9_1088_81_825_81" custom="structure {type:default;}">
+				<Coords points="825,9 1088,9 1088,81 825,81"/>
+				<Baseline points="825,81 1088,81"/>
+				<TextEquiv>
+					<Unicode>ורי,חיי ורי,חיי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_220_139_1083_139_1083_208_220_208" custom="structure {type:text;}">
+			<Coords points="220,139 1083,139 1083,208 220,208"/>
+			<TextLine id="eSc_line_220_139_1083_139_1083_208_220_208" custom="structure {type:default;}">
+				<Coords points="220,139 1083,139 1083,208 220,208"/>
+				<Baseline points="220,208 1083,208"/>
+				<TextEquiv>
+					<Unicode>הקיפור המוילטטלוטל הנבד טל הרט[הך דירוי ד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

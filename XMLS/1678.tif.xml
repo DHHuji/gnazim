@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1678.tif">
+		<TextRegion id="eSc_region_893_93_1230_93_1230_192_893_192" custom="structure {type:text;}">
+			<Coords points="893,93 1230,93 1230,192 893,192"/>
+			<TextLine id="eSc_line_893_93_1230_93_1230_192_893_192" custom="structure {type:default;}">
+				<Coords points="893,93 1230,93 1230,192 893,192"/>
+				<Baseline points="893,192 1230,192"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים -ה--1----- גורי, חיים
+-ה--1-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_111_259_1126_259_1126_366_111_366" custom="structure {type:text;}">
+			<Coords points="111,259 1126,259 1126,366 111,366"/>
+			<TextLine id="eSc_line_111_259_1126_259_1126_366_111_366" custom="structure {type:default;}">
+				<Coords points="111,259 1126,259 1126,366 111,366"/>
+				<Baseline points="111,366 1126,366"/>
+				<TextEquiv>
+					<Unicode>[עצל בעיית הפלשתינאים]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

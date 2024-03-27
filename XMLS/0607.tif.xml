@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0607.tif">
+		<TextRegion id="eSc_region_957_98_1272_98_1272_172_957_172" custom="structure {type:text;}">
+			<Coords points="957,98 1272,98 1272,172 957,172"/>
+			<TextLine id="eSc_line_957_98_1272_98_1272_172_957_172" custom="structure {type:default;}">
+				<Coords points="957,98 1272,98 1272,172 957,172"/>
+				<Baseline points="957,172 1272,172"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_196_263_1067_263_1067_474_196_474" custom="structure {type:text;}">
+			<Coords points="196,263 1067,263 1067,474 196,474"/>
+			<TextLine id="eSc_line_196_263_1067_263_1067_474_196_474" custom="structure {type:default;}">
+				<Coords points="196,263 1067,263 1067,474 196,474"/>
+				<Baseline points="196,474 1067,474"/>
+				<TextEquiv>
+					<Unicode>דפים ירושלמיים [על מלאת חמש שניםלשחרור ירושלים| [מדור: ושיכפות סוהשבול| [חתום: חגורן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

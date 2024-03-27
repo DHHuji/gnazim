@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1915.tif">
+		<TextRegion id="eSc_region_399_0_1194_0_1194_522_399_522" custom="structure {type:text;}">
+			<Coords points="399,0 1194,0 1194,522 399,522"/>
+			<TextLine id="eSc_line_399_0_1194_0_1194_522_399_522" custom="structure {type:default;}">
+				<Coords points="399,0 1194,0 1194,522 399,522"/>
+				<Baseline points="399,522 1194,522"/>
+				<TextEquiv>
+					<Unicode>גורי, תייםהקורס הארוך סל הפחר(פתוך לסיחה סורית&quot;)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_57_532_1099_532_1099_820_57_820" custom="structure {type:text;}">
+			<Coords points="57,532 1099,532 1099,820 57,820"/>
+			<TextLine id="eSc_line_57_532_1099_532_1099_820_57_820" custom="structure {type:default;}">
+				<Coords points="57,532 1099,532 1099,820 57,820"/>
+				<Baseline points="57,820 1099,820"/>
+				<TextEquiv>
+					<Unicode>לפרחב,פסא, 13.10.1961, עמ' * |( 0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1329.tif">
+		<TextRegion id="eSc_region_813_95_1055_95_1055_167_813_167" custom="structure {type:text;}">
+			<Coords points="813,95 1055,95 1055,167 813,167"/>
+			<TextLine id="eSc_line_813_95_1055_95_1055_167_813_167" custom="structure {type:default;}">
+				<Coords points="813,95 1055,95 1055,167 813,167"/>
+				<Baseline points="813,167 1055,167"/>
+				<TextEquiv>
+					<Unicode>יים גורי,ריים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_248_311_780_311_780_443_248_443" custom="structure {type:text;}">
+			<Coords points="248,311 780,311 780,443 248,443"/>
+			<TextLine id="eSc_line_248_311_780_311_780_443_248_443" custom="structure {type:default;}">
+				<Coords points="248,311 780,311 780,443 248,443"/>
+				<Baseline points="248,443 780,443"/>
+				<TextEquiv>
+					<Unicode>כ.גל ררסניה ווקודה הכו(יוכן פגריס,רקינר,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_667_568_1165_568_1165_641_667_641" custom="structure {type:text;}">
+			<Coords points="667,568 1165,568 1165,641 667,641"/>
+			<TextLine id="eSc_line_667_568_1165_568_1165_641_667_641" custom="structure {type:default;}">
+				<Coords points="667,568 1165,568 1165,641 667,641"/>
+				<Baseline points="667,641 1165,641"/>
+				<TextEquiv>
+					<Unicode>לנרחב,הפרן,5,11.7ר. ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

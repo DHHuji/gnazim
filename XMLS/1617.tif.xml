@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1617.tif">
+		<TextRegion id="eSc_region_1042_85_1245_85_1245_150_1042_150" custom="structure {type:text;}">
+			<Coords points="1042,85 1245,85 1245,150 1042,150"/>
+			<TextLine id="eSc_line_1042_85_1245_85_1245_150_1042_150" custom="structure {type:default;}">
+				<Coords points="1042,85 1245,85 1245,150 1042,150"/>
+				<Baseline points="1042,150 1245,150"/>
+				<TextEquiv>
+					<Unicode>גורי חיש</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_288_228_1129_228_1129_412_288_412" custom="structure {type:text;}">
+			<Coords points="288,228 1129,228 1129,412 288,412"/>
+			<TextLine id="eSc_line_288_228_1129_228_1129_412_288_412" custom="structure {type:default;}">
+				<Coords points="288,228 1129,228 1129,412 288,412"/>
+				<Baseline points="288,412 1129,412"/>
+				<TextEquiv>
+					<Unicode>העיר האחרת, ענייניסם אהרים(מדור רשימות סוף השבוץ) חתום הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_369_587_1085_587_1085_655_369_655" custom="structure {type:text;}">
+			<Coords points="369,587 1085,587 1085,655 369,655"/>
+			<TextLine id="eSc_line_369_587_1085_587_1085_655_369_655" custom="structure {type:default;}">
+				<Coords points="369,587 1085,587 1085,655 369,655"/>
+				<Baseline points="369,655 1085,655"/>
+				<TextEquiv>
+					<Unicode>דבר, ג' אב השל&quot;ו,(20.7.76), עס&quot; 16</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

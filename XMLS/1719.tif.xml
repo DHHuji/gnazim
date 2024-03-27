@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1719.tif">
+		<TextRegion id="eSc_region_510_47_1275_47_1275_405_510_405" custom="structure {type:text;}">
+			<Coords points="510,47 1275,47 1275,405 510,405"/>
+			<TextLine id="eSc_line_510_47_1275_47_1275_405_510_405" custom="structure {type:default;}">
+				<Coords points="510,47 1275,47 1275,405 510,405"/>
+				<Baseline points="510,405 1275,405"/>
+				<TextEquiv>
+					<Unicode>גורין חייםעםשיריו 5פל בנימין גלאי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_215_513_1117_513_1117_871_215_871" custom="structure {type:text;}">
+			<Coords points="215,513 1117,513 1117,871 215,871"/>
+			<TextLine id="eSc_line_215_513_1117_513_1117_871_215_871" custom="structure {type:default;}">
+				<Coords points="215,513 1117,513 1117,871 215,871"/>
+				<Baseline points="215,871 1117,871"/>
+				<TextEquiv>
+					<Unicode>על רמעסר, דף לפפרוה, 10.3.1950, עם&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0199.tif">
+		<TextRegion id="eSc_region_672_634_1113_634_1113_705_672_705" custom="structure {type:text;}">
+			<Coords points="672,634 1113,634 1113,705 672,705"/>
+			<TextLine id="eSc_line_672_634_1113_634_1113_705_672_705" custom="structure {type:default;}">
+				<Coords points="672,634 1113,634 1113,705 672,705"/>
+				<Baseline points="672,705 1113,705"/>
+				<TextEquiv>
+					<Unicode>למרחב, !18.1.6, ע' 2 למרחב, !18.1.6, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_226_326_868_326_868_470_226_470" custom="structure {type:text;}">
+			<Coords points="226,326 868,326 868,470 226,470"/>
+			<TextLine id="eSc_line_226_326_868_326_868_470_226_470" custom="structure {type:default;}">
+				<Coords points="226,326 868,326 868,470 226,470"/>
+				<Baseline points="226,470 868,470"/>
+				<TextEquiv>
+					<Unicode>אגית רמתיס ‏ ( פיר, מה אומרים&quot;,חתום: הגו ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

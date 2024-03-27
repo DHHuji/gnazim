@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1772.tif">
+		<TextRegion id="eSc_region_818_77_1115_77_1115_158_818_158" custom="structure {type:text;}">
+			<Coords points="818,77 1115,77 1115,158 818,158"/>
+			<TextLine id="eSc_line_818_77_1115_77_1115_158_818_158" custom="structure {type:default;}">
+				<Coords points="818,77 1115,77 1115,158 818,158"/>
+				<Baseline points="818,158 1115,158"/>
+				<TextEquiv>
+					<Unicode>גורי הייפ &gt;- 1-7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_618_273_1010_273_1010_420_618_420" custom="structure {type:text;}">
+			<Coords points="618,273 1010,273 1010,420 618,420"/>
+			<TextLine id="eSc_line_618_273_1010_273_1010_420_618_420" custom="structure {type:default;}">
+				<Coords points="618,273 1010,273 1010,420 618,420"/>
+				<Baseline points="618,420 1010,420"/>
+				<TextEquiv>
+					<Unicode>הכפגישה הואשונהלהיר&quot; סשוחרוו!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_84_265_601_265_601_346_84_346" custom="structure {type:text;}">
+			<Coords points="84,265 601,265 601,346 84,346"/>
+			<TextLine id="eSc_line_84_265_601_265_601_346_84_346" custom="structure {type:default;}">
+				<Coords points="84,265 601,265 601,346 84,346"/>
+				<Baseline points="84,346 601,346"/>
+				<TextEquiv>
+					<Unicode>[על פגישה עם &quot;נדוני</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

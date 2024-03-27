@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1478.tif">
+		<TextRegion id="eSc_region_986_131_1225_131_1225_196_986_196" custom="structure {type:text;}">
+			<Coords points="986,131 1225,131 1225,196 986,196"/>
+			<TextLine id="eSc_line_986_131_1225_131_1225_196_986_196" custom="structure {type:default;}">
+				<Coords points="986,131 1225,131 1225,196 986,196"/>
+				<Baseline points="986,196 1225,196"/>
+				<TextEquiv>
+					<Unicode>גורי, הייס 4 ה =--==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_555_650_1256_650_1256_839_555_839" custom="structure {type:text;}">
+			<Coords points="555,650 1256,650 1256,839 555,839"/>
+			<TextLine id="eSc_line_555_650_1256_650_1256_839_555_839" custom="structure {type:default;}">
+				<Coords points="555,650 1256,650 1256,839 555,839"/>
+				<Baseline points="555,839 1256,839"/>
+				<TextEquiv>
+					<Unicode>דבר, ב' ניסן השל&quot;ו,(2.4,76),צמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_521_373_1009_373_1009_439_521_439" custom="structure {type:text;}">
+			<Coords points="521,373 1009,373 1009,439 521,439"/>
+			<TextLine id="eSc_line_521_373_1009_373_1009_439_521_439" custom="structure {type:default;}">
+				<Coords points="521,373 1009,373 1009,439 521,439"/>
+				<Baseline points="521,439 1009,439"/>
+				<TextEquiv>
+					<Unicode>(מדור רשיםוה סוף השבו?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

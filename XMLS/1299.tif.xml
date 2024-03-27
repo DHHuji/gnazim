@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1299.tif">
+		<TextRegion id="eSc_region_989_86_1225_86_1225_158_989_158" custom="structure {type:text;}">
+			<Coords points="989,86 1225,86 1225,158 989,158"/>
+			<TextLine id="eSc_line_989_86_1225_86_1225_158_989_158" custom="structure {type:default;}">
+				<Coords points="989,86 1225,86 1225,158 989,158"/>
+				<Baseline points="989,158 1225,158"/>
+				<TextEquiv>
+					<Unicode>גורי,ן חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_109_492_1060_492_1060_568_109_568" custom="structure {type:text;}">
+			<Coords points="109,492 1060,492 1060,568 109,568"/>
+			<TextLine id="eSc_line_109_492_1060_492_1060_568_109_568" custom="structure {type:default;}">
+				<Coords points="109,492 1060,492 1060,568 109,568"/>
+				<Baseline points="109,568 1060,568"/>
+				<TextEquiv>
+					<Unicode>מעריכ,ס;רוה, כט אלול תשל&quot;ט, (21.0,790], עמ' 8/6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_705_222_1084_222_1084_288_705_288" custom="structure {type:text;}">
+			<Coords points="705,222 1084,222 1084,288 705,288"/>
+			<TextLine id="eSc_line_705_222_1084_222_1084_288_705_288" custom="structure {type:default;}">
+				<Coords points="705,222 1084,222 1084,288 705,288"/>
+				<Baseline points="705,288 1084,288"/>
+				<TextEquiv>
+					<Unicode>המס; אל הרצח ההוא</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0539.tif">
+		<TextRegion id="eSc_region_933_105_1166_105_1166_170_933_170" custom="structure {type:text;}">
+			<Coords points="933,105 1166,105 1166,170 933,170"/>
+			<TextLine id="eSc_line_933_105_1166_105_1166_170_933_170" custom="structure {type:default;}">
+				<Coords points="933,105 1166,105 1166,170 933,170"/>
+				<Baseline points="933,170 1166,170"/>
+				<TextEquiv>
+					<Unicode>גורין חיים ==ה-1---= גורין חיים
+==ה-1---=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_690_337_999_337_999_492_690_492" custom="structure {type:text;}">
+			<Coords points="690,337 999,337 999,492 690,492"/>
+			<TextLine id="eSc_line_690_337_999_337_999_492_690_492" custom="structure {type:default;}">
+				<Coords points="690,337 999,337 999,492 690,492"/>
+				<Baseline points="690,492 999,492"/>
+				<TextEquiv>
+					<Unicode>דברים בדם...\ חתופ הג )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

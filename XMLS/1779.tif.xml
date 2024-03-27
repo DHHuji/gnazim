@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1779.tif">
+		<TextRegion id="eSc_region_882_78_1114_78_1114_143_882_143" custom="structure {type:text;}">
+			<Coords points="882,78 1114,78 1114,143 882,143"/>
+			<TextLine id="eSc_line_882_78_1114_78_1114_143_882_143" custom="structure {type:default;}">
+				<Coords points="882,78 1114,78 1114,143 882,143"/>
+				<Baseline points="882,143 1114,143"/>
+				<TextEquiv>
+					<Unicode>י יי גור 1 חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_233_458_1088_458_1088_526_233_526" custom="structure {type:text;}">
+			<Coords points="233,458 1088,458 1088,526 233,526"/>
+			<TextLine id="eSc_line_233_458_1088_458_1088_526_233_526" custom="structure {type:default;}">
+				<Coords points="233,458 1088,458 1088,526 233,526"/>
+				<Baseline points="233,526 1088,526"/>
+				<TextEquiv>
+					<Unicode>דבר,פשא, כט כפלו תכם&quot;ב,(ו25.12.5), עם&quot; 18</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_678_264_989_264_989_319_678_319" custom="structure {type:text;}">
+			<Coords points="678,264 989,264 989,319 678,319"/>
+			<TextLine id="eSc_line_678_264_989_264_989_319_678_319" custom="structure {type:default;}">
+				<Coords points="678,264 989,264 989,319 678,319"/>
+				<Baseline points="678,319 989,319"/>
+				<TextEquiv>
+					<Unicode>זיס
+ומרחן
+תּ
+גיסו
+ג
+פ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

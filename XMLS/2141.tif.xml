@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2141.tif">
+		<TextRegion id="eSc_region_842_78_1135_78_1135_151_842_151" custom="structure {type:text;}">
+			<Coords points="842,78 1135,78 1135,151 842,151"/>
+			<TextLine id="eSc_line_842_78_1135_78_1135_151_842_151" custom="structure {type:default;}">
+				<Coords points="842,78 1135,78 1135,151 842,151"/>
+				<Baseline points="842,151 1135,151"/>
+				<TextEquiv>
+					<Unicode>רוי גורי, תח ם רויגורי, תח ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_665_245_1011_245_1011_314_665_314" custom="structure {type:text;}">
+			<Coords points="665,245 1011,245 1011,314 665,314"/>
+			<TextLine id="eSc_line_665_245_1011_245_1011_314_665_314" custom="structure {type:default;}">
+				<Coords points="665,245 1011,245 1011,314 665,314"/>
+				<Baseline points="665,314 1011,314"/>
+				<TextEquiv>
+					<Unicode>עצמונה גלויות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

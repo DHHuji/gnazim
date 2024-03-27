@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1623.tif">
+		<TextRegion id="eSc_region_722_8_980_8_980_81_722_81" custom="structure {type:text;}">
+			<Coords points="722,8 980,8 980,81 722,81"/>
+			<TextLine id="eSc_line_722_8_980_8_980_81_722_81" custom="structure {type:default;}">
+				<Coords points="722,8 980,8 980,81 722,81"/>
+				<Baseline points="722,81 980,81"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים גורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_314_248_777_248_777_351_314_351" custom="structure {type:text;}">
+			<Coords points="314,248 777,248 777,351 314,351"/>
+			<TextLine id="eSc_line_314_248_777_248_777_351_314_351" custom="structure {type:default;}">
+				<Coords points="314,248 777,248 777,351 314,351"/>
+				<Baseline points="314,351 777,351"/>
+				<TextEquiv>
+					<Unicode>על אלה וארה[חתום:תגור:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

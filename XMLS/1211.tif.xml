@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1211.tif">
+		<TextRegion id="eSc_region_696_360_863_360_863_411_696_411" custom="structure {type:text;}">
+			<Coords points="696,360 863,360 863,411 696,411"/>
+			<TextLine id="eSc_line_696_360_863_360_863_411_696_411" custom="structure {type:default;}">
+				<Coords points="696,360 863,360 863,411 696,411"/>
+				<Baseline points="696,411 863,411"/>
+				<TextEquiv>
+					<Unicode>מחרתיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_187_339_679_339_679_434_187_434" custom="structure {type:text;}">
+			<Coords points="187,339 679,339 679,434 187,434"/>
+			<TextLine id="eSc_line_187_339_679_339_679_434_187_434" custom="structure {type:default;}">
+				<Coords points="187,339 679,339 679,434 187,434"/>
+				<Baseline points="187,434 679,434"/>
+				<TextEquiv>
+					<Unicode>(בר אומרים&quot;?, התום: הגי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_688_563_1168_563_1168_654_688_654" custom="structure {type:text;}">
+			<Coords points="688,563 1168,563 1168,654 688,654"/>
+			<TextLine id="eSc_line_688_563_1168_563_1168_654_688_654" custom="structure {type:default;}">
+				<Coords points="688,563 1168,563 1168,654 688,654"/>
+				<Baseline points="688,654 1168,654"/>
+				<TextEquiv>
+					<Unicode>4
+וו - 79-0200454 -1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

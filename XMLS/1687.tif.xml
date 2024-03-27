@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1687.tif">
+		<TextRegion id="eSc_region_894_94_1128_94_1128_159_894_159" custom="structure {type:text;}">
+			<Coords points="894,94 1128,94 1128,159 894,159"/>
+			<TextLine id="eSc_line_894_94_1128_94_1128_159_894_159" custom="structure {type:default;}">
+				<Coords points="894,94 1128,94 1128,159 894,159"/>
+				<Baseline points="894,159 1128,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס + =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_105_228_939_228_939_396_105_396" custom="structure {type:text;}">
+			<Coords points="105,228 939,228 939,396 105,396"/>
+			<TextLine id="eSc_line_105_228_939_228_939_396_105_396" custom="structure {type:default;}">
+				<Coords points="105,228 939,228 939,396 105,396"/>
+				<Baseline points="105,396 939,396"/>
+				<TextEquiv>
+					<Unicode>ץעל קולוסבו ועל מונולוג אחד(מרור רשימות סוף הסבוע) | חתום חגור /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_362_591_1036_591_1036_659_362_659" custom="structure {type:text;}">
+			<Coords points="362,591 1036,591 1036,659 362,659"/>
+			<TextLine id="eSc_line_362_591_1036_591_1036_659_362_659" custom="structure {type:default;}">
+				<Coords points="362,591 1036,591 1036,659 362,659"/>
+				<Baseline points="362,659 1036,659"/>
+				<TextEquiv>
+					<Unicode>דבר, כד אב תסל&quot;ו,(20,8,76),עם7 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

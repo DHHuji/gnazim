@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1483.tif">
+		<TextRegion id="eSc_region_857_79_1240_79_1240_289_857_289" custom="structure {type:text;}">
+			<Coords points="857,79 1240,79 1240,289 857,289"/>
+			<TextLine id="eSc_line_857_79_1240_79_1240_289_857_289" custom="structure {type:default;}">
+				<Coords points="857,79 1240,79 1240,289 857,289"/>
+				<Baseline points="857,289 1240,289"/>
+				<TextEquiv>
+					<Unicode>גורי,היים ----4-.----= גורי,היים
+----4-.----=</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_242_328_1265_328_1265_912_242_912" custom="structure {type:text;}">
+			<Coords points="242,328 1265,328 1265,912 242,912"/>
+			<TextLine id="eSc_line_242_328_1265_328_1265_912_242_912" custom="structure {type:default;}">
+				<Coords points="242,328 1265,328 1265,912 242,912"/>
+				<Baseline points="242,912 1265,912"/>
+				<TextEquiv>
+					<Unicode>הנפכחים[שירןבטער, בסאון החסיבה הצפעירה,27.7.1950,פם. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

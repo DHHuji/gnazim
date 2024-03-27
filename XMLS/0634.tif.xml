@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0634.tif">
+		<TextRegion id="eSc_region_985_112_1201_112_1201_159_985_159" custom="structure {type:text;}">
+			<Coords points="985,112 1201,112 1201,159 985,159"/>
+			<TextLine id="eSc_line_985_112_1201_112_1201_159_985_159" custom="structure {type:default;}">
+				<Coords points="985,112 1201,112 1201,159 985,159"/>
+				<Baseline points="985,159 1201,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חויים גורי, חויים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_375_634_790_634_790_682_375_682" custom="structure {type:text;}">
+			<Coords points="375,634 790,634 790,682 375,682"/>
+			<TextLine id="eSc_line_375_634_790_634_790_682_375_682" custom="structure {type:default;}">
+				<Coords points="375,634 790,634 790,682 375,682"/>
+				<Baseline points="375,682 790,682"/>
+				<TextEquiv>
+					<Unicode>השל&quot;ז,(3,12,76),עמ&quot;1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

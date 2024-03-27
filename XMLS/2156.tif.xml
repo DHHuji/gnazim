@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2156.tif">
+		<TextRegion id="eSc_region_958_93_1195_93_1195_159_958_159" custom="structure {type:text;}">
+			<Coords points="958,93 1195,93 1195,159 958,159"/>
+			<TextLine id="eSc_line_958_93_1195_93_1195_159_958_159" custom="structure {type:default;}">
+				<Coords points="958,93 1195,93 1195,159 958,159"/>
+				<Baseline points="958,159 1195,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_10_314_986_314_986_463_10_463" custom="structure {type:text;}">
+			<Coords points="10,314 986,314 986,463 10,463"/>
+			<TextLine id="eSc_line_10_314_986_314_986_463_10_463" custom="structure {type:default;}">
+				<Coords points="10,314 986,314 986,463 10,463"/>
+				<Baseline points="10,463 986,463"/>
+				<TextEquiv>
+					<Unicode>סני סירישָּ; נושא ישן.-|&quot;המישנות זיסמרו על לילה- &quot;טסוב...</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_227_627_821_627_821_692_227_692" custom="structure {type:text;}">
+			<Coords points="227,627 821,627 821,692 227,692"/>
+			<TextLine id="eSc_line_227_627_821_627_821_692_227_692" custom="structure {type:default;}">
+				<Coords points="227,627 821,627 821,692 227,692"/>
+				<Baseline points="227,692 821,692"/>
+				<TextEquiv>
+					<Unicode>.,
+
+לפרחב, משא, 5.9.1956, עס&quot; ב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

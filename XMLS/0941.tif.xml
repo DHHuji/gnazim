@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0941.tif">
+		<TextRegion id="eSc_region_596_406_677_406_677_462_596_462" custom="structure {type:text;}">
+			<Coords points="596,406 677,406 677,462 596,462"/>
+			<TextLine id="eSc_line_596_406_677_406_677_462_596_462" custom="structure {type:default;}">
+				<Coords points="596,406 677,406 677,462 596,462"/>
+				<Baseline points="596,462 677,462"/>
+				<TextEquiv>
+					<Unicode>[ כר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_324_409_583_409_583_459_324_459" custom="structure {type:text;}">
+			<Coords points="324,409 583,409 583,459 324,459"/>
+			<TextLine id="eSc_line_324_409_583_409_583_459_324_459" custom="structure {type:default;}">
+				<Coords points="324,409 583,409 583,459 324,459"/>
+				<Baseline points="324,459 583,459"/>
+				<TextEquiv>
+					<Unicode>אוכרים, הרוד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_415_351_608_351_608_396_415_396" custom="structure {type:text;}">
+			<Coords points="415,351 608,351 608,396 415,396"/>
+			<TextLine id="eSc_line_415_351_608_351_608_396_415_396" custom="structure {type:default;}">
+				<Coords points="415,351 608,351 608,396 415,396"/>
+				<Baseline points="415,396 608,396"/>
+				<TextEquiv>
+					<Unicode>היכרפטטיב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

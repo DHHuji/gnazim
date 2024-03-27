@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0987.tif">
+		<TextRegion id="eSc_region_887_135_1206_135_1206_199_887_199" custom="structure {type:text;}">
+			<Coords points="887,135 1206,135 1206,199 887,199"/>
+			<TextLine id="eSc_line_887_135_1206_135_1206_199_887_199" custom="structure {type:default;}">
+				<Coords points="887,135 1206,135 1206,199 887,199"/>
+				<Baseline points="887,199 1206,199"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ---- ----₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_201_333_689_333_689_498_201_498" custom="structure {type:text;}">
+			<Coords points="201,333 689,333 689,498 201,498"/>
+			<TextLine id="eSc_line_201_333_689_333_689_498_201_498" custom="structure {type:default;}">
+				<Coords points="201,333 689,333 689,498 201,498"/>
+				<Baseline points="201,498 689,498"/>
+				<TextEquiv>
+					<Unicode>(מדור רסימות סוף השבוע)| התוס &quot;גו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_399_610_1097_610_1097_676_399_676" custom="structure {type:text;}">
+			<Coords points="399,610 1097,610 1097,676 399,676"/>
+			<TextLine id="eSc_line_399_610_1097_610_1097_676_399_676" custom="structure {type:default;}">
+				<Coords points="399,610 1097,610 1097,676 399,676"/>
+				<Baseline points="399,676 1097,676"/>
+				<TextEquiv>
+					<Unicode>דכר, ו&quot; ניסן תשל&quot;ז,(25.7.77),עמ27</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

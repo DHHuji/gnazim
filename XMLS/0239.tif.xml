@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0239.tif">
+		<TextRegion id="eSc_region_827_85_1123_85_1123_165_827_165" custom="structure {type:text;}">
+			<Coords points="827,85 1123,85 1123,165 827,165"/>
+			<TextLine id="eSc_line_827_85_1123_85_1123_165_827_165" custom="structure {type:default;}">
+				<Coords points="827,85 1123,85 1123,165 827,165"/>
+				<Baseline points="827,165 1123,165"/>
+				<TextEquiv>
+					<Unicode>, תיים ₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_129_265_859_265_859_436_129_436" custom="structure {type:text;}">
+			<Coords points="129,265 859,265 859,436 129,436"/>
+			<TextLine id="eSc_line_129_265_859_265_859_436_129_436" custom="structure {type:default;}">
+				<Coords points="129,265 859,265 859,436 129,436"/>
+				<Baseline points="129,436 859,436"/>
+				<TextEquiv>
+					<Unicode>ארצנו - הקטנסוגת&quot; --..(מה אופרים?) חתות חגי )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_272_528_912_528_912_610_272_610" custom="structure {type:text;}">
+			<Coords points="272,528 912,528 912,610 272,610"/>
+			<TextLine id="eSc_line_272_528_912_528_912_610_272_610" custom="structure {type:default;}">
+				<Coords points="272,528 912,528 912,610 272,610"/>
+				<Baseline points="272,610 912,610"/>
+				<TextEquiv>
+					<Unicode>למרחב, 29.,4.,1956, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1434.tif">
+		<TextRegion id="eSc_region_27_0_1249_0_1249_447_27_447" custom="structure {type:text;}">
+			<Coords points="27,0 1249,0 1249,447 27,447"/>
+			<TextLine id="eSc_line_27_0_1249_0_1249_447_27_447" custom="structure {type:default;}">
+				<Coords points="27,0 1249,0 1249,447 27,447"/>
+				<Baseline points="27,447 1249,447"/>
+				<TextEquiv>
+					<Unicode>גורי, חייםנדודי - סינה (מול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_124_478_1026_478_1026_842_124_842" custom="structure {type:text;}">
+			<Coords points="124,478 1026,478 1026,842 124,842"/>
+			<TextLine id="eSc_line_124_478_1026_478_1026_842_124_842" custom="structure {type:default;}">
+				<Coords points="124,478 1026,478 1026,842 124,842"/>
+				<Baseline points="124,842 1026,842"/>
+				<TextEquiv>
+					<Unicode>למרהב,אפמאץ 11.7.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

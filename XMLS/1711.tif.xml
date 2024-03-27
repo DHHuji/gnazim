@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1711.tif">
+		<TextRegion id="eSc_region_961_20_1255_20_1255_126_961_126" custom="structure {type:text;}">
+			<Coords points="961,20 1255,20 1255,126 961,126"/>
+			<TextLine id="eSc_line_961_20_1255_20_1255_126_961_126" custom="structure {type:default;}">
+				<Coords points="961,20 1255,20 1255,126 961,126"/>
+				<Baseline points="961,126 1255,126"/>
+				<TextEquiv>
+					<Unicode>גורי,חהנבס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_500_202_1047_202_1047_496_500_496" custom="structure {type:text;}">
+			<Coords points="500,202 1047,202 1047,496 500,496"/>
+			<TextLine id="eSc_line_500_202_1047_202_1047_496_500_496" custom="structure {type:default;}">
+				<Coords points="500,202 1047,202 1047,496 500,496"/>
+				<Baseline points="500,496 1047,496"/>
+				<TextEquiv>
+					<Unicode>עס אצ&quot;ג בהר הזיתיסעַם מותו של אצ&quot;גחתום: ח.ב.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_197_547_1247_547_1247_820_197_820" custom="structure {type:text;}">
+			<Coords points="197,547 1247,547 1247,820 197,820"/>
+			<TextLine id="eSc_line_197_547_1247_547_1247_820_197_820" custom="structure {type:default;}">
+				<Coords points="197,547 1247,547 1247,820 197,820"/>
+				<Baseline points="197,820 1247,820"/>
+				<TextEquiv>
+					<Unicode>דבר,מסא,י&quot;א אייר תשמ&quot;א, 15.5.1981 עמ&quot; 18</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

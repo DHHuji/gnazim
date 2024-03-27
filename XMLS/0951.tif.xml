@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0951.tif">
+		<TextRegion id="eSc_region_801_72_1111_72_1111_155_801_155" custom="structure {type:text;}">
+			<Coords points="801,72 1111,72 1111,155 801,155"/>
+			<TextLine id="eSc_line_801_72_1111_72_1111_155_801_155" custom="structure {type:default;}">
+				<Coords points="801,72 1111,72 1111,155 801,155"/>
+				<Baseline points="801,155 1111,155"/>
+				<TextEquiv>
+					<Unicode>גווי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_651_245_944_245_944_392_651_392" custom="structure {type:text;}">
+			<Coords points="651,245 944,245 944,392 651,392"/>
+			<TextLine id="eSc_line_651_245_944_245_944_392_651_392" custom="structure {type:default;}">
+				<Coords points="651,245 944,245 944,392 651,392"/>
+				<Baseline points="651,392 944,392"/>
+				<TextEquiv>
+					<Unicode>הכדראיניקיםחתום: חגי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_522_565_1093_565_1093_654_522_654" custom="structure {type:text;}">
+			<Coords points="522,565 1093,565 1093,654 522,654"/>
+			<TextLine id="eSc_line_522_565_1093_565_1093_654_522_654" custom="structure {type:default;}">
+				<Coords points="522,565 1093,565 1093,654 522,654"/>
+				<Baseline points="522,654 1093,654"/>
+				<TextEquiv>
+					<Unicode>למוחב, 2'.5.71, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

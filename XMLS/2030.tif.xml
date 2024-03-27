@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2030.tif">
+		<TextRegion id="eSc_region_298_255_915_255_915_427_298_427" custom="structure {type:text;}">
+			<Coords points="298,255 915,255 915,427 298,427"/>
+			<TextLine id="eSc_line_298_255_915_255_915_427_298_427" custom="structure {type:default;}">
+				<Coords points="298,255 915,255 915,427 298,427"/>
+				<Baseline points="298,427 915,427"/>
+				<TextEquiv>
+					<Unicode>המוס, הבכי והדממת' רסיסה, התום: הגיי].</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_263_487_1110_487_1110_596_263_596" custom="structure {type:text;}">
+			<Coords points="263,487 1110,487 1110,596 263,596"/>
+			<TextLine id="eSc_line_263_487_1110_487_1110_596_263_596" custom="structure {type:default;}">
+				<Coords points="263,487 1110,487 1110,596 263,596"/>
+				<Baseline points="263,596 1110,596"/>
+				<TextEquiv>
+					<Unicode>דני, ' אלול תטל&quot;ג (7.9,73), למ. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

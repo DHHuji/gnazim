@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0543.tif">
+		<TextRegion id="eSc_region_916_98_1214_98_1214_181_916_181" custom="structure {type:text;}">
+			<Coords points="916,98 1214,98 1214,181 916,181"/>
+			<TextLine id="eSc_line_916_98_1214_98_1214_181_916_181" custom="structure {type:default;}">
+				<Coords points="916,98 1214,98 1214,181 916,181"/>
+				<Baseline points="916,181 1214,181"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_689_252_1111_252_1111_466_689_466" custom="structure {type:text;}">
+			<Coords points="689,252 1111,252 1111,466 689,466"/>
+			<TextLine id="eSc_line_689_252_1111_252_1111_466_689_466" custom="structure {type:default;}">
+				<Coords points="689,252 1111,252 1111,466 689,466"/>
+				<Baseline points="689,466 1111,466"/>
+				<TextEquiv>
+					<Unicode>דברים בשש אומרםעל עתיד המדינה]חתום: ח-גי]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_179_244_676_244_676_402_179_402" custom="structure {type:text;}">
+			<Coords points="179,244 676,244 676,402 179,402"/>
+			<TextLine id="eSc_line_179_244_676_244_676_402_179_402" custom="structure {type:default;}">
+				<Coords points="179,244 676,244 676,402 179,402"/>
+				<Baseline points="179,402 676,402"/>
+				<TextEquiv>
+					<Unicode>[(שיחות עם ישואלים
+
+[מדוו: מה אומוים ?</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

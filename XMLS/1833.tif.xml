@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1833.tif">
+		<TextRegion id="eSc_region_868_75_1170_75_1170_162_868_162" custom="structure {type:text;}">
+			<Coords points="868,75 1170,75 1170,162 868,162"/>
+			<TextLine id="eSc_line_868_75_1170_75_1170_162_868_162" custom="structure {type:default;}">
+				<Coords points="868,75 1170,75 1170,162 868,162"/>
+				<Baseline points="868,162 1170,162"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ---1-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_67_298_1144_298_1144_445_67_445" custom="structure {type:text;}">
+			<Coords points="67,298 1144,298 1144,445 67,445"/>
+			<TextLine id="eSc_line_67_298_1144_298_1144_445_67_445" custom="structure {type:default;}">
+				<Coords points="67,298 1144,298 1144,445 67,445"/>
+				<Baseline points="67,445 1144,445"/>
+				<TextEquiv>
+					<Unicode>פרסוריה.- הגרמנים,- ססאלין.- סטלינגרד.-בריחה ידועפה (פה אומרים?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_41_602_826_602_826_690_41_690" custom="structure {type:text;}">
+			<Coords points="41,602 826,602 826,690 41,690"/>
+			<TextLine id="eSc_line_41_602_826_602_826_690_41_690" custom="structure {type:default;}">
+				<Coords points="41,602 826,602 826,690 41,690"/>
+				<Baseline points="41,690 826,690"/>
+				<TextEquiv>
+					<Unicode>לפרתב,פסא, 24.11.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

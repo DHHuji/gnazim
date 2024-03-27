@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0347.tif">
+		<TextRegion id="eSc_region_937_101_1235_101_1235_182_937_182" custom="structure {type:text;}">
+			<Coords points="937,101 1235,101 1235,182 937,182"/>
+			<TextLine id="eSc_line_937_101_1235_101_1235_182_937_182" custom="structure {type:default;}">
+				<Coords points="937,101 1235,101 1235,182 937,182"/>
+				<Baseline points="937,182 1235,182"/>
+				<TextEquiv>
+					<Unicode>גורי חיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_433_245_1128_245_1128_398_433_398" custom="structure {type:text;}">
+			<Coords points="433,245 1128,245 1128,398 433,398"/>
+			<TextLine id="eSc_line_433_245_1128_245_1128_398_433_398" custom="structure {type:default;}">
+				<Coords points="433,245 1128,245 1128,398 433,398"/>
+				<Baseline points="433,398 1128,398"/>
+				<TextEquiv>
+					<Unicode>בין מחנה הצבא לבית הגיישותבלקוריאה!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_360_566_1201_566_1201_655_360_655" custom="structure {type:text;}">
+			<Coords points="360,566 1201,566 1201,655 360,655"/>
+			<TextLine id="eSc_line_360_566_1201_566_1201_655_360_655" custom="structure {type:default;}">
+				<Coords points="360,566 1201,566 1201,655 360,655"/>
+				<Baseline points="360,655 1201,655"/>
+				<TextEquiv>
+					<Unicode>ידיעות אהרונות, 21.7.1970,עמ'* וו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

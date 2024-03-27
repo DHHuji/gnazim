@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1496.tif">
+		<TextRegion id="eSc_region_918_140_1157_140_1157_212_918_212" custom="structure {type:text;}">
+			<Coords points="918,140 1157,140 1157,212 918,212"/>
+			<TextLine id="eSc_line_918_140_1157_140_1157_212_918_212" custom="structure {type:default;}">
+				<Coords points="918,140 1157,140 1157,212 918,212"/>
+				<Baseline points="918,212 1157,212"/>
+				<TextEquiv>
+					<Unicode>יים י ריים יים
+י ריים
+גורי,ר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_218_360_878_360_878_494_218_494" custom="structure {type:text;}">
+			<Coords points="218,360 878,360 878,494 218,494"/>
+			<TextLine id="eSc_line_218_360_878_360_878_494_218_494" custom="structure {type:default;}">
+				<Coords points="218,360 878,360 878,494 218,494"/>
+				<Baseline points="218,494 878,494"/>
+				<TextEquiv>
+					<Unicode>&quot;הרולררה...' יה&quot;פלונרר&quot; י3)[:ר אומריס,וה ום:הגי )|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

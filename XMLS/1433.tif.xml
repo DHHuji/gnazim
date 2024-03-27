@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1433.tif">
+		<TextRegion id="eSc_region_829_53_1135_53_1135_140_829_140" custom="structure {type:text;}">
+			<Coords points="829,53 1135,53 1135,140 829,140"/>
+			<TextLine id="eSc_line_829_53_1135_53_1135_140_829_140" custom="structure {type:default;}">
+				<Coords points="829,53 1135,53 1135,140 829,140"/>
+				<Baseline points="829,140 1135,140"/>
+				<TextEquiv>
+					<Unicode>גורי חיים +</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_173_308_892_308_892_482_173_482" custom="structure {type:text;}">
+			<Coords points="173,308 892,308 892,482 173,482"/>
+			<TextLine id="eSc_line_173_308_892_308_892_482_173_482" custom="structure {type:default;}">
+				<Coords points="173,308 892,308 892,482 173,482"/>
+				<Baseline points="173,482 892,482"/>
+				<TextEquiv>
+					<Unicode>7 --%נגד הסרט הזה | חתום חגור 1(רזיסות סוף שבו?) ₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_298_596_866_596_866_840_298_840" custom="structure {type:text;}">
+			<Coords points="298,596 866,596 866,840 298,840"/>
+			<TextLine id="eSc_line_298_596_866_596_866_840_298_840" custom="structure {type:default;}">
+				<Coords points="298,596 866,596 866,840 298,840"/>
+				<Baseline points="298,840 866,840"/>
+				<TextEquiv>
+					<Unicode>00% 6
+
+י 2
+8, עלם
+729
+לפרחב,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

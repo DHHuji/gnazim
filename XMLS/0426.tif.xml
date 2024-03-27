@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0426.tif">
+		<TextRegion id="eSc_region_241_0_1163_0_1163_750_241_750" custom="structure {type:text;}">
+			<Coords points="241,0 1163,0 1163,750 241,750"/>
+			<TextLine id="eSc_line_241_0_1163_0_1163_750_241_750" custom="structure {type:default;}">
+				<Coords points="241,0 1163,0 1163,750 241,750"/>
+				<Baseline points="241,750 1163,750"/>
+				<TextEquiv>
+					<Unicode>הגור (גורי חיים) בעזרת העם הגור (גורי חיים)בעזרת העםמכתב האלמונית,- הזמן שעברדבר. ז ניסן ת-2מח25,3.1988 טמך</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

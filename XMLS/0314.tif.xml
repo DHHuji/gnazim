@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0314.tif">
+		<TextRegion id="eSc_region_840_79_1151_79_1151_176_840_176" custom="structure {type:text;}">
+			<Coords points="840,79 1151,79 1151,176 840,176"/>
+			<TextLine id="eSc_line_840_79_1151_79_1151_176_840_176" custom="structure {type:default;}">
+				<Coords points="840,79 1151,79 1151,176 840,176"/>
+				<Baseline points="840,176 1151,176"/>
+				<TextEquiv>
+					<Unicode>ורי, היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_128_242_995_242_995_412_128_412" custom="structure {type:text;}">
+			<Coords points="128,242 995,242 995,412 128,412"/>
+			<TextLine id="eSc_line_128_242_995_242_995_412_128_412" custom="structure {type:default;}">
+				<Coords points="128,242 995,242 995,412 128,412"/>
+				<Baseline points="128,412 995,412"/>
+				<TextEquiv>
+					<Unicode>בזכורון ובסיני ‏ [מדוו: רטימות סוףהטבוע, חתום: הגור]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_585_566_1095_566_1095_672_585_672" custom="structure {type:text;}">
+			<Coords points="585,566 1095,566 1095,672 585,672"/>
+			<TextLine id="eSc_line_585_566_1095_566_1095_672_585_672" custom="structure {type:default;}">
+				<Coords points="585,566 1095,566 1095,672 585,672"/>
+				<Baseline points="585,672 1095,672"/>
+				<TextEquiv>
+					<Unicode>דבר,25.0.72, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

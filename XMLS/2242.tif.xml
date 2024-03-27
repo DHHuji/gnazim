@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2242.tif">
+		<TextRegion id="eSc_region_904_127_1131_127_1131_191_904_191" custom="structure {type:text;}">
+			<Coords points="904,127 1131,127 1131,191 904,191"/>
+			<TextLine id="eSc_line_904_127_1131_127_1131_191_904_191" custom="structure {type:default;}">
+				<Coords points="904,127 1131,127 1131,191 904,191"/>
+				<Baseline points="904,191 1131,191"/>
+				<TextEquiv>
+					<Unicode>יים גורי, תח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_249_625_1230_625_1230_695_249_695" custom="structure {type:text;}">
+			<Coords points="249,625 1230,625 1230,695 249,695"/>
+			<TextLine id="eSc_line_249_625_1230_625_1230_695_249_695" custom="structure {type:default;}">
+				<Coords points="249,625 1230,625 1230,695 249,695"/>
+				<Baseline points="249,695 1230,695"/>
+				<TextEquiv>
+					<Unicode>ג - ח לס / .הדראר,שטנו 7 גל לב סש תסמוו תסל 03 5וטנ גו , /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_479_398_804_398_804_460_479_460" custom="structure {type:text;}">
+			<Coords points="479,398 804,398 804,460 479,460"/>
+			<TextLine id="eSc_line_479_398_804_398_804_460_479_460" custom="structure {type:default;}">
+				<Coords points="479,398 804,398 804,460 479,460"/>
+				<Baseline points="479,460 804,460"/>
+				<TextEquiv>
+					<Unicode>(מרור מפה ומשם)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

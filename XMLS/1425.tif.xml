@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1425.tif">
+		<TextRegion id="eSc_region_938_70_1212_70_1212_151_938_151" custom="structure {type:text;}">
+			<Coords points="938,70 1212,70 1212,151 938,151"/>
+			<TextLine id="eSc_line_938_70_1212_70_1212_151_938_151" custom="structure {type:default;}">
+				<Coords points="938,70 1212,70 1212,151 938,151"/>
+				<Baseline points="938,151 1212,151"/>
+				<TextEquiv>
+					<Unicode>גורין הייסם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_77_252_984_252_984_429_77_429" custom="structure {type:text;}">
+			<Coords points="77,252 984,252 984,429 77,429"/>
+			<TextLine id="eSc_line_77_252_984_252_984_429_77_429" custom="structure {type:default;}">
+				<Coords points="77,252 984,252 984,429 77,429"/>
+				<Baseline points="77,429 984,429"/>
+				<TextEquiv>
+					<Unicode>הנאום על מ4ב האוסה.- עקיבא(מדור רשימות סוף השבוק) ( חהום גו 7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_465_570_1247_570_1247_652_465_652" custom="structure {type:text;}">
+			<Coords points="465,570 1247,570 1247,652 465,652"/>
+			<TextLine id="eSc_line_465_570_1247_570_1247_652_465_652" custom="structure {type:default;}">
+				<Coords points="465,570 1247,570 1247,652 465,652"/>
+				<Baseline points="465,652 1247,652"/>
+				<TextEquiv>
+					<Unicode>דבר, יו כסלו השל&quot;ו, (21.11.75), עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

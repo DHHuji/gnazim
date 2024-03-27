@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0612.tif">
+		<TextRegion id="eSc_region_37_9_1277_9_1277_465_37_465" custom="structure {type:text;}">
+			<Coords points="37,9 1277,9 1277,465 37,465"/>
+			<TextLine id="eSc_line_37_9_1277_9_1277_465_37_465" custom="structure {type:default;}">
+				<Coords points="37,9 1277,9 1277,465 37,465"/>
+				<Baseline points="37,465 1277,465"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסםד&quot;ר רוונבלוס ו&quot;האנסי-תיזה&quot; (מה אומרים?+</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_403_529_1066_529_1066_878_403_878" custom="structure {type:text;}">
+			<Coords points="403,529 1066,529 1066,878 403,878"/>
+			<TextLine id="eSc_line_403_529_1066_529_1066_878_403_878" custom="structure {type:default;}">
+				<Coords points="403,529 1066,529 1066,878 403,878"/>
+				<Baseline points="403,878 1066,878"/>
+				<TextEquiv>
+					<Unicode>לסרחב, 12.9.1957, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

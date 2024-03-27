@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0961.tif">
+		<TextRegion id="eSc_region_722_88_1000_88_1000_150_722_150" custom="structure {type:text;}">
+			<Coords points="722,88 1000,88 1000,150 722,150"/>
+			<TextLine id="eSc_line_722_88_1000_88_1000_150_722_150" custom="structure {type:default;}">
+				<Coords points="722,88 1000,88 1000,150 722,150"/>
+				<Baseline points="722,150 1000,150"/>
+				<TextEquiv>
+					<Unicode>י חיים גורי,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_535_269_788_269_788_414_535_414" custom="structure {type:text;}">
+			<Coords points="535,269 788,269 788,414 535,414"/>
+			<TextLine id="eSc_line_535_269_788_269_788_414_535_414" custom="structure {type:default;}">
+				<Coords points="535,269 788,269 788,414 535,414"/>
+				<Baseline points="535,414 788,414"/>
+				<TextEquiv>
+					<Unicode>כוחו של ה| חתום</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_325_265_577_265_577_416_325_416" custom="structure {type:text;}">
+			<Coords points="325,265 577,265 577,416 325,416"/>
+			<TextLine id="eSc_line_325_265_577_265_577_416_325_416" custom="structure {type:default;}">
+				<Coords points="325,265 577,265 577,416 325,416"/>
+				<Baseline points="325,416 577,416"/>
+				<TextEquiv>
+					<Unicode>הר
+גל (סה
+ם חגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

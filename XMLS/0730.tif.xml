@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0730.tif">
+		<TextRegion id="eSc_region_911_94_1208_94_1208_176_911_176" custom="structure {type:text;}">
+			<Coords points="911,94 1208,94 1208,176 911,176"/>
+			<TextLine id="eSc_line_911_94_1208_94_1208_176_911_176" custom="structure {type:default;}">
+				<Coords points="911,94 1208,94 1208,176 911,176"/>
+				<Baseline points="911,176 1208,176"/>
+				<TextEquiv>
+					<Unicode>גורי חתיים -2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_256_240_1178_240_1178_395_256_395" custom="structure {type:text;}">
+			<Coords points="256,240 1178,240 1178,395 256,395"/>
+			<TextLine id="eSc_line_256_240_1178_240_1178_395_256_395" custom="structure {type:default;}">
+				<Coords points="256,240 1178,240 1178,395 256,395"/>
+				<Baseline points="256,395 1178,395"/>
+				<TextEquiv>
+					<Unicode>וכעת מה ?7 [מדוו: רשימות סוף העשבוע|[חתום: חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_633_566_1205_566_1205_653_633_653" custom="structure {type:text;}">
+			<Coords points="633,566 1205,566 1205,653 633,653"/>
+			<TextLine id="eSc_line_633_566_1205_566_1205_653_633_653" custom="structure {type:default;}">
+				<Coords points="633,566 1205,566 1205,653 633,653"/>
+				<Baseline points="633,653 1205,653"/>
+				<TextEquiv>
+					<Unicode>למרהב,25.9.1070, עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

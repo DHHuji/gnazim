@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1262.tif">
+		<TextRegion id="eSc_region_927_13_1171_13_1171_73_927_73" custom="structure {type:text;}">
+			<Coords points="927,13 1171,13 1171,73 927,73"/>
+			<TextLine id="eSc_line_927_13_1171_13_1171_73_927_73" custom="structure {type:default;}">
+				<Coords points="927,13 1171,13 1171,73 927,73"/>
+				<Baseline points="927,73 1171,73"/>
+				<TextEquiv>
+					<Unicode>גורי.היים גורי.היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_772_316_932_316_932_360_772_360" custom="structure {type:text;}">
+			<Coords points="772,316 932,316 932,360 772,360"/>
+			<TextLine id="eSc_line_772_316_932_316_932_360_772_360" custom="structure {type:default;}">
+				<Coords points="772,316 932,316 932,360 772,360"/>
+				<Baseline points="772,360 932,360"/>
+				<TextEquiv>
+					<Unicode>מזר-יםס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

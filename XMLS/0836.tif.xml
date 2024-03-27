@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0836.tif">
+		<TextRegion id="eSc_region_941_49_1205_49_1205_122_941_122" custom="structure {type:text;}">
+			<Coords points="941,49 1205,49 1205,122 941,122"/>
+			<TextLine id="eSc_line_941_49_1205_49_1205_122_941_122" custom="structure {type:default;}">
+				<Coords points="941,49 1205,49 1205,122 941,122"/>
+				<Baseline points="941,122 1205,122"/>
+				<TextEquiv>
+					<Unicode>גורי,חייתס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_510_229_1050_229_1050_341_510_341" custom="structure {type:text;}">
+			<Coords points="510,229 1050,229 1050,341 510,341"/>
+			<TextLine id="eSc_line_510_229_1050_229_1050_341_510_341" custom="structure {type:default;}">
+				<Coords points="510,229 1050,229 1050,341 510,341"/>
+				<Baseline points="510,341 1050,341"/>
+				<TextEquiv>
+					<Unicode>חסרי המדרגוה האלהחתום:ח-גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_404_498_1200_498_1200_722_404_722" custom="structure {type:text;}">
+			<Coords points="404,498 1200,498 1200,722 404,722"/>
+			<TextLine id="eSc_line_404_498_1200_498_1200_722_404_722" custom="structure {type:default;}">
+				<Coords points="404,498 1200,498 1200,722 404,722"/>
+				<Baseline points="404,722 1200,722"/>
+				<TextEquiv>
+					<Unicode>דבר.יד אייר חפמ 3 עמך</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

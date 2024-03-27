@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0269.tif">
+		<TextRegion id="eSc_region_269_0_1266_0_1266_775_269_775" custom="structure {type:text;}">
+			<Coords points="269,0 1266,0 1266,775 269,775"/>
+			<TextLine id="eSc_line_269_0_1266_0_1266_775_269_775" custom="structure {type:default;}">
+				<Coords points="269,0 1266,0 1266,775 269,775"/>
+				<Baseline points="269,775 1266,775"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים באוהו יום גטם, אחר הנהרים גורי,חייםבאוהו יום גטם, אחר הנהריםדבר.יד לבט תשפג,28,1,!953 עמ 16</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

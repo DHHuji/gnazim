@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0592.tif">
+		<TextRegion id="eSc_region_645_276_733_276_733_331_645_331" custom="structure {type:text;}">
+			<Coords points="645,276 733,276 733,331 645,331"/>
+			<TextLine id="eSc_line_645_276_733_276_733_331_645_331" custom="structure {type:default;}">
+				<Coords points="645,276 733,276 733,331 645,331"/>
+				<Baseline points="645,331 733,331"/>
+				<TextEquiv>
+					<Unicode>וצל</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_139_275_403_275_403_342_139_342" custom="structure {type:text;}">
+			<Coords points="139,275 403,275 403,342 139,342"/>
+			<TextLine id="eSc_line_139_275_403_275_403_342_139_342" custom="structure {type:default;}">
+				<Coords points="139,275 403,275 403,342 139,342"/>
+				<Baseline points="139,342 403,342"/>
+				<TextEquiv>
+					<Unicode>ארלוזוווב'</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_416_283_532_283_532_329_416_329" custom="structure {type:text;}">
+			<Coords points="416,283 532,283 532,329 416,329"/>
+			<TextLine id="eSc_line_416_283_532_283_532_329_416_329" custom="structure {type:default;}">
+				<Coords points="416,283 532,283 532,329 416,329"/>
+				<Baseline points="416,329 532,329"/>
+				<TextEquiv>
+					<Unicode>חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

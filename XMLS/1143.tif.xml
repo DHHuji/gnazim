@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1143.tif">
+		<TextRegion id="eSc_region_276_537_996_537_996_614_276_614" custom="structure {type:text;}">
+			<Coords points="276,537 996,537 996,614 276,614"/>
+			<TextLine id="eSc_line_276_537_996_537_996_614_276_614" custom="structure {type:default;}">
+				<Coords points="276,537 996,537 996,614 276,614"/>
+				<Baseline points="276,614 996,614"/>
+				<TextEquiv>
+					<Unicode>דבר, .&quot; סיון החל&quot;ו,(27.5.77),עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_414_226_788_226_788_395_414_395" custom="structure {type:text;}">
+			<Coords points="414,226 788,226 788,395 414,395"/>
+			<TextLine id="eSc_line_414_226_788_226_788_395_414_395" custom="structure {type:default;}">
+				<Coords points="414,226 788,226 788,395 414,395"/>
+				<Baseline points="414,395 788,395"/>
+				<TextEquiv>
+					<Unicode>מדוץ עקשה זאת?
+
+/ חתום חהג-י /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

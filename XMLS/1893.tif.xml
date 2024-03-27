@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1893.tif">
+		<TextRegion id="eSc_region_369_325_718_325_718_455_369_455" custom="structure {type:text;}">
+			<Coords points="369,325 718,325 718,455 369,455"/>
+			<TextLine id="eSc_line_369_325_718_325_718_455_369_455" custom="structure {type:default;}">
+				<Coords points="369,325 718,325 718,455 369,455"/>
+				<Baseline points="369,455 718,455"/>
+				<TextEquiv>
+					<Unicode>הו-הדרק רדרוכי [ניוכו בדרכי5| הו-הדרק רדרוכי[ניוכו בדרכי5|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

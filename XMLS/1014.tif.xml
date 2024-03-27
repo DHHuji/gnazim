@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1014.tif">
+		<TextRegion id="eSc_region_947_99_1243_99_1243_171_947_171" custom="structure {type:text;}">
+			<Coords points="947,99 1243,99 1243,171 947,171"/>
+			<TextLine id="eSc_line_947_99_1243_99_1243_171_947_171" custom="structure {type:default;}">
+				<Coords points="947,99 1243,99 1243,171 947,171"/>
+				<Baseline points="947,171 1243,171"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_172_617_1246_617_1246_755_172_755" custom="structure {type:text;}">
+			<Coords points="172,617 1246,617 1246,755 172,755"/>
+			<TextLine id="eSc_line_172_617_1246_617_1246_755_172_755" custom="structure {type:default;}">
+				<Coords points="172,617 1246,617 1246,755 172,755"/>
+				<Baseline points="172,755 1246,755"/>
+				<TextEquiv>
+					<Unicode>דבר,מטא לספרות,אפנות ועיון,טו סיון(ל195.0.7)עכ' ו -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_471_246_1092_246_1092_380_471_380" custom="structure {type:text;}">
+			<Coords points="471,246 1092,246 1092,380 471,380"/>
+			<TextLine id="eSc_line_471_246_1092_246_1092_380_471_380" custom="structure {type:default;}">
+				<Coords points="471,246 1092,246 1092,380 471,380"/>
+				<Baseline points="471,380 1092,380"/>
+				<TextEquiv>
+					<Unicode>כמרט ויפעה ‏ ן
+
+טסלועים למות א. טלונסקי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

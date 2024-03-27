@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1238.tif">
+		<TextRegion id="eSc_region_667_377_874_377_874_437_667_437" custom="structure {type:text;}">
+			<Coords points="667,377 874,377 874,437 667,437"/>
+			<TextLine id="eSc_line_667_377_874_377_874_437_667_437" custom="structure {type:default;}">
+				<Coords points="667,377 874,377 874,437 667,437"/>
+				<Baseline points="667,437 874,437"/>
+				<TextEquiv>
+					<Unicode>רכיוינו0 רכיוינו0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_388_377_1077_377_1077_504_388_504" custom="structure {type:text;}">
+			<Coords points="388,377 1077,377 1077,504 388,504"/>
+			<TextLine id="eSc_line_388_377_1077_377_1077_504_388_504" custom="structure {type:default;}">
+				<Coords points="388,377 1077,377 1077,504 388,504"/>
+				<Baseline points="388,504 1077,504"/>
+				<TextEquiv>
+					<Unicode>רכיוייוב ייומי([כרקיכות כוף ובו:רת ומנ דגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1165.tif">
+		<TextRegion id="eSc_region_300_0_1248_0_1248_796_300_796" custom="structure {type:text;}">
+			<Coords points="300,0 1248,0 1248,796 300,796"/>
+			<TextLine id="eSc_line_300_0_1248_0_1248_796_300_796" custom="structure {type:default;}">
+				<Coords points="300,0 1248,0 1248,796 300,796"/>
+				<Baseline points="300,796 1248,796"/>
+				<TextEquiv>
+					<Unicode>גודי.היים מה הדאווי: שלר? גודי.הייםמה הדאווי: שלר?(חרום: ת-גי)דבר, כ תפמוז השמה,9,7,10939 עמד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

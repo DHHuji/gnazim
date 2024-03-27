@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0636.tif">
+		<TextRegion id="eSc_region_941_92_1177_92_1177_158_941_158" custom="structure {type:text;}">
+			<Coords points="941,92 1177,92 1177,158 941,158"/>
+			<TextLine id="eSc_line_941_92_1177_92_1177_158_941_158" custom="structure {type:default;}">
+				<Coords points="941,92 1177,92 1177,158 941,158"/>
+				<Baseline points="941,158 1177,158"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_346_524_1089_524_1089_592_346_592" custom="structure {type:text;}">
+			<Coords points="346,524 1089,524 1089,592 346,592"/>
+			<TextLine id="eSc_line_346_524_1089_524_1089_592_346_592" custom="structure {type:default;}">
+				<Coords points="346,524 1089,524 1089,592 346,592"/>
+				<Baseline points="346,592 1089,592"/>
+				<TextEquiv>
+					<Unicode>דבר, י&quot;ב באב תשל&quot;ג, 10.8.1973, עם&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_193_216_875_216_875_352_193_352" custom="structure {type:text;}">
+			<Coords points="193,216 875,216 875,352 193,352"/>
+			<TextLine id="eSc_line_193_216_875_216_875_352_193_352" custom="structure {type:default;}">
+				<Coords points="193,216 875,216 875,352 193,352"/>
+				<Baseline points="193,352 875,352"/>
+				<TextEquiv>
+					<Unicode>ן על סירים של י, למדן וק.הלל (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

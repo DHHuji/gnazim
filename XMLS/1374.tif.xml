@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1374.tif">
+		<TextRegion id="eSc_region_12_0_1165_0_1165_402_12_402" custom="structure {type:text;}">
+			<Coords points="12,0 1165,0 1165,402 12,402"/>
+			<TextLine id="eSc_line_12_0_1165_0_1165_402_12_402" custom="structure {type:default;}">
+				<Coords points="12,0 1165,0 1165,402 12,402"/>
+				<Baseline points="12,402 1165,402"/>
+				<TextEquiv>
+					<Unicode>גורי חייםפסא הנעילה (פול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_141_440_929_440_929_811_141_811" custom="structure {type:text;}">
+			<Coords points="141,440 929,440 929,811 141,811"/>
+			<TextLine id="eSc_line_141_440_929_440_929_811_141_811" custom="structure {type:default;}">
+				<Coords points="141,440 929,440 929,811 141,811"/>
+				<Baseline points="141,811 929,811"/>
+				<TextEquiv>
+					<Unicode>לסרחב, 11.8.1961, עס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

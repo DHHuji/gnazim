@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0924.tif">
+		<TextRegion id="eSc_region_109_0_1142_0_1142_750_109_750" custom="structure {type:text;}">
+			<Coords points="109,0 1142,0 1142,750 109,750"/>
+			<TextLine id="eSc_line_109_0_1142_0_1142_750_109_750" custom="structure {type:default;}">
+				<Coords points="109,0 1142,0 1142,750 109,750"/>
+				<Baseline points="109,750 1142,750"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים ירוסליס,ירוסליט גורי,חייםירוסליס,ירוסליט,סרו : ח-גי.ד- - ...)5בר.יס סבה הכבמז&quot;א&quot;פו.!.0העמ7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

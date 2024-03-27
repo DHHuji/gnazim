@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1964.tif">
+		<TextRegion id="eSc_region_940_17_1200_17_1200_92_940_92" custom="structure {type:text;}">
+			<Coords points="940,17 1200,17 1200,92 940,92"/>
+			<TextLine id="eSc_line_940_17_1200_17_1200_92_940_92" custom="structure {type:default;}">
+				<Coords points="940,17 1200,17 1200,92 940,92"/>
+				<Baseline points="940,92 1200,92"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_475_220_1020_220_1020_327_475_327" custom="structure {type:text;}">
+			<Coords points="475,220 1020,220 1020,327 475,327"/>
+			<TextLine id="eSc_line_475_220_1020_220_1020_327_475_327" custom="structure {type:default;}">
+				<Coords points="475,220 1020,220 1020,327 475,327"/>
+				<Baseline points="475,327 1020,327"/>
+				<TextEquiv>
+					<Unicode>רסוריקהשיר מהוך:'איומה&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_302_533_792_533_792_729_302_729" custom="structure {type:text;}">
+			<Coords points="302,533 792,533 792,729 302,729"/>
+			<TextLine id="eSc_line_302_533_792_533_792_729_302_729" custom="structure {type:default;}">
+				<Coords points="302,533 792,533 792,729 302,729"/>
+				<Baseline points="302,729 792,729"/>
+				<TextEquiv>
+					<Unicode>:קנןו,5,|905. כל 6[</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0970.tif">
+		<TextRegion id="eSc_region_810_17_1051_17_1051_74_810_74" custom="structure {type:text;}">
+			<Coords points="810,17 1051,17 1051,74 810,74"/>
+			<TextLine id="eSc_line_810_17_1051_17_1051_74_810_74" custom="structure {type:default;}">
+				<Coords points="810,17 1051,17 1051,74 810,74"/>
+				<Baseline points="810,74 1051,74"/>
+				<TextEquiv>
+					<Unicode>וריבחתייס וריבחתייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_455_196_771_196_771_294_455_294" custom="structure {type:text;}">
+			<Coords points="455,196 771,196 771,294 455,294"/>
+			<TextLine id="eSc_line_455_196_771_196_771_294_455_294" custom="structure {type:default;}">
+				<Coords points="455,196 771,196 771,294 455,294"/>
+				<Baseline points="455,294 771,294"/>
+				<TextEquiv>
+					<Unicode>הסליסית( השומור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

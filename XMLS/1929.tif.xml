@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1929.tif">
+		<TextRegion id="eSc_region_226_293_952_293_952_387_226_387" custom="structure {type:text;}">
+			<Coords points="226,293 952,293 952,387 226,387"/>
+			<TextLine id="eSc_line_226_293_952_293_952_387_226_387" custom="structure {type:default;}">
+				<Coords points="226,293 952,293 952,387 226,387"/>
+				<Baseline points="226,387 952,387"/>
+				<TextEquiv>
+					<Unicode>/ . ל י ₪קצין ההתחבורה רקטן (עי משמט א יכמן \</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_570_650_1116_650_1116_836_570_836" custom="structure {type:text;}">
+			<Coords points="570,650 1116,650 1116,836 570,836"/>
+			<TextLine id="eSc_line_570_650_1116_650_1116_836_570_836" custom="structure {type:default;}">
+				<Coords points="570,650 1116,650 1116,836 570,836"/>
+				<Baseline points="570,836 1116,836"/>
+				<TextEquiv>
+					<Unicode>לפרהב, 22.13.01, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1319.tif">
+		<TextRegion id="eSc_region_124_20_1180_20_1180_425_124_425" custom="structure {type:text;}">
+			<Coords points="124,20 1180,20 1180,425 124,425"/>
+			<TextLine id="eSc_line_124_20_1180_20_1180_425_124_425" custom="structure {type:default;}">
+				<Coords points="124,20 1180,20 1180,425 124,425"/>
+				<Baseline points="124,425 1180,425"/>
+				<TextEquiv>
+					<Unicode>גורי, חייםמנ:עות הסליח ‏ (פול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_306_528_1047_528_1047_888_306_888" custom="structure {type:text;}">
+			<Coords points="306,528 1047,528 1047,888 306,888"/>
+			<TextLine id="eSc_line_306_528_1047_528_1047_888_306_888" custom="structure {type:default;}">
+				<Coords points="306,528 1047,528 1047,888 306,888"/>
+				<Baseline points="306,888 1047,888"/>
+				<TextEquiv>
+					<Unicode>, 7
+&quot;, עם
+1..
+לפרחב,
+
+9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

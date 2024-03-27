@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1712.tif">
+		<TextRegion id="eSc_region_906_100_1228_100_1228_183_906_183" custom="structure {type:text;}">
+			<Coords points="906,100 1228,100 1228,183 906,183"/>
+			<TextLine id="eSc_line_906_100_1228_100_1228_183_906_183" custom="structure {type:default;}">
+				<Coords points="906,100 1228,100 1228,183 906,183"/>
+				<Baseline points="906,183 1228,183"/>
+				<TextEquiv>
+					<Unicode>גורי חיים אוהה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_219_241_973_241_973_397_219_397" custom="structure {type:text;}">
+			<Coords points="219,241 973,241 973,397 219,397"/>
+			<TextLine id="eSc_line_219_241_973_241_973_397_219_397" custom="structure {type:default;}">
+				<Coords points="219,241 973,241 973,397 219,397"/>
+				<Baseline points="219,397 973,397"/>
+				<TextEquiv>
+					<Unicode>עצם הבוסתן ואורביו ‏ [על האצגתהמחזה:&quot;בוסתן ספרדי&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_777_584_1222_584_1222_672_777_672" custom="structure {type:text;}">
+			<Coords points="777,584 1222,584 1222,672 777,672"/>
+			<TextLine id="eSc_line_777_584_1222_584_1222_672_777_672" custom="structure {type:default;}">
+				<Coords points="777,584 1222,584 1222,672 777,672"/>
+				<Baseline points="777,672 1222,672"/>
+				<TextEquiv>
+					<Unicode>דבו, [
+( ו7.7, עמ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

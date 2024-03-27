@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0315.tif">
+		<TextRegion id="eSc_region_59_0_1234_0_1234_771_59_771" custom="structure {type:text;}">
+			<Coords points="59,0 1234,0 1234,771 59,771"/>
+			<TextLine id="eSc_line_59_0_1234_0_1234_771_59_771" custom="structure {type:default;}">
+				<Coords points="59,0 1234,0 1234,771 59,771"/>
+				<Baseline points="59,771 1234,771"/>
+				<TextEquiv>
+					<Unicode>&quot;3 ורי.היים &quot;3ורי.הייםבזפובזפמנים רתהם,6 ירראליס גורי,ָתן 5%דבר.איי-דגר הכבוצ.ג אהזת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

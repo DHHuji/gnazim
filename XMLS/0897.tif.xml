@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0897.tif">
+		<TextRegion id="eSc_region_284_0_1276_0_1276_885_284_885" custom="structure {type:text;}">
+			<Coords points="284,0 1276,0 1276,885 284,885"/>
+			<TextLine id="eSc_line_284_0_1276_0_1276_885_284_885" custom="structure {type:default;}">
+				<Coords points="284,0 1276,0 1276,885 284,885"/>
+				<Baseline points="284,885 1276,885"/>
+				<TextEquiv>
+					<Unicode>&quot;יהי הרבדל הקנן!&quot; [כר טוכרים,הזום:הגין &quot;יהי הרבדל הקנן!&quot;[כר טוכרים,הזום:הגיןלכרהב,2,20.10.1060נ. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0828.tif">
+		<TextRegion id="eSc_region_913_121_1163_121_1163_202_913_202" custom="structure {type:text;}">
+			<Coords points="913,121 1163,121 1163,202 913,202"/>
+			<TextLine id="eSc_line_913_121_1163_121_1163_202_913_202" custom="structure {type:default;}">
+				<Coords points="913,121 1163,121 1163,202 913,202"/>
+				<Baseline points="913,202 1163,202"/>
+				<TextEquiv>
+					<Unicode>גורי,היי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_391_349_885_349_885_485_391_485" custom="structure {type:text;}">
+			<Coords points="391,349 885,349 885,485 391,485"/>
+			<TextLine id="eSc_line_391_349_885_349_885_485_391_485" custom="structure {type:default;}">
+				<Coords points="391,349 885,349 885,485 391,485"/>
+				<Baseline points="391,485 885,485"/>
+				<TextEquiv>
+					<Unicode>דב, רוי, רם...הופ:דגי |[מלר אוכרים, הקום:רדגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_754_606_1271_606_1271_685_754_685" custom="structure {type:text;}">
+			<Coords points="754,606 1271,606 1271,685 754,685"/>
+			<TextLine id="eSc_line_754_606_1271_606_1271_685_754_685" custom="structure {type:default;}">
+				<Coords points="754,606 1271,606 1271,685 754,685"/>
+				<Baseline points="754,685 1271,685"/>
+				<TextEquiv>
+					<Unicode>קמרהב,2.9%,10-9ר
+ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

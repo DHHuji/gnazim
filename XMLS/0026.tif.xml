@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0026.tif">
+		<TextRegion id="eSc_region_737_50_1038_50_1038_135_737_135" custom="structure {type:text;}">
+			<Coords points="737,50 1038,50 1038,135 737,135"/>
+			<TextLine id="eSc_line_737_50_1038_50_1038_135_737_135" custom="structure {type:default;}">
+				<Coords points="737,50 1038,50 1038,135 737,135"/>
+				<Baseline points="737,135 1038,135"/>
+				<TextEquiv>
+					<Unicode>נורי, חתיים נורי, חתיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_419_289_1015_289_1015_472_419_472" custom="structure {type:text;}">
+			<Coords points="419,289 1015,289 1015,472 419,472"/>
+			<TextLine id="eSc_line_419_289_1015_289_1015_472_419_472" custom="structure {type:default;}">
+				<Coords points="419,289 1015,289 1015,472 419,472"/>
+				<Baseline points="419,472 1015,472"/>
+				<TextEquiv>
+					<Unicode>אגרת קסנה לתחברי הכנסת[תות חגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

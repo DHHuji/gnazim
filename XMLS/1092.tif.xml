@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1092.tif">
+		<TextRegion id="eSc_region_834_2_1107_2_1107_87_834_87" custom="structure {type:text;}">
+			<Coords points="834,2 1107,2 1107,87 834,87"/>
+			<TextLine id="eSc_line_834_2_1107_2_1107_87_834_87" custom="structure {type:default;}">
+				<Coords points="834,2 1107,2 1107,87 834,87"/>
+				<Baseline points="834,87 1107,87"/>
+				<TextEquiv>
+					<Unicode>גורי,תייםס &lt;=-חרה-1 == גורי,תייםס
+&lt;=-חרה-1 ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_199_226_792_226_792_433_199_433" custom="structure {type:text;}">
+			<Coords points="199,226 792,226 792,433 199,433"/>
+			<TextLine id="eSc_line_199_226_792_226_792_433_199_433" custom="structure {type:default;}">
+				<Coords points="199,226 792,226 792,433 199,433"/>
+				<Baseline points="199,433 792,433"/>
+				<TextEquiv>
+					<Unicode>לילה ביולי(מדור:רטיפות סוף טשבוע)(ההופ:הגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

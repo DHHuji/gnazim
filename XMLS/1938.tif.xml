@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1938.tif">
+		<TextRegion id="eSc_region_247_0_1258_0_1258_768_247_768" custom="structure {type:text;}">
+			<Coords points="247,0 1258,0 1258,768 247,768"/>
+			<TextLine id="eSc_line_247_0_1258_0_1258_768_247_768" custom="structure {type:default;}">
+				<Coords points="247,0 1258,0 1258,768 247,768"/>
+				<Baseline points="247,768 1258,768"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים ברור גורי,חייםברורגסרטהקריאה אל העברים&quot;הרוויה הכנלניה&quot;,רטוטה.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

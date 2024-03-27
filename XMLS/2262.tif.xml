@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2262.tif">
+		<TextRegion id="eSc_region_921_9_1165_9_1165_66_921_66" custom="structure {type:text;}">
+			<Coords points="921,9 1165,9 1165,66 921,66"/>
+			<TextLine id="eSc_line_921_9_1165_9_1165_66_921_66" custom="structure {type:default;}">
+				<Coords points="921,9 1165,9 1165,66 921,66"/>
+				<Baseline points="921,66 1165,66"/>
+				<TextEquiv>
+					<Unicode>גורי.בסחיים גורי.בסחיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_999_505_1162_505_1162_551_999_551" custom="structure {type:text;}">
+			<Coords points="999,505 1162,505 1162,551 999,551"/>
+			<TextLine id="eSc_line_999_505_1162_505_1162_551_999_551" custom="structure {type:default;}">
+				<Coords points="999,505 1162,505 1162,551 999,551"/>
+				<Baseline points="999,551 1162,551"/>
+				<TextEquiv>
+					<Unicode>דבר.כב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

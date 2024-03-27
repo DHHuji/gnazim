@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1702.tif">
+		<TextRegion id="eSc_region_936_99_1169_99_1169_163_936_163" custom="structure {type:text;}">
+			<Coords points="936,99 1169,99 1169,163 936,163"/>
+			<TextLine id="eSc_line_936_99_1169_99_1169_163_936_163" custom="structure {type:default;}">
+				<Coords points="936,99 1169,99 1169,163 936,163"/>
+				<Baseline points="936,163 1169,163"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ----2---.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_325_549_779_549_779_615_325_615" custom="structure {type:text;}">
+			<Coords points="325,549 779,549 779,615 325,615"/>
+			<TextLine id="eSc_line_325_549_779_549_779_615_325_615" custom="structure {type:default;}">
+				<Coords points="325,549 779,549 779,615 325,615"/>
+				<Baseline points="325,615 779,615"/>
+				<TextEquiv>
+					<Unicode>דרבר, 30.7,1954, עמ&quot; 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_570_301_983_301_983_359_570_359" custom="structure {type:text;}">
+			<Coords points="570,301 983,301 983,359 570,359"/>
+			<TextLine id="eSc_line_570_301_983_301_983_359_570_359" custom="structure {type:default;}">
+				<Coords points="570,301 983,301 983,359 570,359"/>
+				<Baseline points="570,359 983,359"/>
+				<TextEquiv>
+					<Unicode>ץעל שעקרוריה אחת קסנה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

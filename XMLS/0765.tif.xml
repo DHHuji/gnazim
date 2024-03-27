@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0765.tif">
+		<TextRegion id="eSc_region_830_96_1245_96_1245_209_830_209" custom="structure {type:text;}">
+			<Coords points="830,96 1245,96 1245,209 830,209"/>
+			<TextLine id="eSc_line_830_96_1245_96_1245_209_830_209" custom="structure {type:default;}">
+				<Coords points="830,96 1245,96 1245,209 830,209"/>
+				<Baseline points="830,209 1245,209"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_80_443_1230_443_1230_835_80_835" custom="structure {type:text;}">
+			<Coords points="80,443 1230,443 1230,835 80,835"/>
+			<TextLine id="eSc_line_80_443_1230_443_1230_835_80_835" custom="structure {type:default;}">
+				<Coords points="80,443 1230,443 1230,835 80,835"/>
+				<Baseline points="80,835 1230,835"/>
+				<TextEquiv>
+					<Unicode>(א-ג)[טירים ]אורות, ירושלים, שנה ר, חוב' כא, כסלו| - , עמ' 37/35</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_172_361_751_361_751_447_172_447" custom="structure {type:text;}">
+			<Coords points="172,361 751,361 751,447 172,447"/>
+			<TextLine id="eSc_line_172_361_751_361_751_447_172_447" custom="structure {type:default;}">
+				<Coords points="172,361 751,361 751,447 172,447"/>
+				<Baseline points="172,447 751,447"/>
+				<TextEquiv>
+					<Unicode>שיר הנדרים והקווות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

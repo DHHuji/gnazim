@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1501.tif">
+		<TextRegion id="eSc_region_898_80_1193_80_1193_159_898_159" custom="structure {type:text;}">
+			<Coords points="898,80 1193,80 1193,159 898,159"/>
+			<TextLine id="eSc_line_898_80_1193_80_1193_159_898_159" custom="structure {type:default;}">
+				<Coords points="898,80 1193,80 1193,159 898,159"/>
+				<Baseline points="898,159 1193,159"/>
+				<TextEquiv>
+					<Unicode>י. גורי, תיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_112_279_1113_279_1113_444_112_444" custom="structure {type:text;}">
+			<Coords points="112,279 1113,279 1113,444 112,444"/>
+			<TextLine id="eSc_line_112_279_1113_279_1113_444_112_444" custom="structure {type:default;}">
+				<Coords points="112,279 1113,279 1113,444 112,444"/>
+				<Baseline points="112,444 1113,444"/>
+				<TextEquiv>
+					<Unicode>סונסה על איש חף מפשץ.- מלווה עליהזה(פה אוסרים?) 2 סיירים,תתום הגי )-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_234_586_901_586_901_665_234_665" custom="structure {type:text;}">
+			<Coords points="234,586 901,586 901,665 234,665"/>
+			<TextLine id="eSc_line_234_586_901_586_901_665_234_665" custom="structure {type:default;}">
+				<Coords points="234,586 901,586 901,665 234,665"/>
+				<Baseline points="234,665 901,665"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 12.12.1958, עמ' 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

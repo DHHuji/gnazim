@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0413.tif">
+		<TextRegion id="eSc_region_986_105_1223_105_1223_177_986_177" custom="structure {type:text;}">
+			<Coords points="986,105 1223,105 1223,177 986,177"/>
+			<TextLine id="eSc_line_986_105_1223_105_1223_177_986_177" custom="structure {type:default;}">
+				<Coords points="986,105 1223,105 1223,177 986,177"/>
+				<Baseline points="986,177 1223,177"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_532_646_1200_646_1200_846_532_846" custom="structure {type:text;}">
+			<Coords points="532,646 1200,646 1200,846 532,846"/>
+			<TextLine id="eSc_line_532_646_1200_646_1200_846_532_846" custom="structure {type:default;}">
+				<Coords points="532,646 1200,646 1200,846 532,846"/>
+				<Baseline points="532,846 1200,846"/>
+				<TextEquiv>
+					<Unicode>דבר, ה שבס תשסל&quot;ה,(17.1.75),עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_477_369_956_369_956_443_477_443" custom="structure {type:text;}">
+			<Coords points="477,369 956,369 956,443 477,443"/>
+			<TextLine id="eSc_line_477_369_956_369_956_443_477_443" custom="structure {type:default;}">
+				<Coords points="477,369 956,369 956,443 477,443"/>
+				<Baseline points="477,443 956,443"/>
+				<TextEquiv>
+					<Unicode>(מדור רסימות סוף שבוץ)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

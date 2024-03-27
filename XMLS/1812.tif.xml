@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1812.tif">
+		<TextRegion id="eSc_region_868_0_1164_0_1164_100_868_100" custom="structure {type:text;}">
+			<Coords points="868,0 1164,0 1164,100 868,100"/>
+			<TextLine id="eSc_line_868_0_1164_0_1164_100_868_100" custom="structure {type:default;}">
+				<Coords points="868,0 1164,0 1164,100 868,100"/>
+				<Baseline points="868,100 1164,100"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים =----+---</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_304_520_1157_520_1157_802_304_802" custom="structure {type:text;}">
+			<Coords points="304,520 1157,520 1157,802 304,802"/>
+			<TextLine id="eSc_line_304_520_1157_520_1157_802_304_802" custom="structure {type:default;}">
+				<Coords points="304,520 1157,520 1157,802 304,802"/>
+				<Baseline points="304,802 1157,802"/>
+				<TextEquiv>
+					<Unicode>דבר,ג' סיון תשמ&quot;א,ו5.6.198 עמ&quot;2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_585_247_955_247_955_441_585_441" custom="structure {type:text;}">
+			<Coords points="585,247 955,247 955,441 585,441"/>
+			<TextLine id="eSc_line_585_247_955_247_955_441_585_441" custom="structure {type:default;}">
+				<Coords points="585,247 955,247 955,441 585,441"/>
+				<Baseline points="585,441 955,441"/>
+				<TextEquiv>
+					<Unicode>פסטיבל האביב
+
+חתוסם: ח - גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

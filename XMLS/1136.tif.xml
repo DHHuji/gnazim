@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1136.tif">
+		<TextRegion id="eSc_region_580_570_1028_570_1028_648_580_648" custom="structure {type:text;}">
+			<Coords points="580,570 1028,570 1028,648 580,648"/>
+			<TextLine id="eSc_line_580_570_1028_570_1028_648_580_648" custom="structure {type:default;}">
+				<Coords points="580,570 1028,570 1028,648 580,648"/>
+				<Baseline points="580,648 1028,648"/>
+				<TextEquiv>
+					<Unicode>למרחב, 19.8.56, ע* 2 למרחב, 19.8.56, ע* 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_58_281_785_281_785_400_58_400" custom="structure {type:text;}">
+			<Coords points="58,281 785,281 785,400 58,400"/>
+			<TextLine id="eSc_line_58_281_785_281_785_400_58_400" custom="structure {type:default;}">
+				<Coords points="58,281 785,281 785,400 58,400"/>
+				<Baseline points="58,400 785,400"/>
+				<TextEquiv>
+					<Unicode>מארסינאל מר אומרים?, חהוס: הג )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

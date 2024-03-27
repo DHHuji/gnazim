@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1698.tif">
+		<TextRegion id="eSc_region_800_4_1069_4_1069_83_800_83" custom="structure {type:text;}">
+			<Coords points="800,4 1069,4 1069,83 800,83"/>
+			<TextLine id="eSc_line_800_4_1069_4_1069_83_800_83" custom="structure {type:default;}">
+				<Coords points="800,4 1069,4 1069,83 800,83"/>
+				<Baseline points="800,83 1069,83"/>
+				<TextEquiv>
+					<Unicode>גורי,היים גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_750_506_1063_506_1063_577_750_577" custom="structure {type:text;}">
+			<Coords points="750,506 1063,506 1063,577 750,577"/>
+			<TextLine id="eSc_line_750_506_1063_506_1063_577_750_577" custom="structure {type:default;}">
+				<Coords points="750,506 1063,506 1063,577 750,577"/>
+				<Baseline points="750,577 1063,577"/>
+				<TextEquiv>
+					<Unicode>קול ירודרות.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0242.tif">
+		<TextRegion id="eSc_region_943_79_1177_79_1177_141_943_141" custom="structure {type:text;}">
+			<Coords points="943,79 1177,79 1177,141 943,141"/>
+			<TextLine id="eSc_line_943_79_1177_79_1177_141_943_141" custom="structure {type:default;}">
+				<Coords points="943,79 1177,79 1177,141 943,141"/>
+				<Baseline points="943,141 1177,141"/>
+				<TextEquiv>
+					<Unicode>גורי חייםס &lt;₪-ה+---- גורי חייםס
+&lt;₪-ה+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_224_357_726_357_726_449_224_449" custom="structure {type:text;}">
+			<Coords points="224,357 726,357 726,449 224,449"/>
+			<TextLine id="eSc_line_224_357_726_357_726_449_224_449" custom="structure {type:default;}">
+				<Coords points="224,357 726,357 726,449 224,449"/>
+				<Baseline points="224,449 726,449"/>
+				<TextEquiv>
+					<Unicode>(פר אומריםס?, חתום: הגו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

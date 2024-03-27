@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2197.tif">
+		<TextRegion id="eSc_region_743_55_1035_55_1035_128_743_128" custom="structure {type:text;}">
+			<Coords points="743,55 1035,55 1035,128 743,128"/>
+			<TextLine id="eSc_line_743_55_1035_55_1035_128_743_128" custom="structure {type:default;}">
+				<Coords points="743,55 1035,55 1035,128 743,128"/>
+				<Baseline points="743,128 1035,128"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_385_307_1031_307_1031_435_385_435" custom="structure {type:text;}">
+			<Coords points="385,307 1031,307 1031,435 385,435"/>
+			<TextLine id="eSc_line_385_307_1031_307_1031_435_385_435" custom="structure {type:default;}">
+				<Coords points="385,307 1031,307 1031,435 385,435"/>
+				<Baseline points="385,435 1031,435"/>
+				<TextEquiv>
+					<Unicode>ם' 2פ&quot;זד, /- ו-4|נ1- ג:.ליוגשא,סט</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_247_173_918_173_918_259_247_259" custom="structure {type:text;}">
+			<Coords points="247,173 918,173 918,259 247,259"/>
+			<TextLine id="eSc_line_247_173_918_173_918_259_247_259" custom="structure {type:default;}">
+				<Coords points="247,173 918,173 918,259 247,259"/>
+				<Baseline points="247,259 918,259"/>
+				<TextEquiv>
+					<Unicode>&quot;סש שעות הספר&quot; ([מכתב מפאריס]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

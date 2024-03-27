@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1229.tif">
+		<TextRegion id="eSc_region_798_328_983_328_983_386_798_386" custom="structure {type:text;}">
+			<Coords points="798,328 983,328 983,386 798,386"/>
+			<TextLine id="eSc_line_798_328_983_328_983_386_798_386" custom="structure {type:default;}">
+				<Coords points="798,328 983,328 983,386 798,386"/>
+				<Baseline points="798,386 983,386"/>
+				<TextEquiv>
+					<Unicode>&quot;מיג 19&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_257_315_762_315_762_417_257_417" custom="structure {type:text;}">
+			<Coords points="257,315 762,315 762,417 257,417"/>
+			<TextLine id="eSc_line_257_315_762_315_762_417_257_417" custom="structure {type:default;}">
+				<Coords points="257,315 762,315 762,417 257,417"/>
+				<Baseline points="257,417 762,417"/>
+				<TextEquiv>
+					<Unicode>-[ פה אומרים?, חתום: חגי )2. ₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_713_652_1128_652_1128_715_713_715" custom="structure {type:text;}">
+			<Coords points="713,652 1128,652 1128,715 713,715"/>
+			<TextLine id="eSc_line_713_652_1128_652_1128_715_713_715" custom="structure {type:default;}">
+				<Coords points="713,652 1128,652 1128,715 713,715"/>
+				<Baseline points="713,715 1128,715"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 9.2.00, ע' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2186.tif">
+		<TextRegion id="eSc_region_857_102_1164_102_1164_189_857_189" custom="structure {type:text;}">
+			<Coords points="857,102 1164,102 1164,189 857,189"/>
+			<TextLine id="eSc_line_857_102_1164_102_1164_189_857_189" custom="structure {type:default;}">
+				<Coords points="857,102 1164,102 1164,189 857,189"/>
+				<Baseline points="857,189 1164,189"/>
+				<TextEquiv>
+					<Unicode>גורי החיים 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_274_568_976_568_976_654_274_654" custom="structure {type:text;}">
+			<Coords points="274,568 976,568 976,654 274,654"/>
+			<TextLine id="eSc_line_274_568_976_568_976_654_274_654" custom="structure {type:default;}">
+				<Coords points="274,568 976,568 976,654 274,654"/>
+				<Baseline points="274,654 976,654"/>
+				<TextEquiv>
+					<Unicode>לסרחב,אש 12.7.1961, עמם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_332_321_785_321_785_409_332_409" custom="structure {type:text;}">
+			<Coords points="332,321 785,321 785,409 332,409"/>
+			<TextLine id="eSc_line_332_321_785_321_785_409_332_409" custom="structure {type:default;}">
+				<Coords points="332,321 785,321 785,409 332,409"/>
+				<Baseline points="332,409 785,409"/>
+				<TextEquiv>
+					<Unicode>(מול תא הזכוכית)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0466.tif">
+		<TextRegion id="eSc_region_992_87_1222_87_1222_153_992_153" custom="structure {type:text;}">
+			<Coords points="992,87 1222,87 1222,153 992,153"/>
+			<TextLine id="eSc_line_992_87_1222_87_1222_153_992_153" custom="structure {type:default;}">
+				<Coords points="992,87 1222,87 1222,153 992,153"/>
+				<Baseline points="992,153 1222,153"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_400_354_870_354_870_511_400_511" custom="structure {type:text;}">
+			<Coords points="400,354 870,354 870,511 400,511"/>
+			<TextLine id="eSc_line_400_354_870_354_870_511_400_511" custom="structure {type:default;}">
+				<Coords points="400,354 870,354 870,511 400,511"/>
+				<Baseline points="400,511 870,511"/>
+				<TextEquiv>
+					<Unicode>(מדור רשסימות סוף שבוץ)( התוס הגור )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_517_653_1217_653_1217_834_517_834" custom="structure {type:text;}">
+			<Coords points="517,653 1217,653 1217,834 517,834"/>
+			<TextLine id="eSc_line_517_653_1217_653_1217_834_517_834" custom="structure {type:default;}">
+				<Coords points="517,653 1217,653 1217,834 517,834"/>
+				<Baseline points="517,834 1217,834"/>
+				<TextEquiv>
+					<Unicode>דבר, ה' סיון תסל&quot;ו,(7,)3.6.76מ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

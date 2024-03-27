@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0551.tif">
+		<TextRegion id="eSc_region_891_123_1124_123_1124_188_891_188" custom="structure {type:text;}">
+			<Coords points="891,123 1124,123 1124,188 891,188"/>
+			<TextLine id="eSc_line_891_123_1124_123_1124_188_891_188" custom="structure {type:default;}">
+				<Coords points="891,123 1124,123 1124,188 891,188"/>
+				<Baseline points="891,188 1124,188"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_420_515_1093_515_1093_601_420_601" custom="structure {type:text;}">
+			<Coords points="420,515 1093,515 1093,601 420,601"/>
+			<TextLine id="eSc_line_420_515_1093_515_1093_601_420_601" custom="structure {type:default;}">
+				<Coords points="420,515 1093,515 1093,601 420,601"/>
+				<Baseline points="420,601 1093,601"/>
+				<TextEquiv>
+					<Unicode>דגר, כס סבת הפ&quot;ה, '18,1,80),למ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_568_254_978_254_978_316_568_316" custom="structure {type:text;}">
+			<Coords points="568,254 978,254 978,316 568,316"/>
+			<TextLine id="eSc_line_568_254_978_254_978_316_568_316" custom="structure {type:default;}">
+				<Coords points="568,254 978,254 978,316 568,316"/>
+				<Baseline points="568,316 978,316"/>
+				<TextEquiv>
+					<Unicode>מה אומרים? דגל הדין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

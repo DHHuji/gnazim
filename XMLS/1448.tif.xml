@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1448.tif">
+		<TextRegion id="eSc_region_722_287_1059_287_1059_366_722_366" custom="structure {type:text;}">
+			<Coords points="722,287 1059,287 1059,366 722,366"/>
+			<TextLine id="eSc_line_722_287_1059_287_1059_366_722_366" custom="structure {type:default;}">
+				<Coords points="722,287 1059,287 1059,366 722,366"/>
+				<Baseline points="722,366 1059,366"/>
+				<TextEquiv>
+					<Unicode>(מטבר לגדרר (מטבר לגדרר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_516_202_906_202_906_281_516_281" custom="structure {type:text;}">
+			<Coords points="516,202 906,202 906,281 516,281"/>
+			<TextLine id="eSc_line_516_202_906_202_906_281_516_281" custom="structure {type:default;}">
+				<Coords points="516,202 906,202 906,281 516,281"/>
+				<Baseline points="516,281 906,281"/>
+				<TextEquiv>
+					<Unicode>ני -הרוכין דר] וסכנות</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0613.tif">
+		<TextRegion id="eSc_region_692_652_971_652_971_715_692_715" custom="structure {type:text;}">
+			<Coords points="692,652 971,652 971,715 692,715"/>
+			<TextLine id="eSc_line_692_652_971_652_971_715_692_715" custom="structure {type:default;}">
+				<Coords points="692,652 971,652 971,715 692,715"/>
+				<Baseline points="692,715 971,715"/>
+				<TextEquiv>
+					<Unicode>ו0.ו.27, ק' 3 ו0.ו.27, ק' 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_526_360_938_360_938_497_526_497" custom="structure {type:text;}">
+			<Coords points="526,360 938,360 938,497 526,497"/>
+			<TextLine id="eSc_line_526_360_938_360_938_497_526_497" custom="structure {type:default;}">
+				<Coords points="526,360 938,360 938,497 526,497"/>
+				<Baseline points="526,497 938,497"/>
+				<TextEquiv>
+					<Unicode>רדרך, האנשים, הרות| התום: הגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

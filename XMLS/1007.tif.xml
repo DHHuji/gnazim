@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1007.tif">
+		<TextRegion id="eSc_region_960_87_1190_87_1190_152_960_152" custom="structure {type:text;}">
+			<Coords points="960,87 1190,87 1190,152 960,152"/>
+			<TextLine id="eSc_line_960_87_1190_87_1190_152_960_152" custom="structure {type:default;}">
+				<Coords points="960,87 1190,87 1190,152 960,152"/>
+				<Baseline points="960,152 1190,152"/>
+				<TextEquiv>
+					<Unicode>גורי חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_328_586_1161_586_1161_652_328_652" custom="structure {type:text;}">
+			<Coords points="328,586 1161,586 1161,652 328,652"/>
+			<TextLine id="eSc_line_328_586_1161_586_1161_652_328_652" custom="structure {type:default;}">
+				<Coords points="328,586 1161,586 1161,652 328,652"/>
+				<Baseline points="328,652 1161,652"/>
+				<TextEquiv>
+					<Unicode>דבר הטועלת, כסלו תסל&quot;ו,(11.1972), עם&quot; 39</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_470_291_1005_291_1005_450_470_450" custom="structure {type:text;}">
+			<Coords points="470,291 1005,291 1005,450 470,450"/>
+			<TextLine id="eSc_line_470_291_1005_291_1005_450_470_450" custom="structure {type:default;}">
+				<Coords points="470,291 1005,291 1005,450 470,450"/>
+				<Baseline points="470,450 1005,450"/>
+				<TextEquiv>
+					<Unicode>יז המלבה
+;ל ברניקי ה
+ה פרסים
+כסת
+
+&gt;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0285.tif">
+		<TextRegion id="eSc_region_836_126_1068_126_1068_189_836_189" custom="structure {type:text;}">
+			<Coords points="836,126 1068,126 1068,189 836,189"/>
+			<TextLine id="eSc_line_836_126_1068_126_1068_189_836_189" custom="structure {type:default;}">
+				<Coords points="836,126 1068,126 1068,189 836,189"/>
+				<Baseline points="836,189 1068,189"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_431_534_1126_534_1126_600_431_600" custom="structure {type:text;}">
+			<Coords points="431,534 1126,534 1126,600 431,600"/>
+			<TextLine id="eSc_line_431_534_1126_534_1126_600_431_600" custom="structure {type:default;}">
+				<Coords points="431,534 1126,534 1126,600 431,600"/>
+				<Baseline points="431,600 1126,600"/>
+				<TextEquiv>
+					<Unicode>רכר, כג שבס תשל&quot;ז,(11,2,77),עמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_453_327_941_327_941_394_453_394" custom="structure {type:text;}">
+			<Coords points="453,327 941,327 941,394 453,394"/>
+			<TextLine id="eSc_line_453_327_941_327_941_394_453_394" custom="structure {type:default;}">
+				<Coords points="453,327 941,327 941,394 453,394"/>
+				<Baseline points="453,394 941,394"/>
+				<TextEquiv>
+					<Unicode>(פדור רסימות סוף השבועץ)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

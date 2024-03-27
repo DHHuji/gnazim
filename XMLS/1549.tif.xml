@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1549.tif">
+		<TextRegion id="eSc_region_944_9_1213_9_1213_82_944_82" custom="structure {type:text;}">
+			<Coords points="944,9 1213,9 1213,82 944,82"/>
+			<TextLine id="eSc_line_944_9_1213_9_1213_82_944_82" custom="structure {type:default;}">
+				<Coords points="944,9 1213,9 1213,82 944,82"/>
+				<Baseline points="944,82 1213,82"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_378_1205_378_1205_458_0_458" custom="structure {type:text;}">
+			<Coords points="0,378 1205,378 1205,458 0,458"/>
+			<TextLine id="eSc_line_0_378_1205_378_1205_458_0_458" custom="structure {type:default;}">
+				<Coords points="0,378 1205,378 1205,458 0,458"/>
+				<Baseline points="0,458 1205,458"/>
+				<TextEquiv>
+					<Unicode>[פל:עלייהתו ונפילתו של הרייך השליסי סאת ויליאם שיירר]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_644_290_1077_290_1077_357_644_357" custom="structure {type:text;}">
+			<Coords points="644,290 1077,290 1077,357 644,357"/>
+			<TextLine id="eSc_line_644_290_1077_290_1077_357_644_357" custom="structure {type:default;}">
+				<Coords points="644,290 1077,290 1077,357 644,357"/>
+				<Baseline points="644,357 1077,357"/>
+				<TextEquiv>
+					<Unicode>+כ-א&quot;י: ספר הובה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

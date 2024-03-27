@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1048.tif">
+		<TextRegion id="eSc_region_885_216_1000_216_1000_264_885_264" custom="structure {type:text;}">
+			<Coords points="885,216 1000,216 1000,264 885,264"/>
+			<TextLine id="eSc_line_885_216_1000_216_1000_264_885_264" custom="structure {type:default;}">
+				<Coords points="885,216 1000,216 1000,264 885,264"/>
+				<Baseline points="885,264 1000,264"/>
+				<TextEquiv>
+					<Unicode>לאחר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_380_217_873_217_873_355_380_355" custom="structure {type:text;}">
+			<Coords points="380,217 873,217 873,355 380,355"/>
+			<TextLine id="eSc_line_380_217_873_217_873_355_380_355" custom="structure {type:default;}">
+				<Coords points="380,217 873,217 873,355 380,355"/>
+				<Baseline points="380,355 873,355"/>
+				<TextEquiv>
+					<Unicode>ארכלים פנה(אושוויץ 1945-1985!התחום:חגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_557_533_924_533_924_730_557_730" custom="structure {type:text;}">
+			<Coords points="557,533 924,533 924,730 557,730"/>
+			<TextLine id="eSc_line_557_533_924_533_924_730_557_730" custom="structure {type:default;}">
+				<Coords points="557,533 924,533 924,730 557,730"/>
+				<Baseline points="557,730 924,730"/>
+				<TextEquiv>
+					<Unicode>הסמה, 2,108%,ו|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

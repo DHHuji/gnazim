@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0431.tif">
+		<TextRegion id="eSc_region_862_9_1124_9_1124_82_862_82" custom="structure {type:text;}">
+			<Coords points="862,9 1124,9 1124,82 862,82"/>
+			<TextLine id="eSc_line_862_9_1124_9_1124_82_862_82" custom="structure {type:default;}">
+				<Coords points="862,9 1124,9 1124,82 862,82"/>
+				<Baseline points="862,82 1124,82"/>
+				<TextEquiv>
+					<Unicode>גורי,תחיים גורי,תחיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_325_484_1117_484_1117_553_325_553" custom="structure {type:text;}">
+			<Coords points="325,484 1117,484 1117,553 325,553"/>
+			<TextLine id="eSc_line_325_484_1117_484_1117_553_325_553" custom="structure {type:default;}">
+				<Coords points="325,484 1117,484 1117,553 325,553"/>
+				<Baseline points="325,553 1117,553"/>
+				<TextEquiv>
+					<Unicode>דבר.ידניסן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

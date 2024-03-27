@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0034.tif">
+		<TextRegion id="eSc_region_1038_100_1148_100_1148_172_1038_172" custom="structure {type:text;}">
+			<Coords points="1038,100 1148,100 1148,172 1038,172"/>
+			<TextLine id="eSc_line_1038_100_1148_100_1148_172_1038_172" custom="structure {type:default;}">
+				<Coords points="1038,100 1148,100 1148,172 1038,172"/>
+				<Baseline points="1038,172 1148,172"/>
+				<TextEquiv>
+					<Unicode>הגי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_67_415_1143_415_1143_562_67_562" custom="structure {type:text;}">
+			<Coords points="67,415 1143,415 1143,562 67,562"/>
+			<TextLine id="eSc_line_67_415_1143_415_1143_562_67_562" custom="structure {type:default;}">
+				<Coords points="67,415 1143,415 1143,562 67,562"/>
+				<Baseline points="67,562 1143,562"/>
+				<TextEquiv>
+					<Unicode>הפופעל הצפיר, ם' אייר תרצ&quot;ג - 55.5.1933 (שבה 26,גליון 28, 10-9)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_131_218_1007_218_1007_360_131_360" custom="structure {type:text;}">
+			<Coords points="131,218 1007,218 1007,360 131,360"/>
+			<TextLine id="eSc_line_131_218_1007_218_1007_360_131_360" custom="structure {type:default;}">
+				<Coords points="131,218 1007,218 1007,360 131,360"/>
+				<Baseline points="131,360 1007,360"/>
+				<TextEquiv>
+					<Unicode>&quot;האדסה הסובה&quot; [ םאת פרל בוק בתרגום פסה
+
+גינצגורג ]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

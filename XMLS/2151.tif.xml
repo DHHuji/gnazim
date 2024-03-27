@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2151.tif">
+		<TextRegion id="eSc_region_100_48_1210_48_1210_518_100_518" custom="structure {type:text;}">
+			<Coords points="100,48 1210,48 1210,518 100,518"/>
+			<TextLine id="eSc_line_100_48_1210_48_1210_518_100_518" custom="structure {type:default;}">
+				<Coords points="100,48 1210,48 1210,518 100,518"/>
+				<Baseline points="100,518 1210,518"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים שני שיריסן בלובן המלוה של שפתי, - לאורך גורי, חייםשני שיריסן בלובן המלוה של שפתי, - לאורךהשבילים%,משא, גליון ו, תשי&quot;א, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

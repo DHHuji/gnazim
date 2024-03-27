@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1285.tif">
+		<TextRegion id="eSc_region_925_147_1170_147_1170_220_925_220" custom="structure {type:text;}">
+			<Coords points="925,147 1170,147 1170,220 925,220"/>
+			<TextLine id="eSc_line_925_147_1170_147_1170_220_925_220" custom="structure {type:default;}">
+				<Coords points="925,147 1170,147 1170,220 925,220"/>
+				<Baseline points="925,220 1170,220"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_361_353_1023_353_1023_483_361_483" custom="structure {type:text;}">
+			<Coords points="361,353 1023,353 1023,483 361,483"/>
+			<TextLine id="eSc_line_361_353_1023_353_1023_483_361_483" custom="structure {type:default;}">
+				<Coords points="361,353 1023,353 1023,483 361,483"/>
+				<Baseline points="361,483 1023,483"/>
+				<TextEquiv>
+					<Unicode>סן הסדבר ועד הים - ארץ אחת;בהיקרע אבר סהגוף (רשיםהן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_309_635_1252_635_1252_851_309_851" custom="structure {type:text;}">
+			<Coords points="309,635 1252,635 1252,851 309,851"/>
+			<TextLine id="eSc_line_309_635_1252_635_1252_851_309_851" custom="structure {type:default;}">
+				<Coords points="309,635 1252,635 1252,851 309,851"/>
+				<Baseline points="309,851 1252,851"/>
+				<TextEquiv>
+					<Unicode>בשפר, בסאון החסיבה הצפירה,11.5.1950,עס. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

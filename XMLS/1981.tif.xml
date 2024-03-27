@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1981.tif">
+		<TextRegion id="eSc_region_855_28_1114_28_1114_102_855_102" custom="structure {type:text;}">
+			<Coords points="855,28 1114,28 1114,102 855,102"/>
+			<TextLine id="eSc_line_855_28_1114_28_1114_102_855_102" custom="structure {type:default;}">
+				<Coords points="855,28 1114,28 1114,102 855,102"/>
+				<Baseline points="855,102 1114,102"/>
+				<TextEquiv>
+					<Unicode>ורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_291_484_1109_484_1109_710_291_710" custom="structure {type:text;}">
+			<Coords points="291,484 1109,484 1109,710 291,710"/>
+			<TextLine id="eSc_line_291_484_1109_484_1109_710_291_710" custom="structure {type:default;}">
+				<Coords points="291,484 1109,484 1109,710 291,710"/>
+				<Baseline points="291,710 1109,710"/>
+				<TextEquiv>
+					<Unicode>דבר, כח אלול תכמג, 6.8,195%5 עץמ2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_653_162_936_162_936_277_653_277" custom="structure {type:text;}">
+			<Coords points="653,162 936,162 936,277 653,277"/>
+			<TextLine id="eSc_line_653_162_936_162_936_277_653_277" custom="structure {type:default;}">
+				<Coords points="653,162 936,162 936,277 653,277"/>
+				<Baseline points="653,277 936,277"/>
+				<TextEquiv>
+					<Unicode>רק לא זה
+חהום: ח-גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

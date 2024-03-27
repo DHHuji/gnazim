@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0693.tif">
+		<TextRegion id="eSc_region_975_74_1226_74_1226_136_975_136" custom="structure {type:text;}">
+			<Coords points="975,74 1226,74 1226,136 975,136"/>
+			<TextLine id="eSc_line_975_74_1226_74_1226_136_975_136" custom="structure {type:default;}">
+				<Coords points="975,74 1226,74 1226,136 975,136"/>
+				<Baseline points="975,136 1226,136"/>
+				<TextEquiv>
+					<Unicode>גורי חיים -----1---- גורי חיים
+-----1----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_305_348_986_348_986_469_305_469" custom="structure {type:text;}">
+			<Coords points="305,348 986,348 986,469 305,469"/>
+			<TextLine id="eSc_line_305_348_986_348_986_469_305_469" custom="structure {type:default;}">
+				<Coords points="305,348 986,348 986,469 305,469"/>
+				<Baseline points="305,469 986,469"/>
+				<TextEquiv>
+					<Unicode>הרהורים עליזים על הבחירות הבאות( חוווס: הגור )</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

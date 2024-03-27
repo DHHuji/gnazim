@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1295.tif">
+		<TextRegion id="eSc_region_912_71_1144_71_1144_133_912_133" custom="structure {type:text;}">
+			<Coords points="912,71 1144,71 1144,133 912,133"/>
+			<TextLine id="eSc_line_912_71_1144_71_1144_133_912_133" custom="structure {type:default;}">
+				<Coords points="912,71 1144,71 1144,133 912,133"/>
+				<Baseline points="912,133 1144,133"/>
+				<TextEquiv>
+					<Unicode>גורי חיים ----+----- גורי חיים
+----+-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_340_320_837_320_837_415_340_415" custom="structure {type:text;}">
+			<Coords points="340,320 837,320 837,415 340,415"/>
+			<TextLine id="eSc_line_340_320_837_320_837_415_340_415" custom="structure {type:default;}">
+				<Coords points="340,320 837,320 837,415 340,415"/>
+				<Baseline points="340,415 837,415"/>
+				<TextEquiv>
+					<Unicode>מסך הדומיר (חתוס: הגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0112.tif">
+		<TextRegion id="eSc_region_922_107_1212_107_1212_182_922_182" custom="structure {type:text;}">
+			<Coords points="922,107 1212,107 1212,182 922,182"/>
+			<TextLine id="eSc_line_922_107_1212_107_1212_182_922_182" custom="structure {type:default;}">
+				<Coords points="922,107 1212,107 1212,182 922,182"/>
+				<Baseline points="922,182 1212,182"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 4 רק</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_291_269_1080_269_1080_418_291_418" custom="structure {type:text;}">
+			<Coords points="291,269 1080,269 1080,418 291,418"/>
+			<TextLine id="eSc_line_291_269_1080_269_1080_418_291_418" custom="structure {type:default;}">
+				<Coords points="291,269 1080,269 1080,418 291,418"/>
+				<Baseline points="291,418 1080,418"/>
+				<TextEquiv>
+					<Unicode>אילו או/ו צילום אחורי ההסטוריה(מדוו: וסשימות סוף הטבוע, חתום:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_57_571_1206_571_1206_651_57_651" custom="structure {type:text;}">
+			<Coords points="57,571 1206,571 1206,651 57,651"/>
+			<TextLine id="eSc_line_57_571_1206_571_1206_651_57_651" custom="structure {type:default;}">
+				<Coords points="57,571 1206,571 1206,651 57,651"/>
+				<Baseline points="57,651 1206,651"/>
+				<TextEquiv>
+					<Unicode>3 %4
+למרחב, מטא לספוות, אמנות ובק?וות,7.8.1970,עמ' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

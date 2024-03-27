@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2028.tif">
+		<TextRegion id="eSc_region_965_151_1199_151_1199_215_965_215" custom="structure {type:text;}">
+			<Coords points="965,151 1199,151 1199,215 965,215"/>
+			<TextLine id="eSc_line_965_151_1199_151_1199_215_965_215" custom="structure {type:default;}">
+				<Coords points="965,151 1199,151 1199,215 965,215"/>
+				<Baseline points="965,215 1199,215"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_130_321_946_321_946_450_130_450" custom="structure {type:text;}">
+			<Coords points="130,321 946,321 946,450 130,450"/>
+			<TextLine id="eSc_line_130_321_946_321_946_450_130_450" custom="structure {type:default;}">
+				<Coords points="130,321 946,321 946,450 130,450"/>
+				<Baseline points="130,450 946,450"/>
+				<TextEquiv>
+					<Unicode>ו \ = - - ---(מרור רסימות סוף השבועץ) ( חתום חגור /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_472_646_1250_646_1250_833_472_833" custom="structure {type:text;}">
+			<Coords points="472,646 1250,646 1250,833 472,833"/>
+			<TextLine id="eSc_line_472_646_1250_646_1250_833_472_833" custom="structure {type:default;}">
+				<Coords points="472,646 1250,646 1250,833 472,833"/>
+				<Baseline points="472,833 1250,833"/>
+				<TextEquiv>
+					<Unicode>דבר, יר תשרי תשל&quot;ז, (8.10,76), עם* דו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

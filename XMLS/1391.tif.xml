@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1391.tif">
+		<TextRegion id="eSc_region_992_19_1232_19_1232_83_992_83" custom="structure {type:text;}">
+			<Coords points="992,19 1232,19 1232,83 992,83"/>
+			<TextLine id="eSc_line_992_19_1232_19_1232_83_992_83" custom="structure {type:default;}">
+				<Coords points="992,19 1232,19 1232,83 992,83"/>
+				<Baseline points="992,83 1232,83"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_19_566_1244_566_1244_636_19_636" custom="structure {type:text;}">
+			<Coords points="19,566 1244,566 1244,636 19,636"/>
+			<TextLine id="eSc_line_19_566_1244_566_1244_636_19_636" custom="structure {type:default;}">
+				<Coords points="19,566 1244,566 1244,636 19,636"/>
+				<Baseline points="19,636 1244,636"/>
+				<TextEquiv>
+					<Unicode>עתון77, שנה ד' מס'!2,אייר-תמוז תס&quot;ם, מאי-יוני 1980, עס&quot;19,6</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_270_312_982_312_982_379_270_379" custom="structure {type:text;}">
+			<Coords points="270,312 982,312 982,379 270,379"/>
+			<TextLine id="eSc_line_270_312_982_312_982_379_270_379" custom="structure {type:default;}">
+				<Coords points="270,312 982,312 982,379 270,379"/>
+				<Baseline points="270,379 982,379"/>
+				<TextEquiv>
+					<Unicode>(קסץים מתוך &quot;החקירה&quot;, סיפור רעואל)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

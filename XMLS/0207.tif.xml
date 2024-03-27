@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0207.tif">
+		<TextRegion id="eSc_region_904_79_1161_79_1161_143_904_143" custom="structure {type:text;}">
+			<Coords points="904,79 1161,79 1161,143 904,143"/>
+			<TextLine id="eSc_line_904_79_1161_79_1161_143_904_143" custom="structure {type:default;}">
+				<Coords points="904,79 1161,79 1161,143 904,143"/>
+				<Baseline points="904,143 1161,143"/>
+				<TextEquiv>
+					<Unicode>גורי חיים | --------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_0_212_1094_212_1094_506_0_506" custom="structure {type:text;}">
+			<Coords points="0,212 1094,212 1094,506 0,506"/>
+			<TextLine id="eSc_line_0_212_1094_212_1094_506_0_506" custom="structure {type:default;}">
+				<Coords points="0,212 1094,212 1094,506 0,506"/>
+				<Baseline points="0,506 1094,506"/>
+				<TextEquiv>
+					<Unicode>אנתולוגיוה קסנותכזכיר אה: כשרניחיבסקי,וזל,ש.סלום,אצ'ג,י.פרני,א.פןי.רסוש,ל.גולדברג,ו.אליעז,א.ישורון!פרלסוסר),ב.גלאי,תל,הלל,י,עפיתי,א.גלבע,ש.גרו-זנסקי,נ זך,ד.רכיסוביץ,ד.פגיסמפ.דור,א.סיון (</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_63_623_1192_623_1192_691_63_691" custom="structure {type:text;}">
+			<Coords points="63,623 1192,623 1192,691 63,691"/>
+			<TextLine id="eSc_line_63_623_1192_623_1192_691_63_691" custom="structure {type:default;}">
+				<Coords points="63,623 1192,623 1192,691 63,691"/>
+				<Baseline points="63,691 1192,691"/>
+				<TextEquiv>
+					<Unicode>דבר, דבר העבוע,גל*44, ה' חשון תשל&quot;ז,(0.76ן,52,)29&quot; 5/4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

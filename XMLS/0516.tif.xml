@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0516.tif">
+		<TextRegion id="eSc_region_858_74_1175_74_1175_196_858_196" custom="structure {type:text;}">
+			<Coords points="858,74 1175,74 1175,196 858,196"/>
+			<TextLine id="eSc_line_858_74_1175_74_1175_196_858_196" custom="structure {type:default;}">
+				<Coords points="858,74 1175,74 1175,196 858,196"/>
+				<Baseline points="858,196 1175,196"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסם ו גורי, חייסם
+ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_500_191_1172_191_1172_454_500_454" custom="structure {type:text;}">
+			<Coords points="500,191 1172,191 1172,454 500,454"/>
+			<TextLine id="eSc_line_500_191_1172_191_1172_454_500_454" custom="structure {type:default;}">
+				<Coords points="500,191 1172,191 1172,454 500,454"/>
+				<Baseline points="500,454 1172,454"/>
+				<TextEquiv>
+					<Unicode>הגלדיולה הפחורה [רשימה]משא, גליון [, השי&quot;ב, עם' 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

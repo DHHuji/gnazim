@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0852.tif">
+		<TextRegion id="eSc_region_863_9_1124_9_1124_83_863_83" custom="structure {type:text;}">
+			<Coords points="863,9 1124,9 1124,83 863,83"/>
+			<TextLine id="eSc_line_863_9_1124_9_1124_83_863_83" custom="structure {type:default;}">
+				<Coords points="863,9 1124,9 1124,83 863,83"/>
+				<Baseline points="863,83 1124,83"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_304_510_1118_510_1118_721_304_721" custom="structure {type:text;}">
+			<Coords points="304,510 1118,510 1118,721 304,721"/>
+			<TextLine id="eSc_line_304_510_1118_510_1118_721_304_721" custom="structure {type:default;}">
+				<Coords points="304,510 1118,510 1118,721 304,721"/>
+				<Baseline points="304,721 1118,721"/>
+				<TextEquiv>
+					<Unicode>דבר. כב אלול חכמו26.9.'986 עמ5פו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_557_240_945_240_945_307_557_307" custom="structure {type:text;}">
+			<Coords points="557,240 945,240 945,307 557,307"/>
+			<TextLine id="eSc_line_557_240_945_240_945_307_557_307" custom="structure {type:default;}">
+				<Coords points="557,240 945,240 945,307 557,307"/>
+				<Baseline points="557,307 945,307"/>
+				<TextEquiv>
+					<Unicode>חסבון עובר וסב</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

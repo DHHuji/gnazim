@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0786.tif">
+		<TextRegion id="eSc_region_848_145_1142_145_1142_230_848_230" custom="structure {type:text;}">
+			<Coords points="848,145 1142,145 1142,230 848,230"/>
+			<TextLine id="eSc_line_848_145_1142_145_1142_230_848_230" custom="structure {type:default;}">
+				<Coords points="848,145 1142,145 1142,230 848,230"/>
+				<Baseline points="848,230 1142,230"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 0-0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_169_337_1161_337_1161_487_169_487" custom="structure {type:text;}">
+			<Coords points="169,337 1161,337 1161,487 169,487"/>
+			<TextLine id="eSc_line_169_337_1161_337_1161_487_169_487" custom="structure {type:default;}">
+				<Coords points="169,337 1161,337 1161,487 169,487"/>
+				<Baseline points="169,487 1161,487"/>
+				<TextEquiv>
+					<Unicode>- החבר הואתמה|( רסיסה, מרור: מה אומרים, חתום: &quot;-גי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_364_612_1257_612_1257_696_364_696" custom="structure {type:text;}">
+			<Coords points="364,612 1257,612 1257,696 364,696"/>
+			<TextLine id="eSc_line_364_612_1257_612_1257_696_364_696" custom="structure {type:default;}">
+				<Coords points="364,612 1257,612 1257,696 364,696"/>
+				<Baseline points="364,696 1257,696"/>
+				<TextEquiv>
+					<Unicode>דבר, י* אייר תטל&quot;ד (3.5.74\, 7ם. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

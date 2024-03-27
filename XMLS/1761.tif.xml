@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1761.tif">
+		<TextRegion id="eSc_region_825_258_1019_258_1019_329_825_329" custom="structure {type:text;}">
+			<Coords points="825,258 1019,258 1019,329 825,329"/>
+			<TextLine id="eSc_line_825_258_1019_258_1019_329_825_329" custom="structure {type:default;}">
+				<Coords points="825,258 1019,258 1019,329 825,329"/>
+				<Baseline points="825,329 1019,329"/>
+				<TextEquiv>
+					<Unicode>*- ה&quot;לליקקר&quot; *-
+ה&quot;לליקקר&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_539_578_952_578_952_629_539_629" custom="structure {type:text;}">
+			<Coords points="539,578 952,578 952,629 539,629"/>
+			<TextLine id="eSc_line_539_578_952_578_952_629_539_629" custom="structure {type:default;}">
+				<Coords points="539,578 952,578 952,629 539,629"/>
+				<Baseline points="539,629 952,629"/>
+				<TextEquiv>
+					<Unicode>תסל&quot;ם,(17.11.78),לם7</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

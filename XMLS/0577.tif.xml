@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0577.tif">
+		<TextRegion id="eSc_region_161_294_911_294_911_462_161_462" custom="structure {type:text;}">
+			<Coords points="161,294 911,294 911,462 161,462"/>
+			<TextLine id="eSc_line_161_294_911_294_911_462_161_462" custom="structure {type:default;}">
+				<Coords points="161,294 911,294 911,462 161,462"/>
+				<Baseline points="161,462 911,462"/>
+				<TextEquiv>
+					<Unicode>דחילץ, הן היוך! ה אומרים&quot;, חתום:-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_565_635_1154_635_1154_845_565_845" custom="structure {type:text;}">
+			<Coords points="565,635 1154,635 1154,845 565,845"/>
+			<TextLine id="eSc_line_565_635_1154_635_1154_845_565_845" custom="structure {type:default;}">
+				<Coords points="565,635 1154,635 1154,845 565,845"/>
+				<Baseline points="565,845 1154,845"/>
+				<TextEquiv>
+					<Unicode>למרחב, משא, 9.2.00, ע&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

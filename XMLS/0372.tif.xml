@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0372.tif">
+		<TextRegion id="eSc_region_979_118_1218_118_1218_183_979_183" custom="structure {type:text;}">
+			<Coords points="979,118 1218,118 1218,183 979,183"/>
+			<TextLine id="eSc_line_979_118_1218_118_1218_183_979_183" custom="structure {type:default;}">
+				<Coords points="979,118 1218,118 1218,183 979,183"/>
+				<Baseline points="979,183 1218,183"/>
+				<TextEquiv>
+					<Unicode>גורי, תיים ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_330_595_1232_595_1232_661_330_661" custom="structure {type:text;}">
+			<Coords points="330,595 1232,595 1232,661 330,661"/>
+			<TextLine id="eSc_line_330_595_1232_595_1232_661_330_661" custom="structure {type:default;}">
+				<Coords points="330,595 1232,595 1232,661 330,661"/>
+				<Baseline points="330,661 1232,661"/>
+				<TextEquiv>
+					<Unicode>רבר, מסא, גל 37, ערה&quot;ש תסל&quot;ו,(5.9.15), עם 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_367_270_706_270_706_489_367_489" custom="structure {type:text;}">
+			<Coords points="367,270 706,270 706,489 367,489"/>
+			<TextLine id="eSc_line_367_270_706_270_706_489_367_489" custom="structure {type:default;}">
+				<Coords points="367,270 706,270 706,489 367,489"/>
+				<Baseline points="367,489 706,489"/>
+				<TextEquiv>
+					<Unicode>( שני סיריס
+-
+
+) 10 0% /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

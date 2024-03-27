@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1849.tif">
+		<TextRegion id="eSc_region_926_61_1175_61_1175_142_926_142" custom="structure {type:text;}">
+			<Coords points="926,61 1175,61 1175,142 926,142"/>
+			<TextLine id="eSc_line_926_61_1175_61_1175_142_926_142" custom="structure {type:default;}">
+				<Coords points="926,61 1175,61 1175,142 926,142"/>
+				<Baseline points="926,142 1175,142"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_245_191_988_191_988_378_245_378" custom="structure {type:text;}">
+			<Coords points="245,191 988,191 988,378 245,378"/>
+			<TextLine id="eSc_line_245_191_988_191_988_378_245_378" custom="structure {type:default;}">
+				<Coords points="245,191 988,191 988,378 245,378"/>
+				<Baseline points="245,378 988,378"/>
+				<TextEquiv>
+					<Unicode>פרקיפ סוידויי חצותן (ג)סיהה קם אוריאל ( על יונהן 5</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_175_561_1129_561_1129_642_175_642" custom="structure {type:text;}">
+			<Coords points="175,561 1129,561 1129,642 175,642"/>
+			<TextLine id="eSc_line_175_561_1129_561_1129_642_175_642" custom="structure {type:default;}">
+				<Coords points="175,561 1129,561 1129,642 175,642"/>
+				<Baseline points="175,642 1129,642"/>
+				<TextEquiv>
+					<Unicode>מעריב,ספרות, כב סבת תסל&quot;ו,(26.12.75),עמ 36/33</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1642.tif">
+		<TextRegion id="eSc_region_994_106_1229_106_1229_171_994_171" custom="structure {type:text;}">
+			<Coords points="994,106 1229,106 1229,171 994,171"/>
+			<TextLine id="eSc_line_994_106_1229_106_1229_171_994_171" custom="structure {type:default;}">
+				<Coords points="994,106 1229,106 1229,171 994,171"/>
+				<Baseline points="994,171 1229,171"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים --1-----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_224_326_1038_326_1038_538_224_538" custom="structure {type:text;}">
+			<Coords points="224,326 1038,326 1038,538 224,538"/>
+			<TextLine id="eSc_line_224_326_1038_326_1038_538_224_538" custom="structure {type:default;}">
+				<Coords points="224,326 1038,326 1038,538 224,538"/>
+				<Baseline points="224,538 1038,538"/>
+				<TextEquiv>
+					<Unicode>&quot;ץל זאת&quot; ועל עוד משהו | (סה אומרים?)דרלדברי נתן אלתרמן, חתום הגי]2 3 376</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_359_643_876_643_876_712_359_712" custom="structure {type:text;}">
+			<Coords points="359,643 876,643 876,712 359,712"/>
+			<TextLine id="eSc_line_359_643_876_643_876_712_359_712" custom="structure {type:default;}">
+				<Coords points="359,643 876,643 876,712 359,712"/>
+				<Baseline points="359,712 876,712"/>
+				<TextEquiv>
+					<Unicode>למרחב, 11.12.1956, עפם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

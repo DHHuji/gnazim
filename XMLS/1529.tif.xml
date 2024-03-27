@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1529.tif">
+		<TextRegion id="eSc_region_918_18_1219_18_1219_131_918_131" custom="structure {type:text;}">
+			<Coords points="918,18 1219,18 1219,131 918,131"/>
+			<TextLine id="eSc_line_918_18_1219_18_1219_131_918_131" custom="structure {type:default;}">
+				<Coords points="918,18 1219,18 1219,131 918,131"/>
+				<Baseline points="918,131 1219,131"/>
+				<TextEquiv>
+					<Unicode>גורי,היים ----+----</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_385_552_1210_552_1210_845_385_845" custom="structure {type:text;}">
+			<Coords points="385,552 1210,552 1210,845 385,845"/>
+			<TextLine id="eSc_line_385_552_1210_552_1210_845_385_845" custom="structure {type:default;}">
+				<Coords points="385,552 1210,552 1210,845 385,845"/>
+				<Baseline points="385,845 1210,845"/>
+				<TextEquiv>
+					<Unicode>דבר,י&quot;* סבס תשמ&quot;א,ו6.!,8ועמ'15</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_537_243_1014_243_1014_455_537_455" custom="structure {type:text;}">
+			<Coords points="537,243 1014,243 1014,455 537,455"/>
+			<TextLine id="eSc_line_537_243_1014_243_1014_455_537_455" custom="structure {type:default;}">
+				<Coords points="537,243 1014,243 1014,455 537,455"/>
+				<Baseline points="537,455 1014,455"/>
+				<TextEquiv>
+					<Unicode>&quot; סיפור של אהבה&quot;
+
+חתום: ח-גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

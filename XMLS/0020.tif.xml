@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0020.tif">
+		<TextRegion id="eSc_region_171_0_1177_0_1177_728_171_728" custom="structure {type:text;}">
+			<Coords points="171,0 1177,0 1177,728 171,728"/>
+			<TextLine id="eSc_line_171_0_1177_0_1177_728_171_728" custom="structure {type:default;}">
+				<Coords points="171,0 1177,0 1177,728 171,728"/>
+				<Baseline points="171,728 1177,728"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים אגואו הסעיר והגפלה הקסומה גורי,חייםאגואו הסעיר והגפלה הקסומהעל ספרו של ז.ד.רוני:&quot; המ-חמה לאש&quot;הארץ,ספרות,סז אייר הש&quot;ן000י.5.ו1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

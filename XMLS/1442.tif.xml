@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1442.tif">
+		<TextRegion id="eSc_region_872_99_1152_99_1152_165_872_165" custom="structure {type:text;}">
+			<Coords points="872,99 1152,99 1152,165 872,165"/>
+			<TextLine id="eSc_line_872_99_1152_99_1152_165_872_165" custom="structure {type:default;}">
+				<Coords points="872,99 1152,99 1152,165 872,165"/>
+				<Baseline points="872,165 1152,165"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים גורי, חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_400_277_833_277_833_415_400_415" custom="structure {type:text;}">
+			<Coords points="400,277 833,277 833,415 400,415"/>
+			<TextLine id="eSc_line_400_277_833_277_833_415_400_415" custom="structure {type:default;}">
+				<Coords points="400,277 833,277 833,415 400,415"/>
+				<Baseline points="400,415 833,415"/>
+				<TextEquiv>
+					<Unicode>| סאנק באף סעודי&quot;אופרים?) ( חתום ה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

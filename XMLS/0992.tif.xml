@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0992.tif">
+		<TextRegion id="eSc_region_158_548_805_548_805_637_158_637" custom="structure {type:text;}">
+			<Coords points="158,548 805,548 805,637 158,637"/>
+			<TextLine id="eSc_line_158_548_805_548_805_637_158_637" custom="structure {type:default;}">
+				<Coords points="158,548 805,548 805,637 158,637"/>
+				<Baseline points="158,637 805,637"/>
+				<TextEquiv>
+					<Unicode>לפרחב, 5.11.1957, עם' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_371_280_858_280_858_370_371_370" custom="structure {type:text;}">
+			<Coords points="371,280 858,280 858,370 371,370"/>
+			<TextLine id="eSc_line_371_280_858_280_858_370_371_370" custom="structure {type:default;}">
+				<Coords points="371,280 858,280 858,370 371,370"/>
+				<Baseline points="371,370 858,370"/>
+				<TextEquiv>
+					<Unicode>הכלב (סה אופרים?)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

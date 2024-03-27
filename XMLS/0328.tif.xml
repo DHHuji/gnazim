@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0328.tif">
+		<TextRegion id="eSc_region_999_103_1233_103_1233_168_999_168" custom="structure {type:text;}">
+			<Coords points="999,103 1233,103 1233,168 999,168"/>
+			<TextLine id="eSc_line_999_103_1233_103_1233_168_999_168" custom="structure {type:default;}">
+				<Coords points="999,103 1233,103 1233,168 999,168"/>
+				<Baseline points="999,168 1233,168"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 1 ==</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_138_289_681_289_681_440_138_440" custom="structure {type:text;}">
+			<Coords points="138,289 681,289 681,440 138,440"/>
+			<TextLine id="eSc_line_138_289_681_289_681_440_138_440" custom="structure {type:default;}">
+				<Coords points="138,289 681,289 681,440 138,440"/>
+				<Baseline points="138,440 681,440"/>
+				<TextEquiv>
+					<Unicode>(מה אופרים?) ( חחוט &quot;גי \------</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_183_599_802_599_802_666_183_666" custom="structure {type:text;}">
+			<Coords points="183,599 802,599 802,666 183,666"/>
+			<TextLine id="eSc_line_183_599_802_599_802_666_183_666" custom="structure {type:default;}">
+				<Coords points="183,599 802,599 802,666 183,666"/>
+				<Baseline points="183,666 802,666"/>
+				<TextEquiv>
+					<Unicode>למרהב, פששק 1!1.12.1957, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

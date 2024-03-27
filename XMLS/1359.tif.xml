@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1359.tif">
+		<TextRegion id="eSc_region_26_0_1070_0_1070_756_26_756" custom="structure {type:text;}">
+			<Coords points="26,0 1070,0 1070,756 26,756"/>
+			<TextLine id="eSc_line_26_0_1070_0_1070_756_26_756" custom="structure {type:default;}">
+				<Coords points="26,0 1070,0 1070,756 26,756"/>
+				<Baseline points="26,756 1070,756"/>
+				<TextEquiv>
+					<Unicode>גורי,פויים דייר ה דרה גורי,פוייםדייר ה דרה,.1.+4,י..</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1041.tif">
+		<TextRegion id="eSc_region_866_90_1142_90_1142_152_866_152" custom="structure {type:text;}">
+			<Coords points="866,90 1142,90 1142,152 866,152"/>
+			<TextLine id="eSc_line_866_90_1142_90_1142_152_866_152" custom="structure {type:default;}">
+				<Coords points="866,90 1142,90 1142,152 866,152"/>
+				<Baseline points="866,152 1142,152"/>
+				<TextEquiv>
+					<Unicode>ך די ₪ - ך די ₪
+-
+
+גו , חיי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_416_289_719_289_719_429_416_429" custom="structure {type:text;}">
+			<Coords points="416,289 719,289 719,429 416,429"/>
+			<TextLine id="eSc_line_416_289_719_289_719_429_416_429" custom="structure {type:default;}">
+				<Coords points="416,289 719,289 719,429 416,429"/>
+				<Baseline points="416,429 719,429"/>
+				<TextEquiv>
+					<Unicode>מסעמס (סת|ום חגי |--7₪--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

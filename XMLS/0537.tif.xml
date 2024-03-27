@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0537.tif">
+		<TextRegion id="eSc_region_667_642_1096_642_1096_705_667_705" custom="structure {type:text;}">
+			<Coords points="667,642 1096,642 1096,705 667,705"/>
+			<TextLine id="eSc_line_667_642_1096_642_1096_705_667_705" custom="structure {type:default;}">
+				<Coords points="667,642 1096,642 1096,705 667,705"/>
+				<Baseline points="667,705 1096,705"/>
+				<TextEquiv>
+					<Unicode>למרחב, 20.1.00, ע* 3 למרחב, 20.1.00, ע* 3</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_13_302_933_302_933_399_13_399" custom="structure {type:text;}">
+			<Coords points="13,302 933,302 933,399 13,399"/>
+			<TextLine id="eSc_line_13_302_933_302_933_399_13_399" custom="structure {type:default;}">
+				<Coords points="13,302 933,302 933,399 13,399"/>
+				<Baseline points="13,399 933,399"/>
+				<TextEquiv>
+					<Unicode>דבריו של ד&quot;ר דיבליוס ( מה אופמרים?, חתום: הגי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

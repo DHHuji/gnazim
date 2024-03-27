@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0803.tif">
+		<TextRegion id="eSc_region_911_149_1153_149_1153_217_911_217" custom="structure {type:text;}">
+			<Coords points="911,149 1153,149 1153,217 911,217"/>
+			<TextLine id="eSc_line_911_149_1153_149_1153_217_911_217" custom="structure {type:default;}">
+				<Coords points="911,149 1153,149 1153,217 911,217"/>
+				<Baseline points="911,217 1153,217"/>
+				<TextEquiv>
+					<Unicode>צגרי, היית צגרי, היית</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_382_390_874_390_874_518_382_518" custom="structure {type:text;}">
+			<Coords points="382,390 874,390 874,518 382,518"/>
+			<TextLine id="eSc_line_382_390_874_390_874_518_382_518" custom="structure {type:default;}">
+				<Coords points="382,390 874,390 874,518 382,518"/>
+				<Baseline points="382,518 874,518"/>
+				<TextEquiv>
+					<Unicode>דהייוןמתום:חגי ||כד אונרים,:</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1094.tif">
+		<TextRegion id="eSc_region_828_100_1080_100_1080_181_828_181" custom="structure {type:text;}">
+			<Coords points="828,100 1080,100 1080,181 828,181"/>
+			<TextLine id="eSc_line_828_100_1080_100_1080_181_828_181" custom="structure {type:default;}">
+				<Coords points="828,100 1080,100 1080,181 828,181"/>
+				<Baseline points="828,181 1080,181"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_299_371_796_371_796_509_299_509" custom="structure {type:text;}">
+			<Coords points="299,371 796,371 796,509 299,509"/>
+			<TextLine id="eSc_line_299_371_796_371_796_509_299_509" custom="structure {type:default;}">
+				<Coords points="299,371 796,371 796,509 299,509"/>
+				<Baseline points="299,509 796,509"/>
+				<TextEquiv>
+					<Unicode>לילר ויום[כר &lt;וכקרים,האום:חגי |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_663_584_1179_584_1179_664_663_664" custom="structure {type:text;}">
+			<Coords points="663,584 1179,584 1179,664 663,664"/>
+			<TextLine id="eSc_line_663_584_1179_584_1179_664_663_664" custom="structure {type:default;}">
+				<Coords points="663,584 1179,584 1179,664 663,664"/>
+				<Baseline points="663,664 1179,664"/>
+				<TextEquiv>
+					<Unicode>לכררב,?.
+7-פובסגסכ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1283.tif">
+		<TextRegion id="eSc_region_966_94_1208_94_1208_167_966_167" custom="structure {type:text;}">
+			<Coords points="966,94 1208,94 1208,167 966,167"/>
+			<TextLine id="eSc_line_966_94_1208_94_1208_167_966_167" custom="structure {type:default;}">
+				<Coords points="966,94 1208,94 1208,167 966,167"/>
+				<Baseline points="966,167 1208,167"/>
+				<TextEquiv>
+					<Unicode>גורי, חיי, =----+--</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_494_613_1058_613_1058_689_494_689" custom="structure {type:text;}">
+			<Coords points="494,613 1058,613 1058,689 494,689"/>
+			<TextLine id="eSc_line_494_613_1058_613_1058_689_494_689" custom="structure {type:default;}">
+				<Coords points="494,613 1058,613 1058,689 494,689"/>
+				<Baseline points="494,689 1058,689"/>
+				<TextEquiv>
+					<Unicode>ץל המשמר, !20.7.1951, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_256_290_804_290_804_438_256_438" custom="structure {type:text;}">
+			<Coords points="256,290 804,290 804,438 256,438"/>
+			<TextLine id="eSc_line_256_290_804_290_804_438_256_438" custom="structure {type:default;}">
+				<Coords points="256,290 804,290 804,438 256,438"/>
+				<Baseline points="256,438 804,438"/>
+				<TextEquiv>
+					<Unicode>7-7
+
+(5יר, יהחר עם חיים -</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1551.tif">
+		<TextRegion id="eSc_region_321_0_1228_0_1228_763_321_763" custom="structure {type:text;}">
+			<Coords points="321,0 1228,0 1228,763 321,763"/>
+			<TextLine id="eSc_line_321_0_1228_0_1228_763_321_763" custom="structure {type:default;}">
+				<Coords points="321,0 1228,0 1228,763 321,763"/>
+				<Baseline points="321,763 1228,763"/>
+				<TextEquiv>
+					<Unicode>גורי,חייב הרהספר הראטלון לרי גורי,חייבהרהספר הראטלון לריחדטור.יד נילן תפרח9 8.89 [עמפך</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1380.tif">
+		<TextRegion id="eSc_region_790_285_981_285_981_338_790_338" custom="structure {type:text;}">
+			<Coords points="790,285 981,285 981,338 790,338"/>
+			<TextLine id="eSc_line_790_285_981_285_981_338_790_338" custom="structure {type:default;}">
+				<Coords points="790,285 981,285 981,338 790,338"/>
+				<Baseline points="790,338 981,338"/>
+				<TextEquiv>
+					<Unicode>פשה טמיר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_208_580_681_580_681_648_208_648" custom="structure {type:text;}">
+			<Coords points="208,580 681,580 681,648 208,648"/>
+			<TextLine id="eSc_line_208_580_681_580_681_648_208_648" custom="structure {type:default;}">
+				<Coords points="208,580 681,580 681,648 208,648"/>
+				<Baseline points="208,648 681,648"/>
+				<TextEquiv>
+					<Unicode>למרחב, 2.9.1957, עמ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_510_279_773_279_773_347_510_347" custom="structure {type:text;}">
+			<Coords points="510,279 773,279 773,347 510,347"/>
+			<TextLine id="eSc_line_510_279_773_279_773_347_510_347" custom="structure {type:default;}">
+				<Coords points="510,279 773,279 773,347 510,347"/>
+				<Baseline points="510,347 773,347"/>
+				<TextEquiv>
+					<Unicode>?)
+.
+ר
+אום
+ה
+(מה</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1518.tif">
+		<TextRegion id="eSc_region_806_36_1078_36_1078_116_806_116" custom="structure {type:text;}">
+			<Coords points="806,36 1078,36 1078,116 806,116"/>
+			<TextLine id="eSc_line_806_36_1078_36_1078_116_806_116" custom="structure {type:default;}">
+				<Coords points="806,36 1078,36 1078,116 806,116"/>
+				<Baseline points="806,116 1078,116"/>
+				<TextEquiv>
+					<Unicode>גורי חייסם מ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_541_261_880_261_880_455_541_455" custom="structure {type:text;}">
+			<Coords points="541,261 880,261 880,455 541,455"/>
+			<TextLine id="eSc_line_541_261_880_261_880_455_541_455" custom="structure {type:default;}">
+				<Coords points="541,261 880,261 880,455 541,455"/>
+				<Baseline points="541,455 880,455"/>
+				<TextEquiv>
+					<Unicode>סילבססר החורש[ חתום תגי /</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_177_255_520_255_520_335_177_335" custom="structure {type:text;}">
+			<Coords points="177,255 520,255 520,335 177,335"/>
+			<TextLine id="eSc_line_177_255_520_255_520_335_177_335" custom="structure {type:default;}">
+				<Coords points="177,255 520,255 520,335 177,335"/>
+				<Baseline points="177,335 520,335"/>
+				<TextEquiv>
+					<Unicode>ם?)
+.
+,
+ם אןפ
+ה
+.
+(מת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

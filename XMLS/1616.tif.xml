@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1616.tif">
+		<TextRegion id="eSc_region_593_587_1104_587_1104_658_593_658" custom="structure {type:text;}">
+			<Coords points="593,587 1104,587 1104,658 593,658"/>
+			<TextLine id="eSc_line_593_587_1104_587_1104_658_593_658" custom="structure {type:default;}">
+				<Coords points="593,587 1104,587 1104,658 593,658"/>
+				<Baseline points="593,658 1104,658"/>
+				<TextEquiv>
+					<Unicode>לנרהב,09&quot;7).-.הל,כ5,ר כ לנרהב,09&quot;7).-.הל,כ5,ר כ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_115_321_740_321_740_451_115_451" custom="structure {type:text;}">
+			<Coords points="115,321 740,321 740,451 115,451"/>
+			<TextLine id="eSc_line_115_321_740_321_740_451_115_451" custom="structure {type:default;}">
+				<Coords points="115,321 740,321 740,451 115,451"/>
+				<Baseline points="115,451 740,451"/>
+				<TextEquiv>
+					<Unicode>רעיירוה,ראביב,רכח- ורהקווה[יוכןז פמריכס|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

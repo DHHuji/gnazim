@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0931.tif">
+		<TextRegion id="eSc_region_971_113_1203_113_1203_176_971_176" custom="structure {type:text;}">
+			<Coords points="971,113 1203,113 1203,176 971,176"/>
+			<TextLine id="eSc_line_971_113_1203_113_1203_176_971_176" custom="structure {type:default;}">
+				<Coords points="971,113 1203,113 1203,176 971,176"/>
+				<Baseline points="971,176 1203,176"/>
+				<TextEquiv>
+					<Unicode>גורי חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_33_245_1095_245_1095_349_33_349" custom="structure {type:text;}">
+			<Coords points="33,245 1095,245 1095,349 33,349"/>
+			<TextLine id="eSc_line_33_245_1095_245_1095_349_33_349" custom="structure {type:default;}">
+				<Coords points="33,245 1095,245 1095,349 33,349"/>
+				<Baseline points="33,349 1095,349"/>
+				<TextEquiv>
+					<Unicode>יריר קֶטן; הראיון עם יעקכ,- נו גננית,- לאורך הזרקון,-בהחנה המרכזית,- דברי האלמוניה,- /יסקה חליפין</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_132_563_1236_563_1236_630_132_630" custom="structure {type:text;}">
+			<Coords points="132,563 1236,563 1236,630 132,630"/>
+			<TextLine id="eSc_line_132_563_1236_563_1236_630_132_630" custom="structure {type:default;}">
+				<Coords points="132,563 1236,563 1236,630 132,630"/>
+				<Baseline points="132,630 1236,630"/>
+				<TextEquiv>
+					<Unicode>מצריב,ימים ולילות, 7 סיון תפשל&quot;ס,(31,70,70), עמ&quot; 40/48</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

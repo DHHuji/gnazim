@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1826.tif">
+		<TextRegion id="eSc_region_906_24_1151_24_1151_81_906_81" custom="structure {type:text;}">
+			<Coords points="906,24 1151,24 1151,81 906,81"/>
+			<TextLine id="eSc_line_906_24_1151_24_1151_81_906_81" custom="structure {type:default;}">
+				<Coords points="906,24 1151,24 1151,81 906,81"/>
+				<Baseline points="906,81 1151,81"/>
+				<TextEquiv>
+					<Unicode>גורי,היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_673_526_790_526_790_579_673_579" custom="structure {type:text;}">
+			<Coords points="673,526 790,526 790,579 673,579"/>
+			<TextLine id="eSc_line_673_526_790_526_790_579_673_579" custom="structure {type:default;}">
+				<Coords points="673,526 790,526 790,579 673,579"/>
+				<Baseline points="673,579 790,579"/>
+				<TextEquiv>
+					<Unicode>גידו.0₪</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_118_325_406_325_406_382_118_382" custom="structure {type:text;}">
+			<Coords points="118,325 406,325 406,382 118,382"/>
+			<TextLine id="eSc_line_118_325_406_325_406_382_118_382" custom="structure {type:default;}">
+				<Coords points="118,325 406,325 406,382 118,382"/>
+				<Baseline points="118,382 406,382"/>
+				<TextEquiv>
+					<Unicode>(דרום:ה-גי)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

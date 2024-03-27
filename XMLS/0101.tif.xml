@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0101.tif">
+		<TextRegion id="eSc_region_205_296_1074_296_1074_466_205_466" custom="structure {type:text;}">
+			<Coords points="205,296 1074,296 1074,466 205,466"/>
+			<TextLine id="eSc_line_205_296_1074_296_1074_466_205_466" custom="structure {type:default;}">
+				<Coords points="205,296 1074,296 1074,466 205,466"/>
+				<Baseline points="205,466 1074,466"/>
+				<TextEquiv>
+					<Unicode>איגרת ה:לפוני (רסיפסות סוף סבוע)( חתום הגור ןד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_304_606_997_606_997_685_304_685" custom="structure {type:text;}">
+			<Coords points="304,606 997,606 997,685 304,685"/>
+			<TextLine id="eSc_line_304_606_997_606_997_685_304_685" custom="structure {type:default;}">
+				<Coords points="304,606 997,606 997,685 304,685"/>
+				<Baseline points="304,685 997,685"/>
+				<TextEquiv>
+					<Unicode>לפרחב, א 24.6.1960, עלס' 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

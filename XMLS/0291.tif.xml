@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0291.tif">
+		<TextRegion id="eSc_region_855_73_1086_73_1086_129_855_129" custom="structure {type:text;}">
+			<Coords points="855,73 1086,73 1086,129 855,129"/>
+			<TextLine id="eSc_line_855_73_1086_73_1086_129_855_129" custom="structure {type:default;}">
+				<Coords points="855,73 1086,73 1086,129 855,129"/>
+				<Baseline points="855,129 1086,129"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 4 גורי, חיים
+4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_535_651_834_651_834_699_535_699" custom="structure {type:text;}">
+			<Coords points="535,651 834,651 834,699 535,699"/>
+			<TextLine id="eSc_line_535_651_834_651_834_699_535_699" custom="structure {type:default;}">
+				<Coords points="535,651 834,651 834,699 535,699"/>
+				<Baseline points="535,699 834,699"/>
+				<TextEquiv>
+					<Unicode>החסיבה הצעירה,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

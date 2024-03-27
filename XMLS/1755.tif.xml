@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1755.tif">
+		<TextRegion id="eSc_region_150_212_612_212_612_360_150_360" custom="structure {type:text;}">
+			<Coords points="150,212 612,212 612,360 150,360"/>
+			<TextLine id="eSc_line_150_212_612_212_612_360_150_360" custom="structure {type:default;}">
+				<Coords points="150,212 612,212 612,360 150,360"/>
+				<Baseline points="150,360 612,360"/>
+				<TextEquiv>
+					<Unicode>8 . .ב -- 20.10.1090.רלימות כוף הלבוע]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_506_213_791_213_791_348_506_348" custom="structure {type:text;}">
+			<Coords points="506,213 791,213 791,348 506,348"/>
+			<TextLine id="eSc_line_506_213_791_213_791_348_506_348" custom="structure {type:default;}">
+				<Coords points="506,213 791,213 791,348 506,348"/>
+				<Baseline points="506,348 791,348"/>
+				<TextEquiv>
+					<Unicode>2.97.
+
+[במדור: רשינ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

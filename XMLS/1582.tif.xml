@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1582.tif">
+		<TextRegion id="eSc_region_274_0_1213_0_1213_765_274_765" custom="structure {type:text;}">
+			<Coords points="274,0 1213,0 1213,765 274,765"/>
+			<TextLine id="eSc_line_274_0_1213_0_1213_765_274_765" custom="structure {type:default;}">
+				<Coords points="274,0 1213,0 1213,765 274,765"/>
+				<Baseline points="274,765 1213,765"/>
+				<TextEquiv>
+					<Unicode>גורי,תחייס יור כוס פים אחת גורי,תחייסיור כוס פים אחת) דף האחרי6 וידכר, א איור תטנא'13.3.!696% טמד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

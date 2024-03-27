@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0024.tif">
+		<TextRegion id="eSc_region_906_115_1149_115_1149_187_906_187" custom="structure {type:text;}">
+			<Coords points="906,115 1149,115 1149,187 906,187"/>
+			<TextLine id="eSc_line_906_115_1149_115_1149_187_906_187" custom="structure {type:default;}">
+				<Coords points="906,115 1149,115 1149,187 906,187"/>
+				<Baseline points="906,187 1149,187"/>
+				<TextEquiv>
+					<Unicode>גורי,חייסם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_408_365_846_365_846_496_408_496" custom="structure {type:text;}">
+			<Coords points="408,365 846,365 846,496 408,496"/>
+			<TextLine id="eSc_line_408_365_846_365_846_496_408_496" custom="structure {type:default;}">
+				<Coords points="408,365 846,365 846,496 408,496"/>
+				<Baseline points="408,496 846,496"/>
+				<TextEquiv>
+					<Unicode>ריוגרוף וכעוריין(יוכן הטריס,רכסינר|</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_724_602_1235_602_1235_673_724_673" custom="structure {type:text;}">
+			<Coords points="724,602 1235,602 1235,673 724,673"/>
+			<TextLine id="eSc_line_724_602_1235_602_1235_673_724_673" custom="structure {type:default;}">
+				<Coords points="724,602 1235,602 1235,673 724,673"/>
+				<Baseline points="724,673 1235,673"/>
+				<TextEquiv>
+					<Unicode>לכרחהב,21.6.1990,ע2. 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

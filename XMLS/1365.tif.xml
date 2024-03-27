@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1365.tif">
+		<TextRegion id="eSc_region_893_0_1153_0_1153_69_893_69" custom="structure {type:text;}">
+			<Coords points="893,0 1153,0 1153,69 893,69"/>
+			<TextLine id="eSc_line_893_0_1153_0_1153_69_893_69" custom="structure {type:default;}">
+				<Coords points="893,0 1153,0 1153,69 893,69"/>
+				<Baseline points="893,69 1153,69"/>
+				<TextEquiv>
+					<Unicode>גורי.היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_212_175_976_175_976_289_212_289" custom="structure {type:text;}">
+			<Coords points="212,175 976,175 976,289 212,289"/>
+			<TextLine id="eSc_line_212_175_976_175_976_289_212_289" custom="structure {type:default;}">
+				<Coords points="212,175 976,175 976,289 212,289"/>
+				<Baseline points="212,289 976,289"/>
+				<TextEquiv>
+					<Unicode>הרראות והמלים(/ מסץ באר&quot; היאור -ב\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_437_527_1177_527_1177_736_437_736" custom="structure {type:text;}">
+			<Coords points="437,527 1177,527 1177,736 437,736"/>
+			<TextLine id="eSc_line_437_527_1177_527_1177_736_437_736" custom="structure {type:default;}">
+				<Coords points="437,527 1177,527 1177,736 437,736"/>
+				<Baseline points="437,736 1177,736"/>
+				<TextEquiv>
+					<Unicode>דבר,יז שבט השמ5,2.!9989 ע65!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

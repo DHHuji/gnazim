@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1035.tif">
+		<TextRegion id="eSc_region_146_34_1007_34_1007_539_146_539" custom="structure {type:text;}">
+			<Coords points="146,34 1007,34 1007,539 146,539"/>
+			<TextLine id="eSc_line_146_34_1007_34_1007_539_146_539" custom="structure {type:default;}">
+				<Coords points="146,34 1007,34 1007,539 146,539"/>
+				<Baseline points="146,539 1007,539"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים כתיבת ארצו של הרעב [פיר] גורי, חייםכתיבת ארצו של הרעב [פיר]מסא, גליון 87, תסס&quot;ו, פם' 52 41 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

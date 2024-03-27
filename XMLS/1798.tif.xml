@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1798.tif">
+		<TextRegion id="eSc_region_757_35_998_35_998_108_757_108" custom="structure {type:text;}">
+			<Coords points="757,35 998,35 998,108 757,108"/>
+			<TextLine id="eSc_line_757_35_998_35_998_108_757_108" custom="structure {type:default;}">
+				<Coords points="757,35 998,35 998,108 757,108"/>
+				<Baseline points="757,108 998,108"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_223_260_850_260_850_397_223_397" custom="structure {type:text;}">
+			<Coords points="223,260 850,260 850,397 223,397"/>
+			<TextLine id="eSc_line_223_260_850_260_850_397_223_397" custom="structure {type:default;}">
+				<Coords points="223,260 850,260 850,397 223,397"/>
+				<Baseline points="223,397 850,397"/>
+				<TextEquiv>
+					<Unicode>הפלדפכלים - או: &quot;הי;י, אתה שם!&quot;(מרשימות סוף טבוץ)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_244_576_828_576_828_775_244_775" custom="structure {type:text;}">
+			<Coords points="244,576 828,576 828,775 244,775"/>
+			<TextLine id="eSc_line_244_576_828_576_828_775_244_775" custom="structure {type:default;}">
+				<Coords points="244,576 828,576 828,775 244,775"/>
+				<Baseline points="244,775 828,775"/>
+				<TextEquiv>
+					<Unicode>למרחב, 6+ 8.10.1957!, עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

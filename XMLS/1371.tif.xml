@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1371.tif">
+		<TextRegion id="eSc_region_786_75_1192_75_1192_170_786_170" custom="structure {type:text;}">
+			<Coords points="786,75 1192,75 1192,170 786,170"/>
+			<TextLine id="eSc_line_786_75_1192_75_1192_170_786_170" custom="structure {type:default;}">
+				<Coords points="786,75 1192,75 1192,170 786,170"/>
+				<Baseline points="786,170 1192,170"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_30_503_1200_503_1200_636_30_636" custom="structure {type:text;}">
+			<Coords points="30,503 1200,503 1200,636 30,636"/>
+			<TextLine id="eSc_line_30_503_1200_503_1200_636_30_636" custom="structure {type:default;}">
+				<Coords points="30,503 1200,503 1200,636 30,636"/>
+				<Baseline points="30,636 1200,636"/>
+				<TextEquiv>
+					<Unicode>מבפנים, כרך מז, חוב' ר, תמוז השז&quot;ג(יולי 1952), עמ' 555</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_424_284_924_284_924_377_424_377" custom="structure {type:text;}">
+			<Coords points="424,284 924,284 924,377 424,377"/>
+			<TextLine id="eSc_line_424_284_924_284_924_377_424_377" custom="structure {type:default;}">
+				<Coords points="424,284 924,284 924,377 424,377"/>
+				<Baseline points="424,377 924,377"/>
+				<TextEquiv>
+					<Unicode>(משירי שנת 1956)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

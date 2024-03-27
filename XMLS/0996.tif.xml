@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0996.tif">
+		<TextRegion id="eSc_region_847_125_1085_125_1085_198_847_198" custom="structure {type:text;}">
+			<Coords points="847,125 1085,125 1085,198 847,198"/>
+			<TextLine id="eSc_line_847_125_1085_125_1085_198_847_198" custom="structure {type:default;}">
+				<Coords points="847,125 1085,125 1085,198 847,198"/>
+				<Baseline points="847,198 1085,198"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים ----1 הר</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_272_611_1217_611_1217_685_272_685" custom="structure {type:text;}">
+			<Coords points="272,611 1217,611 1217,685 272,685"/>
+			<TextLine id="eSc_line_272_611_1217_611_1217_685_272_685" custom="structure {type:default;}">
+				<Coords points="272,611 1217,611 1217,685 272,685"/>
+				<Baseline points="272,685 1217,685"/>
+				<TextEquiv>
+					<Unicode>בשער,בסאין ההסיבה הצעירה,20.9.1950,עם. 4</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_435_371_879_371_879_499_435_499" custom="structure {type:text;}">
+			<Coords points="435,371 879,371 879,499 435,499"/>
+			<TextLine id="eSc_line_435_371_879_371_879_499_435_499" custom="structure {type:default;}">
+				<Coords points="435,371 879,371 879,499 435,499"/>
+				<Baseline points="435,499 879,499"/>
+				<TextEquiv>
+					<Unicode>כלולת
+( סהוך מהזור שירים\</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

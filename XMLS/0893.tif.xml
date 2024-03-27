@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0893.tif">
+		<TextRegion id="eSc_region_724_87_995_87_995_161_724_161" custom="structure {type:text;}">
+			<Coords points="724,87 995,87 995,161 724,161"/>
+			<TextLine id="eSc_line_724_87_995_87_995_161_724_161" custom="structure {type:default;}">
+				<Coords points="724,87 995,87 995,161 724,161"/>
+				<Baseline points="724,161 995,161"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_256_339_991_339_991_478_256_478" custom="structure {type:text;}">
+			<Coords points="256,339 991,339 991,478 256,478"/>
+			<TextLine id="eSc_line_256_339_991_339_991_478_256_478" custom="structure {type:default;}">
+				<Coords points="256,339 991,339 991,478 256,478"/>
+				<Baseline points="256,478 991,478"/>
+				<TextEquiv>
+					<Unicode>משא, גליון ו2, תפי&quot;ב, עס' ו, 10:426</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_142_204_898_204_898_291_142_291" custom="structure {type:text;}">
+			<Coords points="142,204 898,204 898,291 142,291"/>
+			<TextLine id="eSc_line_142_204_898_204_898_291_142_291" custom="structure {type:default;}">
+				<Coords points="142,204 898,204 898,291 142,291"/>
+				<Baseline points="142,291 898,291"/>
+				<TextEquiv>
+					<Unicode>יוגי 1952 (על פלהסת העולם השניה]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

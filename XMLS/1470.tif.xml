@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1470.tif">
+		<TextRegion id="eSc_region_916_94_1212_94_1212_176_916_176" custom="structure {type:text;}">
+			<Coords points="916,94 1212,94 1212,176 916,176"/>
+			<TextLine id="eSc_line_916_94_1212_94_1212_176_916_176" custom="structure {type:default;}">
+				<Coords points="916,94 1212,94 1212,176 916,176"/>
+				<Baseline points="916,176 1212,176"/>
+				<TextEquiv>
+					<Unicode>רי, היים גנרד, ה ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_486_263_1132_263_1132_411_486_411" custom="structure {type:text;}">
+			<Coords points="486,263 1132,263 1132,411 486,411"/>
+			<TextLine id="eSc_line_486_263_1132_263_1132_411_486_411" custom="structure {type:default;}">
+				<Coords points="486,263 1132,263 1132,411 486,411"/>
+				<Baseline points="486,411 1132,411"/>
+				<TextEquiv>
+					<Unicode>נעימוה ביניים הל-אביביות&quot;הספר המשוגע&quot;]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_539_585_1208_585_1208_672_539_672" custom="structure {type:text;}">
+			<Coords points="539,585 1208,585 1208,672 539,672"/>
+			<TextLine id="eSc_line_539_585_1208_585_1208_672_539_672" custom="structure {type:default;}">
+				<Coords points="539,585 1208,585 1208,672 539,672"/>
+				<Baseline points="539,672 1208,672"/>
+				<TextEquiv>
+					<Unicode>מעריב, 25.12.1270, עמ'* 2ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

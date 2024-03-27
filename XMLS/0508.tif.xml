@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0508.tif">
+		<TextRegion id="eSc_region_790_93_1231_93_1231_189_790_189" custom="structure {type:text;}">
+			<Coords points="790,93 1231,93 1231,189 790,189"/>
+			<TextLine id="eSc_line_790_93_1231_93_1231_189_790_189" custom="structure {type:default;}">
+				<Coords points="790,93 1231,93 1231,189 790,189"/>
+				<Baseline points="790,189 1231,189"/>
+				<TextEquiv>
+					<Unicode>גורי, ח&quot;ם</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_42_516_1266_516_1266_618_42_618" custom="structure {type:text;}">
+			<Coords points="42,516 1266,516 1266,618 42,618"/>
+			<TextLine id="eSc_line_42_516_1266_516_1266_618_42_618" custom="structure {type:default;}">
+				<Coords points="42,516 1266,516 1266,618 42,618"/>
+				<Baseline points="42,618 1266,618"/>
+				<TextEquiv>
+					<Unicode>מאבק, גל' 35, כ&quot;ן חשון תשי&quot;ג (14.11.52),</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_437_296_886_296_886_398_437_398" custom="structure {type:text;}">
+			<Coords points="437,296 886,296 886,398 437,398"/>
+			<TextLine id="eSc_line_437_296_886_296_886_398_437_398" custom="structure {type:default;}">
+				<Coords points="437,296 886,296 886,398 437,398"/>
+				<Baseline points="437,398 886,398"/>
+				<TextEquiv>
+					<Unicode>גורי על אלתרמן</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

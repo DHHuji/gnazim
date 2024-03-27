@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0618.tif">
+		<TextRegion id="eSc_region_958_155_1193_155_1193_219_958_219" custom="structure {type:text;}">
+			<Coords points="958,155 1193,155 1193,219 958,219"/>
+			<TextLine id="eSc_line_958_155_1193_155_1193_219_958_219" custom="structure {type:default;}">
+				<Coords points="958,155 1193,155 1193,219 958,219"/>
+				<Baseline points="958,219 1193,219"/>
+				<TextEquiv>
+					<Unicode>גורי, חייםס 0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_485_629_1226_629_1226_697_485_697" custom="structure {type:text;}">
+			<Coords points="485,629 1226,629 1226,697 485,697"/>
+			<TextLine id="eSc_line_485_629_1226_629_1226_697_485_697" custom="structure {type:default;}">
+				<Coords points="485,629 1226,629 1226,697 485,697"/>
+				<Baseline points="485,697 1226,697"/>
+				<TextEquiv>
+					<Unicode>דבר, כז סיון תשל&quot;ו,(25.6,70), עם&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_652_353_1018_353_1018_418_652_418" custom="structure {type:text;}">
+			<Coords points="652,353 1018,353 1018,418 652,418"/>
+			<TextLine id="eSc_line_652_353_1018_353_1018_418_652_418" custom="structure {type:default;}">
+				<Coords points="652,353 1018,353 1018,418 652,418"/>
+				<Baseline points="652,418 1018,418"/>
+				<TextEquiv>
+					<Unicode>(רשימות סוף שבוע)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

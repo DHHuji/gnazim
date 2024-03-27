@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1278.tif">
+		<TextRegion id="eSc_region_918_103_1160_103_1160_174_918_174" custom="structure {type:text;}">
+			<Coords points="918,103 1160,103 1160,174 918,174"/>
+			<TextLine id="eSc_line_918_103_1160_103_1160_174_918_174" custom="structure {type:default;}">
+				<Coords points="918,103 1160,103 1160,174 918,174"/>
+				<Baseline points="918,174 1160,174"/>
+				<TextEquiv>
+					<Unicode>גורי היים גורי היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_321_509_1234_509_1234_583_321_583" custom="structure {type:text;}">
+			<Coords points="321,509 1234,509 1234,583 321,583"/>
+			<TextLine id="eSc_line_321_509_1234_509_1234_583_321_583" custom="structure {type:default;}">
+				<Coords points="321,509 1234,509 1234,583 321,583"/>
+				<Baseline points="321,583 1234,583"/>
+				<TextEquiv>
+					<Unicode>מעריב,ססרות,כט כסלו הלל&quot;ס,(29.12,78),ע2&quot; 41</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

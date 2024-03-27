@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1857.tif">
+		<TextRegion id="eSc_region_737_0_1070_0_1070_98_737_98" custom="structure {type:text;}">
+			<Coords points="737,0 1070,0 1070,98 737,98"/>
+			<TextLine id="eSc_line_737_0_1070_0_1070_98_737_98" custom="structure {type:default;}">
+				<Coords points="737,0 1070,0 1070,98 737,98"/>
+				<Baseline points="737,98 1070,98"/>
+				<TextEquiv>
+					<Unicode>גורי.חיים גורי.חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_121_130_1062_130_1062_689_121_689" custom="structure {type:text;}">
+			<Coords points="121,130 1062,130 1062,689 121,689"/>
+			<TextLine id="eSc_line_121_130_1062_130_1062_689_121_689" custom="structure {type:default;}">
+				<Coords points="121,130 1062,130 1062,689 121,689"/>
+				<Baseline points="121,689 1062,689"/>
+				<TextEquiv>
+					<Unicode>פתיחה לעליעור מולדת[שיר\מתור&quot;פלקסים מקומיים&quot;דבר.מלא.ב אייר תש&quot;ן27.4,1990 עמ1!9</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

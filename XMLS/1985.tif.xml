@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1985.tif">
+		<TextRegion id="eSc_region_699_263_1109_263_1109_335_699_335" custom="structure {type:text;}">
+			<Coords points="699,263 1109,263 1109,335 699,335"/>
+			<TextLine id="eSc_line_699_263_1109_263_1109_335_699_335" custom="structure {type:default;}">
+				<Coords points="699,263 1109,263 1109,335 699,335"/>
+				<Baseline points="699,335 1109,335"/>
+				<TextEquiv>
+					<Unicode>&quot; יו רקוויטם לכנילכת &quot; יורקוויטם לכנילכת</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_215_271_497_271_497_339_215_339" custom="structure {type:text;}">
+			<Coords points="215,271 497,271 497,339 215,339"/>
+			<TextLine id="eSc_line_215_271_497_271_497_339_215_339" custom="structure {type:default;}">
+				<Coords points="215,271 497,271 497,339 215,339"/>
+				<Baseline points="215,339 497,339"/>
+				<TextEquiv>
+					<Unicode>רטיכוה סוף</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

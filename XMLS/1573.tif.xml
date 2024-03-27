@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1573.tif">
+		<TextRegion id="eSc_region_888_10_1140_10_1140_77_888_77" custom="structure {type:text;}">
+			<Coords points="888,10 1140,10 1140,77 888,77"/>
+			<TextLine id="eSc_line_888_10_1140_10_1140_77_888_77" custom="structure {type:default;}">
+				<Coords points="888,10 1140,10 1140,77 888,77"/>
+				<Baseline points="888,77 1140,77"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים גורי,חיים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_757_192_1003_192_1003_292_757_292" custom="structure {type:text;}">
+			<Coords points="757,192 1003,192 1003,292 757,292"/>
+			<TextLine id="eSc_line_757_192_1003_192_1003_292_757_292" custom="structure {type:default;}">
+				<Coords points="757,192 1003,192 1003,292 757,292"/>
+				<Baseline points="757,292 1003,292"/>
+				<TextEquiv>
+					<Unicode>עד פיסריום בחייו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

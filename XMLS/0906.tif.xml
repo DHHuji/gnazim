@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0906.tif">
+		<TextRegion id="eSc_region_918_141_1159_141_1159_213_918_213" custom="structure {type:text;}">
+			<Coords points="918,141 1159,141 1159,213 918,213"/>
+			<TextLine id="eSc_line_918_141_1159_141_1159_213_918_213" custom="structure {type:default;}">
+				<Coords points="918,141 1159,141 1159,213 918,213"/>
+				<Baseline points="918,213 1159,213"/>
+				<TextEquiv>
+					<Unicode>גורי,דדוף</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_320_387_1038_387_1038_519_320_519" custom="structure {type:text;}">
+			<Coords points="320,387 1038,387 1038,519 320,519"/>
+			<TextLine id="eSc_line_320_387_1038_387_1038_519_320_519" custom="structure {type:default;}">
+				<Coords points="320,387 1038,387 1038,519 320,519"/>
+				<Baseline points="320,519 1038,519"/>
+				<TextEquiv>
+					<Unicode>רילדים הרצים בחלוגת[רכיכה על וטאוי כליב,רתוםב:ה.ג. |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_688_628_1281_628_1281_701_688_701" custom="structure {type:text;}">
+			<Coords points="688,628 1281,628 1281,701 688,701"/>
+			<TextLine id="eSc_line_688_628_1281_628_1281_701_688_701" custom="structure {type:default;}">
+				<Coords points="688,628 1281,628 1281,701 688,701"/>
+				<Baseline points="688,701 1281,701"/>
+				<TextEquiv>
+					<Unicode>לכרהב,ככא,7.109%79.-0,;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

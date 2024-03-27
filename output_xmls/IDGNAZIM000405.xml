@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>escriptorium</Creator>
+    <Created>2024-02-18T21:02:47.785694+00:00</Created>
+    <LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1858.tif" imageWidth="1228" imageHeight="851">
+    <TextRegion id="eSc_ocr_main_content_coords_IDGNAZIM000405" custom="structure {type:text;}">
+      <Coords points="554,671 1271,671 554,852 1271,852"/>
+    </TextRegion>
+    <TextRegion id="eSc_ocr_additional_content_coords_IDGNAZIM000405" custom="structure {type:text;}">
+      <Coords points="502,282 1157,282 502,487 1157,487"/>
+    </TextRegion>
+  </Page>
+</PcGts>

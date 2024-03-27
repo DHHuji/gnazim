@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1509.tif">
+		<TextRegion id="eSc_region_919_104_1045_104_1045_165_919_165" custom="structure {type:text;}">
+			<Coords points="919,104 1045,104 1045,165 919,165"/>
+			<TextLine id="eSc_line_919_104_1045_104_1045_165_919_165" custom="structure {type:default;}">
+				<Coords points="919,104 1045,104 1045,165 919,165"/>
+				<Baseline points="919,165 1045,165"/>
+				<TextEquiv>
+					<Unicode>גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_61_187_1025_187_1025_260_61_260" custom="structure {type:text;}">
+			<Coords points="61,187 1025,187 1025,260 61,260"/>
+			<TextLine id="eSc_line_61_187_1025_187_1025_260_61_260" custom="structure {type:default;}">
+				<Coords points="61,187 1025,187 1025,260 61,260"/>
+				<Baseline points="61,260 1025,260"/>
+				<TextEquiv>
+					<Unicode>סוף הקיץ ימתוך עוללות וכבכורים):סירים.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_542_286_968_286_968_360_542_360" custom="structure {type:text;}">
+			<Coords points="542,286 968,286 968,360 542,360"/>
+			<TextLine id="eSc_line_542_286_968_286_968_360_542_360" custom="structure {type:default;}">
+				<Coords points="542,286 968,286 968,360 542,360"/>
+				<Baseline points="542,360 968,360"/>
+				<TextEquiv>
+					<Unicode>.ורלוגין ד: 21-32</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

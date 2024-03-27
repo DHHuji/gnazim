@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0456.tif">
+		<TextRegion id="eSc_region_900_94_1179_94_1179_159_900_159" custom="structure {type:text;}">
+			<Coords points="900,94 1179,94 1179,159 900,159"/>
+			<TextLine id="eSc_line_900_94_1179_94_1179_159_900_159" custom="structure {type:default;}">
+				<Coords points="900,94 1179,94 1179,159 900,159"/>
+				<Baseline points="900,159 1179,159"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס 1-ה =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_432_639_1152_639_1152_707_432_707" custom="structure {type:text;}">
+			<Coords points="432,639 1152,639 1152,707 432,707"/>
+			<TextLine id="eSc_line_432_639_1152_639_1152_707_432_707" custom="structure {type:default;}">
+				<Coords points="432,639 1152,639 1152,707 432,707"/>
+				<Baseline points="432,707 1152,707"/>
+				<TextEquiv>
+					<Unicode>דבר, יד תשרי השל&quot;ו,(19.9.75), קמ 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_344_320_722_320_722_530_344_530" custom="structure {type:text;}">
+			<Coords points="344,320 722,320 722,530 344,530"/>
+			<TextLine id="eSc_line_344_320_722_320_722_530_344_530" custom="structure {type:default;}">
+				<Coords points="344,320 722,320 722,530 344,530"/>
+				<Baseline points="344,530 722,530"/>
+				<TextEquiv>
+					<Unicode>שש
+(מרור מה אורים)
+
+| חתוס תה-גי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

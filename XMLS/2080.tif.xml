@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="2080.tif">
+		<TextRegion id="eSc_region_837_106_1084_106_1084_180_837_180" custom="structure {type:text;}">
+			<Coords points="837,106 1084,106 1084,180 837,180"/>
+			<TextLine id="eSc_line_837_106_1084_106_1084_180_837_180" custom="structure {type:default;}">
+				<Coords points="837,106 1084,106 1084,180 837,180"/>
+				<Baseline points="837,180 1084,180"/>
+				<TextEquiv>
+					<Unicode>גורי,חיים ד</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_218_573_1160_573_1160_646_218_646" custom="structure {type:text;}">
+			<Coords points="218,573 1160,573 1160,646 218,646"/>
+			<TextLine id="eSc_line_218_573_1160_573_1160_646_218_646" custom="structure {type:default;}">
+				<Coords points="218,573 1160,573 1160,646 218,646"/>
+				<Baseline points="218,646 1160,646"/>
+				<TextEquiv>
+					<Unicode>בשער, בטאון ההמיבה הצפעירה,9,12,5.1949ם. 1</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_198_311_754_311_754_445_198_445" custom="structure {type:text;}">
+			<Coords points="198,311 754,311 754,445 198,445"/>
+			<TextLine id="eSc_line_198_311_754_311_754_445_198_445" custom="structure {type:default;}">
+				<Coords points="198,311 754,311 754,445 198,445"/>
+				<Baseline points="198,445 754,445"/>
+				<TextEquiv>
+					<Unicode>שיר פרידה לרע
+[מאה היים גורי וה. חפר)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

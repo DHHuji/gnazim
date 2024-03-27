@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0760.tif">
+		<TextRegion id="eSc_region_943_95_1243_95_1243_178_943_178" custom="structure {type:text;}">
+			<Coords points="943,95 1243,95 1243,178 943,178"/>
+			<TextLine id="eSc_line_943_95_1243_95_1243_178_943_178" custom="structure {type:default;}">
+				<Coords points="943,95 1243,95 1243,178 943,178"/>
+				<Baseline points="943,178 1243,178"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_792_246_1162_246_1162_395_792_395" custom="structure {type:text;}">
+			<Coords points="792,246 1162,246 1162,395 792,395"/>
+			<TextLine id="eSc_line_792_246_1162_246_1162_395_792_395" custom="structure {type:default;}">
+				<Coords points="792,246 1162,246 1162,395 792,395"/>
+				<Baseline points="792,395 1162,395"/>
+				<TextEquiv>
+					<Unicode>זכורון ותזכוותחהום: חגור])</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_110_238_753_238_753_330_110_330" custom="structure {type:text;}">
+			<Coords points="110,238 753,238 753,330 110,330"/>
+			<TextLine id="eSc_line_110_238_753_238_753_330_110_330" custom="structure {type:default;}">
+				<Coords points="110,238 753,238 753,330 110,330"/>
+				<Baseline points="110,330 753,330"/>
+				<TextEquiv>
+					<Unicode>[מדוו: רסימות סוף העבועל,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

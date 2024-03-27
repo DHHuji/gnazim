@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0940.tif">
+		<TextRegion id="eSc_region_0_0_1226_0_1226_767_0_767" custom="structure {type:text;}">
+			<Coords points="0,0 1226,0 1226,767 0,767"/>
+			<TextLine id="eSc_line_0_0_1226_0_1226_767_0_767" custom="structure {type:default;}">
+				<Coords points="0,0 1226,0 1226,767 0,767"/>
+				<Baseline points="0,767 1226,767"/>
+				<TextEquiv>
+					<Unicode>גורי,היים לה טת חווית העקירה גורי,הייםלה טת חווית העקירהכ לט חווה פטולם אתהוקרארי טל הוות לטאי י יורי 1 יס הלנא וידי .עמ+- .1 ו ו ו. גת בכהת 1 ו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

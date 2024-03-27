@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0303.tif">
+		<TextRegion id="eSc_region_923_94_1246_94_1246_176_923_176" custom="structure {type:text;}">
+			<Coords points="923,94 1246,94 1246,176 923,176"/>
+			<TextLine id="eSc_line_923_94_1246_94_1246_176_923_176" custom="structure {type:default;}">
+				<Coords points="923,94 1246,94 1246,176 923,176"/>
+				<Baseline points="923,176 1246,176"/>
+				<TextEquiv>
+					<Unicode>גורי חיים 07-יול</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_296_240_1065_240_1065_395_296_395" custom="structure {type:text;}">
+			<Coords points="296,240 1065,240 1065,395 296,395"/>
+			<TextLine id="eSc_line_296_240_1065_240_1065_395_296_395" custom="structure {type:default;}">
+				<Coords points="296,240 1065,240 1065,395 296,395"/>
+				<Baseline points="296,395 1065,395"/>
+				<TextEquiv>
+					<Unicode>ברר ובבקעה ‏ [מדוו: רעימות סוףהשבוע, חתום: חגוו]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_595_563_1026_563_1026_651_595_651" custom="structure {type:text;}">
+			<Coords points="595,563 1026,563 1026,651 595,651"/>
+			<TextLine id="eSc_line_595_563_1026_563_1026_651_595_651" custom="structure {type:default;}">
+				<Coords points="595,563 1026,563 1026,651 595,651"/>
+				<Baseline points="595,651 1026,651"/>
+				<TextEquiv>
+					<Unicode>מ' 2
+5 ע
+כ,
+2.
+00%ו.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

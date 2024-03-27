@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0995.tif">
+		<TextRegion id="eSc_region_894_93_1210_93_1210_169_894_169" custom="structure {type:text;}">
+			<Coords points="894,93 1210,93 1210,169 894,169"/>
+			<TextLine id="eSc_line_894_93_1210_93_1210_169_894_169" custom="structure {type:default;}">
+				<Coords points="894,93 1210,93 1210,169 894,169"/>
+				<Baseline points="894,169 1210,169"/>
+				<TextEquiv>
+					<Unicode>גורי, חיים 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_364_262_1032_262_1032_401_364_401" custom="structure {type:text;}">
+			<Coords points="364,262 1032,262 1032,401 364,401"/>
+			<TextLine id="eSc_line_364_262_1032_262_1032_401_364_401" custom="structure {type:default;}">
+				<Coords points="364,262 1032,262 1032,401 364,401"/>
+				<Baseline points="364,401 1032,401"/>
+				<TextEquiv>
+					<Unicode>הכלבים והדוך :%ספור מתוך &quot;דפיםס יוושלמים&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_564_562_1183_562_1183_644_564_644" custom="structure {type:text;}">
+			<Coords points="564,562 1183,562 1183,644 564,644"/>
+			<TextLine id="eSc_line_564_562_1183_562_1183_644_564_644" custom="structure {type:default;}">
+				<Coords points="564,562 1183,562 1183,644 564,644"/>
+				<Baseline points="564,644 1183,644"/>
+				<TextEquiv>
+					<Unicode>היום, 22.9.1968, עמ'* 20</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

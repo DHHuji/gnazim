@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0637.tif">
+		<TextRegion id="eSc_region_852_276_1025_276_1025_336_852_336" custom="structure {type:text;}">
+			<Coords points="852,276 1025,276 1025,336 852,336"/>
+			<TextLine id="eSc_line_852_276_1025_276_1025_336_852_336" custom="structure {type:default;}">
+				<Coords points="852,276 1025,276 1025,336 852,336"/>
+				<Baseline points="852,336 1025,336"/>
+				<TextEquiv>
+					<Unicode>קמז'ו.. קמז'ו..</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_1034_285_1127_285_1127_398_1034_398" custom="structure {type:text;}">
+			<Coords points="1034,285 1127,285 1127,398 1034,398"/>
+			<TextLine id="eSc_line_1034_285_1127_285_1127_398_1034_398" custom="structure {type:default;}">
+				<Coords points="1034,285 1127,285 1127,398 1034,398"/>
+				<Baseline points="1034,398 1127,398"/>
+				<TextEquiv>
+					<Unicode>הו
+
+ורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

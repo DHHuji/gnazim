@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1556.tif">
+		<TextRegion id="eSc_region_14_48_1150_48_1150_509_14_509" custom="structure {type:text;}">
+			<Coords points="14,48 1150,48 1150,509 14,509"/>
+			<TextLine id="eSc_line_14_48_1150_48_1150_509_14_509" custom="structure {type:default;}">
+				<Coords points="14,48 1150,48 1150,509 14,509"/>
+				<Baseline points="14,509 1150,509"/>
+				<TextEquiv>
+					<Unicode>הגי הספריה &quot;לכל&quot; של הוצאה &quot;אמנות&quot; הגיהספריה &quot;לכל&quot; של הוצאה &quot;אמנות&quot;הפועל הצפיר, א' אלול תרצ&quot;ב - 2.9.1912 (שנה 25,גליון 39-40, 15-14)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

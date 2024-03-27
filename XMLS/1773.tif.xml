@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1773.tif">
+		<TextRegion id="eSc_region_946_101_1233_101_1233_176_946_176" custom="structure {type:text;}">
+			<Coords points="946,101 1233,101 1233,176 946,176"/>
+			<TextLine id="eSc_line_946_101_1233_101_1233_176_946_176" custom="structure {type:default;}">
+				<Coords points="946,101 1233,101 1233,176 946,176"/>
+				<Baseline points="946,176 1233,176"/>
+				<TextEquiv>
+					<Unicode>גווי, היים</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_543_274_1081_274_1081_416_543_416" custom="structure {type:text;}">
+			<Coords points="543,274 1081,274 1081,416 543,416"/>
+			<TextLine id="eSc_line_543_274_1081_274_1081_416_543_416" custom="structure {type:default;}">
+				<Coords points="543,274 1081,274 1081,416 543,416"/>
+				<Baseline points="543,416 1081,416"/>
+				<TextEquiv>
+					<Unicode>פגישה ראטשונה עם יפאןאומרים?]</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_562_569_1179_569_1179_648_562_648" custom="structure {type:text;}">
+			<Coords points="562,569 1179,569 1179,648 562,648"/>
+			<TextLine id="eSc_line_562_569_1179_569_1179_648_562_648" custom="structure {type:default;}">
+				<Coords points="562,569 1179,569 1179,648 562,648"/>
+				<Baseline points="562,648 1179,648"/>
+				<TextEquiv>
+					<Unicode>למרהב, 17.7.1970, צמ' פ</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

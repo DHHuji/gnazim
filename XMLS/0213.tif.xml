@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0213.tif">
+		<TextRegion id="eSc_region_962_129_1200_129_1200_203_962_203" custom="structure {type:text;}">
+			<Coords points="962,129 1200,129 1200,203 962,203"/>
+			<TextLine id="eSc_line_962_129_1200_129_1200_203_962_203" custom="structure {type:default;}">
+				<Coords points="962,129 1200,129 1200,203 962,203"/>
+				<Baseline points="962,203 1200,203"/>
+				<TextEquiv>
+					<Unicode>גורי, חייש</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_445_521_1174_521_1174_607_445_607" custom="structure {type:text;}">
+			<Coords points="445,521 1174,521 1174,607 445,607"/>
+			<TextLine id="eSc_line_445_521_1174_521_1174_607_445_607" custom="structure {type:default;}">
+				<Coords points="445,521 1174,521 1174,607 445,607"/>
+				<Baseline points="445,607 1174,607"/>
+				<TextEquiv>
+					<Unicode>רבר, כפ סיון הט&quot;ם, 13.6,80%), למ&quot; 2</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_797_265_1098_265_1098_398_797_398" custom="structure {type:text;}">
+			<Coords points="797,265 1098,265 1098,398 797,398"/>
+			<TextLine id="eSc_line_797_265_1098_265_1098_398_797_398" custom="structure {type:default;}">
+				<Coords points="797,265 1098,265 1098,398 797,398"/>
+				<Baseline points="797,398 1098,398"/>
+				<TextEquiv>
+					<Unicode>אעברה נא כארץ
+
+(חתופ תגור)</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

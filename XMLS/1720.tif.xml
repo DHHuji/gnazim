@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1720.tif">
+		<TextRegion id="eSc_region_975_81_1247_81_1247_144_975_144" custom="structure {type:text;}">
+			<Coords points="975,81 1247,81 1247,144 975,144"/>
+			<TextLine id="eSc_line_975_81_1247_81_1247_144_975_144" custom="structure {type:default;}">
+				<Coords points="975,81 1247,81 1247,144 975,144"/>
+				<Baseline points="975,144 1247,144"/>
+				<TextEquiv>
+					<Unicode>גורי, חייסם --1-- = גורי, חייסם
+--1-- =</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_565_597_1219_597_1219_663_565_663" custom="structure {type:text;}">
+			<Coords points="565,597 1219,597 1219,663 565,663"/>
+			<TextLine id="eSc_line_565_597_1219_597_1219_663_565_663" custom="structure {type:default;}">
+				<Coords points="565,597 1219,597 1219,663 565,663"/>
+				<Baseline points="565,663 1219,663"/>
+				<TextEquiv>
+					<Unicode>דבר, ו' סכת תסל&quot;ס,(5,1,79),ע2&quot;0</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

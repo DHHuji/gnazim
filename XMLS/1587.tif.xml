@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1587.tif">
+		<TextRegion id="eSc_region_1008_108_1239_108_1239_172_1008_172" custom="structure {type:text;}">
+			<Coords points="1008,108 1239,108 1239,172 1008,172"/>
+			<TextLine id="eSc_line_1008_108_1239_108_1239_172_1008_172" custom="structure {type:default;}">
+				<Coords points="1008,108 1239,108 1239,172 1008,172"/>
+				<Baseline points="1008,172 1239,172"/>
+				<TextEquiv>
+					<Unicode>גורי, חייס 07-ינו</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_211_287_1073_287_1073_348_211_348" custom="structure {type:text;}">
+			<Coords points="211,287 1073,287 1073,348 211,348"/>
+			<TextLine id="eSc_line_211_287_1073_287_1073_348_211_348" custom="structure {type:default;}">
+				<Coords points="211,287 1073,287 1073,348 211,348"/>
+				<Baseline points="211,348 1073,348"/>
+				<TextEquiv>
+					<Unicode>קוד זה מדבר...ן ילד סובב,- על פני כר הדשא</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_339_351_987_351_987_534_339_534" custom="structure {type:text;}">
+			<Coords points="339,351 987,351 987,534 339,534"/>
+			<TextLine id="eSc_line_339_351_987_351_987_534_339_534" custom="structure {type:default;}">
+				<Coords points="339,351 987,351 987,534 339,534"/>
+				<Baseline points="339,534 987,534"/>
+				<TextEquiv>
+					<Unicode>(מרור רסימות סוף שבוץ)
+
+| חתום הגור</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

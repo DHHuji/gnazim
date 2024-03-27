@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0116.tif">
+		<TextRegion id="eSc_region_985_98_1211_98_1211_162_985_162" custom="structure {type:text;}">
+			<Coords points="985,98 1211,98 1211,162 985,162"/>
+			<TextLine id="eSc_line_985_98_1211_98_1211_162_985_162" custom="structure {type:default;}">
+				<Coords points="985,98 1211,98 1211,162 985,162"/>
+				<Baseline points="985,162 1211,162"/>
+				<TextEquiv>
+					<Unicode>ן תייט גורי</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_451_481_1167_481_1167_547_451_547" custom="structure {type:text;}">
+			<Coords points="451,481 1167,481 1167,547 451,547"/>
+			<TextLine id="eSc_line_451_481_1167_481_1167_547_451_547" custom="structure {type:default;}">
+				<Coords points="451,481 1167,481 1167,547 451,547"/>
+				<Baseline points="451,547 1167,547"/>
+				<TextEquiv>
+					<Unicode>ודכר, יד תטר ‏ וש&quot;ם,(5.19.79),ע5&quot; 16</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_555_230_1067_230_1067_290_555_290" custom="structure {type:text;}">
+			<Coords points="555,230 1067,230 1067,290 555,290"/>
+			<TextLine id="eSc_line_555_230_1067_230_1067_290_555_290" custom="structure {type:default;}">
+				<Coords points="555,230 1067,230 1067,290 555,290"/>
+				<Baseline points="555,290 1067,290"/>
+				<TextEquiv>
+					<Unicode>&quot;אילו הייתי ראש הסתסלב?&quot;</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

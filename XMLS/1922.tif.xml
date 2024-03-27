@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>escriptorium</Creator>
+		<Created>2024-02-18T21:02:47.785694+00:00</Created>
+		<LastChange>2024-02-20T08:09:51.332236+00:00</LastChange>
+	</Metadata>
+	<Page imageFilename="1922.tif">
+		<TextRegion id="eSc_region_537_589_1050_589_1050_662_537_662" custom="structure {type:text;}">
+			<Coords points="537,589 1050,589 1050,662 537,662"/>
+			<TextLine id="eSc_line_537_589_1050_589_1050_662_537_662" custom="structure {type:default;}">
+				<Coords points="537,589 1050,589 1050,662 537,662"/>
+				<Baseline points="537,662 1050,662"/>
+				<TextEquiv>
+					<Unicode>לכרהב, ףח לכרהב,
+
+ףח</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="eSc_region_104_331_774_331_774_460_104_460" custom="structure {type:text;}">
+			<Coords points="104,331 774,331 774,460 104,460"/>
+			<TextLine id="eSc_line_104_331_774_331_774_460_104_460" custom="structure {type:default;}">
+				<Coords points="104,331 774,331 774,460 104,460"/>
+				<Baseline points="104,460 774,460"/>
+				<TextEquiv>
+					<Unicode>קלמור בוקכו|רעיכות כמוף דעבו:,ר וסם:וגור |</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>
