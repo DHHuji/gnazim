@@ -1,0 +1,75 @@
+# Virtual environments
+myenv/
+activate/
+cudavenv/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Project specific
+results/
+outputs/
+testname
+client_secrets.json
+*.mlmodel
+Data/
+HTR_pages/
+Image Exports/
+Images/
+OpenAI_Data/
+output_xmls/
+Padded Images/
+pytorch/
+pytorch_build/
+training_data/
+XML Exports/
+XMLS/
+כרטיסיות נוספות, קיץ 2025/
+*.xml
+*.txt
+*.csv
+*.arrow
+*.xlsx
+*.xls
+*.rar
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.bmp
+*.gif
+*.pdf
+*.doc
+*.docx
+*.rtf
