@@ -29,15 +29,5 @@ In the second phase, we began benchmarking OpenAI's vision models (GPT-4o) again
 - **Initial Findings**: While the zero-shot results were highly impressive and demonstrated a strong semantic understanding of the documents, the classical machine learning models (Kraken) fine-tuned on our specific dataset performed slightly better overall in terms of raw HTR accuracy and precise layout segmentation.
 - **Status**: This phase is in its early stages. The results suggest that while specialized models currently lead, LLMs are a viable path, especially if moved toward few-shot configurations or more complex prompting strategies.
 
-## Pseudo Code Logic of main.py
-1. **GCP Connection**: Initialize GCP Connection via `pydrive2`.
-2. **Queue Initialization**: Initialize folder queue and set processing thresholds.
-3. **Main Processing Loop**:
-   - Dequeue folder and retrieve processed/problematic file logs.
-   - **File Processing**:
-     - Extract metadata from path (`gcp_extract_years_author_type`).
-     - Download image and detect paragraphs (`ParagraphDetector.py`).
-     - Extract text using initial OCR and log results.
-   - **Post-Processing**: Update local CSVs and perform function profiling.
-4. **Finalization**: Generate GCP links and save the final metadata database.
-
+###
+See our HebHTR repository for more information on models and kraken commands.
