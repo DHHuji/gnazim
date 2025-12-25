@@ -41,5 +41,13 @@ In the second phase, we began benchmarking OpenAI's vision models (GPT-4o) again
 
 *Figure: Sample of an LLM-generated semantic overlay, demonstrating the model's ability to identify and categorize different regions of a document (e.g., author, title, body text).*
 
+## Current Status & Future Work
+The project has successfully reached its first major milestone:
+- **Model Performance**: We have trained initial Kraken models for both region segmentation and text analysis. These models perform well and provide a solid foundation for automated processing.
+- **Dataset Expansion**: While current results are promising, they are not yet at the definitive level required for full-scale archival extraction. Our immediate next step is to extend the ground truth dataset.
+- **Iterative Labeling**: We plan to leverage our existing "pretty good" models to pre-annotate new data, significantly accelerating the manual labeling process in eScriptorium.
+- **Model Retraining**: Once a substantially larger dataset is compiled, we will retrain our specialized models to achieve higher precision and recall.
+- **LLM Evolution**: In parallel, we will continue to monitor and benchmark the next generation of Vision LLMs. Given the rapid pace of development, we anticipate these models will soon catch up to specialized HTR engines, potentially offering a hybrid path for semantic extraction.
+
 ###
 See our HebHTR repository for more information on models and kraken commands.
