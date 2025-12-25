@@ -23,6 +23,12 @@ In this phase, we built a robust pipeline for ground truth creation and model tr
 - **eScriptorium Integration**: We utilized the eScriptorium platform for data labeling. The notebook `Additions_to_Daniels_basic_functions_4_eScriptorium_API.ipynb` was developed to interact with the eScriptorium API, automating the management of documents, regions, and transcriptions. This allowed for precise refinement of segmentation and transcription workflows.
 - **Kraken Training**: Using the labeled data, we trained specialized **Kraken** models for page layout analysis and Handwritten Text Recognition (HTR). These models were fine-tuned specifically for the unique scripts and layouts found in the Gnazim archive.
 
+<p align="center">
+  <img src="docs/images/gnazim_escriptorium.jpeg" width="600" alt="eScriptorium Interface Sample" />
+</p>
+
+*Figure: The eScriptorium interface used for ground truth creation, showing the segmentation of Hebrew text into lines and regions.*
+
 ### Phase 2: LLM Benchmarking (OpenAI)
 In the second phase, we began benchmarking OpenAI's vision models (GPT-4o) against our specialized Kraken models.
 - **Semantic Extraction**: We tested the ability of zero-shot LLMs to perform semantic layout analysis—identifying fields like `author`, `title`, `date`, and `page_number` directly from images.
