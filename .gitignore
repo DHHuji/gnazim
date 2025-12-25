@@ -65,6 +65,7 @@ XMLS/
 *.jpg
 *.jpeg
 *.png
+!docs/images/*.png
 *.tif
 *.tiff
 *.bmp

@@ -29,5 +29,11 @@ In the second phase, we began benchmarking OpenAI's vision models (GPT-4o) again
 - **Initial Findings**: While the zero-shot results were highly impressive and demonstrated a strong semantic understanding of the documents, the classical machine learning models (Kraken) fine-tuned on our specific dataset performed slightly better overall in terms of raw HTR accuracy and precise layout segmentation.
 - **Status**: This phase is in its early stages. The results suggest that while specialized models currently lead, LLMs are a viable path, especially if moved toward few-shot configurations or more complex prompting strategies.
 
+<p align="center">
+  <img src="docs/images/llm_overlay_sample.png" width="600" alt="LLM Semantic Overlay Sample" />
+</p>
+
+*Figure: Sample of an LLM-generated semantic overlay, demonstrating the model's ability to identify and categorize different regions of a document (e.g., author, title, body text).*
+
 ###
 See our HebHTR repository for more information on models and kraken commands.
